@@ -20,7 +20,6 @@ let allMonths = [];
 
 function initializeApp() {
     try {
-    //data = JSON.parse(rawData);
     data = rawData
     filteredData = [...data];
     
@@ -158,15 +157,7 @@ function renderTable() {
         td.appendChild(tooltip);
         
         // Colorear según desviación del promedio
-
         if (Math.abs(val - avg) > stdDev * 0.5) {
-            /*
-            if (val > avg) {
-            td.classList.add('valor-alto');
-            } else {
-            td.classList.add('valor-bajo');
-            }
-            */
             td.classList.add('valor-bajo');
         }
         else{
@@ -174,13 +165,12 @@ function renderTable() {
         }
         }
     }
-
     body.appendChild(tr);
     });
 
     table.appendChild(body);
 }
-
+/*
 function setupEventListeners() {
     const searchInput = document.getElementById('search-input');
     searchInput.addEventListener('input', (e) => {
@@ -191,6 +181,25 @@ function setupEventListeners() {
     renderTable();
     });
 }
+*/
+function setupEventListeners() {
+    const searchInput = document.getElementById('search-input');
+
+    // Función para normalizar texto (eliminar acentos y convertir a minúsculas)
+    const normalizeText = str => 
+        str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+    searchInput.addEventListener('input', (e) => {
+        const searchTerm = normalizeText(e.target.value);
+
+        filteredData = data.filter(row => 
+            normalizeText(row.organismo_nombre).includes(searchTerm)
+        );
+
+        renderTable();
+    });
+}
+
 
 // Inicializar la aplicación cuando se carga la página
 document.addEventListener('DOMContentLoaded', () => {
