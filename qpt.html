@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visor de JSON</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 1rem;
+    }
+    h1 {
+      text-align: center;
+      color: #003366;
+    }
+    .table-container {
+      overflow-x: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      padding: 0.5rem;
+      border: 1px solid #ccc;
+      text-align: center;
+      white-space: nowrap;
+    }
+    th {
+      background-color: #003366;
+      color: white;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+    td.org-name {
+      max-width: 250px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      text-align: left;
+    }
+    td.org-name:hover::after {
+      content: attr(data-full);
+      position: absolute;
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      z-index: 5;
+    }
+    .sin-registro {
+      background-color: #ffcccc;
+      color: #990000;
+      font-weight: bold;
+    }
+    td[data-tooltip]:hover::after {
+      content: attr(data-tooltip);
+      position: absolute;
+      background: #003366;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 5px;
+      white-space: nowrap;
+      z-index: 10;
+    }
+    @media (max-width: 768px) {
+      table {
+        font-size: 0.8rem;
+      }
+      td.org-name {
+        max-width: 120px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Visor de Datos por Organismo</h1>
+  <div class="table-container">
+    <table id="data-table"></table>
+  </div>
+  <script>
+    const rawData = '[{"organismo_nombre":"Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contrataci\u00f3n P\u00fablica","Enero_2024":49,"Febrero_2024":49,"Marzo_2024":49,"Abril_2024":49,"Mayo_2024":49,"Junio_2024":49,"Julio_2024":49,"Agosto_2024":49,"Septiembre_2024":48,"Octubre_2024":49,"Noviembre_2024":49,"Diciembre_2024":49,"Enero_2025":49,"Febrero_2025":49,"Marzo_2025":50,"Abril_2025":50,"Mayo_2025":50},{"organismo_nombre":"Agencia Chilena de Cooperaci\u00f3n Internacional para el Desarrollo (AGCID)","Enero_2024":110,"Febrero_2024":120,"Marzo_2024":120,"Abril_2024":119,"Mayo_2024":120,"Junio_2024":121,"Julio_2024":114,"Agosto_2024":113,"Septiembre_2024":142,"Octubre_2024":107,"Noviembre_2024":112,"Diciembre_2024":115,"Enero_2025":130,"Febrero_2025":110,"Marzo_2025":133,"Abril_2025":135,"Mayo_2025":140}]';
+
+    const data = JSON.parse(rawData);
+    const allKeys = new Set();
+
+    data.forEach(row => {
+      Object.keys(row).forEach(key => {
+        if (key !== 'organismo_nombre') allKeys.add(key);
+      });
+    });
+
+    const months = Array.from(allKeys).sort();
+    const table = document.getElementById('data-table');
+
+    const header = document.createElement('thead');
+    const headerRow = document.createElement('tr');
+
+    const thOrg = document.createElement('th');
+    thOrg.textContent = 'Organismo';
+    headerRow.appendChild(thOrg);
+
+    months.forEach(month => {
+      const th = document.createElement('th');
+      th.textContent = month;
+      headerRow.appendChild(th);
+    });
+
+    const thAvg = document.createElement('th');
+    thAvg.textContent = 'Promedio';
+    headerRow.appendChild(thAvg);
+
+    header.appendChild(headerRow);
+    table.appendChild(header);
+
+    const body = document.createElement('tbody');
+
+    data.forEach(row => {
+      const tr = document.createElement('tr');
+
+      const tdName = document.createElement('td');
+      tdName.classList.add('org-name');
+      tdName.setAttribute('data-full', row.organismo_nombre);
+      tdName.textContent = row.organismo_nombre;
+      tr.appendChild(tdName);
+
+      let sum = 0;
+      let count = 0;
+
+      months.forEach(month => {
+        const val = row[month];
+        const td = document.createElement('td');
+        if (val === 0) {
+          td.classList.add('sin-registro');
+          td.textContent = 'Sin registros ese mes';
+        } else {
+          td.textContent = val;
+          sum += val;
+          count++;
+        }
+        tr.appendChild(td);
+      });
+
+      const avg = count > 0 ? (sum / count).toFixed(1) : '-';
+      const tdAvg = document.createElement('td');
+      tdAvg.textContent = avg;
+      tr.appendChild(tdAvg);
+
+      // segunda pasada para agregar tooltips
+      let i = 1;
+      for (const td of tr.children) {
+        if (i > months.length) break;
+        const val = row[months[i - 1]];
+        if (val !== 0) {
+          const percent = (((val - avg) / avg) * 100).toFixed(1);
+          td.setAttribute('data-tooltip', `${percent > 0 ? '+' : ''}${percent}% del promedio`);
+        }
+        i++;
+      }
+
+      body.appendChild(tr);
+    });
+
+    table.appendChild(body);
+  </script>
+</body>
+</html>
