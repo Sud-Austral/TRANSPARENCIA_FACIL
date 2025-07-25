@@ -226,7 +226,7 @@
       text-align: left;
       font-weight: 600;
       color: var(--gray-800);
-      max-width: 300px;
+      max-width: 100px;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -349,8 +349,8 @@
       }
       
       th, td {
-        padding: 0.5rem;
-        font-size: 0.8rem;
+        padding: 0.1rem;
+        font-size: 0.5rem;
       }
       
       td:first-child {
@@ -417,34 +417,25 @@
 
     async function cargarJSON() {
       try {
-        const response = await fetch('datos.json');
-        if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
-        
+        const response = await fetch('https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo.json');
+        if (!response.ok) throw new Error(`HTTP error: ${response.status}`);        
         rawData = await response.json();
         console.log("Datos cargados:", rawData);
-
-        // ejemplo: mostrar los datos en la página
-        const lista = document.getElementById('lista');
-        rawData.forEach(item => {
-          const li = document.createElement('li');
-          li.textContent = `Nombre: ${item.nombre}, Edad: ${item.edad}`;
-          lista.appendChild(li);
-        });
       } catch (error) {
         console.error('Error al leer el JSON:', error);
       }
     }
 
     cargarJSON();  // llamada inicial
-    //const rawData = '[{"organismo_nombre":"Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contrataci\u00f3n P\u00fablica","Enero_2024":49,"Febrero_2024":49,"Marzo_2024":49,"Abril_2024":49,"Mayo_2024":49,"Junio_2024":49,"Julio_2024":49,"Agosto_2024":49,"Septiembre_2024":48,"Octubre_2024":49,"Noviembre_2024":49,"Diciembre_2024":49,"Enero_2025":49,"Febrero_2025":49,"Marzo_2025":50,"Abril_2025":50,"Mayo_2025":50},{"organismo_nombre":"Agencia Chilena de Cooperaci\u00f3n Internacional para el Desarrollo (AGCID)","Enero_2024":110,"Febrero_2024":120,"Marzo_2024":120,"Abril_2024":119,"Mayo_2024":120,"Junio_2024":121,"Julio_2024":114,"Agosto_2024":113,"Septiembre_2024":142,"Octubre_2024":107,"Noviembre_2024":112,"Diciembre_2024":115,"Enero_2025":130,"Febrero_2025":110,"Marzo_2025":133,"Abril_2025":135,"Mayo_2025":140}]';
-
+    
     let data = [];
     let filteredData = [];
     let allMonths = [];
 
     function initializeApp() {
       try {
-        data = JSON.parse(rawData);
+        //data = JSON.parse(rawData);
+        data = rawData
         filteredData = [...data];
         
         // Obtener todos los meses únicos
@@ -454,7 +445,7 @@
             if (key !== 'organismo_nombre') allKeys.add(key);
           });
         });
-        allMonths = Array.from(allKeys).sort();
+        allMonths = Array.from(allKeys) //.sort();
         
         updateStats();
         renderTable();
@@ -579,12 +570,19 @@
             td.appendChild(tooltip);
             
             // Colorear según desviación del promedio
+
             if (Math.abs(val - avg) > stdDev * 0.5) {
+              /*
               if (val > avg) {
                 td.classList.add('valor-alto');
               } else {
                 td.classList.add('valor-bajo');
               }
+                */
+              td.classList.add('valor-bajo');
+            }
+            else{
+              td.classList.add('valor-alto');
             }
           }
         }
