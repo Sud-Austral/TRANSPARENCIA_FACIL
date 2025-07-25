@@ -1,8 +1,9 @@
 let rawData = [];
+const url = 'https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo.json'
 
 async function cargarJSON() {
     try {
-    const response = await fetch('https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo.json');
+    const response = await fetch(url);
     if (!response.ok) throw new Error(`HTTP error: ${response.status}`);        
     rawData = await response.json();
     console.log("Datos cargados:", rawData);
@@ -30,7 +31,7 @@ function initializeApp() {
         if (key !== 'organismo_nombre') allKeys.add(key);
         });
     });
-    allMonths = Array.from(allKeys) //.sort();
+    allMonths = Array.from(allKeys); //.sort();
     
     updateStats();
     renderTable();
@@ -49,7 +50,7 @@ function initializeApp() {
 function updateStats() {
     document.getElementById('total-organismos').textContent = data.length;
     document.getElementById('periodo-analisis').textContent = allMonths.length;
-    document.getElementById('ultimo-mes').textContent = allMonths[allMonths.length - 1] || '-';
+    document.getElementById('ultimo-mes').textContent = allMonths[allMonths.length - 1].replace("_"," ") || '-';
     
     // Calcular promedio general
     let totalSum = 0;
@@ -151,7 +152,9 @@ function renderTable() {
         const percent = ((val - avg) / avg * 100);
         const tooltip = document.createElement('div');
         tooltip.className = 'tooltip';
+        //tooltip.textContent = `${percent > 0 ? '+' : ''}${percent.toFixed(1)}% del promedio`;
         tooltip.textContent = `${percent > 0 ? '+' : ''}${percent.toFixed(1)}% del promedio`;
+
         td.appendChild(tooltip);
         
         // Colorear según desviación del promedio
