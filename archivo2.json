@@ -1,6 +1,7 @@
 [
  {
   "organismo_nombre":"Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública",
+  "padre_org":"Hacienda",
   "Enero_2024":49,
   "Febrero_2024":49,
   "Marzo_2024":49,
@@ -21,6 +22,7 @@
  },
  {
   "organismo_nombre":"Agencia Chilena de Cooperación Internacional para el Desarrollo (AGCID)",
+  "padre_org":"Relaciones Exteriores",
   "Enero_2024":110,
   "Febrero_2024":120,
   "Marzo_2024":120,
@@ -41,6 +43,7 @@
  },
  {
   "organismo_nombre":"Agencia Chilena de Eficiencia Energética",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":203,
   "Febrero_2024":24,
   "Marzo_2024":212,
@@ -61,6 +64,7 @@
  },
  {
   "organismo_nombre":"Agencia Nacional de Investigación y Desarrollo ANID",
+  "padre_org":"Ciencia Tecnología e Innovación",
   "Enero_2024":465,
   "Febrero_2024":466,
   "Marzo_2024":467,
@@ -81,6 +85,7 @@
  },
  {
   "organismo_nombre":"Agencia Regional de Desarrollo Productivo de la Araucanía",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -101,6 +106,7 @@
  },
  {
   "organismo_nombre":"Agencia de Calidad de la Educación",
+  "padre_org":"Educación",
   "Enero_2024":819,
   "Febrero_2024":420,
   "Marzo_2024":416,
@@ -121,6 +127,7 @@
  },
  {
   "organismo_nombre":"Agencia de Promoción de la Inversión Extranjera",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":51,
   "Febrero_2024":54,
   "Marzo_2024":55,
@@ -141,6 +148,7 @@
  },
  {
   "organismo_nombre":"Armada de Chile",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":3036,
   "Febrero_2024":3025,
   "Marzo_2024":2836,
@@ -161,6 +169,7 @@
  },
  {
   "organismo_nombre":"Asociación Chilena de Municipalidades",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":89,
   "Febrero_2024":83,
   "Marzo_2024":85,
@@ -181,6 +190,7 @@
  },
  {
   "organismo_nombre":"Asociación Cultural Municipal de Cerrillos",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":48,
   "Febrero_2024":27,
   "Marzo_2024":35,
@@ -201,6 +211,7 @@
  },
  {
   "organismo_nombre":"Asociación Metropolitana de Municipalidades de Santiago Sur para la Gestión Ambiental y de Residuos (Msur)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":286,
   "Febrero_2024":322,
   "Marzo_2024":318,
@@ -221,6 +232,7 @@
  },
  {
   "organismo_nombre":"Asociación Municipalidades Provincia de Llanquihue Para Manejo Sustentable de Residuos y Gestión Ambiental",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":23,
   "Febrero_2024":49,
   "Marzo_2024":28,
@@ -241,6 +253,7 @@
  },
  {
   "organismo_nombre":"Asociación Nacional de Municipalidades de Ciudades Puerto Concesionados",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -261,6 +274,7 @@
  },
  {
   "organismo_nombre":"Asociación Regional de Municipalidades de Magallanes y Antártica Chilena (AMUMAG)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":1,
   "Febrero_2024":3,
   "Marzo_2024":2,
@@ -281,6 +295,7 @@
  },
  {
   "organismo_nombre":"Asociación Regional de Municipios de Atacama",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -301,6 +316,7 @@
  },
  {
   "organismo_nombre":"Asociación de Gobernadores y Gobernadoras Regionales de Chile  AGORECHI",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":4,
@@ -321,6 +337,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Bio Bio Centro",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":8,
   "Febrero_2024":9,
   "Marzo_2024":7,
@@ -341,6 +358,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Comunas Costeras de PuchuncavíQuintero",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":4,
@@ -361,6 +379,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Cordilleranas de la Araucanía",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":4,
@@ -381,6 +400,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Libres (AML)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":3,
   "Febrero_2024":5,
   "Marzo_2024":3,
@@ -401,6 +421,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Malleco Norte AMMN",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -421,6 +442,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Nahuelbuta (AMN)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":11,
   "Febrero_2024":11,
   "Marzo_2024":6,
@@ -441,6 +463,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Parque Cordillera",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":33,
   "Febrero_2024":39,
   "Marzo_2024":44,
@@ -461,6 +484,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Red Nacional de Comunas Mágicas de Chile",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -481,6 +505,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Rurales (AMUR)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":6,
   "Febrero_2024":7,
   "Marzo_2024":6,
@@ -501,6 +526,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Rurales del Norte Chico",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":5,
@@ -521,6 +547,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades Turísticas de Chile (AMTC)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":5,
   "Febrero_2024":7,
   "Marzo_2024":6,
@@ -541,6 +568,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de Arauco y Curanilahue",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":19,
@@ -561,6 +589,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de Chile AMUCH",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":17,
   "Febrero_2024":19,
   "Marzo_2024":18,
@@ -581,6 +610,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de Ciudades Puerto y Borde Costero",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":6,
@@ -601,6 +631,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de La Región de Los Ríos",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":11,
   "Febrero_2024":11,
   "Marzo_2024":12,
@@ -621,6 +652,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Provincia de Arauco",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":1,
   "Febrero_2024":3,
   "Marzo_2024":1,
@@ -641,6 +673,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Provincia de Osorno",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":7,
   "Febrero_2024":13,
   "Marzo_2024":2,
@@ -661,6 +694,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Provincia de San Antonio (AMPSA)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":5,
@@ -681,6 +715,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Región de  Coquimbo",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":6,
@@ -701,6 +736,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Región de Antofagasta",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":20,
   "Febrero_2024":18,
   "Marzo_2024":18,
@@ -721,6 +757,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Región de Los Ríos para el Manejo sustentable de Residuos y la Gestión Ambiental",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":9,
@@ -741,6 +778,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Región de OHiggins",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":14,
   "Febrero_2024":12,
   "Marzo_2024":12,
@@ -761,6 +799,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Región de Valparaíso",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":3,
@@ -781,6 +820,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Región del Biobío",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":12,
   "Febrero_2024":11,
   "Marzo_2024":12,
@@ -801,6 +841,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Zona Central y Costa (AMUCC)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -821,6 +862,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Zona Metropolitana de la Araucanía (AMZOMA)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -841,6 +883,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la cuenca del Lago Llanquihue",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":3,
@@ -861,6 +904,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la región de la araucanía o amra araucanía",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":2,
@@ -881,6 +925,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades del Norte de Chile",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":8,
   "Febrero_2024":7,
   "Marzo_2024":8,
@@ -901,6 +946,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades del Punilla",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -921,6 +967,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades del Valle del Itata",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":5,
   "Febrero_2024":4,
   "Marzo_2024":6,
@@ -941,6 +988,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades del Valle del Maipo",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":1,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -961,6 +1009,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades para el Desarrollo Económico Local",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":4,
@@ -981,6 +1030,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades para la Preservación de la Biodiversidad en el Territorio de Nonguén y otros Ecosistemas",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":4,
@@ -1001,6 +1051,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades para la Seguridad Ciudadana en la Zona Oriente",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":368,
   "Febrero_2024":365,
   "Marzo_2024":377,
@@ -1021,6 +1072,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios Ciudad Sur",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":1,
   "Febrero_2024":4,
   "Marzo_2024":5,
@@ -1041,6 +1093,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios Cordillera de la Costa CorralLa Unión",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":19,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -1061,6 +1114,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios Costa Araucanía",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -1081,6 +1135,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios Metropolitanos para la Seguridad Ciudadana (AMMSeguridad)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":373,
   "Febrero_2024":328,
   "Marzo_2024":327,
@@ -1101,6 +1156,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios Rurales Regiones de Tarapacá y AricaParinacota",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":220,
   "Febrero_2024":220,
   "Marzo_2024":220,
@@ -1121,6 +1177,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios para el Desarrollo Turístico de las Comunas de Cabrero Los Ángeles y Yumbel",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -1141,6 +1198,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios para la Conservación de la Biodiversidad de la Región de Los Ríos",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":4,
@@ -1161,6 +1219,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipios para la seguridad comunitaria (AMSC)",
+  "padre_org":"Asociación Municipal",
   "Enero_2024":82,
   "Febrero_2024":81,
   "Marzo_2024":84,
@@ -1181,6 +1240,7 @@
  },
  {
   "organismo_nombre":"CFT Estatal de la Región del Biobío",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":145,
   "Febrero_2024":81,
   "Marzo_2024":321,
@@ -1201,6 +1261,7 @@
  },
  {
   "organismo_nombre":"CFT Estatal de la Región del Maule",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":33,
   "Febrero_2024":29,
   "Marzo_2024":49,
@@ -1221,6 +1282,7 @@
  },
  {
   "organismo_nombre":"CFT Magallanes",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":48,
   "Febrero_2024":45,
   "Marzo_2024":54,
@@ -1241,6 +1303,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región Metropolitana (CFTRM)",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":28,
   "Febrero_2024":28,
   "Marzo_2024":54,
@@ -1261,6 +1324,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Antofagasta",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":21,
   "Febrero_2024":18,
   "Marzo_2024":0,
@@ -1281,6 +1345,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Arica y Parinacota",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":57,
   "Febrero_2024":60,
   "Marzo_2024":68,
@@ -1301,6 +1366,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Atacama",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":34,
   "Febrero_2024":31,
   "Marzo_2024":33,
@@ -1321,6 +1387,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Los Ríos",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":205,
   "Febrero_2024":46,
   "Marzo_2024":93,
@@ -1341,6 +1408,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de OHiggins",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -1361,6 +1429,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Valparaíso",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":165,
   "Febrero_2024":140,
   "Marzo_2024":192,
@@ -1381,6 +1450,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de la Araucanía",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":71,
   "Febrero_2024":60,
   "Marzo_2024":83,
@@ -1401,6 +1471,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de los Lagos",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":42,
   "Febrero_2024":43,
   "Marzo_2024":49,
@@ -1421,6 +1492,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región del Tarapacá",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":352,
   "Febrero_2024":170,
   "Marzo_2024":113,
@@ -1441,6 +1513,7 @@
  },
  {
   "organismo_nombre":"CLUB DE LA REINA SOCIAL DEPORTIVO Y RECREACIONAL",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":48,
   "Febrero_2024":47,
   "Marzo_2024":56,
@@ -1461,6 +1534,7 @@
  },
  {
   "organismo_nombre":"CORPORACIÓN REGIONAL DE TURISMO DE LA REGIÓN METROPOLITANA",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":50,
   "Febrero_2024":52,
   "Marzo_2024":53,
@@ -1481,6 +1555,7 @@
  },
  {
   "organismo_nombre":"Caja de Previsión de la Defensa Nacional (CAPREDENA)",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":1207,
   "Febrero_2024":1218,
   "Marzo_2024":1229,
@@ -1501,6 +1576,7 @@
  },
  {
   "organismo_nombre":"Carabineros de Chile",
+  "padre_org":"Interior",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":1594,
@@ -1521,6 +1597,7 @@
  },
  {
   "organismo_nombre":"Central de Abastecimiento del Sistema Nacional de Servicios de Salud (CENABAST)",
+  "padre_org":"Salud",
   "Enero_2024":278,
   "Febrero_2024":302,
   "Marzo_2024":256,
@@ -1541,6 +1618,7 @@
  },
  {
   "organismo_nombre":"Centro de Formación Técnica Estatal Región de Coquimbo",
+  "padre_org":"Centro de Formación Técnica",
   "Enero_2024":173,
   "Febrero_2024":61,
   "Marzo_2024":59,
@@ -1561,6 +1639,7 @@
  },
  {
   "organismo_nombre":"Centro de Información de Recursos Naturales (CIREN)",
+  "padre_org":"Agricultura",
   "Enero_2024":149,
   "Febrero_2024":148,
   "Marzo_2024":156,
@@ -1581,6 +1660,7 @@
  },
  {
   "organismo_nombre":"Centro de Referencia de Salud de Maipú (CRSM)",
+  "padre_org":"Salud",
   "Enero_2024":364,
   "Febrero_2024":352,
   "Marzo_2024":360,
@@ -1601,6 +1681,7 @@
  },
  {
   "organismo_nombre":"Centro de Referencia de Salud de Peñalolén Cordillera Oriente (CRSORIENTE)",
+  "padre_org":"Salud",
   "Enero_2024":358,
   "Febrero_2024":384,
   "Marzo_2024":399,
@@ -1621,6 +1702,7 @@
  },
  {
   "organismo_nombre":"Comercializadora de Trigo COTRISA",
+  "padre_org":"Empresas y Sociedades",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -1641,6 +1723,7 @@
  },
  {
   "organismo_nombre":"Comisión Administradora del Sistema de Créditos para Estudios Superiores (INGRESA)",
+  "padre_org":"Educación",
   "Enero_2024":81,
   "Febrero_2024":82,
   "Marzo_2024":82,
@@ -1661,6 +1744,7 @@
  },
  {
   "organismo_nombre":"Comisión Chilena de Energía Nuclear (CCHEN)",
+  "padre_org":"Energía",
   "Enero_2024":279,
   "Febrero_2024":277,
   "Marzo_2024":279,
@@ -1681,6 +1765,7 @@
  },
  {
   "organismo_nombre":"Comisión Chilena del Cobre (COCHILCO)",
+  "padre_org":"Minería",
   "Enero_2024":91,
   "Febrero_2024":93,
   "Marzo_2024":94,
@@ -1701,6 +1786,7 @@
  },
  {
   "organismo_nombre":"Comisión Nacional de Acreditación (CNA)",
+  "padre_org":"Educación",
   "Enero_2024":452,
   "Febrero_2024":94,
   "Marzo_2024":99,
@@ -1721,6 +1807,7 @@
  },
  {
   "organismo_nombre":"Comisión Nacional de Energía (CNE)",
+  "padre_org":"Energía",
   "Enero_2024":97,
   "Febrero_2024":98,
   "Marzo_2024":95,
@@ -1741,6 +1828,7 @@
  },
  {
   "organismo_nombre":"Comisión Nacional de Riego (CNR)",
+  "padre_org":"Agricultura",
   "Enero_2024":217,
   "Febrero_2024":225,
   "Marzo_2024":266,
@@ -1761,6 +1849,7 @@
  },
  {
   "organismo_nombre":"Comisión del Sistema Nacional de Certificación de Competencias Laborales",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":68,
   "Febrero_2024":68,
   "Marzo_2024":68,
@@ -1781,6 +1870,7 @@
  },
  {
   "organismo_nombre":"Comisión para el Mercado Financiero  CMF ex SVS",
+  "padre_org":"Hacienda",
   "Enero_2024":726,
   "Febrero_2024":677,
   "Marzo_2024":691,
@@ -1801,6 +1891,7 @@
  },
  {
   "organismo_nombre":"Consejo Fiscal Autónomo",
+  "padre_org":"Consejo Fiscal Autónomo",
   "Enero_2024":13,
   "Febrero_2024":13,
   "Marzo_2024":13,
@@ -1821,6 +1912,7 @@
  },
  {
   "organismo_nombre":"Consejo Nacional de Educación (CNED)",
+  "padre_org":"Educación",
   "Enero_2024":40,
   "Febrero_2024":41,
   "Marzo_2024":43,
@@ -1841,6 +1933,7 @@
  },
  {
   "organismo_nombre":"Consejo Nacional de Televisión (CNTV)",
+  "padre_org":"Secretaría General de Gobierno",
   "Enero_2024":113,
   "Febrero_2024":114,
   "Marzo_2024":115,
@@ -1861,6 +1954,7 @@
  },
  {
   "organismo_nombre":"Consejo de Defensa del Estado (CDE)",
+  "padre_org":"Consejo Defensa del Estado",
   "Enero_2024":617,
   "Febrero_2024":610,
   "Marzo_2024":623,
@@ -1881,6 +1975,7 @@
  },
  {
   "organismo_nombre":"Consejo de Rectores",
+  "padre_org":"Educación",
   "Enero_2024":9,
   "Febrero_2024":9,
   "Marzo_2024":9,
@@ -1901,6 +1996,7 @@
  },
  {
   "organismo_nombre":"Consejo para la Transparencia (CPLT)",
+  "padre_org":"Consejo para la Transparencia",
   "Enero_2024":136,
   "Febrero_2024":135,
   "Marzo_2024":135,
@@ -1921,6 +2017,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Aldea del Encuentro La Reina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":31,
   "Febrero_2024":19,
   "Marzo_2024":28,
@@ -1941,6 +2038,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Isla de Maipo",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":23,
   "Febrero_2024":2,
   "Marzo_2024":15,
@@ -1961,6 +2059,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de La Comuna de Chillán",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":81,
   "Febrero_2024":80,
   "Marzo_2024":70,
@@ -1981,6 +2080,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de La Comuna de Villarrica",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -2001,6 +2101,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de Los Ángeles",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":32,
   "Febrero_2024":35,
   "Marzo_2024":48,
@@ -2021,6 +2122,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de Ovalle",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":25,
   "Febrero_2024":104,
   "Marzo_2024":58,
@@ -2041,6 +2143,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de Padre Las Casas",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":119,
   "Febrero_2024":348,
   "Marzo_2024":340,
@@ -2061,6 +2164,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de Puente Alto",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1435,
   "Febrero_2024":1419,
   "Marzo_2024":1497,
@@ -2081,6 +2185,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de San Javier de Loncomilla",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":28,
   "Febrero_2024":20,
   "Marzo_2024":35,
@@ -2101,6 +2206,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de Vicuña",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":12,
   "Febrero_2024":13,
   "Marzo_2024":13,
@@ -2121,6 +2227,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Municipalidad de Coyhaique",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":566,
   "Febrero_2024":560,
   "Marzo_2024":452,
@@ -2141,6 +2248,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural Social y Deportiva Municipal de Quilicura",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":56,
   "Febrero_2024":19,
   "Marzo_2024":21,
@@ -2161,6 +2269,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Antofagasta",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":124,
   "Febrero_2024":123,
   "Marzo_2024":127,
@@ -2181,6 +2290,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Estación Central",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":43,
   "Febrero_2024":48,
   "Marzo_2024":36,
@@ -2201,6 +2311,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de La Ilustre Municipalidad de Romeral",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":3,
   "Febrero_2024":24,
   "Marzo_2024":5,
@@ -2221,6 +2332,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de La Ilustre Municipalidad de Valdivia",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":569,
   "Febrero_2024":675,
   "Marzo_2024":1029,
@@ -2241,6 +2353,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de La Reina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":37,
   "Febrero_2024":35,
   "Marzo_2024":36,
@@ -2261,6 +2374,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Lampa",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":46,
   "Febrero_2024":56,
   "Marzo_2024":42,
@@ -2281,6 +2395,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Las Condes",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":15,
   "Febrero_2024":2,
   "Marzo_2024":10,
@@ -2301,6 +2416,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Lo Barnechea",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":165,
   "Febrero_2024":138,
   "Marzo_2024":130,
@@ -2321,6 +2437,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Mostazal",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":648,
   "Febrero_2024":654,
   "Marzo_2024":445,
@@ -2341,6 +2458,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Nacimiento",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":10,
   "Febrero_2024":12,
   "Marzo_2024":28,
@@ -2361,6 +2479,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Osorno",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":519,
   "Febrero_2024":32,
   "Marzo_2024":268,
@@ -2381,6 +2500,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Peñalolén",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":36,
   "Febrero_2024":41,
   "Marzo_2024":40,
@@ -2401,6 +2521,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Recoleta",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":97,
   "Febrero_2024":80,
   "Marzo_2024":86,
@@ -2421,6 +2542,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de San Pedro de La Paz",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":21,
   "Febrero_2024":19,
   "Marzo_2024":20,
@@ -2441,6 +2563,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Teno",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":14,
   "Febrero_2024":15,
   "Marzo_2024":17,
@@ -2461,6 +2584,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Vitacura",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":138,
   "Febrero_2024":134,
   "Marzo_2024":205,
@@ -2481,6 +2605,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de la Comuna de La Granja",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":44,
   "Febrero_2024":44,
   "Marzo_2024":46,
@@ -2501,6 +2626,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de la Municipalidad de Curicó",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -2521,6 +2647,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Ñuñoa",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":114,
   "Febrero_2024":83,
   "Marzo_2024":175,
@@ -2541,6 +2668,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural y de Extensión de La Ilustre Municipalidad de Constitución",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":52,
@@ -2561,6 +2689,7 @@
  },
  {
   "organismo_nombre":"Corporación Deportiva Municipal de San Pedro de La Paz",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -2581,6 +2710,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal Cultural Museo de Bellas Artes Valparaíso",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":17,
   "Febrero_2024":17,
   "Marzo_2024":17,
@@ -2601,6 +2731,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal Cultural y Patrimonial de San Bernardo",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":4,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -2621,6 +2752,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal Deportiva Cultural y de Fomento Productivo Alto Hospicio",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":5,
@@ -2641,6 +2773,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal Isla de Maipo",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2137,
   "Febrero_2024":1801,
   "Marzo_2024":1172,
@@ -2661,6 +2794,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal Pueblito de Las Vizcachas",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":107,
   "Marzo_2024":99,
@@ -2681,6 +2815,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Administración Sitio Patrimonio Mundial Área Histórica de la Cuidad Puerto de Valparaíso",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":9,
   "Febrero_2024":9,
   "Marzo_2024":12,
@@ -2701,6 +2836,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Ancud",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -2721,6 +2857,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Calera De Tango",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -2741,6 +2878,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Castro",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1557,
   "Febrero_2024":1558,
   "Marzo_2024":1680,
@@ -2761,6 +2899,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Colina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":3199,
   "Febrero_2024":3046,
   "Marzo_2024":2764,
@@ -2781,6 +2920,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura La Pintana",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":43,
   "Febrero_2024":38,
   "Marzo_2024":38,
@@ -2801,6 +2941,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura San Clemente",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":38,
   "Febrero_2024":22,
   "Marzo_2024":31,
@@ -2821,6 +2962,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura Turismo y Patrimonio de La Comuna de Natales",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":36,
   "Febrero_2024":36,
   "Marzo_2024":35,
@@ -2841,6 +2983,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura de Paine",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":359,
   "Febrero_2024":335,
   "Marzo_2024":357,
@@ -2861,6 +3004,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura de San Joaquín",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":28,
   "Febrero_2024":44,
   "Marzo_2024":21,
@@ -2881,6 +3025,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura de Talca",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":28,
   "Febrero_2024":32,
   "Marzo_2024":34,
@@ -2901,6 +3046,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura de TilTil",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":28,
   "Febrero_2024":2,
   "Marzo_2024":15,
@@ -2921,6 +3067,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura y Artes de Molina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":17,
   "Febrero_2024":42,
   "Marzo_2024":77,
@@ -2941,6 +3088,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Cultura y Turismo de La Comuna de Quintero",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":26,
   "Febrero_2024":28,
   "Marzo_2024":26,
@@ -2961,6 +3109,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Curaco De Velez",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":231,
   "Febrero_2024":237,
   "Marzo_2024":305,
@@ -2981,6 +3130,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte Quinta Normal",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":76,
   "Febrero_2024":88,
   "Marzo_2024":86,
@@ -3001,6 +3151,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Padre Hurtado",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":34,
   "Febrero_2024":41,
   "Marzo_2024":22,
@@ -3021,6 +3172,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Romeral",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":10,
   "Febrero_2024":14,
   "Marzo_2024":16,
@@ -3041,6 +3193,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte y Recreación de Recoleta",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":203,
   "Febrero_2024":149,
   "Marzo_2024":165,
@@ -3061,6 +3214,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes La Pintana",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":10121,
   "Febrero_2024":9590,
   "Marzo_2024":10115,
@@ -3081,6 +3235,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Caldera",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -3101,6 +3256,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Colina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":151,
   "Febrero_2024":146,
   "Marzo_2024":153,
@@ -3121,6 +3277,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Iquique (CORMUDEPI)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":85,
   "Febrero_2024":47,
   "Marzo_2024":99,
@@ -3141,6 +3298,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Lo Prado",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":6468,
   "Febrero_2024":4543,
   "Marzo_2024":4763,
@@ -3161,6 +3319,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Natales",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":4,
   "Febrero_2024":5,
   "Marzo_2024":4,
@@ -3181,6 +3340,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Padre Las Casas",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":34,
   "Febrero_2024":42,
   "Marzo_2024":18,
@@ -3201,6 +3361,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Puente Alto",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":266,
   "Febrero_2024":262,
   "Marzo_2024":266,
@@ -3221,6 +3382,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Rancagua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":162,
   "Febrero_2024":175,
   "Marzo_2024":154,
@@ -3241,6 +3403,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de San Joaquín",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":114,
   "Febrero_2024":95,
   "Marzo_2024":108,
@@ -3261,6 +3424,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Talca",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":44,
   "Febrero_2024":105,
   "Marzo_2024":62,
@@ -3281,6 +3445,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Ñuñoa",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":453,
   "Febrero_2024":600,
   "Marzo_2024":445,
@@ -3301,6 +3466,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Desarrollo Social de Quintero",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":83,
   "Febrero_2024":85,
   "Marzo_2024":86,
@@ -3321,6 +3487,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Antofagasta",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":87,
   "Febrero_2024":95,
   "Marzo_2024":73,
@@ -3341,6 +3508,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Coyhaique",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":21,
   "Febrero_2024":18,
   "Marzo_2024":18,
@@ -3361,6 +3529,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de La Ilustre Municipalidad de Isla de Pascua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":15,
   "Febrero_2024":14,
   "Marzo_2024":14,
@@ -3381,6 +3550,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Molina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":6,
@@ -3401,6 +3571,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Panguipulli",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":13,
   "Febrero_2024":13,
   "Marzo_2024":13,
@@ -3421,6 +3592,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Talcahuano",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":52,
   "Febrero_2024":79,
   "Marzo_2024":111,
@@ -3441,6 +3613,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Tocopilla",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2,
   "Febrero_2024":4,
   "Marzo_2024":3,
@@ -3461,6 +3634,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Económico Cultura y Deporte de Renca",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":13,
   "Febrero_2024":14,
   "Marzo_2024":14,
@@ -3481,6 +3655,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Económico de Peñalolén (YUNUS)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":71,
   "Febrero_2024":70,
   "Marzo_2024":92,
@@ -3501,6 +3676,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Productivo y Turismo de Molina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":17,
   "Febrero_2024":17,
   "Marzo_2024":19,
@@ -3521,6 +3697,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":6832,
   "Febrero_2024":6774,
   "Marzo_2024":7240,
@@ -3541,6 +3718,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2578,
   "Febrero_2024":3101,
   "Marzo_2024":3262,
@@ -3561,6 +3739,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Los Muermos",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -3581,6 +3760,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1136,
   "Febrero_2024":1137,
   "Marzo_2024":1159,
@@ -3601,6 +3781,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":990,
   "Febrero_2024":624,
   "Marzo_2024":510,
@@ -3621,6 +3802,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Ñuñoa",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2545,
   "Febrero_2024":2410,
   "Marzo_2024":2448,
@@ -3641,6 +3823,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":8107,
   "Febrero_2024":6639,
   "Marzo_2024":7447,
@@ -3661,6 +3844,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":528,
   "Febrero_2024":503,
   "Marzo_2024":523,
@@ -3681,6 +3865,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento Al Desarrollo Comunal y Productivo de La Florida (Cofodep)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":80,
   "Febrero_2024":82,
   "Marzo_2024":90,
@@ -3701,6 +3886,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento Al Desarrollo Económico y Productivo de Estación Central",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":23,
   "Febrero_2024":23,
   "Marzo_2024":21,
@@ -3721,6 +3907,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento Productivo de Curicó",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":436,
   "Febrero_2024":434,
   "Marzo_2024":436,
@@ -3741,6 +3928,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento al Desarrollo Comunal y Productivo de Parral",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":19,
@@ -3761,6 +3949,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de La Cultura y Las Artes de San Antonio",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":15,
   "Febrero_2024":8,
   "Marzo_2024":3,
@@ -3781,6 +3970,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de La Reina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1340,
   "Febrero_2024":1295,
   "Marzo_2024":1362,
@@ -3801,6 +3991,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Lo Prado",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1051,
   "Febrero_2024":863,
   "Marzo_2024":905,
@@ -3821,6 +4012,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Macul",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":854,
   "Febrero_2024":846,
   "Marzo_2024":859,
@@ -3841,6 +4033,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Maria Pinto",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":630,
   "Febrero_2024":600,
   "Marzo_2024":477,
@@ -3861,6 +4054,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":3476,
   "Febrero_2024":3537,
   "Marzo_2024":3068,
@@ -3881,6 +4075,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2929,
   "Febrero_2024":2871,
   "Marzo_2024":2993,
@@ -3901,6 +4096,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Pirque",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":716,
   "Febrero_2024":855,
   "Marzo_2024":845,
@@ -3921,6 +4117,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Pozo Almonte",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1261,
   "Febrero_2024":676,
   "Marzo_2024":650,
@@ -3941,6 +4138,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1878,
   "Febrero_2024":1830,
   "Marzo_2024":1805,
@@ -3961,6 +4159,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Pudahuel",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":3214,
   "Febrero_2024":2921,
   "Marzo_2024":2788,
@@ -3981,6 +4180,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Puente Alto",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":7082,
   "Febrero_2024":6947,
   "Marzo_2024":6954,
@@ -4001,6 +4201,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Puqueldón",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":187,
   "Febrero_2024":163,
   "Marzo_2024":177,
@@ -4021,6 +4222,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Queilen",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":226,
   "Febrero_2024":223,
   "Marzo_2024":217,
@@ -4041,6 +4243,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Quellón",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1294,
   "Febrero_2024":1283,
   "Marzo_2024":1255,
@@ -4061,6 +4264,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":243,
   "Febrero_2024":2585,
   "Marzo_2024":2783,
@@ -4081,6 +4285,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinchao",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -4101,6 +4306,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinta Normal",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1639,
   "Febrero_2024":2150,
   "Marzo_2024":1989,
@@ -4121,6 +4327,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":4538,
   "Febrero_2024":4495,
   "Marzo_2024":4535,
@@ -4141,6 +4348,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Renca",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1785,
   "Febrero_2024":2255,
   "Marzo_2024":2229,
@@ -4161,6 +4369,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1494,
   "Febrero_2024":1439,
   "Marzo_2024":1520,
@@ -4181,6 +4390,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":473,
   "Febrero_2024":497,
   "Marzo_2024":483,
@@ -4201,6 +4411,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de San Vicente",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":877,
   "Febrero_2024":835,
   "Marzo_2024":864,
@@ -4221,6 +4432,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Servicios y Desarrollo de Maipú (CODEDUC)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -4241,6 +4453,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1143,
   "Febrero_2024":1123,
   "Marzo_2024":1075,
@@ -4261,6 +4474,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Turismo de Paihuano",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -4281,6 +4495,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Turismo de Vicuña",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":12,
   "Febrero_2024":12,
   "Marzo_2024":12,
@@ -4301,6 +4516,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Valparaíso",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2477,
   "Febrero_2024":2802,
   "Marzo_2024":2788,
@@ -4321,6 +4537,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de cultura de Isla de Pascua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":29,
   "Febrero_2024":28,
   "Marzo_2024":30,
@@ -4341,6 +4558,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de desarrollo Comunal y Productivo de Licantén",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":4,
@@ -4361,6 +4579,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de innovación y desarrollo económico y social de SAN JOAQUÍN",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":226,
   "Febrero_2024":3,
   "Marzo_2024":450,
@@ -4381,6 +4600,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal del Arte y la Cultura de Talagante",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":28,
   "Febrero_2024":60,
   "Marzo_2024":29,
@@ -4401,6 +4621,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal para el Desarrollo Social de Villa Alemana",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1861,
   "Febrero_2024":1711,
   "Marzo_2024":1841,
@@ -4421,6 +4642,7 @@
  },
  {
   "organismo_nombre":"Corporación Nacional Forestal (CONAF)",
+  "padre_org":"Agricultura",
   "Enero_2024":9492,
   "Febrero_2024":9449,
   "Marzo_2024":9277,
@@ -4441,6 +4663,7 @@
  },
  {
   "organismo_nombre":"Corporación Nacional de Desarrollo Indígena (CONADI)",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":768,
   "Febrero_2024":526,
   "Marzo_2024":537,
@@ -4461,6 +4684,7 @@
  },
  {
   "organismo_nombre":"Corporación Para El Desarrollo de La Provincia de Osorno (Corposorno)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":7,
   "Febrero_2024":9,
   "Marzo_2024":8,
@@ -4481,6 +4705,7 @@
  },
  {
   "organismo_nombre":"Corporación Regional de Desarrollo Productivo de la Región de Tarapacá",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":41,
   "Febrero_2024":42,
   "Marzo_2024":42,
@@ -4501,6 +4726,7 @@
  },
  {
   "organismo_nombre":"Corporación Regional de Desarrollo de la Región del Biobío (Desarrolla Biobío)",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":13,
@@ -4521,6 +4747,7 @@
  },
  {
   "organismo_nombre":"Corporación Regional de Investigación y Desarrollo Centro de Investigación en Ecosistemas de la Patagonia",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":93,
   "Febrero_2024":93,
   "Marzo_2024":95,
@@ -4541,6 +4768,7 @@
  },
  {
   "organismo_nombre":"Corporación Social y Cultural de Concepción (SEMCO)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":140,
   "Febrero_2024":142,
   "Marzo_2024":142,
@@ -4561,6 +4789,7 @@
  },
  {
   "organismo_nombre":"Corporación Teatro Regional Del Biobío",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":73,
   "Febrero_2024":63,
   "Marzo_2024":56,
@@ -4581,6 +4810,7 @@
  },
  {
   "organismo_nombre":"Corporación XIX Juegos Panamericanos Santiago 2023",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":279,
   "Febrero_2024":234,
   "Marzo_2024":206,
@@ -4601,6 +4831,7 @@
  },
  {
   "organismo_nombre":"Corporación cultural de Ancud",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":19,
   "Febrero_2024":17,
   "Marzo_2024":17,
@@ -4621,6 +4852,7 @@
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Regiones Tarapacá y Antofagasta (CAJTA)",
+  "padre_org":"Justicia",
   "Enero_2024":281,
   "Febrero_2024":291,
   "Marzo_2024":303,
@@ -4641,6 +4873,7 @@
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Región Bío Bío (CAJBIOBIO)",
+  "padre_org":"Justicia",
   "Enero_2024":992,
   "Febrero_2024":1000,
   "Marzo_2024":1005,
@@ -4661,6 +4894,7 @@
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Región Valparaíso (CAJVAL)",
+  "padre_org":"Justicia",
   "Enero_2024":546,
   "Febrero_2024":541,
   "Marzo_2024":562,
@@ -4681,6 +4915,7 @@
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial de la Región Metropolitana (CAJMETRO)",
+  "padre_org":"Justicia",
   "Enero_2024":1200,
   "Febrero_2024":1204,
   "Marzo_2024":1232,
@@ -4701,6 +4936,7 @@
  },
  {
   "organismo_nombre":"Corporación de Cultura de Pichidegua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":12,
   "Febrero_2024":12,
   "Marzo_2024":20,
@@ -4721,6 +4957,7 @@
  },
  {
   "organismo_nombre":"Corporación de Cultura y Patrimonio de Independencia",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":18,
   "Febrero_2024":17,
   "Marzo_2024":18,
@@ -4741,6 +4978,7 @@
  },
  {
   "organismo_nombre":"Corporación de Cultura y Turismo de Calama",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":85,
   "Febrero_2024":79,
   "Marzo_2024":79,
@@ -4761,6 +4999,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deporte de Estación Central Cormudep",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":106,
   "Febrero_2024":77,
   "Marzo_2024":101,
@@ -4781,6 +5020,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deporte de Los Andes",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":8,
@@ -4801,6 +5041,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deporte y Recreacion de La Municipalidad de Aysén",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":67,
   "Febrero_2024":46,
   "Marzo_2024":40,
@@ -4821,6 +5062,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes Constitución",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":110,
   "Febrero_2024":220,
   "Marzo_2024":112,
@@ -4841,6 +5083,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes de La Ilustre Municipalidad de Teno",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":11,
   "Febrero_2024":15,
   "Marzo_2024":33,
@@ -4861,6 +5104,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes de Parral",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":14,
   "Febrero_2024":15,
   "Marzo_2024":8,
@@ -4881,6 +5125,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes de San Clemente",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":62,
   "Febrero_2024":86,
   "Marzo_2024":52,
@@ -4901,6 +5146,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes de la Ilustre Municipalidad de Curicó",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":97,
   "Febrero_2024":173,
   "Marzo_2024":173,
@@ -4921,6 +5167,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes de la Municipalidad de Independencia",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":64,
   "Febrero_2024":61,
   "Marzo_2024":64,
@@ -4941,6 +5188,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes y Recreación La Reina",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":78,
   "Febrero_2024":61,
   "Marzo_2024":77,
@@ -4961,6 +5209,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes y Recreación de Peñalolén",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":252,
   "Febrero_2024":263,
   "Marzo_2024":453,
@@ -4981,6 +5230,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes y Recreación de San Javier Loncomilla",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":292,
   "Febrero_2024":220,
   "Marzo_2024":225,
@@ -5001,6 +5251,7 @@
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de Buin",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":1803,
   "Febrero_2024":1827,
   "Marzo_2024":1815,
@@ -5021,6 +5272,7 @@
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de Cerro Navia (CORMUCENA)",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":1,
@@ -5041,6 +5293,7 @@
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de la Municipalidad de Independencia",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":38,
   "Febrero_2024":34,
   "Marzo_2024":36,
@@ -5061,6 +5314,7 @@
  },
  {
   "organismo_nombre":"Corporación de Desarrollo de Magallanes y de la Antártica chilena.",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":12,
   "Febrero_2024":12,
   "Marzo_2024":12,
@@ -5081,6 +5335,7 @@
  },
  {
   "organismo_nombre":"Corporación de Desarrollo de Talca",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":19,
   "Febrero_2024":28,
   "Marzo_2024":19,
@@ -5101,6 +5356,7 @@
  },
  {
   "organismo_nombre":"Corporación de Desarrollo e Innovación de Rancagua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":0,
   "Febrero_2024":85,
   "Marzo_2024":84,
@@ -5121,6 +5377,7 @@
  },
  {
   "organismo_nombre":"Corporación de Educación Salud y Atención de Menores Chonchi Chiloé",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":4,
   "Febrero_2024":10,
   "Marzo_2024":5,
@@ -5141,6 +5398,7 @@
  },
  {
   "organismo_nombre":"Corporación de Educación Salud y Menores de Puerto Natales",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":244,
   "Febrero_2024":227,
   "Marzo_2024":235,
@@ -5161,6 +5419,7 @@
  },
  {
   "organismo_nombre":"Corporación de Educación y Salud de Las Condes",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":2178,
   "Febrero_2024":2076,
   "Marzo_2024":2137,
@@ -5181,6 +5440,7 @@
  },
  {
   "organismo_nombre":"Corporación de Fomento de Desarrollo comunal y Productivo de la Granja",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":14,
   "Febrero_2024":13,
   "Marzo_2024":15,
@@ -5201,6 +5461,7 @@
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":946,
   "Febrero_2024":988,
   "Marzo_2024":994,
@@ -5221,6 +5482,7 @@
  },
  {
   "organismo_nombre":"Corporación de Inclusión Social de Cerro Navia",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":177,
   "Febrero_2024":203,
   "Marzo_2024":124,
@@ -5241,6 +5503,7 @@
  },
  {
   "organismo_nombre":"Corporación de Innovación y Desarrollo Económico y Social Innova Recoleta",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":105,
   "Febrero_2024":100,
   "Marzo_2024":119,
@@ -5261,6 +5524,7 @@
  },
  {
   "organismo_nombre":"Corporación de desarrollo territorial de la región de Arica y Parinacota",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":9,
   "Febrero_2024":8,
   "Marzo_2024":8,
@@ -5281,6 +5545,7 @@
  },
  {
   "organismo_nombre":"Corporación de investigación y avance de la Paleontología e historia natural de Atacama",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":30,
   "Febrero_2024":15,
   "Marzo_2024":30,
@@ -5301,6 +5566,7 @@
  },
  {
   "organismo_nombre":"Corporación de la Cultura y las Artes de la Ilustre Municipalidad de Rancagua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":122,
   "Febrero_2024":122,
   "Marzo_2024":116,
@@ -5321,6 +5587,7 @@
  },
  {
   "organismo_nombre":"Corporación del Deporte de Lampa",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":78,
   "Febrero_2024":85,
   "Marzo_2024":68,
@@ -5341,6 +5608,7 @@
  },
  {
   "organismo_nombre":"Corporación del Deporte de Pichidegua",
+  "padre_org":"Corporaciones Municipales",
   "Enero_2024":41,
   "Febrero_2024":32,
   "Marzo_2024":28,
@@ -5361,6 +5629,7 @@
  },
  {
   "organismo_nombre":"Defensoría Penal Pública (DPP)",
+  "padre_org":"Justicia",
   "Enero_2024":730,
   "Febrero_2024":734,
   "Marzo_2024":737,
@@ -5381,6 +5650,7 @@
  },
  {
   "organismo_nombre":"Defensoría de los Derechos de la Niñez",
+  "padre_org":"Defensoría de los Derechos de la Niñez",
   "Enero_2024":74,
   "Febrero_2024":73,
   "Marzo_2024":153,
@@ -5401,6 +5671,7 @@
  },
  {
   "organismo_nombre":"Defensoría del Contribuyente",
+  "padre_org":"Hacienda",
   "Enero_2024":48,
   "Febrero_2024":49,
   "Marzo_2024":50,
@@ -5421,6 +5692,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Arauco",
+  "padre_org":"Interior",
   "Enero_2024":32,
   "Febrero_2024":32,
   "Marzo_2024":32,
@@ -5441,6 +5713,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Aysén",
+  "padre_org":"Interior",
   "Enero_2024":20,
   "Febrero_2024":19,
   "Marzo_2024":19,
@@ -5461,6 +5734,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Capitán Prat",
+  "padre_org":"Interior",
   "Enero_2024":20,
   "Febrero_2024":20,
   "Marzo_2024":20,
@@ -5481,6 +5755,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cardenal Caro",
+  "padre_org":"Interior",
   "Enero_2024":29,
   "Febrero_2024":17,
   "Marzo_2024":25,
@@ -5501,6 +5776,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cauquenes",
+  "padre_org":"Interior",
   "Enero_2024":18,
   "Febrero_2024":18,
   "Marzo_2024":18,
@@ -5521,6 +5797,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chacabuco",
+  "padre_org":"Interior",
   "Enero_2024":15,
   "Febrero_2024":15,
   "Marzo_2024":15,
@@ -5541,6 +5818,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chañaral",
+  "padre_org":"Interior",
   "Enero_2024":18,
   "Febrero_2024":17,
   "Marzo_2024":16,
@@ -5561,6 +5839,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chiloé",
+  "padre_org":"Interior",
   "Enero_2024":57,
   "Febrero_2024":32,
   "Marzo_2024":30,
@@ -5581,6 +5860,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Choapa",
+  "padre_org":"Interior",
   "Enero_2024":18,
   "Febrero_2024":19,
   "Marzo_2024":21,
@@ -5601,6 +5881,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Colchagua",
+  "padre_org":"Interior",
   "Enero_2024":18,
   "Febrero_2024":18,
   "Marzo_2024":18,
@@ -5621,6 +5902,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cordillera",
+  "padre_org":"Interior",
   "Enero_2024":41,
   "Febrero_2024":41,
   "Marzo_2024":19,
@@ -5641,6 +5923,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Curicó",
+  "padre_org":"Interior",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":19,
@@ -5661,6 +5944,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de El Loa",
+  "padre_org":"Interior",
   "Enero_2024":21,
   "Febrero_2024":21,
   "Marzo_2024":22,
@@ -5681,6 +5965,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de General Carrera",
+  "padre_org":"Interior",
   "Enero_2024":21,
   "Febrero_2024":21,
   "Marzo_2024":21,
@@ -5701,6 +5986,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Huasco",
+  "padre_org":"Interior",
   "Enero_2024":23,
   "Febrero_2024":23,
   "Marzo_2024":24,
@@ -5721,6 +6007,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Isla de Pascua",
+  "padre_org":"Interior",
   "Enero_2024":32,
   "Febrero_2024":47,
   "Marzo_2024":2,
@@ -5741,6 +6028,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Itata",
+  "padre_org":"Interior",
   "Enero_2024":14,
   "Febrero_2024":14,
   "Marzo_2024":14,
@@ -5761,6 +6049,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de La Antártica Chilena",
+  "padre_org":"Interior",
   "Enero_2024":16,
   "Febrero_2024":16,
   "Marzo_2024":16,
@@ -5781,6 +6070,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Limarí",
+  "padre_org":"Interior",
   "Enero_2024":20,
   "Febrero_2024":21,
   "Marzo_2024":19,
@@ -5801,6 +6091,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Linares",
+  "padre_org":"Interior",
   "Enero_2024":45,
   "Febrero_2024":47,
   "Marzo_2024":65,
@@ -5821,6 +6112,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Los Andes",
+  "padre_org":"Interior",
   "Enero_2024":31,
   "Febrero_2024":26,
   "Marzo_2024":26,
@@ -5841,6 +6133,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Maipo",
+  "padre_org":"Interior",
   "Enero_2024":20,
   "Febrero_2024":20,
   "Marzo_2024":20,
@@ -5861,6 +6154,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Malleco",
+  "padre_org":"Interior",
   "Enero_2024":52,
   "Febrero_2024":52,
   "Marzo_2024":30,
@@ -5881,6 +6175,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Marga Marga",
+  "padre_org":"Interior",
   "Enero_2024":22,
   "Febrero_2024":22,
   "Marzo_2024":19,
@@ -5901,6 +6196,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Melipilla",
+  "padre_org":"Interior",
   "Enero_2024":25,
   "Febrero_2024":26,
   "Marzo_2024":25,
@@ -5921,6 +6217,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Osorno",
+  "padre_org":"Interior",
   "Enero_2024":46,
   "Febrero_2024":36,
   "Marzo_2024":39,
@@ -5941,6 +6238,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Palena",
+  "padre_org":"Interior",
   "Enero_2024":18,
   "Febrero_2024":23,
   "Marzo_2024":8,
@@ -5961,6 +6259,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Parinacota",
+  "padre_org":"Interior",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":18,
@@ -5981,6 +6280,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Petorca",
+  "padre_org":"Interior",
   "Enero_2024":20,
   "Febrero_2024":17,
   "Marzo_2024":20,
@@ -6001,6 +6301,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Punilla",
+  "padre_org":"Interior",
   "Enero_2024":36,
   "Febrero_2024":20,
   "Marzo_2024":20,
@@ -6021,6 +6322,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Quillota",
+  "padre_org":"Interior",
   "Enero_2024":27,
   "Febrero_2024":26,
   "Marzo_2024":27,
@@ -6041,6 +6343,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Antonio",
+  "padre_org":"Interior",
   "Enero_2024":32,
   "Febrero_2024":22,
   "Marzo_2024":22,
@@ -6061,6 +6364,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Felipe",
+  "padre_org":"Interior",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":19,
@@ -6081,6 +6385,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Talagante",
+  "padre_org":"Interior",
   "Enero_2024":21,
   "Febrero_2024":21,
   "Marzo_2024":21,
@@ -6101,6 +6406,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tamarugal",
+  "padre_org":"Interior",
   "Enero_2024":26,
   "Febrero_2024":32,
   "Marzo_2024":24,
@@ -6121,6 +6427,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tierra del Fuego",
+  "padre_org":"Interior",
   "Enero_2024":27,
   "Febrero_2024":27,
   "Marzo_2024":27,
@@ -6141,6 +6448,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tocopilla",
+  "padre_org":"Interior",
   "Enero_2024":30,
   "Febrero_2024":30,
   "Marzo_2024":40,
@@ -6161,6 +6469,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de última Esperanza",
+  "padre_org":"Interior",
   "Enero_2024":30,
   "Febrero_2024":43,
   "Marzo_2024":46,
@@ -6181,6 +6490,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial del Bíobío",
+  "padre_org":"Interior",
   "Enero_2024":26,
   "Febrero_2024":25,
   "Marzo_2024":25,
@@ -6201,6 +6511,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial del Ranco",
+  "padre_org":"Interior",
   "Enero_2024":30,
   "Febrero_2024":28,
   "Marzo_2024":30,
@@ -6221,6 +6532,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional Metropolitana",
+  "padre_org":"Interior",
   "Enero_2024":96,
   "Febrero_2024":63,
   "Marzo_2024":87,
@@ -6241,6 +6553,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Antofagasta",
+  "padre_org":"Interior",
   "Enero_2024":51,
   "Febrero_2024":50,
   "Marzo_2024":59,
@@ -6261,6 +6574,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Arica y Parinacota",
+  "padre_org":"Interior",
   "Enero_2024":56,
   "Febrero_2024":61,
   "Marzo_2024":39,
@@ -6281,6 +6595,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Atacama",
+  "padre_org":"Interior",
   "Enero_2024":36,
   "Febrero_2024":32,
   "Marzo_2024":35,
@@ -6301,6 +6616,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo",
+  "padre_org":"Interior",
   "Enero_2024":42,
   "Febrero_2024":12,
   "Marzo_2024":44,
@@ -6321,6 +6637,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Coquimbo",
+  "padre_org":"Interior",
   "Enero_2024":67,
   "Febrero_2024":75,
   "Marzo_2024":74,
@@ -6341,6 +6658,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de La Araucanía",
+  "padre_org":"Interior",
   "Enero_2024":64,
   "Febrero_2024":61,
   "Marzo_2024":91,
@@ -6361,6 +6679,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Lagos",
+  "padre_org":"Interior",
   "Enero_2024":37,
   "Febrero_2024":37,
   "Marzo_2024":38,
@@ -6381,6 +6700,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Ríos",
+  "padre_org":"Interior",
   "Enero_2024":57,
   "Febrero_2024":56,
   "Marzo_2024":57,
@@ -6401,6 +6721,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Magallanes y la Antártica Chilena",
+  "padre_org":"Interior",
   "Enero_2024":44,
   "Febrero_2024":47,
   "Marzo_2024":63,
@@ -6421,6 +6742,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Tarapacá",
+  "padre_org":"Interior",
   "Enero_2024":51,
   "Febrero_2024":52,
   "Marzo_2024":52,
@@ -6441,6 +6763,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Valparaíso",
+  "padre_org":"Interior",
   "Enero_2024":47,
   "Febrero_2024":55,
   "Marzo_2024":55,
@@ -6461,6 +6784,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Ñuble",
+  "padre_org":"Interior",
   "Enero_2024":37,
   "Febrero_2024":36,
   "Marzo_2024":40,
@@ -6481,6 +6805,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Biobío",
+  "padre_org":"Interior",
   "Enero_2024":87,
   "Febrero_2024":87,
   "Marzo_2024":83,
@@ -6501,6 +6826,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Libertador General Bernardo OHiggins",
+  "padre_org":"Interior",
   "Enero_2024":42,
   "Febrero_2024":40,
   "Marzo_2024":42,
@@ -6521,6 +6847,7 @@
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Maule",
+  "padre_org":"Interior",
   "Enero_2024":44,
   "Febrero_2024":67,
   "Marzo_2024":67,
@@ -6541,6 +6868,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":5182,
   "Febrero_2024":5315,
   "Marzo_2024":5311,
@@ -6561,6 +6889,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Aguas (DGA)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":751,
   "Febrero_2024":782,
   "Marzo_2024":686,
@@ -6581,6 +6910,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Concesiones (DGC)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":335,
   "Febrero_2024":343,
   "Marzo_2024":351,
@@ -6601,6 +6931,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":513,
   "Febrero_2024":447,
   "Marzo_2024":365,
@@ -6621,6 +6952,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Movilización Nacional (DGMN)",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":104,
   "Febrero_2024":259,
   "Marzo_2024":263,
@@ -6641,6 +6973,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Obras Públicas (DGOP)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":232,
   "Febrero_2024":232,
   "Marzo_2024":233,
@@ -6661,6 +6994,7 @@
  },
  {
   "organismo_nombre":"Dirección Nacional de Fronteras y Límites del Estado (DIFROL)",
+  "padre_org":"Relaciones Exteriores",
   "Enero_2024":88,
   "Febrero_2024":89,
   "Marzo_2024":89,
@@ -6681,6 +7015,7 @@
  },
  {
   "organismo_nombre":"Dirección Nacional del Servicio Civil",
+  "padre_org":"Hacienda",
   "Enero_2024":168,
   "Febrero_2024":176,
   "Marzo_2024":178,
@@ -6701,6 +7036,7 @@
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":228,
   "Febrero_2024":227,
   "Marzo_2024":224,
@@ -6721,6 +7057,7 @@
  },
  {
   "organismo_nombre":"Dirección de Arquitectura (DARQ)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":390,
   "Febrero_2024":411,
   "Marzo_2024":426,
@@ -6741,6 +7078,7 @@
  },
  {
   "organismo_nombre":"Dirección de Compras y Contratación Pública (CHILECOMPRA)",
+  "padre_org":"Hacienda",
   "Enero_2024":159,
   "Febrero_2024":157,
   "Marzo_2024":158,
@@ -6761,6 +7099,7 @@
  },
  {
   "organismo_nombre":"Dirección de Contabilidad y Finanzas (DCYF)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":339,
   "Febrero_2024":339,
   "Marzo_2024":336,
@@ -6781,6 +7120,7 @@
  },
  {
   "organismo_nombre":"Dirección de Educación Pública",
+  "padre_org":"Educación",
   "Enero_2024":194,
   "Febrero_2024":202,
   "Marzo_2024":226,
@@ -6801,6 +7141,7 @@
  },
  {
   "organismo_nombre":"Dirección de Obras Hidráulicas (DOH)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":939,
   "Febrero_2024":916,
   "Marzo_2024":929,
@@ -6821,6 +7162,7 @@
  },
  {
   "organismo_nombre":"Dirección de Obras Portuarias (DOP)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":293,
   "Febrero_2024":294,
   "Marzo_2024":278,
@@ -6841,6 +7183,7 @@
  },
  {
   "organismo_nombre":"Dirección de Planeamiento (DIRPLAN)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":157,
   "Febrero_2024":157,
   "Marzo_2024":157,
@@ -6861,6 +7204,7 @@
  },
  {
   "organismo_nombre":"Dirección de Presupuestos (DIPRES)",
+  "padre_org":"Hacienda",
   "Enero_2024":445,
   "Febrero_2024":398,
   "Marzo_2024":482,
@@ -6881,6 +7225,7 @@
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
+  "padre_org":"Interior",
   "Enero_2024":598,
   "Febrero_2024":503,
   "Marzo_2024":700,
@@ -6901,6 +7246,7 @@
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":5040,
   "Febrero_2024":5049,
   "Marzo_2024":5841,
@@ -6921,6 +7267,7 @@
  },
  {
   "organismo_nombre":"Dirección del Trabajo (DT)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":2329,
   "Febrero_2024":2328,
   "Marzo_2024":2328,
@@ -6941,6 +7288,7 @@
  },
  {
   "organismo_nombre":"Ejército de Chile",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":3530,
   "Febrero_2024":3510,
   "Marzo_2024":3716,
@@ -6961,6 +7309,7 @@
  },
  {
   "organismo_nombre":"Estado Mayor Conjunto (EMCO)",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":44,
   "Febrero_2024":44,
   "Marzo_2024":43,
@@ -6981,6 +7330,7 @@
  },
  {
   "organismo_nombre":"Fiscalía Nacional Económica (FNE)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":127,
   "Febrero_2024":132,
   "Marzo_2024":132,
@@ -7001,6 +7351,7 @@
  },
  {
   "organismo_nombre":"Fiscalía de Obras Públicas",
+  "padre_org":"Obras Públicas",
   "Enero_2024":106,
   "Febrero_2024":106,
   "Marzo_2024":107,
@@ -7021,6 +7372,7 @@
  },
  {
   "organismo_nombre":"Fondo Nacional de Salud (FONASA)",
+  "padre_org":"Salud",
   "Enero_2024":1192,
   "Febrero_2024":1192,
   "Marzo_2024":1195,
@@ -7041,6 +7393,7 @@
  },
  {
   "organismo_nombre":"Fondo de Solidaridad e Inversión Social (FOSIS)",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":1090,
   "Febrero_2024":1094,
   "Marzo_2024":1097,
@@ -7061,6 +7414,7 @@
  },
  {
   "organismo_nombre":"Fuerza Aérea de Chile (Incluye al Servicio Aerofotogramétrico)",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":1121,
   "Febrero_2024":1134,
   "Marzo_2024":1138,
@@ -7081,6 +7435,7 @@
  },
  {
   "organismo_nombre":"Fundación Artesanías de Chile",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":84,
   "Febrero_2024":83,
   "Marzo_2024":85,
@@ -7101,6 +7456,7 @@
  },
  {
   "organismo_nombre":"Fundación Centro Cultural Palacio de La Moneda",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":1796,
   "Febrero_2024":1689,
   "Marzo_2024":1794,
@@ -7121,6 +7477,7 @@
  },
  {
   "organismo_nombre":"Fundación Centro Cultural de Lo Prado",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":66,
   "Febrero_2024":39,
   "Marzo_2024":42,
@@ -7141,6 +7498,7 @@
  },
  {
   "organismo_nombre":"Fundación Cultural Providencia",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":38,
   "Febrero_2024":41,
   "Marzo_2024":42,
@@ -7161,6 +7519,7 @@
  },
  {
   "organismo_nombre":"Fundación Cultural de Sierra Gorda",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":2,
   "Febrero_2024":1,
   "Marzo_2024":3,
@@ -7181,6 +7540,7 @@
  },
  {
   "organismo_nombre":"Fundación Cultural de la municipalidad de Tocopilla",
+  "padre_org":"Fundaciones y Otros Organismos Municipales",
   "Enero_2024":4,
   "Febrero_2024":12,
   "Marzo_2024":6,
@@ -7201,6 +7561,7 @@
  },
  {
   "organismo_nombre":"Fundación Integra",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":29168,
   "Febrero_2024":25065,
   "Marzo_2024":27060,
@@ -7221,6 +7582,7 @@
  },
  {
   "organismo_nombre":"Fundación Teatro Municipal de Las Condes",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":67,
   "Febrero_2024":49,
   "Marzo_2024":63,
@@ -7241,6 +7603,7 @@
  },
  {
   "organismo_nombre":"Fundación Tiempos Nuevos (MIM)",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":186,
   "Febrero_2024":185,
   "Marzo_2024":172,
@@ -7261,6 +7624,7 @@
  },
  {
   "organismo_nombre":"Fundación de Orquestas Juveniles e Infantiles de Chile (FOJI)",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":105,
   "Febrero_2024":91,
   "Marzo_2024":259,
@@ -7281,6 +7645,7 @@
  },
  {
   "organismo_nombre":"Fundación del deporte de Punta Arenas",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":1,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -7301,6 +7666,7 @@
  },
  {
   "organismo_nombre":"Fundación para el Desarrollo de la Cultura y las Artes de la comuna de Punta Arenas",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":2,
   "Febrero_2024":8,
   "Marzo_2024":5,
@@ -7321,6 +7687,7 @@
  },
  {
   "organismo_nombre":"Fundación para la Promoción y Desarrollo de la Mujer  (PRODEMU)",
+  "padre_org":"Fund. Corp. Asoc. NO municipales",
   "Enero_2024":451,
   "Febrero_2024":440,
   "Marzo_2024":453,
@@ -7341,6 +7708,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
+  "padre_org":"Interior",
   "Enero_2024":263,
   "Febrero_2024":262,
   "Marzo_2024":281,
@@ -7361,6 +7729,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
+  "padre_org":"Interior",
   "Enero_2024":129,
   "Febrero_2024":134,
   "Marzo_2024":136,
@@ -7381,6 +7750,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
+  "padre_org":"Interior",
   "Enero_2024":177,
   "Febrero_2024":151,
   "Marzo_2024":153,
@@ -7401,6 +7771,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
+  "padre_org":"Interior",
   "Enero_2024":127,
   "Febrero_2024":127,
   "Marzo_2024":127,
@@ -7421,6 +7792,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
+  "padre_org":"Interior",
   "Enero_2024":145,
   "Febrero_2024":145,
   "Marzo_2024":146,
@@ -7441,6 +7813,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
+  "padre_org":"Interior",
   "Enero_2024":137,
   "Febrero_2024":139,
   "Marzo_2024":138,
@@ -7461,6 +7834,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
+  "padre_org":"Interior",
   "Enero_2024":170,
   "Febrero_2024":163,
   "Marzo_2024":155,
@@ -7481,6 +7855,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Lagos (Gore Los Lagos)",
+  "padre_org":"Interior",
   "Enero_2024":176,
   "Febrero_2024":182,
   "Marzo_2024":182,
@@ -7501,6 +7876,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
+  "padre_org":"Interior",
   "Enero_2024":141,
   "Febrero_2024":143,
   "Marzo_2024":144,
@@ -7521,6 +7897,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
+  "padre_org":"Interior",
   "Enero_2024":136,
   "Febrero_2024":136,
   "Marzo_2024":136,
@@ -7541,6 +7918,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de OHiggins (Gore OHiggins)",
+  "padre_org":"Interior",
   "Enero_2024":132,
   "Febrero_2024":132,
   "Marzo_2024":132,
@@ -7561,6 +7939,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Tarapacá (GORE)",
+  "padre_org":"Interior",
   "Enero_2024":130,
   "Febrero_2024":139,
   "Marzo_2024":132,
@@ -7581,6 +7960,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Valparaíso  (GORE)",
+  "padre_org":"Interior",
   "Enero_2024":168,
   "Febrero_2024":168,
   "Marzo_2024":168,
@@ -7601,6 +7981,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
+  "padre_org":"Interior",
   "Enero_2024":92,
   "Febrero_2024":92,
   "Marzo_2024":94,
@@ -7621,6 +8002,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional del Bío Bío (Gore Bío Bío)",
+  "padre_org":"Interior",
   "Enero_2024":177,
   "Febrero_2024":187,
   "Marzo_2024":174,
@@ -7641,6 +8023,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
+  "padre_org":"Interior",
   "Enero_2024":158,
   "Febrero_2024":159,
   "Marzo_2024":160,
@@ -7661,6 +8044,7 @@
  },
  {
   "organismo_nombre":"Hospital Barros Luco",
+  "padre_org":"Salud",
   "Enero_2024":4559,
   "Febrero_2024":4303,
   "Marzo_2024":4405,
@@ -7681,6 +8065,7 @@
  },
  {
   "organismo_nombre":"Hospital Base de Valdivia",
+  "padre_org":"Salud",
   "Enero_2024":3615,
   "Febrero_2024":3869,
   "Marzo_2024":3723,
@@ -7701,6 +8086,7 @@
  },
  {
   "organismo_nombre":"Hospital Carlos Van Buren",
+  "padre_org":"Salud",
   "Enero_2024":3382,
   "Febrero_2024":3529,
   "Marzo_2024":3581,
@@ -7721,6 +8107,7 @@
  },
  {
   "organismo_nombre":"Hospital Claudio Vicuña de San Antonio",
+  "padre_org":"Salud",
   "Enero_2024":1297,
   "Febrero_2024":1357,
   "Marzo_2024":1424,
@@ -7741,6 +8128,7 @@
  },
  {
   "organismo_nombre":"Hospital Clínico Magallanes Dr Lautaro Navarro Aravia",
+  "padre_org":"Salud",
   "Enero_2024":2335,
   "Febrero_2024":2287,
   "Marzo_2024":2412,
@@ -7761,6 +8149,7 @@
  },
  {
   "organismo_nombre":"Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza",
+  "padre_org":"Salud",
   "Enero_2024":3701,
   "Febrero_2024":3502,
   "Marzo_2024":6603,
@@ -7781,6 +8170,7 @@
  },
  {
   "organismo_nombre":"Hospital Dr. Augusto Riffart de Castro",
+  "padre_org":"Salud",
   "Enero_2024":1280,
   "Febrero_2024":1280,
   "Marzo_2024":1280,
@@ -7801,6 +8191,7 @@
  },
  {
   "organismo_nombre":"Hospital Dr. Carlos Cisternas De Calama",
+  "padre_org":"Salud",
   "Enero_2024":1,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -7821,6 +8212,7 @@
  },
  {
   "organismo_nombre":"Hospital Dr. Exequiel González Cortes",
+  "padre_org":"Salud",
   "Enero_2024":1311,
   "Febrero_2024":1397,
   "Marzo_2024":1383,
@@ -7841,6 +8233,7 @@
  },
  {
   "organismo_nombre":"Hospital Dr. Hernán Henríquez Aravena de Temuco",
+  "padre_org":"Salud",
   "Enero_2024":4702,
   "Febrero_2024":4319,
   "Marzo_2024":4451,
@@ -7861,6 +8254,7 @@
  },
  {
   "organismo_nombre":"Hospital Dr. Mauricio Heyermann Torres de Angol",
+  "padre_org":"Salud",
   "Enero_2024":1785,
   "Febrero_2024":2055,
   "Marzo_2024":1974,
@@ -7881,6 +8275,7 @@
  },
  {
   "organismo_nombre":"Hospital Eduardo Pereira de Valparaíso",
+  "padre_org":"Salud",
   "Enero_2024":1091,
   "Febrero_2024":1056,
   "Marzo_2024":1032,
@@ -7901,6 +8296,7 @@
  },
  {
   "organismo_nombre":"Hospital El Carmen Dr. Luis Valentín Ferrada",
+  "padre_org":"Salud",
   "Enero_2024":5521,
   "Febrero_2024":4377,
   "Marzo_2024":4772,
@@ -7921,6 +8317,7 @@
  },
  {
   "organismo_nombre":"Hospital El Pino",
+  "padre_org":"Salud",
   "Enero_2024":1962,
   "Febrero_2024":1877,
   "Marzo_2024":1495,
@@ -7941,6 +8338,7 @@
  },
  {
   "organismo_nombre":"Hospital Ernesto Torres de Iquique",
+  "padre_org":"Salud",
   "Enero_2024":2596,
   "Febrero_2024":2968,
   "Marzo_2024":3056,
@@ -7961,6 +8359,7 @@
  },
  {
   "organismo_nombre":"Hospital Félix Bulnes",
+  "padre_org":"Salud",
   "Enero_2024":3653,
   "Febrero_2024":4056,
   "Marzo_2024":4017,
@@ -7981,6 +8380,7 @@
  },
  {
   "organismo_nombre":"Hospital Guillermo Grant Benavente de Concepción",
+  "padre_org":"Salud",
   "Enero_2024":6681,
   "Febrero_2024":7091,
   "Marzo_2024":6960,
@@ -8001,6 +8401,7 @@
  },
  {
   "organismo_nombre":"Hospital Gustavo Fricke",
+  "padre_org":"Salud",
   "Enero_2024":4708,
   "Febrero_2024":5050,
   "Marzo_2024":4868,
@@ -8021,6 +8422,7 @@
  },
  {
   "organismo_nombre":"Hospital Herminda Martin",
+  "padre_org":"Salud",
   "Enero_2024":3601,
   "Febrero_2024":3088,
   "Marzo_2024":3385,
@@ -8041,6 +8443,7 @@
  },
  {
   "organismo_nombre":"Hospital Juan Noé de Arica",
+  "padre_org":"Salud",
   "Enero_2024":2080,
   "Febrero_2024":7,
   "Marzo_2024":1924,
@@ -8061,6 +8464,7 @@
  },
  {
   "organismo_nombre":"Hospital La Serena",
+  "padre_org":"Salud",
   "Enero_2024":3823,
   "Febrero_2024":3732,
   "Marzo_2024":3609,
@@ -8081,6 +8485,7 @@
  },
  {
   "organismo_nombre":"Hospital Leonardo Guzmán de Antofagasta",
+  "padre_org":"Salud",
   "Enero_2024":3906,
   "Febrero_2024":3974,
   "Marzo_2024":3914,
@@ -8101,6 +8506,7 @@
  },
  {
   "organismo_nombre":"Hospital Luis Calvo Mackenna",
+  "padre_org":"Salud",
   "Enero_2024":1756,
   "Febrero_2024":1754,
   "Marzo_2024":1646,
@@ -8121,6 +8527,7 @@
  },
  {
   "organismo_nombre":"Hospital Luis Tisné",
+  "padre_org":"Salud",
   "Enero_2024":1417,
   "Febrero_2024":1498,
   "Marzo_2024":1303,
@@ -8141,6 +8548,7 @@
  },
  {
   "organismo_nombre":"Hospital Padre Hurtado",
+  "padre_org":"Salud",
   "Enero_2024":3194,
   "Febrero_2024":2979,
   "Marzo_2024":3085,
@@ -8161,6 +8569,7 @@
  },
  {
   "organismo_nombre":"Hospital Regional Copiapó San José del Carmen",
+  "padre_org":"Salud",
   "Enero_2024":1864,
   "Febrero_2024":1920,
   "Marzo_2024":1844,
@@ -8181,6 +8590,7 @@
  },
  {
   "organismo_nombre":"Hospital Regional Coyhaique",
+  "padre_org":"Salud",
   "Enero_2024":1784,
   "Febrero_2024":2295,
   "Marzo_2024":1267,
@@ -8201,6 +8611,7 @@
  },
  {
   "organismo_nombre":"Hospital Regional de Rancagua",
+  "padre_org":"Salud",
   "Enero_2024":4411,
   "Febrero_2024":4408,
   "Marzo_2024":4506,
@@ -8221,6 +8632,7 @@
  },
  {
   "organismo_nombre":"Hospital Regional de Talca",
+  "padre_org":"Salud",
   "Enero_2024":4190,
   "Febrero_2024":4314,
   "Marzo_2024":4273,
@@ -8241,6 +8653,7 @@
  },
  {
   "organismo_nombre":"Hospital Roberto del Río",
+  "padre_org":"Salud",
   "Enero_2024":2264,
   "Febrero_2024":1794,
   "Marzo_2024":1788,
@@ -8261,6 +8674,7 @@
  },
  {
   "organismo_nombre":"Hospital San Borja Arriarán",
+  "padre_org":"Salud",
   "Enero_2024":3669,
   "Febrero_2024":5562,
   "Marzo_2024":2607,
@@ -8281,6 +8695,7 @@
  },
  {
   "organismo_nombre":"Hospital San José",
+  "padre_org":"Salud",
   "Enero_2024":4673,
   "Febrero_2024":4350,
   "Marzo_2024":4359,
@@ -8301,6 +8716,7 @@
  },
  {
   "organismo_nombre":"Hospital San José de Coronel",
+  "padre_org":"Salud",
   "Enero_2024":1070,
   "Febrero_2024":1106,
   "Marzo_2024":1073,
@@ -8321,6 +8737,7 @@
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios",
+  "padre_org":"Salud",
   "Enero_2024":3459,
   "Febrero_2024":3773,
   "Marzo_2024":3752,
@@ -8341,6 +8758,7 @@
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios de Los Andes",
+  "padre_org":"Salud",
   "Enero_2024":1185,
   "Febrero_2024":1159,
   "Marzo_2024":1135,
@@ -8361,6 +8779,7 @@
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios de San Fernando",
+  "padre_org":"Salud",
   "Enero_2024":1260,
   "Febrero_2024":1401,
   "Marzo_2024":1374,
@@ -8381,6 +8800,7 @@
  },
  {
   "organismo_nombre":"Hospital San Martín de Quillota",
+  "padre_org":"Salud",
   "Enero_2024":2528,
   "Febrero_2024":2443,
   "Marzo_2024":2567,
@@ -8401,6 +8821,7 @@
  },
  {
   "organismo_nombre":"Hospital San Pablo de Coquimbo",
+  "padre_org":"Salud",
   "Enero_2024":3294,
   "Febrero_2024":3128,
   "Marzo_2024":3324,
@@ -8421,6 +8842,7 @@
  },
  {
   "organismo_nombre":"Hospital Sótero del Río",
+  "padre_org":"Salud",
   "Enero_2024":6337,
   "Febrero_2024":6738,
   "Marzo_2024":6772,
@@ -8441,6 +8863,7 @@
  },
  {
   "organismo_nombre":"Hospital Víctor Ríos Ruiz de Los Angeles",
+  "padre_org":"Salud",
   "Enero_2024":4243,
   "Febrero_2024":4487,
   "Marzo_2024":4325,
@@ -8461,6 +8884,7 @@
  },
  {
   "organismo_nombre":"Hospital de Curicó",
+  "padre_org":"Salud",
   "Enero_2024":2326,
   "Febrero_2024":2375,
   "Marzo_2024":2416,
@@ -8481,6 +8905,7 @@
  },
  {
   "organismo_nombre":"Hospital de Linares",
+  "padre_org":"Salud",
   "Enero_2024":1694,
   "Febrero_2024":1495,
   "Marzo_2024":1438,
@@ -8501,6 +8926,7 @@
  },
  {
   "organismo_nombre":"Hospital de Lota",
+  "padre_org":"Salud",
   "Enero_2024":858,
   "Febrero_2024":933,
   "Marzo_2024":875,
@@ -8521,6 +8947,7 @@
  },
  {
   "organismo_nombre":"Hospital de Melipilla",
+  "padre_org":"Salud",
   "Enero_2024":1287,
   "Febrero_2024":1460,
   "Marzo_2024":1441,
@@ -8541,6 +8968,7 @@
  },
  {
   "organismo_nombre":"Hospital de Osorno",
+  "padre_org":"Salud",
   "Enero_2024":3036,
   "Febrero_2024":3036,
   "Marzo_2024":2926,
@@ -8561,6 +8989,7 @@
  },
  {
   "organismo_nombre":"Hospital de Ovalle",
+  "padre_org":"Salud",
   "Enero_2024":2566,
   "Febrero_2024":2543,
   "Marzo_2024":2438,
@@ -8581,6 +9010,7 @@
  },
  {
   "organismo_nombre":"Hospital de Puerto Montt",
+  "padre_org":"Salud",
   "Enero_2024":23823,
   "Febrero_2024":6925,
   "Marzo_2024":11897,
@@ -8601,6 +9031,7 @@
  },
  {
   "organismo_nombre":"Hospital de Quilpué",
+  "padre_org":"Salud",
   "Enero_2024":1593,
   "Febrero_2024":1682,
   "Marzo_2024":1616,
@@ -8621,6 +9052,7 @@
  },
  {
   "organismo_nombre":"Hospital de San Camilo",
+  "padre_org":"Salud",
   "Enero_2024":1491,
   "Febrero_2024":1447,
   "Marzo_2024":1439,
@@ -8641,6 +9073,7 @@
  },
  {
   "organismo_nombre":"Hospital de San Carlos",
+  "padre_org":"Salud",
   "Enero_2024":1095,
   "Febrero_2024":895,
   "Marzo_2024":1002,
@@ -8661,6 +9094,7 @@
  },
  {
   "organismo_nombre":"Hospital de Tomé",
+  "padre_org":"Salud",
   "Enero_2024":806,
   "Febrero_2024":828,
   "Marzo_2024":813,
@@ -8681,6 +9115,7 @@
  },
  {
   "organismo_nombre":"Hospital de Urgencia Asistencia Pública (HUAP)",
+  "padre_org":"Salud",
   "Enero_2024":4320,
   "Febrero_2024":4323,
   "Marzo_2024":4287,
@@ -8701,6 +9136,7 @@
  },
  {
   "organismo_nombre":"Hospital de Victoria",
+  "padre_org":"Salud",
   "Enero_2024":1145,
   "Febrero_2024":1229,
   "Marzo_2024":1210,
@@ -8721,6 +9157,7 @@
  },
  {
   "organismo_nombre":"Hospital de las Higueras",
+  "padre_org":"Salud",
   "Enero_2024":3449,
   "Febrero_2024":3985,
   "Marzo_2024":3563,
@@ -8741,6 +9178,7 @@
  },
  {
   "organismo_nombre":"Hospital del Salvador",
+  "padre_org":"Salud",
   "Enero_2024":2875,
   "Febrero_2024":2914,
   "Marzo_2024":2650,
@@ -8761,6 +9199,7 @@
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":745,
   "Febrero_2024":740,
   "Marzo_2024":777,
@@ -8781,6 +9220,7 @@
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":677,
   "Febrero_2024":641,
   "Marzo_2024":668,
@@ -8801,6 +9241,7 @@
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1341,
   "Febrero_2024":1203,
   "Marzo_2024":1652,
@@ -8821,6 +9262,7 @@
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":2127,
   "Febrero_2024":2179,
   "Marzo_2024":2160,
@@ -8841,6 +9283,7 @@
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":423,
   "Febrero_2024":444,
   "Marzo_2024":452,
@@ -8861,6 +9304,7 @@
  },
  {
   "organismo_nombre":"Instituto Antártico Chileno (INACH)",
+  "padre_org":"Relaciones Exteriores",
   "Enero_2024":99,
   "Febrero_2024":100,
   "Marzo_2024":101,
@@ -8881,6 +9325,7 @@
  },
  {
   "organismo_nombre":"Instituto Forestal (INFOR)",
+  "padre_org":"Agricultura",
   "Enero_2024":223,
   "Febrero_2024":238,
   "Marzo_2024":240,
@@ -8901,6 +9346,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Derechos Humanos (INDH)",
+  "padre_org":"Instituto Derechos Humanos",
   "Enero_2024":17,
   "Febrero_2024":317,
   "Marzo_2024":319,
@@ -8921,6 +9367,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala (INDESPA)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":78,
   "Febrero_2024":78,
   "Marzo_2024":78,
@@ -8941,6 +9388,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Estadisticas (INE)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":3705,
   "Febrero_2024":7095,
   "Marzo_2024":29594,
@@ -8961,6 +9409,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Geriatría (INGER)",
+  "padre_org":"Salud",
   "Enero_2024":282,
   "Febrero_2024":285,
   "Marzo_2024":260,
@@ -8981,6 +9430,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Hidráulica (INH)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":55,
   "Febrero_2024":55,
   "Marzo_2024":56,
@@ -9001,6 +9451,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Propiedad Industrial (INAPI)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":181,
   "Febrero_2024":181,
   "Marzo_2024":187,
@@ -9021,6 +9472,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Rehabilitación Pedro Aguirre Cerda",
+  "padre_org":"Salud",
   "Enero_2024":300,
   "Febrero_2024":523,
   "Marzo_2024":268,
@@ -9041,6 +9493,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de la Juventud (INJUV)",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":170,
   "Febrero_2024":169,
   "Marzo_2024":170,
@@ -9061,6 +9514,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional del Cáncer",
+  "padre_org":"Salud",
   "Enero_2024":935,
   "Febrero_2024":1071,
   "Marzo_2024":976,
@@ -9081,6 +9535,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
+  "padre_org":"Deporte",
   "Enero_2024":1754,
   "Febrero_2024":1997,
   "Marzo_2024":1660,
@@ -9101,6 +9556,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional del Tórax",
+  "padre_org":"Salud",
   "Enero_2024":893,
   "Febrero_2024":894,
   "Marzo_2024":827,
@@ -9121,6 +9577,7 @@
  },
  {
   "organismo_nombre":"Instituto Psiquiátrico",
+  "padre_org":"Salud",
   "Enero_2024":820,
   "Febrero_2024":825,
   "Marzo_2024":867,
@@ -9141,6 +9598,7 @@
  },
  {
   "organismo_nombre":"Instituto Traumatológico",
+  "padre_org":"Salud",
   "Enero_2024":475,
   "Febrero_2024":509,
   "Marzo_2024":510,
@@ -9161,6 +9619,7 @@
  },
  {
   "organismo_nombre":"Instituto de Desarrollo Agropecuario (INDAP)",
+  "padre_org":"Agricultura",
   "Enero_2024":1693,
   "Febrero_2024":1705,
   "Marzo_2024":1701,
@@ -9181,6 +9640,7 @@
  },
  {
   "organismo_nombre":"Instituto de Neurocirugía",
+  "padre_org":"Salud",
   "Enero_2024":737,
   "Febrero_2024":742,
   "Marzo_2024":723,
@@ -9201,6 +9661,7 @@
  },
  {
   "organismo_nombre":"Instituto de Previsión Social (IPS)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":2535,
   "Febrero_2024":2530,
   "Marzo_2024":2539,
@@ -9221,6 +9682,7 @@
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
+  "padre_org":"Salud",
   "Enero_2024":895,
   "Febrero_2024":905,
   "Marzo_2024":905,
@@ -9241,6 +9703,7 @@
  },
  {
   "organismo_nombre":"Instituto de Seguridad Laboral (ISL)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":619,
   "Febrero_2024":627,
   "Marzo_2024":625,
@@ -9261,6 +9724,7 @@
  },
  {
   "organismo_nombre":"Junta Nacional de Auxilio Escolar y Becas (JUNAEB)",
+  "padre_org":"Educación",
   "Enero_2024":932,
   "Febrero_2024":52,
   "Marzo_2024":939,
@@ -9281,6 +9745,7 @@
  },
  {
   "organismo_nombre":"Junta Nacional de Jardines Infantiles (JUNJI)",
+  "padre_org":"Educación",
   "Enero_2024":23547,
   "Febrero_2024":23135,
   "Marzo_2024":21860,
@@ -9301,6 +9766,7 @@
  },
  {
   "organismo_nombre":"Junta de Aeronáutica Civil (JAC)",
+  "padre_org":"Transportes y Telecomunicaciones",
   "Enero_2024":25,
   "Febrero_2024":25,
   "Marzo_2024":25,
@@ -9321,6 +9787,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":809,
   "Febrero_2024":904,
   "Marzo_2024":847,
@@ -9341,6 +9808,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":695,
   "Febrero_2024":722,
   "Marzo_2024":731,
@@ -9361,6 +9829,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":536,
   "Febrero_2024":589,
   "Marzo_2024":631,
@@ -9381,6 +9850,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":217,
   "Febrero_2024":236,
   "Marzo_2024":254,
@@ -9401,6 +9871,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":242,
   "Febrero_2024":240,
   "Marzo_2024":249,
@@ -9421,6 +9892,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Angol",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":2712,
   "Febrero_2024":2313,
   "Marzo_2024":2332,
@@ -9441,6 +9913,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Antofagasta",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":822,
   "Febrero_2024":813,
   "Marzo_2024":816,
@@ -9461,6 +9934,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":240,
   "Febrero_2024":319,
   "Marzo_2024":298,
@@ -9481,6 +9955,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":2417,
   "Febrero_2024":2405,
   "Marzo_2024":1996,
@@ -9501,6 +9976,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Aysén",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":351,
   "Febrero_2024":374,
   "Marzo_2024":386,
@@ -9521,6 +9997,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Buin",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":683,
   "Febrero_2024":689,
   "Marzo_2024":709,
@@ -9541,6 +10018,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Bulnes",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":857,
   "Febrero_2024":890,
   "Marzo_2024":927,
@@ -9561,6 +10039,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cabildo",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":866,
   "Febrero_2024":933,
   "Marzo_2024":928,
@@ -9581,6 +10060,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":97,
   "Febrero_2024":106,
   "Marzo_2024":100,
@@ -9601,6 +10081,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Calama",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":5713,
   "Febrero_2024":5895,
   "Marzo_2024":6182,
@@ -9621,6 +10102,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":1578,
   "Febrero_2024":1547,
   "Marzo_2024":1547,
@@ -9641,6 +10123,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Caldera",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":892,
   "Febrero_2024":910,
   "Marzo_2024":918,
@@ -9661,6 +10144,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Calera de Tango",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":298,
   "Febrero_2024":283,
   "Marzo_2024":314,
@@ -9681,6 +10165,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Calle Larga",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":717,
   "Febrero_2024":903,
   "Marzo_2024":774,
@@ -9701,6 +10186,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
+  "padre_org":"Municipios de Arica y  Parinacota",
   "Enero_2024":91,
   "Febrero_2024":77,
   "Marzo_2024":99,
@@ -9721,6 +10207,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Camiña",
+  "padre_org":"Municipios de Tarapacá",
   "Enero_2024":250,
   "Febrero_2024":245,
   "Marzo_2024":292,
@@ -9741,6 +10228,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":488,
   "Febrero_2024":517,
   "Marzo_2024":724,
@@ -9761,6 +10249,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cartagena",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1249,
   "Febrero_2024":1268,
   "Marzo_2024":1258,
@@ -9781,6 +10270,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":816,
   "Febrero_2024":804,
   "Marzo_2024":962,
@@ -9801,6 +10291,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Catemu",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":831,
   "Febrero_2024":458,
   "Marzo_2024":690,
@@ -9821,6 +10312,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":2011,
   "Febrero_2024":1960,
   "Marzo_2024":1946,
@@ -9841,6 +10333,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1486,
   "Febrero_2024":1306,
   "Marzo_2024":1245,
@@ -9861,6 +10354,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cerrillos",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1265,
   "Febrero_2024":1605,
   "Marzo_2024":1132,
@@ -9881,6 +10375,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":3283,
   "Febrero_2024":2001,
   "Marzo_2024":2071,
@@ -9901,6 +10396,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":404,
   "Febrero_2024":411,
   "Marzo_2024":469,
@@ -9921,6 +10417,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chanco",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":628,
   "Febrero_2024":495,
   "Marzo_2024":609,
@@ -9941,6 +10438,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":310,
   "Febrero_2024":334,
   "Marzo_2024":334,
@@ -9961,6 +10459,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1053,
   "Febrero_2024":1095,
   "Marzo_2024":1114,
@@ -9981,6 +10480,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":164,
   "Febrero_2024":153,
   "Marzo_2024":162,
@@ -10001,6 +10501,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chillán",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":7071,
   "Febrero_2024":6927,
   "Marzo_2024":6895,
@@ -10021,6 +10522,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chillán Viejo",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":806,
   "Febrero_2024":844,
   "Marzo_2024":828,
@@ -10041,6 +10543,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":483,
   "Febrero_2024":580,
   "Marzo_2024":570,
@@ -10061,6 +10564,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":635,
   "Febrero_2024":651,
   "Marzo_2024":668,
@@ -10081,6 +10585,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chépica",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":880,
   "Febrero_2024":845,
   "Marzo_2024":864,
@@ -10101,6 +10606,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":273,
   "Febrero_2024":325,
   "Marzo_2024":312,
@@ -10121,6 +10627,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":475,
   "Febrero_2024":540,
   "Marzo_2024":507,
@@ -10141,6 +10648,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cochamó",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":367,
   "Febrero_2024":358,
   "Marzo_2024":383,
@@ -10161,6 +10669,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cochrane",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":98,
   "Febrero_2024":110,
   "Marzo_2024":101,
@@ -10181,6 +10690,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Codegua",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":655,
   "Febrero_2024":636,
   "Marzo_2024":646,
@@ -10201,6 +10711,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":1122,
   "Febrero_2024":855,
   "Marzo_2024":897,
@@ -10221,6 +10732,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":492,
   "Febrero_2024":492,
   "Marzo_2024":564,
@@ -10241,6 +10753,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coinco",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":318,
   "Febrero_2024":288,
   "Marzo_2024":317,
@@ -10261,6 +10774,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Colbún",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":1266,
   "Febrero_2024":1247,
   "Marzo_2024":1245,
@@ -10281,6 +10795,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
+  "padre_org":"Municipios de Tarapacá",
   "Enero_2024":132,
   "Febrero_2024":167,
   "Marzo_2024":177,
@@ -10301,6 +10816,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Colina",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1024,
   "Febrero_2024":1059,
   "Marzo_2024":1083,
@@ -10321,6 +10837,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Collipulli",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":1308,
   "Febrero_2024":1260,
   "Marzo_2024":1157,
@@ -10341,6 +10858,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coltauco",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":904,
   "Febrero_2024":878,
   "Marzo_2024":828,
@@ -10361,6 +10879,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":774,
   "Febrero_2024":947,
   "Marzo_2024":947,
@@ -10381,6 +10900,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":2377,
   "Febrero_2024":2399,
   "Marzo_2024":2370,
@@ -10401,6 +10921,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Conchalí",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":398,
   "Febrero_2024":376,
   "Marzo_2024":371,
@@ -10421,6 +10942,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":3907,
   "Febrero_2024":3952,
   "Marzo_2024":3934,
@@ -10441,6 +10963,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":3737,
   "Febrero_2024":3817,
   "Marzo_2024":3867,
@@ -10461,6 +10984,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":374,
   "Febrero_2024":382,
   "Marzo_2024":375,
@@ -10481,6 +11005,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coyhaique",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":388,
   "Febrero_2024":384,
   "Marzo_2024":416,
@@ -10501,6 +11026,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":958,
   "Febrero_2024":819,
   "Marzo_2024":735,
@@ -10521,6 +11047,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":1207,
   "Febrero_2024":1150,
   "Marzo_2024":1213,
@@ -10541,6 +11068,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curaco de Vélez",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":143,
   "Febrero_2024":179,
   "Marzo_2024":140,
@@ -10561,6 +11089,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1983,
   "Febrero_2024":2141,
   "Marzo_2024":1402,
@@ -10581,6 +11110,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":245,
   "Febrero_2024":273,
   "Marzo_2024":355,
@@ -10601,6 +11131,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":4220,
   "Febrero_2024":4314,
   "Marzo_2024":4429,
@@ -10621,6 +11152,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Dalcahue",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":156,
   "Febrero_2024":217,
   "Marzo_2024":183,
@@ -10641,6 +11173,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":338,
   "Febrero_2024":357,
   "Marzo_2024":376,
@@ -10661,6 +11194,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Doñihue",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":704,
   "Febrero_2024":905,
   "Marzo_2024":902,
@@ -10681,6 +11215,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":3742,
   "Febrero_2024":3473,
   "Marzo_2024":4110,
@@ -10701,6 +11236,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":1024,
   "Febrero_2024":1009,
   "Marzo_2024":806,
@@ -10721,6 +11257,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Monte",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1663,
   "Febrero_2024":1539,
   "Marzo_2024":1716,
@@ -10741,6 +11278,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1321,
   "Febrero_2024":1356,
   "Marzo_2024":1399,
@@ -10761,6 +11299,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1184,
   "Febrero_2024":996,
   "Marzo_2024":1646,
@@ -10781,6 +11320,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":348,
   "Febrero_2024":353,
   "Marzo_2024":367,
@@ -10801,6 +11341,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":658,
   "Febrero_2024":658,
   "Marzo_2024":668,
@@ -10821,6 +11362,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2700,
   "Febrero_2024":2629,
   "Marzo_2024":2778,
@@ -10841,6 +11383,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Florida",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":75,
   "Febrero_2024":79,
   "Marzo_2024":82,
@@ -10861,6 +11404,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":795,
   "Febrero_2024":996,
   "Marzo_2024":1000,
@@ -10881,6 +11425,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":209,
   "Febrero_2024":229,
   "Marzo_2024":217,
@@ -10901,6 +11446,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":249,
   "Febrero_2024":316,
   "Marzo_2024":349,
@@ -10921,6 +11467,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Frutillar",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":461,
   "Febrero_2024":503,
   "Marzo_2024":515,
@@ -10941,6 +11488,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":331,
   "Febrero_2024":361,
   "Marzo_2024":339,
@@ -10961,6 +11509,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Futrono",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":830,
   "Febrero_2024":930,
   "Marzo_2024":977,
@@ -10981,6 +11530,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":1025,
   "Febrero_2024":1023,
   "Marzo_2024":1061,
@@ -11001,6 +11551,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de General Lagos",
+  "padre_org":"Municipios de Arica y  Parinacota",
   "Enero_2024":40,
   "Febrero_2024":35,
   "Marzo_2024":45,
@@ -11021,6 +11572,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":908,
   "Febrero_2024":790,
   "Marzo_2024":832,
@@ -11041,6 +11593,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":898,
   "Febrero_2024":941,
   "Marzo_2024":891,
@@ -11061,6 +11614,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":95,
   "Febrero_2024":94,
   "Marzo_2024":96,
@@ -11081,6 +11635,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hijuelas",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":741,
   "Febrero_2024":800,
   "Marzo_2024":807,
@@ -11101,6 +11656,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hualaihué",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":612,
   "Febrero_2024":613,
   "Marzo_2024":644,
@@ -11121,6 +11677,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1866,
   "Febrero_2024":1895,
   "Marzo_2024":1966,
@@ -11141,6 +11698,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hualqui",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":578,
   "Febrero_2024":639,
   "Marzo_2024":653,
@@ -11161,6 +11719,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Huara",
+  "padre_org":"Municipios de Tarapacá",
   "Enero_2024":368,
   "Febrero_2024":473,
   "Marzo_2024":486,
@@ -11181,6 +11740,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":243,
   "Febrero_2024":195,
   "Marzo_2024":241,
@@ -11201,6 +11761,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2653,
   "Febrero_2024":3395,
   "Marzo_2024":2557,
@@ -11221,6 +11782,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Illapel",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":1539,
   "Febrero_2024":1769,
   "Marzo_2024":1936,
@@ -11241,6 +11803,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1318,
   "Febrero_2024":1799,
   "Marzo_2024":1740,
@@ -11261,6 +11824,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
+  "padre_org":"Municipios de Tarapacá",
   "Enero_2024":1026,
   "Febrero_2024":1015,
   "Marzo_2024":1020,
@@ -11281,6 +11845,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":297,
   "Febrero_2024":385,
   "Marzo_2024":484,
@@ -11301,6 +11866,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1066,
   "Febrero_2024":1173,
   "Marzo_2024":1173,
@@ -11321,6 +11887,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Juan Fernández",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":126,
   "Febrero_2024":149,
   "Marzo_2024":150,
@@ -11341,6 +11908,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1574,
   "Febrero_2024":1362,
   "Marzo_2024":1615,
@@ -11361,6 +11929,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Cruz",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":657,
   "Febrero_2024":658,
   "Marzo_2024":741,
@@ -11381,6 +11950,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":346,
   "Febrero_2024":394,
   "Marzo_2024":291,
@@ -11401,6 +11971,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1103,
   "Febrero_2024":1495,
   "Marzo_2024":1832,
@@ -11421,6 +11992,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Granja",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2379,
   "Febrero_2024":2283,
   "Marzo_2024":2312,
@@ -11441,6 +12013,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":381,
   "Febrero_2024":379,
   "Marzo_2024":421,
@@ -11461,6 +12034,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1419,
   "Febrero_2024":1400,
   "Marzo_2024":1385,
@@ -11481,6 +12055,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Pintana",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":3699,
   "Febrero_2024":3633,
   "Marzo_2024":3668,
@@ -11501,6 +12076,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":596,
   "Febrero_2024":613,
   "Marzo_2024":615,
@@ -11521,6 +12097,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":1356,
   "Febrero_2024":1418,
   "Marzo_2024":1487,
@@ -11541,6 +12118,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":1704,
   "Febrero_2024":1391,
   "Marzo_2024":1782,
@@ -11561,6 +12139,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":756,
   "Febrero_2024":752,
   "Marzo_2024":796,
@@ -11581,6 +12160,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":109,
   "Febrero_2024":115,
   "Marzo_2024":108,
@@ -11601,6 +12181,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Laguna Blanca",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":33,
   "Febrero_2024":53,
   "Marzo_2024":47,
@@ -11621,6 +12202,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Laja",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1125,
   "Febrero_2024":1067,
   "Marzo_2024":1084,
@@ -11641,6 +12223,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lampa",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":744,
   "Febrero_2024":682,
   "Marzo_2024":757,
@@ -11661,6 +12244,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lanco",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":525,
   "Febrero_2024":531,
   "Marzo_2024":568,
@@ -11681,6 +12265,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":1218,
   "Febrero_2024":1300,
   "Marzo_2024":1253,
@@ -11701,6 +12286,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":2074,
   "Febrero_2024":2032,
   "Marzo_2024":2116,
@@ -11721,6 +12307,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1631,
   "Febrero_2024":1768,
   "Marzo_2024":1516,
@@ -11741,6 +12328,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Licantén",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":607,
   "Febrero_2024":578,
   "Marzo_2024":606,
@@ -11761,6 +12349,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1411,
   "Febrero_2024":1351,
   "Marzo_2024":1381,
@@ -11781,6 +12370,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":310,
   "Febrero_2024":314,
   "Marzo_2024":321,
@@ -11801,6 +12391,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Llanquihue",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":425,
   "Febrero_2024":460,
   "Marzo_2024":467,
@@ -11821,6 +12412,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Llay Llay",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -11841,6 +12433,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lo Barnechea",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1668,
   "Febrero_2024":1729,
   "Marzo_2024":1512,
@@ -11861,6 +12454,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lo Espejo",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2700,
   "Febrero_2024":2552,
   "Marzo_2024":2671,
@@ -11881,6 +12475,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lo Prado",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":569,
   "Febrero_2024":588,
   "Marzo_2024":513,
@@ -11901,6 +12496,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":340,
   "Febrero_2024":342,
   "Marzo_2024":346,
@@ -11921,6 +12517,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":948,
   "Febrero_2024":1298,
   "Marzo_2024":1191,
@@ -11941,6 +12538,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":650,
   "Febrero_2024":1230,
   "Marzo_2024":852,
@@ -11961,6 +12559,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1780,
   "Febrero_2024":1986,
   "Marzo_2024":2065,
@@ -11981,6 +12580,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1744,
   "Febrero_2024":1717,
   "Marzo_2024":1763,
@@ -12001,6 +12601,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":1121,
   "Febrero_2024":1207,
   "Marzo_2024":1283,
@@ -12021,6 +12622,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":310,
   "Febrero_2024":556,
   "Marzo_2024":492,
@@ -12041,6 +12643,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":617,
   "Febrero_2024":698,
   "Marzo_2024":619,
@@ -12061,6 +12664,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":1001,
   "Febrero_2024":1023,
   "Marzo_2024":1191,
@@ -12081,6 +12685,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Ángeles",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":409,
   "Febrero_2024":471,
   "Marzo_2024":561,
@@ -12101,6 +12706,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":642,
   "Febrero_2024":680,
   "Marzo_2024":663,
@@ -12121,6 +12727,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":1031,
   "Febrero_2024":987,
   "Marzo_2024":1010,
@@ -12141,6 +12748,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":4341,
   "Febrero_2024":4289,
   "Marzo_2024":4267,
@@ -12161,6 +12769,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":514,
   "Febrero_2024":542,
   "Marzo_2024":528,
@@ -12181,6 +12790,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Marchige",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":589,
   "Febrero_2024":562,
   "Marzo_2024":592,
@@ -12201,6 +12811,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":832,
   "Febrero_2024":812,
   "Marzo_2024":928,
@@ -12221,6 +12832,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":354,
   "Febrero_2024":467,
   "Marzo_2024":462,
@@ -12241,6 +12853,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de María Pinto",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":165,
   "Febrero_2024":159,
   "Marzo_2024":158,
@@ -12261,6 +12874,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Maule",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":690,
   "Febrero_2024":966,
   "Marzo_2024":1163,
@@ -12281,6 +12895,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":833,
   "Febrero_2024":820,
   "Marzo_2024":829,
@@ -12301,6 +12916,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":728,
   "Febrero_2024":714,
   "Marzo_2024":744,
@@ -12321,6 +12937,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":518,
   "Febrero_2024":552,
   "Marzo_2024":586,
@@ -12341,6 +12958,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Molina",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":1664,
   "Febrero_2024":1725,
   "Marzo_2024":1749,
@@ -12361,6 +12979,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Monte Patria",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":1827,
   "Febrero_2024":1538,
   "Marzo_2024":2303,
@@ -12381,6 +13000,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":1131,
   "Febrero_2024":1254,
   "Marzo_2024":1195,
@@ -12401,6 +13021,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Mulchén",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":1008,
   "Febrero_2024":1010,
   "Marzo_2024":587,
@@ -12421,6 +13042,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Máfil",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":430,
   "Febrero_2024":469,
   "Marzo_2024":471,
@@ -12441,6 +13063,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":770,
   "Febrero_2024":760,
   "Marzo_2024":992,
@@ -12461,6 +13084,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Nancagua",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":298,
   "Febrero_2024":318,
   "Marzo_2024":318,
@@ -12481,6 +13105,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Navidad",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":676,
   "Febrero_2024":718,
   "Marzo_2024":694,
@@ -12501,6 +13126,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ninhue",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -12521,6 +13147,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":526,
   "Febrero_2024":644,
   "Marzo_2024":646,
@@ -12541,6 +13168,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":110,
   "Febrero_2024":112,
   "Marzo_2024":109,
@@ -12561,6 +13189,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ollague",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":60,
   "Febrero_2024":77,
   "Marzo_2024":72,
@@ -12581,6 +13210,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":930,
   "Febrero_2024":635,
   "Marzo_2024":625,
@@ -12601,6 +13231,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":3647,
   "Febrero_2024":3626,
   "Marzo_2024":3636,
@@ -12621,6 +13252,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":5327,
   "Febrero_2024":4256,
   "Marzo_2024":4892,
@@ -12641,6 +13273,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1032,
   "Febrero_2024":1259,
   "Marzo_2024":987,
@@ -12661,6 +13294,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":2022,
   "Febrero_2024":2008,
   "Marzo_2024":2091,
@@ -12681,6 +13315,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Paihuano",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":334,
   "Febrero_2024":201,
   "Marzo_2024":238,
@@ -12701,6 +13336,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":914,
   "Febrero_2024":879,
   "Marzo_2024":974,
@@ -12721,6 +13357,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Paine",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1582,
   "Febrero_2024":1526,
   "Marzo_2024":812,
@@ -12741,6 +13378,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":173,
   "Febrero_2024":171,
   "Marzo_2024":177,
@@ -12761,6 +13399,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":577,
   "Febrero_2024":635,
   "Marzo_2024":543,
@@ -12781,6 +13420,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":627,
   "Febrero_2024":727,
   "Marzo_2024":617,
@@ -12801,6 +13441,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Panquehue",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":497,
   "Febrero_2024":446,
   "Marzo_2024":546,
@@ -12821,6 +13462,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Papudo",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":549,
   "Febrero_2024":569,
   "Marzo_2024":495,
@@ -12841,6 +13483,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":388,
   "Febrero_2024":391,
   "Marzo_2024":403,
@@ -12861,6 +13504,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":1637,
   "Febrero_2024":1708,
   "Marzo_2024":1701,
@@ -12881,6 +13525,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2491,
   "Febrero_2024":3057,
   "Marzo_2024":2813,
@@ -12901,6 +13546,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":815,
   "Febrero_2024":817,
   "Marzo_2024":763,
@@ -12921,6 +13567,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":936,
   "Febrero_2024":1011,
   "Marzo_2024":909,
@@ -12941,6 +13588,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pemuco",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":349,
   "Febrero_2024":290,
   "Marzo_2024":292,
@@ -12961,6 +13609,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pencahue",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":476,
   "Febrero_2024":561,
   "Marzo_2024":564,
@@ -12981,6 +13630,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peralillo",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":649,
   "Febrero_2024":670,
   "Marzo_2024":679,
@@ -13001,6 +13651,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":534,
   "Febrero_2024":591,
   "Marzo_2024":584,
@@ -13021,6 +13672,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Petorca",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":620,
   "Febrero_2024":550,
   "Marzo_2024":520,
@@ -13041,6 +13693,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":519,
   "Febrero_2024":516,
   "Marzo_2024":492,
@@ -13061,6 +13714,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2125,
   "Febrero_2024":2132,
   "Marzo_2024":2088,
@@ -13081,6 +13735,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1337,
   "Febrero_2024":1329,
   "Marzo_2024":1309,
@@ -13101,6 +13756,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pica",
+  "padre_org":"Municipios de Tarapacá",
   "Enero_2024":859,
   "Febrero_2024":865,
   "Marzo_2024":917,
@@ -13121,6 +13777,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":982,
   "Febrero_2024":738,
   "Marzo_2024":816,
@@ -13141,6 +13798,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":1083,
   "Febrero_2024":1145,
   "Marzo_2024":936,
@@ -13161,6 +13819,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pinto",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":432,
   "Febrero_2024":335,
   "Marzo_2024":395,
@@ -13181,6 +13840,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":305,
   "Febrero_2024":332,
   "Marzo_2024":351,
@@ -13201,6 +13861,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pitrufquén",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":1003,
   "Febrero_2024":1076,
   "Marzo_2024":1120,
@@ -13221,6 +13882,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":120,
   "Febrero_2024":225,
   "Marzo_2024":229,
@@ -13241,6 +13903,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":407,
   "Febrero_2024":424,
   "Marzo_2024":434,
@@ -13261,6 +13924,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Porvenir",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":95,
   "Febrero_2024":113,
   "Marzo_2024":107,
@@ -13281,6 +13945,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
+  "padre_org":"Municipios de Tarapacá",
   "Enero_2024":293,
   "Febrero_2024":305,
   "Marzo_2024":294,
@@ -13301,6 +13966,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Primavera",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":50,
   "Febrero_2024":48,
   "Marzo_2024":52,
@@ -13321,6 +13987,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Providencia",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":7357,
   "Febrero_2024":7469,
   "Marzo_2024":7469,
@@ -13341,6 +14008,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -13361,6 +14029,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pucón",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":1119,
   "Febrero_2024":1301,
   "Marzo_2024":1348,
@@ -13381,6 +14050,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pudahuel",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":845,
   "Febrero_2024":858,
   "Marzo_2024":896,
@@ -13401,6 +14071,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puente Alto",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1059,
   "Febrero_2024":750,
   "Marzo_2024":800,
@@ -13421,6 +14092,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Montt",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":8934,
   "Febrero_2024":8514,
   "Marzo_2024":8712,
@@ -13441,6 +14113,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":390,
   "Febrero_2024":365,
   "Marzo_2024":357,
@@ -13461,6 +14134,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Octay",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":383,
   "Febrero_2024":394,
   "Marzo_2024":414,
@@ -13481,6 +14155,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Varas",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":763,
   "Febrero_2024":807,
   "Marzo_2024":796,
@@ -13501,6 +14176,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":309,
   "Febrero_2024":311,
   "Marzo_2024":319,
@@ -13521,6 +14197,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":665,
   "Febrero_2024":652,
   "Marzo_2024":682,
@@ -13541,6 +14218,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":517,
   "Febrero_2024":533,
   "Marzo_2024":522,
@@ -13561,6 +14239,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":99,
   "Febrero_2024":145,
   "Marzo_2024":106,
@@ -13581,6 +14260,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Purranque",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":791,
   "Febrero_2024":776,
   "Marzo_2024":774,
@@ -13601,6 +14281,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Putaendo",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":661,
   "Febrero_2024":733,
   "Marzo_2024":810,
@@ -13621,6 +14302,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Putre",
+  "padre_org":"Municipios de Arica y  Parinacota",
   "Enero_2024":157,
   "Febrero_2024":163,
   "Marzo_2024":170,
@@ -13641,6 +14323,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":666,
   "Febrero_2024":714,
   "Marzo_2024":727,
@@ -13661,6 +14344,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":87,
   "Febrero_2024":84,
   "Marzo_2024":82,
@@ -13681,6 +14365,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quellón",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":108,
   "Febrero_2024":104,
   "Marzo_2024":277,
@@ -13701,6 +14386,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":561,
   "Febrero_2024":481,
   "Marzo_2024":578,
@@ -13721,6 +14407,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":369,
   "Febrero_2024":377,
   "Marzo_2024":537,
@@ -13741,6 +14428,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":5261,
   "Febrero_2024":4321,
   "Marzo_2024":4322,
@@ -13761,6 +14449,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilleco",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":578,
   "Febrero_2024":615,
   "Marzo_2024":617,
@@ -13781,6 +14470,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":2979,
   "Febrero_2024":2980,
   "Marzo_2024":2889,
@@ -13801,6 +14491,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilpué",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":661,
   "Febrero_2024":635,
   "Marzo_2024":593,
@@ -13821,6 +14512,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quinchao",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":143,
   "Febrero_2024":141,
   "Marzo_2024":145,
@@ -13841,6 +14533,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quinta Normal",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":688,
   "Febrero_2024":720,
   "Marzo_2024":957,
@@ -13861,6 +14554,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quintero",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1201,
   "Febrero_2024":1186,
   "Marzo_2024":1202,
@@ -13881,6 +14575,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quirihue",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":646,
   "Febrero_2024":681,
   "Marzo_2024":710,
@@ -13901,6 +14596,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":1020,
   "Febrero_2024":1055,
   "Marzo_2024":1061,
@@ -13921,6 +14617,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rauco",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":454,
   "Febrero_2024":547,
   "Marzo_2024":480,
@@ -13941,6 +14638,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":626,
   "Febrero_2024":558,
   "Marzo_2024":639,
@@ -13961,6 +14659,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Renca",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":664,
   "Febrero_2024":723,
   "Marzo_2024":700,
@@ -13981,6 +14680,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":2565,
   "Febrero_2024":2551,
   "Marzo_2024":2482,
@@ -14001,6 +14701,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":768,
   "Febrero_2024":763,
   "Marzo_2024":779,
@@ -14021,6 +14722,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":1289,
   "Febrero_2024":1140,
   "Marzo_2024":1375,
@@ -14041,6 +14743,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":436,
   "Febrero_2024":376,
   "Marzo_2024":551,
@@ -14061,6 +14764,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":1045,
   "Febrero_2024":1176,
   "Marzo_2024":1115,
@@ -14081,6 +14785,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":827,
   "Febrero_2024":839,
   "Marzo_2024":844,
@@ -14101,6 +14806,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ránquil",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":401,
   "Febrero_2024":486,
   "Marzo_2024":477,
@@ -14121,6 +14827,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":778,
   "Febrero_2024":947,
   "Marzo_2024":960,
@@ -14141,6 +14848,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":369,
   "Febrero_2024":365,
   "Marzo_2024":409,
@@ -14161,6 +14869,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":81,
   "Febrero_2024":136,
   "Marzo_2024":195,
@@ -14181,6 +14890,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Negro",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":489,
   "Febrero_2024":574,
   "Marzo_2024":585,
@@ -14201,6 +14911,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Verde",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":50,
   "Febrero_2024":52,
   "Marzo_2024":62,
@@ -14221,6 +14932,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":248,
   "Febrero_2024":487,
   "Marzo_2024":465,
@@ -14241,6 +14953,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":1119,
   "Febrero_2024":1165,
   "Marzo_2024":1223,
@@ -14261,6 +14974,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Salamanca",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":1143,
   "Febrero_2024":1175,
   "Marzo_2024":1178,
@@ -14281,6 +14995,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":2902,
   "Febrero_2024":3234,
   "Marzo_2024":3293,
@@ -14301,6 +15016,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Bernardo",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1091,
   "Febrero_2024":1095,
   "Marzo_2024":1103,
@@ -14321,6 +15037,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Carlos",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":1109,
   "Febrero_2024":1313,
   "Marzo_2024":1344,
@@ -14341,6 +15058,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":2171,
   "Febrero_2024":2935,
   "Marzo_2024":2699,
@@ -14361,6 +15079,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":704,
   "Febrero_2024":732,
   "Marzo_2024":772,
@@ -14381,6 +15100,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":195,
   "Febrero_2024":292,
   "Marzo_2024":244,
@@ -14401,6 +15121,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":2026,
   "Febrero_2024":2215,
   "Marzo_2024":2358,
@@ -14421,6 +15142,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":533,
   "Febrero_2024":564,
   "Marzo_2024":533,
@@ -14441,6 +15163,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Gregorio",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":55,
   "Febrero_2024":60,
   "Marzo_2024":58,
@@ -14461,6 +15184,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":848,
   "Febrero_2024":987,
   "Marzo_2024":936,
@@ -14481,6 +15205,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":2008,
   "Febrero_2024":1791,
   "Marzo_2024":1715,
@@ -14501,6 +15226,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Joaquín",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":444,
   "Febrero_2024":651,
   "Marzo_2024":690,
@@ -14521,6 +15247,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San José de Maipo",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":136,
   "Febrero_2024":137,
   "Marzo_2024":136,
@@ -14541,6 +15268,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":551,
   "Febrero_2024":649,
   "Marzo_2024":515,
@@ -14561,6 +15289,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":486,
   "Febrero_2024":684,
   "Marzo_2024":691,
@@ -14581,6 +15310,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":689,
   "Febrero_2024":1213,
   "Marzo_2024":1270,
@@ -14601,6 +15331,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Pablo",
+  "padre_org":"Municipios de Los Lagos",
   "Enero_2024":497,
   "Febrero_2024":564,
   "Marzo_2024":517,
@@ -14621,6 +15352,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":559,
   "Febrero_2024":636,
   "Marzo_2024":664,
@@ -14641,6 +15373,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":2001,
   "Febrero_2024":2079,
   "Marzo_2024":2910,
@@ -14661,6 +15394,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":2214,
   "Febrero_2024":2427,
   "Marzo_2024":2161,
@@ -14681,6 +15415,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":306,
   "Febrero_2024":252,
   "Marzo_2024":340,
@@ -14701,6 +15436,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
+  "padre_org":"Municipios del Libertador General Bernardo OHiggins",
   "Enero_2024":814,
   "Febrero_2024":802,
   "Marzo_2024":806,
@@ -14721,6 +15457,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santa Bárbara",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":27,
@@ -14741,6 +15478,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santa Juana",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":679,
   "Febrero_2024":694,
   "Marzo_2024":678,
@@ -14761,6 +15499,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":682,
   "Febrero_2024":719,
   "Marzo_2024":759,
@@ -14781,6 +15520,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":7960,
   "Febrero_2024":7902,
   "Marzo_2024":7743,
@@ -14801,6 +15541,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":924,
   "Febrero_2024":672,
   "Marzo_2024":869,
@@ -14821,6 +15562,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":261,
   "Febrero_2024":293,
   "Marzo_2024":297,
@@ -14841,6 +15583,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Talagante",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":794,
   "Febrero_2024":720,
   "Marzo_2024":793,
@@ -14861,6 +15604,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":12462,
   "Febrero_2024":8843,
   "Marzo_2024":8530,
@@ -14881,6 +15625,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Talcahuano",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":5214,
   "Febrero_2024":4867,
   "Marzo_2024":4663,
@@ -14901,6 +15646,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":826,
   "Febrero_2024":835,
   "Marzo_2024":842,
@@ -14921,6 +15667,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Teno",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":1284,
   "Febrero_2024":1118,
   "Marzo_2024":1139,
@@ -14941,6 +15688,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Teodoro Schmidt",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":296,
   "Febrero_2024":334,
   "Marzo_2024":475,
@@ -14961,6 +15709,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":691,
   "Febrero_2024":605,
   "Marzo_2024":705,
@@ -14981,6 +15730,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":235,
   "Febrero_2024":224,
   "Marzo_2024":287,
@@ -15001,6 +15751,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Timaukel",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":33,
   "Febrero_2024":30,
   "Marzo_2024":29,
@@ -15021,6 +15772,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":822,
   "Febrero_2024":746,
   "Marzo_2024":795,
@@ -15041,6 +15793,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
+  "padre_org":"Municipios de Antofagasta",
   "Enero_2024":970,
   "Febrero_2024":1053,
   "Marzo_2024":1089,
@@ -15061,6 +15814,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":208,
   "Febrero_2024":248,
   "Marzo_2024":273,
@@ -15081,6 +15835,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":3564,
   "Febrero_2024":3495,
   "Marzo_2024":3458,
@@ -15101,6 +15856,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
+  "padre_org":"Municipios de Magallanes y de la Antártica Chilena",
   "Enero_2024":39,
   "Febrero_2024":47,
   "Marzo_2024":46,
@@ -15121,6 +15877,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
+  "padre_org":"Municipios de Aysen del General Carlos Ibáñez del Campo",
   "Enero_2024":84,
   "Febrero_2024":83,
   "Marzo_2024":81,
@@ -15141,6 +15898,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":936,
   "Febrero_2024":836,
   "Marzo_2024":866,
@@ -15161,6 +15919,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Trehuaco",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":455,
   "Febrero_2024":451,
   "Marzo_2024":349,
@@ -15181,6 +15940,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tucapel",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":689,
   "Febrero_2024":723,
   "Marzo_2024":773,
@@ -15201,6 +15961,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Valdivia",
+  "padre_org":"Municipios de Los Ríos",
   "Enero_2024":135,
   "Febrero_2024":226,
   "Marzo_2024":249,
@@ -15221,6 +15982,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vallenar",
+  "padre_org":"Municipios de Atacama",
   "Enero_2024":0,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -15241,6 +16003,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Valparaíso",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":1818,
   "Febrero_2024":2581,
   "Marzo_2024":1568,
@@ -15261,6 +16024,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":392,
   "Febrero_2024":395,
   "Marzo_2024":404,
@@ -15281,6 +16045,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vicuña",
+  "padre_org":"Municipios de Coquimbo",
   "Enero_2024":1251,
   "Febrero_2024":1239,
   "Marzo_2024":1255,
@@ -15301,6 +16066,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vilcún",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":951,
   "Febrero_2024":994,
   "Marzo_2024":1061,
@@ -15321,6 +16087,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":938,
   "Febrero_2024":1064,
   "Marzo_2024":993,
@@ -15341,6 +16108,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":541,
   "Febrero_2024":578,
   "Marzo_2024":556,
@@ -15361,6 +16129,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
+  "padre_org":"Municipios de La Araucanía",
   "Enero_2024":2278,
   "Febrero_2024":2408,
   "Marzo_2024":2352,
@@ -15381,6 +16150,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":1479,
   "Febrero_2024":1481,
   "Marzo_2024":1543,
@@ -15401,6 +16171,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":2414,
   "Febrero_2024":2457,
   "Marzo_2024":2364,
@@ -15421,6 +16192,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
+  "padre_org":"Municipios del Maule",
   "Enero_2024":846,
   "Febrero_2024":745,
   "Marzo_2024":851,
@@ -15441,6 +16213,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
+  "padre_org":"Municipios del Bíobio",
   "Enero_2024":795,
   "Febrero_2024":818,
   "Marzo_2024":787,
@@ -15461,6 +16234,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":633,
   "Febrero_2024":637,
   "Marzo_2024":742,
@@ -15481,6 +16255,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
+  "padre_org":"Municipios de Valparaíso",
   "Enero_2024":990,
   "Febrero_2024":918,
   "Marzo_2024":921,
@@ -15501,6 +16276,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
+  "padre_org":"Municipios de Ñuble",
   "Enero_2024":398,
   "Febrero_2024":222,
   "Marzo_2024":307,
@@ -15521,6 +16297,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
+  "padre_org":"Municipios de R. Metropolitana de Santiago",
   "Enero_2024":615,
   "Febrero_2024":615,
   "Marzo_2024":617,
@@ -15541,6 +16318,7 @@
  },
  {
   "organismo_nombre":"Oficinas de Estudios y Políticas Agrarias (ODEPA)",
+  "padre_org":"Agricultura",
   "Enero_2024":135,
   "Febrero_2024":134,
   "Marzo_2024":134,
@@ -15561,6 +16339,7 @@
  },
  {
   "organismo_nombre":"Parque Metropolitano de Santiago",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":436,
   "Febrero_2024":425,
   "Marzo_2024":430,
@@ -15581,6 +16360,7 @@
  },
  {
   "organismo_nombre":"Policía de Investigaciones (PDI)",
+  "padre_org":"Interior",
   "Enero_2024":18,
   "Febrero_2024":20,
   "Marzo_2024":0,
@@ -15601,6 +16381,7 @@
  },
  {
   "organismo_nombre":"Presidencia de la República",
+  "padre_org":"Presidencia de la República",
   "Enero_2024":448,
   "Febrero_2024":452,
   "Marzo_2024":458,
@@ -15621,6 +16402,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
+  "padre_org":"Salud",
   "Enero_2024":897,
   "Febrero_2024":953,
   "Marzo_2024":943,
@@ -15641,6 +16423,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Antofagasta",
+  "padre_org":"Salud",
   "Enero_2024":177,
   "Febrero_2024":177,
   "Marzo_2024":340,
@@ -15661,6 +16444,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
+  "padre_org":"Salud",
   "Enero_2024":173,
   "Febrero_2024":175,
   "Marzo_2024":173,
@@ -15681,6 +16465,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
+  "padre_org":"Salud",
   "Enero_2024":167,
   "Febrero_2024":164,
   "Marzo_2024":165,
@@ -15701,6 +16486,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Coquimbo",
+  "padre_org":"Salud",
   "Enero_2024":234,
   "Febrero_2024":236,
   "Marzo_2024":234,
@@ -15721,6 +16507,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
+  "padre_org":"Salud",
   "Enero_2024":159,
   "Febrero_2024":169,
   "Marzo_2024":165,
@@ -15741,6 +16528,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
+  "padre_org":"Salud",
   "Enero_2024":573,
   "Febrero_2024":632,
   "Marzo_2024":639,
@@ -15761,6 +16549,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud de Aysén",
+  "padre_org":"Salud",
   "Enero_2024":142,
   "Febrero_2024":146,
   "Marzo_2024":138,
@@ -15781,6 +16570,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud de La Araucanía",
+  "padre_org":"Salud",
   "Enero_2024":575,
   "Febrero_2024":301,
   "Marzo_2024":300,
@@ -15801,6 +16591,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
+  "padre_org":"Salud",
   "Enero_2024":150,
   "Febrero_2024":151,
   "Marzo_2024":149,
@@ -15821,6 +16612,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud de Magallanes y Antártica Chilena",
+  "padre_org":"Salud",
   "Enero_2024":154,
   "Febrero_2024":155,
   "Marzo_2024":152,
@@ -15841,6 +16633,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
+  "padre_org":"Salud",
   "Enero_2024":234,
   "Febrero_2024":234,
   "Marzo_2024":237,
@@ -15861,6 +16654,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud del Bío Bío",
+  "padre_org":"Salud",
   "Enero_2024":521,
   "Febrero_2024":518,
   "Marzo_2024":512,
@@ -15881,6 +16675,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud del Maule",
+  "padre_org":"Salud",
   "Enero_2024":260,
   "Febrero_2024":503,
   "Marzo_2024":248,
@@ -15901,6 +16696,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
+  "padre_org":"Salud",
   "Enero_2024":142,
   "Febrero_2024":148,
   "Marzo_2024":145,
@@ -15921,6 +16717,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
+  "padre_org":"Salud",
   "Enero_2024":337,
   "Febrero_2024":327,
   "Marzo_2024":323,
@@ -15941,6 +16738,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región Metropolitana",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":268,
   "Febrero_2024":278,
   "Marzo_2024":138,
@@ -15961,6 +16759,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Antofagasta",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":47,
   "Febrero_2024":49,
   "Marzo_2024":49,
@@ -15981,6 +16780,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Arica y Parinacota",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":33,
   "Febrero_2024":33,
   "Marzo_2024":34,
@@ -16001,6 +16801,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Atacama",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":48,
   "Febrero_2024":48,
   "Marzo_2024":47,
@@ -16021,6 +16822,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Aysén",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":38,
   "Febrero_2024":37,
   "Marzo_2024":37,
@@ -16041,6 +16843,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Bíobio",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":118,
   "Febrero_2024":117,
   "Marzo_2024":118,
@@ -16061,6 +16864,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Coquimbo",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":51,
   "Febrero_2024":50,
   "Marzo_2024":51,
@@ -16081,6 +16885,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de La Araucanía",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":62,
   "Febrero_2024":63,
   "Marzo_2024":63,
@@ -16101,6 +16906,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Los Lagos",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":55,
   "Febrero_2024":56,
   "Marzo_2024":56,
@@ -16121,6 +16927,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Los Ríos",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":45,
   "Febrero_2024":48,
   "Marzo_2024":48,
@@ -16141,6 +16948,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Magallanes y Antártica Chilena",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":38,
   "Febrero_2024":38,
   "Marzo_2024":38,
@@ -16161,6 +16969,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Maule",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":72,
   "Febrero_2024":72,
   "Marzo_2024":73,
@@ -16181,6 +16990,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Tarapacá",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":42,
   "Febrero_2024":43,
   "Marzo_2024":43,
@@ -16201,6 +17011,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Valparaíso",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":108,
   "Febrero_2024":197,
   "Marzo_2024":0,
@@ -16221,6 +17032,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región de Ñuble",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":41,
   "Febrero_2024":42,
   "Marzo_2024":42,
@@ -16241,6 +17053,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Vivienda y Urbanismo Región del Libertador Bernardo OHiggins",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":66,
   "Febrero_2024":66,
   "Marzo_2024":67,
@@ -16261,6 +17074,7 @@
  },
  {
   "organismo_nombre":"SERVICIO DE SALUD ARAUCANIA NORTE",
+  "padre_org":"Salud",
   "Enero_2024":1948,
   "Febrero_2024":2052,
   "Marzo_2024":1958,
@@ -16281,6 +17095,7 @@
  },
  {
   "organismo_nombre":"SERVIU Metropolitano",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":956,
   "Febrero_2024":954,
   "Marzo_2024":964,
@@ -16301,6 +17116,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Antofagasta",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":147,
   "Febrero_2024":150,
   "Marzo_2024":149,
@@ -16321,6 +17137,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Arica y Parinacota",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":115,
   "Febrero_2024":114,
   "Marzo_2024":119,
@@ -16341,6 +17158,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Atacama",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":123,
   "Febrero_2024":123,
   "Marzo_2024":123,
@@ -16361,6 +17179,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Aysén del General Carlos Ibáñez del Campo",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":97,
   "Febrero_2024":105,
   "Marzo_2024":104,
@@ -16381,6 +17200,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Coquimbo",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":185,
   "Febrero_2024":188,
   "Marzo_2024":191,
@@ -16401,6 +17221,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Los Lagos",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":253,
   "Febrero_2024":254,
   "Marzo_2024":510,
@@ -16421,6 +17242,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Los Ríos",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":255,
   "Febrero_2024":134,
   "Marzo_2024":145,
@@ -16441,6 +17263,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Magallanes y la Antártica Chilena",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":97,
   "Febrero_2024":115,
   "Marzo_2024":115,
@@ -16461,6 +17284,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Tarapacá",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":174,
   "Febrero_2024":173,
   "Marzo_2024":172,
@@ -16481,6 +17305,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de Valparaíso",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":448,
   "Febrero_2024":447,
   "Marzo_2024":451,
@@ -16501,6 +17326,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región de la Araucanía",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":221,
   "Febrero_2024":220,
   "Marzo_2024":220,
@@ -16521,6 +17347,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región del Bío Bío",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":556,
   "Febrero_2024":554,
   "Marzo_2024":553,
@@ -16541,6 +17368,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región del Libertador Bernardo OHiggins",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":225,
   "Febrero_2024":224,
   "Marzo_2024":226,
@@ -16561,6 +17389,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región del Maule",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":273,
   "Febrero_2024":275,
   "Marzo_2024":276,
@@ -16581,6 +17410,7 @@
  },
  {
   "organismo_nombre":"SERVIU Región del Ñuble",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":123,
   "Febrero_2024":126,
   "Marzo_2024":119,
@@ -16601,6 +17431,7 @@
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
+  "padre_org":"Agricultura",
   "Enero_2024":5208,
   "Febrero_2024":5221,
   "Marzo_2024":4400,
@@ -16621,6 +17452,7 @@
  },
  {
   "organismo_nombre":"Servicio Electoral (SERVEL)",
+  "padre_org":"Servicio Electoral",
   "Enero_2024":424,
   "Febrero_2024":420,
   "Marzo_2024":420,
@@ -16641,6 +17473,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
+  "padre_org":"Educación",
   "Enero_2024":36,
   "Febrero_2024":40,
   "Marzo_2024":76,
@@ -16661,6 +17494,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Aconcagua (SLEP Aconcagua)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16681,6 +17515,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
+  "padre_org":"Educación",
   "Enero_2024":3446,
   "Febrero_2024":3556,
   "Marzo_2024":3547,
@@ -16701,6 +17536,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
+  "padre_org":"Educación",
   "Enero_2024":4761,
   "Febrero_2024":4855,
   "Marzo_2024":4673,
@@ -16721,6 +17557,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chiloé (SLEP Chiloé)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16741,6 +17578,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chinchorro (SLEP Chinchorro)",
+  "padre_org":"Educación",
   "Enero_2024":3821,
   "Febrero_2024":3597,
   "Marzo_2024":3667,
@@ -16761,6 +17599,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Colchagua (SLEP Colchagua)",
+  "padre_org":"Educación",
   "Enero_2024":2392,
   "Febrero_2024":2388,
   "Marzo_2024":2362,
@@ -16781,6 +17620,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Costa Araucanía (SLEP Costa Araucanía)",
+  "padre_org":"Educación",
   "Enero_2024":2182,
   "Febrero_2024":2135,
   "Marzo_2024":2020,
@@ -16801,6 +17641,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Costa Central (SLEP Costa Central)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16821,6 +17662,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Elqui (SLEP Elqui)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":1,
   "Marzo_2024":0,
@@ -16841,6 +17683,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Gabriela Mistral (SLEP Gabriela Mistral)",
+  "padre_org":"Educación",
   "Enero_2024":2482,
   "Febrero_2024":2397,
   "Marzo_2024":2408,
@@ -16861,6 +17704,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Huasco (SLEP Huasco)",
+  "padre_org":"Educación",
   "Enero_2024":2377,
   "Febrero_2024":3185,
   "Marzo_2024":2368,
@@ -16881,6 +17725,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
+  "padre_org":"Educación",
   "Enero_2024":20,
   "Febrero_2024":39,
   "Marzo_2024":39,
@@ -16901,6 +17746,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
+  "padre_org":"Educación",
   "Enero_2024":2182,
   "Febrero_2024":1891,
   "Marzo_2024":2122,
@@ -16921,6 +17767,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Los Álamos (SLEP Los Álamos)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16941,6 +17788,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Marga Marga (SLEP Marga Marga)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16961,6 +17809,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Petorca (SLEP Petorca)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16981,6 +17830,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Puerto Cordillera",
+  "padre_org":"Educación",
   "Enero_2024":1625,
   "Febrero_2024":1801,
   "Marzo_2024":1603,
@@ -17001,6 +17851,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
+  "padre_org":"Educación",
   "Enero_2024":14,
   "Febrero_2024":15,
   "Marzo_2024":16,
@@ -17021,6 +17872,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santiago Centro (SLEP Santiago Centro)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17041,6 +17893,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Valdivia (SLEP Valdivia)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17061,6 +17914,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Valparaíso (SLEP Valparaíso)",
+  "padre_org":"Educación",
   "Enero_2024":2980,
   "Febrero_2024":3496,
   "Marzo_2024":3825,
@@ -17081,6 +17935,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
+  "padre_org":"Educación",
   "Enero_2024":10,
   "Febrero_2024":12,
   "Marzo_2024":12,
@@ -17101,6 +17956,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Antofagasta (SLEP Antofagasta)",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17121,6 +17977,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Aysén (SLEP Aysén)",
+  "padre_org":"Educación",
   "Enero_2024":2648,
   "Febrero_2024":2513,
   "Marzo_2024":6715,
@@ -17141,6 +17998,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
+  "padre_org":"Educación",
   "Enero_2024":3779,
   "Febrero_2024":3754,
   "Marzo_2024":3812,
@@ -17161,6 +18019,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
+  "padre_org":"Educación",
   "Enero_2024":2810,
   "Febrero_2024":2833,
   "Marzo_2024":2713,
@@ -17181,6 +18040,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Los Parques",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17201,6 +18061,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
+  "padre_org":"Educación",
   "Enero_2024":3107,
   "Febrero_2024":3091,
   "Marzo_2024":3411,
@@ -17221,6 +18082,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17241,6 +18103,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Tamarugal",
+  "padre_org":"Educación",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17261,6 +18124,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública los Libertadores",
+  "padre_org":"Educación",
   "Enero_2024":8,
   "Febrero_2024":14,
   "Marzo_2024":14,
@@ -17281,6 +18145,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de educación Pública Punilla Cordillera",
+  "padre_org":"Educación",
   "Enero_2024":3751,
   "Febrero_2024":2905,
   "Marzo_2024":3087,
@@ -17301,6 +18166,7 @@
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
+  "padre_org":"Educación",
   "Enero_2024":12,
   "Febrero_2024":12,
   "Marzo_2024":13,
@@ -17321,6 +18187,7 @@
  },
  {
   "organismo_nombre":"Servicio Médico Legal (SML)",
+  "padre_org":"Justicia",
   "Enero_2024":1193,
   "Febrero_2024":1204,
   "Marzo_2024":1206,
@@ -17341,6 +18208,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Aduanas",
+  "padre_org":"Hacienda",
   "Enero_2024":2039,
   "Febrero_2024":2053,
   "Marzo_2024":2063,
@@ -17361,6 +18229,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Capacitación y Empleo (SENCE)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":717,
   "Febrero_2024":720,
   "Marzo_2024":719,
@@ -17381,6 +18250,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Geología y Minería (SERNAGEOMIN)",
+  "padre_org":"Minería",
   "Enero_2024":625,
   "Febrero_2024":622,
   "Marzo_2024":626,
@@ -17401,6 +18271,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Menores (SENAME)",
+  "padre_org":"Justicia",
   "Enero_2024":2302,
   "Febrero_2024":2367,
   "Marzo_2024":2366,
@@ -17421,6 +18292,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Migraciones",
+  "padre_org":"Interior",
   "Enero_2024":588,
   "Febrero_2024":592,
   "Marzo_2024":581,
@@ -17441,6 +18313,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":1161,
   "Febrero_2024":1163,
   "Marzo_2024":1181,
@@ -17461,6 +18334,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Prevención y Respuesta ante Desastres (SENAPRED) ex ONEMI",
+  "padre_org":"Interior",
   "Enero_2024":476,
   "Febrero_2024":475,
   "Marzo_2024":480,
@@ -17481,6 +18355,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Protección Especializada a la Niñez y Adolescencia",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":2748,
   "Febrero_2024":2760,
   "Marzo_2024":2763,
@@ -17501,6 +18376,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Reinserción Social Juvenil",
+  "padre_org":"Justicia",
   "Enero_2024":500,
   "Febrero_2024":546,
   "Marzo_2024":600,
@@ -17521,6 +18397,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de Turismo (SERNATUR)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":376,
   "Febrero_2024":382,
   "Marzo_2024":388,
@@ -17541,6 +18418,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de la Discapacidad (SENADIS)",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":188,
   "Febrero_2024":186,
   "Marzo_2024":186,
@@ -17561,6 +18439,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional de la Mujer y la Equidad de Género (SERNAMEG)",
+  "padre_org":"La Mujer y Equidad de Género",
   "Enero_2024":440,
   "Febrero_2024":454,
   "Marzo_2024":458,
@@ -17581,6 +18460,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional del Adulto Mayor (SENAMA)",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":377,
   "Febrero_2024":379,
   "Marzo_2024":375,
@@ -17601,6 +18481,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional del Consumidor (SERNAC)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":395,
   "Febrero_2024":398,
   "Marzo_2024":396,
@@ -17621,6 +18502,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
+  "padre_org":"Culturas y las Artes",
   "Enero_2024":1949,
   "Febrero_2024":1959,
   "Marzo_2024":1972,
@@ -17641,6 +18523,7 @@
  },
  {
   "organismo_nombre":"Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (SENDA)",
+  "padre_org":"Interior",
   "Enero_2024":369,
   "Febrero_2024":373,
   "Marzo_2024":370,
@@ -17661,6 +18544,7 @@
  },
  {
   "organismo_nombre":"Servicio de Biodiversidad y Áreas Protegidas",
+  "padre_org":"Medio Ambiente",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -17681,6 +18565,7 @@
  },
  {
   "organismo_nombre":"Servicio de Cooperación Técnica (SERCOTEC)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":352,
   "Febrero_2024":357,
   "Marzo_2024":358,
@@ -17701,6 +18586,7 @@
  },
  {
   "organismo_nombre":"Servicio de Evaluación Ambiental (SEA)",
+  "padre_org":"Medio Ambiente",
   "Enero_2024":427,
   "Febrero_2024":429,
   "Marzo_2024":440,
@@ -17721,6 +18607,7 @@
  },
  {
   "organismo_nombre":"Servicio de Gobierno Interior",
+  "padre_org":"Interior",
   "Enero_2024":142,
   "Febrero_2024":135,
   "Marzo_2024":74,
@@ -17741,6 +18628,7 @@
  },
  {
   "organismo_nombre":"Servicio de Registro Civil e Identificación",
+  "padre_org":"Justicia",
   "Enero_2024":3408,
   "Febrero_2024":3438,
   "Marzo_2024":3397,
@@ -17761,6 +18649,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Aconcagua",
+  "padre_org":"Salud",
   "Enero_2024":2073,
   "Febrero_2024":2110,
   "Marzo_2024":2000,
@@ -17781,6 +18670,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Antofagasta",
+  "padre_org":"Salud",
   "Enero_2024":3243,
   "Febrero_2024":3225,
   "Marzo_2024":3230,
@@ -17801,6 +18691,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Araucanía Sur",
+  "padre_org":"Salud",
   "Enero_2024":13705,
   "Febrero_2024":192,
   "Marzo_2024":6346,
@@ -17821,6 +18712,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
+  "padre_org":"Salud",
   "Enero_2024":2666,
   "Febrero_2024":4627,
   "Marzo_2024":4093,
@@ -17841,6 +18733,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Arica y Parinacota",
+  "padre_org":"Salud",
   "Enero_2024":766,
   "Febrero_2024":763,
   "Marzo_2024":718,
@@ -17861,6 +18754,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Atacama",
+  "padre_org":"Salud",
   "Enero_2024":3508,
   "Febrero_2024":3622,
   "Marzo_2024":3531,
@@ -17881,6 +18775,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Aysén",
+  "padre_org":"Salud",
   "Enero_2024":2686,
   "Febrero_2024":2751,
   "Marzo_2024":2772,
@@ -17901,6 +18796,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Bíobío",
+  "padre_org":"Salud",
   "Enero_2024":2323,
   "Febrero_2024":2436,
   "Marzo_2024":2443,
@@ -17921,6 +18817,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Concepción",
+  "padre_org":"Salud",
   "Enero_2024":2670,
   "Febrero_2024":2731,
   "Marzo_2024":2687,
@@ -17941,6 +18838,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Coquimbo",
+  "padre_org":"Salud",
   "Enero_2024":2635,
   "Febrero_2024":2630,
   "Marzo_2024":2580,
@@ -17961,6 +18859,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Magallanes",
+  "padre_org":"Salud",
   "Enero_2024":1700,
   "Febrero_2024":1644,
   "Marzo_2024":1765,
@@ -17981,6 +18880,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Maule",
+  "padre_org":"Salud",
   "Enero_2024":3778,
   "Febrero_2024":3500,
   "Marzo_2024":3864,
@@ -18001,6 +18901,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Central",
+  "padre_org":"Salud",
   "Enero_2024":4984,
   "Febrero_2024":3147,
   "Marzo_2024":4380,
@@ -18021,6 +18922,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Norte",
+  "padre_org":"Salud",
   "Enero_2024":683,
   "Febrero_2024":674,
   "Marzo_2024":660,
@@ -18041,6 +18943,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Occidente",
+  "padre_org":"Salud",
   "Enero_2024":2770,
   "Febrero_2024":3141,
   "Marzo_2024":3068,
@@ -18061,6 +18964,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Oriente",
+  "padre_org":"Salud",
   "Enero_2024":1900,
   "Febrero_2024":1922,
   "Marzo_2024":1681,
@@ -18081,6 +18985,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
+  "padre_org":"Salud",
   "Enero_2024":2266,
   "Febrero_2024":1494,
   "Marzo_2024":2221,
@@ -18101,6 +19006,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur Oriente",
+  "padre_org":"Salud",
   "Enero_2024":2275,
   "Febrero_2024":2204,
   "Marzo_2024":2052,
@@ -18121,6 +19027,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud OHiggins",
+  "padre_org":"Salud",
   "Enero_2024":4437,
   "Febrero_2024":4480,
   "Marzo_2024":5527,
@@ -18141,6 +19048,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Osorno",
+  "padre_org":"Salud",
   "Enero_2024":1347,
   "Febrero_2024":1376,
   "Marzo_2024":1391,
@@ -18161,6 +19069,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Talcahuano",
+  "padre_org":"Salud",
   "Enero_2024":2176,
   "Febrero_2024":2158,
   "Marzo_2024":1608,
@@ -18181,6 +19090,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Tarapacá",
+  "padre_org":"Salud",
   "Enero_2024":1487,
   "Febrero_2024":1611,
   "Marzo_2024":1636,
@@ -18201,6 +19111,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Valdivia",
+  "padre_org":"Salud",
   "Enero_2024":2717,
   "Febrero_2024":2814,
   "Marzo_2024":2730,
@@ -18221,6 +19132,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Valparaíso  San Antonio",
+  "padre_org":"Salud",
   "Enero_2024":3191,
   "Febrero_2024":1889,
   "Marzo_2024":1878,
@@ -18241,6 +19153,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Viña del Mar  Quillota",
+  "padre_org":"Salud",
   "Enero_2024":3744,
   "Febrero_2024":3684,
   "Marzo_2024":3615,
@@ -18261,6 +19174,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud de Chiloé",
+  "padre_org":"Salud",
   "Enero_2024":2103,
   "Febrero_2024":2151,
   "Marzo_2024":2180,
@@ -18281,6 +19195,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud del Reloncaví",
+  "padre_org":"Salud",
   "Enero_2024":2305,
   "Febrero_2024":2519,
   "Marzo_2024":2238,
@@ -18301,6 +19216,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
+  "padre_org":"Salud",
   "Enero_2024":2664,
   "Febrero_2024":2461,
   "Marzo_2024":2754,
@@ -18321,6 +19237,7 @@
  },
  {
   "organismo_nombre":"Sistema de Empresas  SEP",
+  "padre_org":"Empresas y Sociedades",
   "Enero_2024":17,
   "Febrero_2024":17,
   "Marzo_2024":17,
@@ -18341,6 +19258,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría General de Gobierno (SEGEGOB)",
+  "padre_org":"Secretaría General de Gobierno",
   "Enero_2024":613,
   "Febrero_2024":621,
   "Marzo_2024":635,
@@ -18361,6 +19279,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría General de La Presidencia (SEGPRES)",
+  "padre_org":"Secretaría General de la Presidencia",
   "Enero_2024":436,
   "Febrero_2024":437,
   "Marzo_2024":329,
@@ -18381,6 +19300,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Agricultura",
+  "padre_org":"Agricultura",
   "Enero_2024":279,
   "Febrero_2024":277,
   "Marzo_2024":285,
@@ -18401,6 +19321,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Bienes Nacionales",
+  "padre_org":"Bienes Nacionales",
   "Enero_2024":809,
   "Febrero_2024":878,
   "Marzo_2024":1083,
@@ -18421,6 +19342,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Ciencia Tecnología Conocimiento e Innovación",
+  "padre_org":"Ciencia Tecnología e Innovación",
   "Enero_2024":133,
   "Febrero_2024":134,
   "Marzo_2024":141,
@@ -18441,6 +19363,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Defensa",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":134,
   "Febrero_2024":137,
   "Marzo_2024":139,
@@ -18461,6 +19384,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Derechos Humanos",
+  "padre_org":"Justicia",
   "Enero_2024":94,
   "Febrero_2024":100,
   "Marzo_2024":103,
@@ -18481,6 +19405,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)",
+  "padre_org":"Interior",
   "Enero_2024":493,
   "Febrero_2024":495,
   "Marzo_2024":504,
@@ -18501,6 +19426,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Economía (MINECON)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":367,
   "Febrero_2024":365,
   "Marzo_2024":375,
@@ -18521,6 +19447,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Educación (MINEDUC)",
+  "padre_org":"Educación",
   "Enero_2024":3376,
   "Febrero_2024":3393,
   "Marzo_2024":3416,
@@ -18541,6 +19468,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Educación Parvularia",
+  "padre_org":"Educación",
   "Enero_2024":132,
   "Febrero_2024":126,
   "Marzo_2024":135,
@@ -18561,6 +19489,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Educación Superior",
+  "padre_org":"Educación",
   "Enero_2024":182,
   "Febrero_2024":186,
   "Marzo_2024":220,
@@ -18581,6 +19510,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Energía",
+  "padre_org":"Energía",
   "Enero_2024":387,
   "Febrero_2024":391,
   "Marzo_2024":394,
@@ -18601,6 +19531,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Evaluación Social",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":307,
   "Febrero_2024":301,
   "Marzo_2024":278,
@@ -18621,6 +19552,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Hacienda",
+  "padre_org":"Hacienda",
   "Enero_2024":282,
   "Febrero_2024":281,
   "Marzo_2024":388,
@@ -18641,6 +19573,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Justicia",
+  "padre_org":"Justicia",
   "Enero_2024":389,
   "Febrero_2024":387,
   "Marzo_2024":384,
@@ -18661,6 +19594,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Minería",
+  "padre_org":"Minería",
   "Enero_2024":149,
   "Febrero_2024":152,
   "Marzo_2024":151,
@@ -18681,6 +19615,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Obras Públicas (MOP)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":659,
   "Febrero_2024":663,
   "Marzo_2024":655,
@@ -18701,6 +19636,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Pesca y Acuicultura",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":227,
   "Febrero_2024":228,
   "Marzo_2024":48,
@@ -18721,6 +19657,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Prevención del Delito",
+  "padre_org":"Interior",
   "Enero_2024":641,
   "Febrero_2024":647,
   "Marzo_2024":688,
@@ -18741,6 +19678,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Previsión Social (SPS)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":106,
   "Febrero_2024":103,
   "Marzo_2024":104,
@@ -18761,6 +19699,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Redes Asistenciales",
+  "padre_org":"Salud",
   "Enero_2024":694,
   "Febrero_2024":826,
   "Marzo_2024":968,
@@ -18781,6 +19720,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Relaciones Económicas Internacionales",
+  "padre_org":"Relaciones Exteriores",
   "Enero_2024":200,
   "Febrero_2024":208,
   "Marzo_2024":240,
@@ -18801,6 +19741,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Relaciones Exteriores",
+  "padre_org":"Relaciones Exteriores",
   "Enero_2024":11,
   "Febrero_2024":11,
   "Marzo_2024":16,
@@ -18821,6 +19762,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
+  "padre_org":"Salud",
   "Enero_2024":897,
   "Febrero_2024":908,
   "Marzo_2024":912,
@@ -18841,6 +19783,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Seguridad Pública",
+  "padre_org":"Seguridad Pública",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18861,6 +19804,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Servicios Sociales",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":1041,
   "Febrero_2024":1039,
   "Marzo_2024":1045,
@@ -18881,6 +19825,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Telecomunicaciones (SUBTEL)",
+  "padre_org":"Transportes y Telecomunicaciones",
   "Enero_2024":324,
   "Febrero_2024":326,
   "Marzo_2024":330,
@@ -18901,6 +19846,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Transportes (MTT)",
+  "padre_org":"Transportes y Telecomunicaciones",
   "Enero_2024":1759,
   "Febrero_2024":1772,
   "Marzo_2024":1780,
@@ -18921,6 +19867,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Turismo",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":35,
   "Febrero_2024":35,
   "Marzo_2024":33,
@@ -18941,6 +19888,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Vivienda y Urbanismo (MINVU)",
+  "padre_org":"Vivienda y Urbanismo",
   "Enero_2024":1061,
   "Febrero_2024":1065,
   "Marzo_2024":1067,
@@ -18961,6 +19909,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de la Mujer y la Equidad de Género",
+  "padre_org":"La Mujer y Equidad de Género",
   "Enero_2024":175,
   "Febrero_2024":173,
   "Marzo_2024":176,
@@ -18981,6 +19930,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de la Niñez",
+  "padre_org":"Desarrollo Social",
   "Enero_2024":65,
   "Febrero_2024":66,
   "Marzo_2024":67,
@@ -19001,6 +19951,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de las Culturas y las Artes",
+  "padre_org":"Culturas y las Artes",
   "Enero_2024":1129,
   "Febrero_2024":1211,
   "Marzo_2024":1452,
@@ -19021,6 +19972,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría del Deporte",
+  "padre_org":"Deporte",
   "Enero_2024":168,
   "Febrero_2024":173,
   "Marzo_2024":174,
@@ -19041,6 +19993,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría del Interior",
+  "padre_org":"Interior",
   "Enero_2024":566,
   "Febrero_2024":585,
   "Marzo_2024":581,
@@ -19061,6 +20014,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría del Medio Ambiente (MMA)",
+  "padre_org":"Medio Ambiente",
   "Enero_2024":632,
   "Febrero_2024":629,
   "Marzo_2024":627,
@@ -19081,6 +20035,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría del Patrimonio Cultural",
+  "padre_org":"Culturas y las Artes",
   "Enero_2024":40,
   "Febrero_2024":40,
   "Marzo_2024":40,
@@ -19101,6 +20056,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría del Trabajo (MINTRAB)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":260,
   "Febrero_2024":263,
   "Marzo_2024":265,
@@ -19121,6 +20077,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría para las Fuerzas Armadas (SSFFAA)",
+  "padre_org":"Defensa Nacional",
   "Enero_2024":339,
   "Febrero_2024":337,
   "Marzo_2024":339,
@@ -19141,6 +20098,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Casinos de Juego (SCJ)",
+  "padre_org":"Hacienda",
   "Enero_2024":65,
   "Febrero_2024":65,
   "Marzo_2024":68,
@@ -19161,6 +20119,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Educación Dirección Nacional",
+  "padre_org":"Educación",
   "Enero_2024":866,
   "Febrero_2024":881,
   "Marzo_2024":885,
@@ -19181,6 +20140,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Educación Superior",
+  "padre_org":"Educación",
   "Enero_2024":61,
   "Febrero_2024":56,
   "Marzo_2024":57,
@@ -19201,6 +20161,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Electricidad y Combustibles (SEC)",
+  "padre_org":"Energía",
   "Enero_2024":380,
   "Febrero_2024":383,
   "Marzo_2024":381,
@@ -19221,6 +20182,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Insolvencia y Reemprendimiento (SUPERIR)",
+  "padre_org":"Economía Fomento y Turismo",
   "Enero_2024":169,
   "Febrero_2024":174,
   "Marzo_2024":175,
@@ -19241,6 +20203,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Pensiones (SP)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":522,
   "Febrero_2024":526,
   "Marzo_2024":535,
@@ -19261,6 +20224,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
+  "padre_org":"Salud",
   "Enero_2024":344,
   "Febrero_2024":345,
   "Marzo_2024":342,
@@ -19281,6 +20245,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Seguridad Social (SUSESO)",
+  "padre_org":"Trabajo y Previsión Social",
   "Enero_2024":316,
   "Febrero_2024":324,
   "Marzo_2024":328,
@@ -19301,6 +20266,7 @@
  },
  {
   "organismo_nombre":"Superintendencia de Servicios Sanitarios (SISS)",
+  "padre_org":"Obras Públicas",
   "Enero_2024":258,
   "Febrero_2024":259,
   "Marzo_2024":255,
@@ -19321,6 +20287,7 @@
  },
  {
   "organismo_nombre":"Superintendencia del Medio Ambiente (SMA)",
+  "padre_org":"Medio Ambiente",
   "Enero_2024":282,
   "Febrero_2024":284,
   "Marzo_2024":289,
@@ -19341,6 +20308,7 @@
  },
  {
   "organismo_nombre":"Tesorería General de la República (TGR)",
+  "padre_org":"Hacienda",
   "Enero_2024":1985,
   "Febrero_2024":1992,
   "Marzo_2024":1988,
@@ -19361,6 +20329,7 @@
  },
  {
   "organismo_nombre":"Unidad de Análisis Financiero",
+  "padre_org":"Hacienda",
   "Enero_2024":72,
   "Febrero_2024":73,
   "Marzo_2024":74,
@@ -19381,6 +20350,7 @@
  },
  {
   "organismo_nombre":"Universidad de Atacama",
+  "padre_org":"Universidades",
   "Enero_2024":977,
   "Febrero_2024":945,
   "Marzo_2024":1012,
@@ -19401,6 +20371,7 @@
  },
  {
   "organismo_nombre":"Universidad de Aysén",
+  "padre_org":"Universidades",
   "Enero_2024":170,
   "Febrero_2024":123,
   "Marzo_2024":214,
@@ -19421,6 +20392,7 @@
  },
  {
   "organismo_nombre":"Universidad de Los Lagos",
+  "padre_org":"Universidades",
   "Enero_2024":1804,
   "Febrero_2024":1546,
   "Marzo_2024":1358,
@@ -19441,6 +20413,7 @@
  },
  {
   "organismo_nombre":"Universidad de Magallanes",
+  "padre_org":"Universidades",
   "Enero_2024":1608,
   "Febrero_2024":1136,
   "Marzo_2024":1348,
@@ -19461,6 +20434,7 @@
  },
  {
   "organismo_nombre":"Universidad de OHiggins",
+  "padre_org":"Universidades",
   "Enero_2024":1122,
   "Febrero_2024":867,
   "Marzo_2024":1293,
@@ -19481,6 +20455,7 @@
  },
  {
   "organismo_nombre":"Universidad de Santiago de Chile (USACH)",
+  "padre_org":"Universidades",
   "Enero_2024":12842,
   "Febrero_2024":11136,
   "Marzo_2024":11056,

@@ -28,6 +28,7 @@ function initializeApp() {
     data.forEach(row => {
         Object.keys(row).forEach(key => {
         if (key !== 'organismo_nombre') allKeys.add(key);
+        //if (key !== 'organismo_nombre' || key !== 'padre_org') allKeys.add(key);
         });
     });
     allMonths = Array.from(allKeys); //.sort();
