@@ -134,6 +134,7 @@ function renderTable() {
     const avg = count > 0 ? sum / count : 0;
     const variance = values.length > 1 ? values.reduce((acc, val) => acc + Math.pow(val - avg, 2), 0) / values.length : 0;
     const stdDev = Math.sqrt(variance);
+    
 
     // Celda del promedio
     const tdAvg = document.createElement('td');
@@ -157,7 +158,7 @@ function renderTable() {
         td.appendChild(tooltip);
         
         // Colorear según desviación del promedio
-        if (Math.abs(val - avg) > stdDev * 0.5) {
+        if (Math.abs(val - avg) > stdDev * 0.9) {
             td.classList.add('valor-bajo');
         }
         else{
@@ -170,18 +171,7 @@ function renderTable() {
 
     table.appendChild(body);
 }
-/*
-function setupEventListeners() {
-    const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', (e) => {
-    const searchTerm = e.target.value.toLowerCase();
-    filteredData = data.filter(row => 
-        row.organismo_nombre.toLowerCase().includes(searchTerm)
-    );
-    renderTable();
-    });
-}
-*/
+
 function setupEventListeners() {
     const searchInput = document.getElementById('search-input');
 
