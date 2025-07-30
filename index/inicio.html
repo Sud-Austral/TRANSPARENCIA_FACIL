@@ -405,6 +405,25 @@ td:hover .tooltip {
     color: black;
 }
 
+.clear-button {
+    padding: 0.5rem 1rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.clear-button:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+
   </style>
 </head>
 <body>
@@ -444,18 +463,31 @@ td:hover .tooltip {
           Registros por Período
         </div>
 
-        <div class="filters">
-            <div class="search-box">
-                <select id="padre-filter">
-                <option value="">Filtrar por Organismo Padre</option>
-                </select>
-            </div>
-            <div class="search-box">
-                <i class="fas fa-search"></i>
-                <input type="text" id="search-input" placeholder="Buscar organismo...">
-            </div>
-            
-            </div>
+       <div class="filters">
+
+        <div class="search-box">
+            <i class="fas fa-layer-group"></i>
+            <select id="padre-filter">
+            <option value="">Todos los organismos padre</option>
+            </select>
+        </div>
+
+        <div class="search-box">
+            <i class="fas fa-search"></i>
+            <input type="text" id="search-input" placeholder="Buscar organismo...">
+        </div>
+
+        
+
+        <div class="search-box">
+            <button id="clear-filters" class="clear-button">
+             Limpiar Filtro
+            </button>
+        </div>
+        </div>
+
+
+
       </div>
       <div class="table-container">
         <div class="loading" id="loading">
@@ -699,6 +731,14 @@ function setupEventListeners() {
 document.addEventListener('DOMContentLoaded', () => {
     setTimeout(initializeApp, 500); // Simular carga
 });
+
+document.getElementById('clear-filters').addEventListener('click', () => {
+    document.getElementById('search-input').value = '';
+    document.getElementById('padre-filter').value = '';
+    filteredData = [...data];
+    renderTable();
+});
+
   </script>
 </body>
 </html>
