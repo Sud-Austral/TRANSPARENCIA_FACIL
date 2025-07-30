@@ -1,5 +1,5 @@
 let rawData = [];
-const url = 'https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo.json'
+const url = 'https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo3.json'
 
 async function cargarJSON() {
     try {
