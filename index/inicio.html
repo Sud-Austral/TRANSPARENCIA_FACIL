@@ -265,6 +265,12 @@ tr:hover td:first-child {
     font-weight: 600;
 }
 
+.valor-bajo2 {
+    background: linear-gradient(90deg, #fef5e7 0%, #eeee32 100%);
+    color: var(--warning-color);
+    font-weight: 600;
+}
+
 .promedio-cell {
     background: linear-gradient(135deg, var(--accent-color) 0%, var(--secondary-color) 100%) !important;
     color: var(--white) !important;
@@ -405,7 +411,7 @@ td:hover .tooltip {
   <header class="header">
     <div class="container">
       <div class="header-content">
-        <h1><i class="fas fa-chart-line"></i> Dashboard de Organismos</h1>
+        <h1><i class="fas fa-chart-line"></i> Registros por Organismos</h1>
         <p>Seguimiento mensual de registros por organismo público</p>
       </div>
     </div>
@@ -435,7 +441,7 @@ td:hover .tooltip {
       <div class="table-header">
         <div class="table-title">
           <i class="fas fa-table"></i>
-          Datos Detallados por Período
+          Registros por Período
         </div>
 
         <div class="filters">
@@ -511,7 +517,6 @@ function initializeApp() {
     data.forEach(row => {
         Object.keys(row).forEach(key => {
         if (key !== 'organismo_nombre') allKeys.add(key);
-        //if (key !== 'organismo_nombre' || key !== 'padre_org') allKeys.add(key);
         });
     });
     allMonths = Array.from(allKeys); //.sort();
@@ -643,11 +648,15 @@ function renderTable() {
         
         // Colorear según desviación del promedio
         if (Math.abs(val - avg) > stdDev * 0.9) {
-            td.classList.add('valor-bajo');
-        }
-        else{
             td.classList.add('valor-alto');
         }
+        else{
+            if (val > avg) {
+                td.classList.add('valor-bajo');
+              } else {
+                td.classList.add('valor-bajo2');
+              }
+            }
         }
     }
     body.appendChild(tr);
@@ -655,25 +664,7 @@ function renderTable() {
 
     table.appendChild(body);
 }
-/*
-function setupEventListeners() {
-    const searchInput = document.getElementById('search-input');
 
-    // Función para normalizar texto (eliminar acentos y convertir a minúsculas)
-    const normalizeText = str => 
-        str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-
-    searchInput.addEventListener('input', (e) => {
-        const searchTerm = normalizeText(e.target.value);
-
-        filteredData = data.filter(row => 
-            normalizeText(row.organismo_nombre).includes(searchTerm)
-        );
-
-        renderTable();
-    });
-}
-*/
 function setupEventListeners() {
     const searchInput = document.getElementById('search-input');
     const padreFilter = document.getElementById('padre-filter');
