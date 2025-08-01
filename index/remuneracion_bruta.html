@@ -788,10 +788,25 @@
           const tr = document.createElement("tr");
 
           // Celda del nombre del organismo
+          /*
           const tdName = document.createElement("td");
           tdName.textContent = row.organismo_nombre;
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
+          */
+          // Celda del nombre del organismo con hipervínculo
+          const tdName = document.createElement("td");
+          const link = document.createElement("a");
+          const encodedName = encodeURIComponent(row.organismo_nombre);
+          link.href = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo/${encodedName}.json`;
+          link.textContent = row.organismo_nombre;
+          link.target = "_blank";
+          link.style.color = "inherit";
+          link.style.textDecoration = "underline";
+          tdName.appendChild(link);
+          tdName.title = row.organismo_nombre;
+          tr.appendChild(tdName);
+
 
           let sum = 0;
           let count = 0;

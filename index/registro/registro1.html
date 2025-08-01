@@ -667,6 +667,10 @@
     <!-- Cargar el script externo -->
     <script src="organismos.js"></script>
     <script>
+      const params = new URLSearchParams(window.location.search);
+      const organismoParam = params.get("organismo"); 
+      
+
       const padreFilter = document.getElementById("padre-filter");
       const padresUnicos = [...new Set(Object.values(organismoPadres))];
 
@@ -683,7 +687,7 @@
 
       let rawData = [];
       const url =
-        "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo_remuneracionBruta.json";
+        `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo/${organismoParam}.json`;
 
       async function cargarJSON() {
         try {
@@ -710,7 +714,10 @@
           const allKeys = new Set();
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
-              if (key !== "organismo_nombre") allKeys.add(key);
+              //if (key !== "organismo_nombre") allKeys.add(key);
+              if (key !== "organismo_nombre" && key !== "base") allKeys.add(key);
+
+              //if (key !== "organismo_nombre" || key !== "base") allKeys.add(key);
             });
           });
           allMonths = Array.from(allKeys); //.sort();
@@ -768,6 +775,11 @@
         thOrg.innerHTML = '<i class="fas fa-building"></i> Organismo';
         headerRow.appendChild(thOrg);
 
+        const thBase = document.createElement("th");
+        thBase.innerHTML = '<i class="fas fa-layer-group"></i> Base';
+        headerRow.appendChild(thBase);
+
+
         allMonths.forEach((month) => {
           const th = document.createElement("th");
           th.textContent = month.replace("_", " ");
@@ -792,6 +804,12 @@
           tdName.textContent = row.organismo_nombre;
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
+
+          const tdBase = document.createElement("td");
+          tdBase.textContent = row.base || "-";
+          tdBase.title = row.base || "-";
+          tr.appendChild(tdBase);
+
 
           let sum = 0;
           let count = 0;
@@ -834,9 +852,10 @@
 
           // Segunda pasada para agregar tooltips y colores
           const cells = tr.children;
-          for (let i = 1; i < cells.length - 1; i++) {
+          for (let i = 2; i < cells.length - 1; i++) {  // Cambiado de 1 a 2
             const td = cells[i];
-            const val = row[allMonths[i - 1]];
+            const val = row[allMonths[i - 2]]; // Cambiado de i-1 a i-2
+
 
             if (val && val > 0 && avg > 0) {
               const percent = ((val - avg) / avg) * 100;
