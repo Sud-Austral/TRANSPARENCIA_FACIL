@@ -650,6 +650,7 @@
     <!-- Cargar el script externo -->
     <script src="organismos.js"></script>
     <script>
+      const formatter = new Intl.NumberFormat('es-CL');
       const params = new URLSearchParams(window.location.search);
       const organismoParam = params.get("organismo");
 
@@ -835,7 +836,8 @@
           // Celda del promedio
           const tdAvg = document.createElement("td");
           tdAvg.classList.add("promedio-cell");
-          tdAvg.textContent = count > 0 ? avg.toFixed(1) : "-";
+          //tdAvg.textContent = count > 0 ? avg.toFixed(0) : "-";
+          tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
           tr.appendChild(tdAvg);
 
           // Segunda pasada para agregar tooltips y colores

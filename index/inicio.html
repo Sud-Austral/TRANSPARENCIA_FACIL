@@ -645,6 +645,7 @@
     <script src="organismos.js"></script>
     <script src="organismosCodigo.js"></script>
     <script>
+      const formatter = new Intl.NumberFormat('es-CL');
       const padreFilter = document.getElementById("padre-filter");
       const padresUnicos = [...new Set(Object.values(organismoPadres))];
 
@@ -774,7 +775,7 @@
           const codeName = organismoCodigo[row.organismo_nombre];
           //Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública
 
-          link.href = `remuneracion/remuneracion1.html?organismo=${codeName}`;
+          link.href = `registro/registro1.html?organismo=${codeName}`;
           link.textContent = row.organismo_nombre;
           //link.target = "_blank";
           link.style.color = "inherit";
@@ -819,7 +820,8 @@
           // Celda del promedio
           const tdAvg = document.createElement("td");
           tdAvg.classList.add("promedio-cell");
-          tdAvg.textContent = count > 0 ? avg.toFixed(1) : "-";
+          //tdAvg.textContent = count > 0 ? avg.toFixed(0) : "-";
+          tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
           tr.appendChild(tdAvg);
 
           // Segunda pasada para agregar tooltips y colores
