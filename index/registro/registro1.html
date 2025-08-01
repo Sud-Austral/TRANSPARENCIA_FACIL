@@ -237,7 +237,7 @@
       }
 
       td {
-        padding: .5rem 0.01rem;
+        padding: 0.5rem 0.01rem;
         border-bottom: 1px solid var(--gray-200);
         text-align: center;
         font-size: 0.7rem;
@@ -278,60 +278,43 @@
         font-size: 0.8rem;
         border-radius: 4px;
       }
-      /*
-      .valor-alto {
-        background: linear-gradient(135deg, #c6f6d5 0%, #9ae6b4 100%);
-        color: var(--success-color);
-        font-weight: 600;
+
+      .base_class {
+        background: linear-gradient(135deg, #ecf1c1 0%, #bef4ac 100%);
+        color: black;
+        font-weight: 700;
+      }
+
+      .valor-muy-bajo {
+        background: linear-gradient(135deg, #b2f5ea 0%, #00bcd4 100%);
+        color: #006064;
+        font-weight: 700;
       }
 
       .valor-bajo {
-        background: linear-gradient(135deg, #fef5e7 0%, #fbd38d 100%);
-        color: var(--warning-color);
-        font-weight: 600;
+        background: linear-gradient(135deg, #fff3cd 0%, #ffbb33 100%);
+        color: #cc7000;
+        font-weight: 700;
       }
 
-      .valor-bajo2 {
-        background: linear-gradient(90deg, #fef5e7 0%, #eeee32 100%);
-        color: var(--warning-color);
-        font-weight: 600;
+      .valor-medio {
+        background: linear-gradient(135deg, #e6f0ff 0%, #cce0ff 100%);
+        color: #004085;
+        font-weight: 700;
       }
-*/
-      
 
-        .valor-muy-bajo {
-          background: linear-gradient(135deg, #b2f5ea 0%, #00bcd4 100%);
-          color: #006064;
-          font-weight: 700;
-        }
+      .valor-alto {
+        background: linear-gradient(135deg, #c6f6d5 0%, #48bb78 100%);
+        color: #276749;
+        font-weight: 700;
+      }
 
-        .valor-bajo {
-          background: linear-gradient(135deg, #fff3cd 0%, #ffbb33 100%);
-          color: #cc7000;
-          font-weight: 700;
-        }
+      .valor-muy-alto {
+        background: linear-gradient(135deg, #ffcccc 0%, #e60000 100%);
+        color: #800000;
 
-        .valor-medio {
-          background: linear-gradient(135deg, #e6f0ff 0%, #cce0ff 100%);
-          color: #004085;
-          font-weight: 700;
-        }
-
-        .valor-alto {
-          background: linear-gradient(135deg, #c6f6d5 0%, #48bb78 100%);
-          color: #276749;
-          font-weight: 700;
-        }
-
-        .valor-muy-alto {
-          background: linear-gradient(135deg, #ffcccc 0%, #e60000 100%);
-          color: #800000;
-          
-          font-weight: 700;
-        }
-
-
-
+        font-weight: 700;
+      }
 
       .promedio-cell {
         background: linear-gradient(
@@ -358,25 +341,6 @@
         white-space: nowrap;
         white-space: pre-line; /* permite interpretar \n como salto de línea */
         z-index: 1000;
-        /*
-    
-    ----------------------------------
-    position: absolute;
-    background: var(--gray-800);
-    color: var(--white);
-    padding: 0.5rem 1rem;
-    border-radius: 6px;
-    font-size: 0.8rem;
-    white-space: nowrap;
-    
-    box-shadow: var(--shadow-md);
-    opacity: 0;
-    
-    transform: translateY(-10px);
-    transition: all 0.2s ease;
-    
-    pointer-events: none;
-    */
       }
 
       .tooltip::after {
@@ -499,8 +463,8 @@
     <header class="header">
       <div class="container">
         <div class="header-content">
-          <h1>
-            <i class="fas fa-chart-line"></i> Sueldos Pagados por Organismos
+          <h1 id="titulo_principal">
+            <i  class="fas fa-chart-line"></i>Sueldos Pagados por Organismos
           </h1>
           <p>Seguimiento mensual de registros por organismo público</p>
         </div>
@@ -524,7 +488,7 @@
         "
       >
         <a
-          href="#datos"
+          href="/index/inicio.html"
           style="
             text-decoration: none;
             background: var(--accent-color);
@@ -535,10 +499,10 @@
             transition: background 0.3s ease;
           "
         >
-          Ver Datos
+          Ver Pagos
         </a>
         <a
-          href="remuneracion_bruta.html"
+          href="/index/remuneracion_bruta.html"
           style="
             text-decoration: none;
             background: var(--secondary-color);
@@ -568,9 +532,6 @@
       </div>
     </nav>
 
-   
-
-
     <div class="stats-bar">
       <div class="stat-item">
         <span class="stat-value" id="total-organismos">-</span>
@@ -598,7 +559,7 @@
             Registros por Período
           </div>
 
-          <div class="filters">
+          <div class="filters" style="display: none">
             <div class="search-box">
               <i class="fas fa-layer-group"></i>
               <select id="padre-filter">
@@ -633,43 +594,64 @@
     </div>
 
     <div style="padding: 1rem">
-      <h3 style="margin-bottom: 0.75rem; font-size: 1.1rem;">Leyenda de Valores</h3>
-      <div style="display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem;">
-        
-        <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <div class="valor-muy-bajo" style="width: 30px; height: 30px; border-radius: 4px;"></div>
+      <h3 style="margin-bottom: 0.75rem; font-size: 1.1rem">
+        Leyenda de Valores
+      </h3>
+      <div
+        style="
+          display: flex;
+          flex-direction: column;
+          gap: 0.5rem;
+          font-size: 0.9rem;
+        "
+      >
+        <div style="display: flex; align-items: center; gap: 0.5rem">
+          <div
+            class="valor-muy-bajo"
+            style="width: 30px; height: 30px; border-radius: 4px"
+          ></div>
           <span>Muy por debajo del promedio</span>
         </div>
-        
-        <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <div class="valor-bajo" style="width: 30px; height: 30px; border-radius: 4px;"></div>
+
+        <div style="display: flex; align-items: center; gap: 0.5rem">
+          <div
+            class="valor-bajo"
+            style="width: 30px; height: 30px; border-radius: 4px"
+          ></div>
           <span>Levemente por debajo del promedio</span>
         </div>
-        
-        <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <div class="valor-medio" style="width: 30px; height: 30px; border-radius: 4px;"></div>
+
+        <div style="display: flex; align-items: center; gap: 0.5rem">
+          <div
+            class="valor-medio"
+            style="width: 30px; height: 30px; border-radius: 4px"
+          ></div>
           <span>Cercano al promedio del organismo</span>
         </div>
-        
-        <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <div class="valor-alto" style="width: 30px; height: 30px; border-radius: 4px;"></div>
+
+        <div style="display: flex; align-items: center; gap: 0.5rem">
+          <div
+            class="valor-alto"
+            style="width: 30px; height: 30px; border-radius: 4px"
+          ></div>
           <span>Levemente por encima del promedio</span>
         </div>
-        
-        <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <div class="valor-muy-alto" style="width: 30px; height: 30px; border-radius: 4px;"></div>
+
+        <div style="display: flex; align-items: center; gap: 0.5rem">
+          <div
+            class="valor-muy-alto"
+            style="width: 30px; height: 30px; border-radius: 4px"
+          ></div>
           <span>Muy por encima del promedio</span>
         </div>
       </div>
     </div>
 
-
     <!-- Cargar el script externo -->
     <script src="organismos.js"></script>
     <script>
       const params = new URLSearchParams(window.location.search);
-      const organismoParam = params.get("organismo"); 
-      
+      const organismoParam = params.get("organismo");
 
       const padreFilter = document.getElementById("padre-filter");
       const padresUnicos = [...new Set(Object.values(organismoPadres))];
@@ -686,14 +668,17 @@
       ///////////////////////////////////////////////////////////////////////////////
 
       let rawData = [];
-      const url =
-        `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo/${organismoParam}.json`;
+      const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo/${organismoParam}.json`;
 
       async function cargarJSON() {
         try {
           const response = await fetch(url);
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           rawData = await response.json();
+          const titulo = document.getElementById("titulo_principal");
+          if (titulo) {
+            titulo.innerHTML = `<i class="fas fa-chart-line"></i>Sueldos Pagados por ${rawData[0].organismo_nombre}`;
+          }
         } catch (error) {
           console.error("Error al leer el JSON:", error);
         }
@@ -715,7 +700,8 @@
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
               //if (key !== "organismo_nombre") allKeys.add(key);
-              if (key !== "organismo_nombre" && key !== "base") allKeys.add(key);
+              if (key !== "organismo_nombre" && key !== "base")
+                allKeys.add(key);
 
               //if (key !== "organismo_nombre" || key !== "base") allKeys.add(key);
             });
@@ -779,7 +765,6 @@
         thBase.innerHTML = '<i class="fas fa-layer-group"></i> Base';
         headerRow.appendChild(thBase);
 
-
         allMonths.forEach((month) => {
           const th = document.createElement("th");
           th.textContent = month.replace("_", " ");
@@ -801,15 +786,18 @@
 
           // Celda del nombre del organismo
           const tdName = document.createElement("td");
+
           tdName.textContent = row.organismo_nombre;
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
 
+          //.base_class
           const tdBase = document.createElement("td");
+          tdBase.classList.add("base_class");
+
           tdBase.textContent = row.base || "-";
           tdBase.title = row.base || "-";
           tr.appendChild(tdBase);
-
 
           let sum = 0;
           let count = 0;
@@ -852,10 +840,10 @@
 
           // Segunda pasada para agregar tooltips y colores
           const cells = tr.children;
-          for (let i = 2; i < cells.length - 1; i++) {  // Cambiado de 1 a 2
+          for (let i = 2; i < cells.length - 1; i++) {
+            // Cambiado de 1 a 2
             const td = cells[i];
             const val = row[allMonths[i - 2]]; // Cambiado de i-1 a i-2
-
 
             if (val && val > 0 && avg > 0) {
               const percent = ((val - avg) / avg) * 100;
@@ -870,24 +858,17 @@
               // Colorear según desviación del promedio
               if (Math.abs(val - avg) > stdDev * 0.9) {
                 if (val > avg) {
-                  if(val > avg * 1.5){
+                  if (val > avg * 1.5) {
                     td.classList.add("valor-muy-alto");
+                  } else {
+                    td.classList.add("valor-alto");
                   }
-                  else{
-                    td.classList.add("valor-alto");  
-                  }
-                  
                 } else {
-                  if(val < avg * 0.5){
-                    
+                  if (val < avg * 0.5) {
                     td.classList.add("valor-muy-bajo");
-                    
-
-                  }
-                  else{
+                  } else {
                     td.classList.add("valor-bajo");
                   }
-                  
                 }
               } else {
                 td.classList.add("valor-medio");
@@ -943,6 +924,9 @@
         filteredData = [...data];
         renderTable();
       });
+
+
+      
     </script>
   </body>
 </html>

@@ -524,7 +524,7 @@
         "
       >
         <a
-          href="#datos"
+          href="inicio.html"
           style="
             text-decoration: none;
             background: var(--accent-color);
@@ -535,7 +535,7 @@
             transition: background 0.3s ease;
           "
         >
-          Ver Datos
+          Ver Pagos
         </a>
         <a
           href="remuneracion_bruta.html"
@@ -666,6 +666,7 @@
 
     <!-- Cargar el script externo -->
     <script src="organismos.js"></script>
+    <script src="organismosCodigo.js"></script>
     <script>
       const padreFilter = document.getElementById("padre-filter");
       const padresUnicos = [...new Set(Object.values(organismoPadres))];
@@ -798,9 +799,13 @@
           const tdName = document.createElement("td");
           const link = document.createElement("a");
           const encodedName = encodeURIComponent(row.organismo_nombre);
-          link.href = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo/${encodedName}.json`;
+          const codeName = organismoCodigo[row.organismo_nombre]
+          //Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública
+          
+
+          link.href = `registro/registro1.html?organismo=${codeName}`;
           link.textContent = row.organismo_nombre;
-          link.target = "_blank";
+          //link.target = "_blank";
           link.style.color = "inherit";
           link.style.textDecoration = "underline";
           tdName.appendChild(link);
