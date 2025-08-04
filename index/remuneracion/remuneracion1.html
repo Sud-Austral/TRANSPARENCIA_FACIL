@@ -525,6 +525,7 @@
             border-radius: 8px;
             font-weight: 600;
             transition: background 0.3s ease;
+            display:none;
           "
         >
           Ver Detalle Pagos
@@ -670,9 +671,9 @@
         if (titulo) {
           titulo.innerHTML = `<i class="fas fa-chart-line"></i>Remuneración bruta promedio por ${rawData[0].organismo_nombre}`;
         }
-        const vinculoBTN = document.getElementById("organismoDetalleBTN");
-        const organismoCodigo = organismoCodigo[rawData[0].organismo_nombre]
-        vinculoBTN.href = `../remuneracion/remuneracion1.html?organismo=${organismoCodigo}`;
+        //const vinculoBTN = document.getElementById("organismoDetalleBTN");
+        //const organismoCodigo = organismoCodigo[rawData[0].organismo_nombre]
+        //vinculoBTN.href = `../remuneracion/remuneracion1.html?organismo=${organismoCodigo}`;
       }
 
       //////////////////////////////////////////////////////////////////////////////////

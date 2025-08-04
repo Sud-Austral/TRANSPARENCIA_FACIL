@@ -515,7 +515,7 @@
         >
           Remuneración Bruta
         </a>
-        <a id="organismoDetalleBTN"
+        <a id="organismoDetalleBTN" 
           href="../remuneracion/remuneracion1.html?organismo="
           style="
             text-decoration: none;
@@ -525,6 +525,7 @@
             border-radius: 8px;
             font-weight: 600;
             transition: background 0.3s ease;
+            display: none;
           "
         >
           Ver Remuneración Detalle
@@ -670,10 +671,9 @@
         if (titulo) {
           titulo.innerHTML = `<i class="fas fa-chart-line"></i>Sueldos Pagados por ${rawData[0].organismo_nombre}`;
         }
-        const vinculoBTN = document.getElementById("organismoDetalleBTN");
-        
-        const orgCod = organismoCodigo[rawData[0].organismo_nombre]
-        vinculoBTN.href = `../remuneracion/remuneracion1.html?organismo=${orgCod}`;
+        //const vinculoBTN = document.getElementById("organismoDetalleBTN");        
+        //const orgCod = organismoCodigo[rawData[0].organismo_nombre]
+        //vinculoBTN.href = `../remuneracion/remuneracion1.html?organismo=${orgCod}`;
       }
 
       //////////////////////////////////////////////////////////////////////////////////
