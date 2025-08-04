@@ -16,9 +16,10 @@
   "Diciembre_2024":0,
   "Enero_2025":4,
   "Febrero_2025":4,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":4,
+  "Abril_2025":3,
+  "Mayo_2025":4,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Fundación Cultural de la municipalidad de Tocopilla",
@@ -39,6 +40,7 @@
   "Febrero_2025":4,
   "Marzo_2025":7,
   "Abril_2025":8,
-  "Mayo_2025":0
+  "Mayo_2025":8,
+  "Junio_2025":0
  }
 ]

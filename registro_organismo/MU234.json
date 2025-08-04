@@ -18,7 +18,8 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":22,
-  "Mayo_2025":22
+  "Mayo_2025":22,
+  "Junio_2025":22
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
@@ -39,7 +40,8 @@
   "Febrero_2025":55,
   "Marzo_2025":55,
   "Abril_2025":56,
-  "Mayo_2025":56
+  "Mayo_2025":56,
+  "Junio_2025":57
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
@@ -60,7 +62,8 @@
   "Febrero_2025":178,
   "Marzo_2025":179,
   "Abril_2025":134,
-  "Mayo_2025":133
+  "Mayo_2025":133,
+  "Junio_2025":132
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
@@ -81,6 +84,7 @@
   "Febrero_2025":58,
   "Marzo_2025":59,
   "Abril_2025":56,
-  "Mayo_2025":56
+  "Mayo_2025":56,
+  "Junio_2025":57
  }
 ]

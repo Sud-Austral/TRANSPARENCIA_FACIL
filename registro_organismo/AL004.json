@@ -18,7 +18,8 @@
   "Febrero_2025":51,
   "Marzo_2025":50,
   "Abril_2025":53,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":54
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":359,
   "Marzo_2025":366,
   "Abril_2025":363,
-  "Mayo_2025":366
+  "Mayo_2025":366,
+  "Junio_2025":368
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":6,
   "Abril_2025":7,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":24,
   "Marzo_2025":24,
   "Abril_2025":26,
-  "Mayo_2025":26
+  "Mayo_2025":26,
+  "Junio_2025":26
  }
 ]

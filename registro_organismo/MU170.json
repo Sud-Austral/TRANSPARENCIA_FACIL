@@ -18,7 +18,8 @@
   "Febrero_2025":193,
   "Marzo_2025":205,
   "Abril_2025":204,
-  "Mayo_2025":204
+  "Mayo_2025":204,
+  "Junio_2025":202
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
@@ -39,7 +40,8 @@
   "Febrero_2025":193,
   "Marzo_2025":183,
   "Abril_2025":191,
-  "Mayo_2025":189
+  "Mayo_2025":189,
+  "Junio_2025":185
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
@@ -60,7 +62,8 @@
   "Febrero_2025":215,
   "Marzo_2025":191,
   "Abril_2025":182,
-  "Mayo_2025":208
+  "Mayo_2025":208,
+  "Junio_2025":212
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
@@ -81,6 +84,7 @@
   "Febrero_2025":257,
   "Marzo_2025":256,
   "Abril_2025":257,
-  "Mayo_2025":259
+  "Mayo_2025":259,
+  "Junio_2025":258
  }
 ]

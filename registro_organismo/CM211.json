@@ -16,9 +16,10 @@
   "Diciembre_2024":21,
   "Enero_2025":70,
   "Febrero_2025":0,
-  "Marzo_2025":36,
+  "Marzo_2025":42,
   "Abril_2025":25,
-  "Mayo_2025":25
+  "Mayo_2025":25,
+  "Junio_2025":16
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Productivo y Turismo de Molina",
@@ -39,6 +40,7 @@
   "Febrero_2025":2,
   "Marzo_2025":3,
   "Abril_2025":0,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

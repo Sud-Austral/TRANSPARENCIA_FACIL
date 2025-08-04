@@ -18,7 +18,8 @@
   "Febrero_2025":196,
   "Marzo_2025":189,
   "Abril_2025":190,
-  "Mayo_2025":189
+  "Mayo_2025":189,
+  "Junio_2025":188
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
@@ -39,7 +40,8 @@
   "Febrero_2025":75,
   "Marzo_2025":74,
   "Abril_2025":76,
-  "Mayo_2025":58
+  "Mayo_2025":77,
+  "Junio_2025":58
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
@@ -49,7 +51,7 @@
   "Marzo_2024":178,
   "Abril_2024":129,
   "Mayo_2024":204,
-  "Junio_2024":192,
+  "Junio_2024":193,
   "Julio_2024":199,
   "Agosto_2024":184,
   "Septiembre_2024":175,
@@ -60,7 +62,8 @@
   "Febrero_2025":104,
   "Marzo_2025":172,
   "Abril_2025":188,
-  "Mayo_2025":50
+  "Mayo_2025":160,
+  "Junio_2025":53
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":218,
   "Marzo_2025":218,
   "Abril_2025":218,
-  "Mayo_2025":173
+  "Mayo_2025":218,
+  "Junio_2025":173
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":2494,
   "Marzo_2025":2491,
   "Abril_2025":2522,
-  "Mayo_2025":2535
+  "Mayo_2025":2535,
+  "Junio_2025":2533
  },
  {
   "organismo_nombre":"Subsecretaría de Educación (MINEDUC)",
@@ -39,7 +40,8 @@
   "Febrero_2025":124,
   "Marzo_2025":161,
   "Abril_2025":170,
-  "Mayo_2025":175
+  "Mayo_2025":175,
+  "Junio_2025":180
  },
  {
   "organismo_nombre":"Subsecretaría de Educación (MINEDUC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":783,
   "Marzo_2025":788,
   "Abril_2025":780,
-  "Mayo_2025":784
+  "Mayo_2025":784,
+  "Junio_2025":788
  }
 ]

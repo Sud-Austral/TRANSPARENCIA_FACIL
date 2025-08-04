@@ -18,7 +18,8 @@
   "Febrero_2025":366,
   "Marzo_2025":385,
   "Abril_2025":392,
-  "Mayo_2025":384
+  "Mayo_2025":384,
+  "Junio_2025":384
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
@@ -39,7 +40,8 @@
   "Febrero_2025":155,
   "Marzo_2025":160,
   "Abril_2025":180,
-  "Mayo_2025":185
+  "Mayo_2025":185,
+  "Junio_2025":112
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
@@ -60,7 +62,8 @@
   "Febrero_2025":129,
   "Marzo_2025":121,
   "Abril_2025":130,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
@@ -81,6 +84,7 @@
   "Febrero_2025":314,
   "Marzo_2025":315,
   "Abril_2025":314,
-  "Mayo_2025":317
+  "Mayo_2025":317,
+  "Junio_2025":213
  }
 ]

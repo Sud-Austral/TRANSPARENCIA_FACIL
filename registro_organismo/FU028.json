@@ -18,7 +18,8 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Agencia Regional de Desarrollo Productivo de la Araucanía",
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

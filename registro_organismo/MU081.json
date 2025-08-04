@@ -18,7 +18,8 @@
   "Febrero_2025":277,
   "Marzo_2025":278,
   "Abril_2025":302,
-  "Mayo_2025":306
+  "Mayo_2025":306,
+  "Junio_2025":307
  },
  {
   "organismo_nombre":"Municipalidad de Doñihue",
@@ -39,7 +40,8 @@
   "Febrero_2025":203,
   "Marzo_2025":222,
   "Abril_2025":226,
-  "Mayo_2025":233
+  "Mayo_2025":233,
+  "Junio_2025":198
  },
  {
   "organismo_nombre":"Municipalidad de Doñihue",
@@ -60,7 +62,8 @@
   "Febrero_2025":154,
   "Marzo_2025":163,
   "Abril_2025":192,
-  "Mayo_2025":30
+  "Mayo_2025":202,
+  "Junio_2025":221
  },
  {
   "organismo_nombre":"Municipalidad de Doñihue",
@@ -81,6 +84,7 @@
   "Febrero_2025":298,
   "Marzo_2025":298,
   "Abril_2025":292,
-  "Mayo_2025":293
+  "Mayo_2025":293,
+  "Junio_2025":271
  }
 ]

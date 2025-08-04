@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
@@ -39,7 +40,8 @@
   "Febrero_2025":1997,
   "Marzo_2025":1994,
   "Abril_2025":1939,
-  "Mayo_2025":1930
+  "Mayo_2025":1930,
+  "Junio_2025":1834
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
@@ -60,7 +62,8 @@
   "Febrero_2025":307,
   "Marzo_2025":313,
   "Abril_2025":336,
-  "Mayo_2025":365
+  "Mayo_2025":365,
+  "Junio_2025":393
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
@@ -81,6 +84,7 @@
   "Febrero_2025":575,
   "Marzo_2025":569,
   "Abril_2025":567,
-  "Mayo_2025":564
+  "Mayo_2025":564,
+  "Junio_2025":562
  }
 ]

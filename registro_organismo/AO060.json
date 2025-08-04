@@ -18,7 +18,8 @@
   "Febrero_2025":2993,
   "Marzo_2025":2833,
   "Abril_2025":2696,
-  "Mayo_2025":2714
+  "Mayo_2025":2714,
+  "Junio_2025":2697
  },
  {
   "organismo_nombre":"Hospital Víctor Ríos Ruiz de Los Angeles",
@@ -39,7 +40,8 @@
   "Febrero_2025":635,
   "Marzo_2025":669,
   "Abril_2025":613,
-  "Mayo_2025":679
+  "Mayo_2025":679,
+  "Junio_2025":710
  },
  {
   "organismo_nombre":"Hospital Víctor Ríos Ruiz de Los Angeles",
@@ -60,6 +62,7 @@
   "Febrero_2025":828,
   "Marzo_2025":826,
   "Abril_2025":410,
-  "Mayo_2025":819
+  "Mayo_2025":819,
+  "Junio_2025":820
  }
 ]

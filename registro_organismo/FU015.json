@@ -18,7 +18,8 @@
   "Febrero_2025":42,
   "Marzo_2025":51,
   "Abril_2025":51,
-  "Mayo_2025":0
+  "Mayo_2025":51,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Fundación Teatro Municipal de Las Condes",
@@ -39,6 +40,7 @@
   "Febrero_2025":8,
   "Marzo_2025":9,
   "Abril_2025":15,
-  "Mayo_2025":0
+  "Mayo_2025":9,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":29,
   "Marzo_2025":26,
   "Abril_2025":0,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
@@ -39,7 +40,8 @@
   "Febrero_2025":69,
   "Marzo_2025":60,
   "Abril_2025":65,
-  "Mayo_2025":65
+  "Mayo_2025":65,
+  "Junio_2025":67
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
@@ -60,7 +62,8 @@
   "Febrero_2025":334,
   "Marzo_2025":257,
   "Abril_2025":278,
-  "Mayo_2025":251
+  "Mayo_2025":251,
+  "Junio_2025":234
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
@@ -81,6 +84,7 @@
   "Febrero_2025":107,
   "Marzo_2025":106,
   "Abril_2025":107,
-  "Mayo_2025":107
+  "Mayo_2025":107,
+  "Junio_2025":107
  }
 ]

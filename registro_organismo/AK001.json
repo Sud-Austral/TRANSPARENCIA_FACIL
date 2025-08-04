@@ -18,7 +18,8 @@
   "Febrero_2025":352,
   "Marzo_2025":351,
   "Abril_2025":353,
-  "Mayo_2025":352
+  "Mayo_2025":352,
+  "Junio_2025":352
  },
  {
   "organismo_nombre":"Subsecretaría de Justicia",
@@ -37,9 +38,10 @@
   "Diciembre_2024":14,
   "Enero_2025":10,
   "Febrero_2025":9,
-  "Marzo_2025":14,
-  "Abril_2025":17,
-  "Mayo_2025":15
+  "Marzo_2025":15,
+  "Abril_2025":18,
+  "Mayo_2025":17,
+  "Junio_2025":16
  },
  {
   "organismo_nombre":"Subsecretaría de Justicia",
@@ -60,6 +62,7 @@
   "Febrero_2025":32,
   "Marzo_2025":32,
   "Abril_2025":32,
-  "Mayo_2025":32
+  "Mayo_2025":32,
+  "Junio_2025":31
  }
 ]

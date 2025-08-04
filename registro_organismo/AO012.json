@@ -18,7 +18,8 @@
   "Febrero_2025":1803,
   "Marzo_2025":1822,
   "Abril_2025":1850,
-  "Mayo_2025":0
+  "Mayo_2025":1829,
+  "Junio_2025":1300
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur Oriente",
@@ -39,7 +40,8 @@
   "Febrero_2025":273,
   "Marzo_2025":1498,
   "Abril_2025":287,
-  "Mayo_2025":0
+  "Mayo_2025":294,
+  "Junio_2025":313
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur Oriente",
@@ -60,6 +62,7 @@
   "Febrero_2025":203,
   "Marzo_2025":203,
   "Abril_2025":202,
-  "Mayo_2025":0
+  "Mayo_2025":203,
+  "Junio_2025":195
  }
 ]

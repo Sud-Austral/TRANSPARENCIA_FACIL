@@ -18,7 +18,8 @@
   "Febrero_2025":480,
   "Marzo_2025":460,
   "Abril_2025":496,
-  "Mayo_2025":468
+  "Mayo_2025":468,
+  "Junio_2025":470
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
@@ -39,7 +40,8 @@
   "Febrero_2025":643,
   "Marzo_2025":475,
   "Abril_2025":516,
-  "Mayo_2025":492
+  "Mayo_2025":492,
+  "Junio_2025":471
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
@@ -60,7 +62,8 @@
   "Febrero_2025":237,
   "Marzo_2025":278,
   "Abril_2025":302,
-  "Mayo_2025":293
+  "Mayo_2025":293,
+  "Junio_2025":314
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
@@ -81,6 +84,7 @@
   "Febrero_2025":893,
   "Marzo_2025":799,
   "Abril_2025":780,
-  "Mayo_2025":779
+  "Mayo_2025":779,
+  "Junio_2025":797
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":275,
   "Marzo_2025":270,
   "Abril_2025":187,
-  "Mayo_2025":188
+  "Mayo_2025":188,
+  "Junio_2025":184
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
@@ -39,7 +40,8 @@
   "Febrero_2025":135,
   "Marzo_2025":210,
   "Abril_2025":219,
-  "Mayo_2025":223
+  "Mayo_2025":223,
+  "Junio_2025":214
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
@@ -55,12 +57,13 @@
   "Septiembre_2024":226,
   "Octubre_2024":254,
   "Noviembre_2024":146,
-  "Diciembre_2024":439,
+  "Diciembre_2024":482,
   "Enero_2025":44,
   "Febrero_2025":52,
   "Marzo_2025":122,
   "Abril_2025":84,
-  "Mayo_2025":146
+  "Mayo_2025":146,
+  "Junio_2025":130
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
@@ -81,6 +84,7 @@
   "Febrero_2025":278,
   "Marzo_2025":277,
   "Abril_2025":275,
-  "Mayo_2025":276
+  "Mayo_2025":276,
+  "Junio_2025":272
  }
 ]

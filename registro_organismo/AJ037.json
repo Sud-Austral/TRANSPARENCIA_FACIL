@@ -18,7 +18,8 @@
   "Febrero_2025":1871,
   "Marzo_2025":142,
   "Abril_2025":141,
-  "Mayo_2025":143
+  "Mayo_2025":143,
+  "Junio_2025":144
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
@@ -39,7 +40,8 @@
   "Febrero_2025":807,
   "Marzo_2025":1231,
   "Abril_2025":1172,
-  "Mayo_2025":1510
+  "Mayo_2025":1510,
+  "Junio_2025":1429
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
@@ -60,7 +62,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
@@ -77,10 +80,11 @@
   "Octubre_2024":5,
   "Noviembre_2024":6,
   "Diciembre_2024":6,
-  "Enero_2025":947,
+  "Enero_2025":971,
   "Febrero_2025":1011,
   "Marzo_2025":2398,
   "Abril_2025":2367,
-  "Mayo_2025":2278
+  "Mayo_2025":2300,
+  "Junio_2025":2078
  }
 ]

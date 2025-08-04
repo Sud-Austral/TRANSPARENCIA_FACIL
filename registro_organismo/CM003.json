@@ -13,12 +13,13 @@
   "Septiembre_2024":645,
   "Octubre_2024":368,
   "Noviembre_2024":369,
-  "Diciembre_2024":68,
+  "Diciembre_2024":171,
   "Enero_2025":353,
   "Febrero_2025":347,
   "Marzo_2025":356,
   "Abril_2025":363,
-  "Mayo_2025":0
+  "Mayo_2025":373,
+  "Junio_2025":372
  },
  {
   "organismo_nombre":"Corporación Municipal Isla de Maipo",
@@ -39,28 +40,30 @@
   "Febrero_2025":289,
   "Marzo_2025":294,
   "Abril_2025":301,
-  "Mayo_2025":0
+  "Mayo_2025":316,
+  "Junio_2025":458
  },
  {
   "organismo_nombre":"Corporación Municipal Isla de Maipo",
   "base":"Contratohonorarios",
-  "Enero_2024":137,
-  "Febrero_2024":128,
-  "Marzo_2024":141,
-  "Abril_2024":207,
-  "Mayo_2024":160,
-  "Junio_2024":217,
-  "Julio_2024":229,
-  "Agosto_2024":411,
-  "Septiembre_2024":410,
-  "Octubre_2024":371,
-  "Noviembre_2024":135,
-  "Diciembre_2024":307,
+  "Enero_2024":140,
+  "Febrero_2024":129,
+  "Marzo_2024":143,
+  "Abril_2024":211,
+  "Mayo_2024":163,
+  "Junio_2024":218,
+  "Julio_2024":230,
+  "Agosto_2024":412,
+  "Septiembre_2024":411,
+  "Octubre_2024":372,
+  "Noviembre_2024":136,
+  "Diciembre_2024":308,
   "Enero_2025":44,
   "Febrero_2025":116,
   "Marzo_2025":120,
   "Abril_2025":172,
-  "Mayo_2025":0
+  "Mayo_2025":190,
+  "Junio_2025":206
  },
  {
   "organismo_nombre":"Corporación Municipal Isla de Maipo",
@@ -81,6 +84,7 @@
   "Febrero_2025":368,
   "Marzo_2025":364,
   "Abril_2025":362,
-  "Mayo_2025":0
+  "Mayo_2025":362,
+  "Junio_2025":360
  }
 ]

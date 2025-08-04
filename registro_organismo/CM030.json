@@ -18,7 +18,8 @@
   "Febrero_2025":92,
   "Marzo_2025":73,
   "Abril_2025":73,
-  "Mayo_2025":124
+  "Mayo_2025":74,
+  "Junio_2025":65
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
@@ -39,7 +40,8 @@
   "Febrero_2025":306,
   "Marzo_2025":341,
   "Abril_2025":337,
-  "Mayo_2025":332
+  "Mayo_2025":332,
+  "Junio_2025":327
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
@@ -60,7 +62,8 @@
   "Febrero_2025":403,
   "Marzo_2025":443,
   "Abril_2025":499,
-  "Mayo_2025":545
+  "Mayo_2025":545,
+  "Junio_2025":593
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
@@ -81,6 +84,7 @@
   "Febrero_2025":317,
   "Marzo_2025":316,
   "Abril_2025":316,
-  "Mayo_2025":315
+  "Mayo_2025":315,
+  "Junio_2025":312
  }
 ]

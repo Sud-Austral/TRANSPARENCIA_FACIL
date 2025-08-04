@@ -18,7 +18,8 @@
   "Febrero_2025":69,
   "Marzo_2025":64,
   "Abril_2025":69,
-  "Mayo_2025":0
+  "Mayo_2025":70,
+  "Junio_2025":70
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
@@ -39,7 +40,8 @@
   "Febrero_2025":81,
   "Marzo_2025":88,
   "Abril_2025":91,
-  "Mayo_2025":70
+  "Mayo_2025":96,
+  "Junio_2025":97
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
@@ -60,7 +62,8 @@
   "Febrero_2025":121,
   "Marzo_2025":121,
   "Abril_2025":126,
-  "Mayo_2025":122
+  "Mayo_2025":123,
+  "Junio_2025":116
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
@@ -81,6 +84,7 @@
   "Febrero_2025":92,
   "Marzo_2025":95,
   "Abril_2025":94,
-  "Mayo_2025":71
+  "Mayo_2025":91,
+  "Junio_2025":91
  }
 ]

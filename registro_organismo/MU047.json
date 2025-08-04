@@ -18,7 +18,8 @@
   "Febrero_2025":24,
   "Marzo_2025":22,
   "Abril_2025":23,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":22
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
@@ -39,7 +40,8 @@
   "Febrero_2025":17,
   "Marzo_2025":17,
   "Abril_2025":17,
-  "Mayo_2025":0
+  "Mayo_2025":17,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
@@ -58,9 +60,10 @@
   "Diciembre_2024":274,
   "Enero_2025":270,
   "Febrero_2025":295,
-  "Marzo_2025":237,
-  "Abril_2025":237,
-  "Mayo_2025":0
+  "Marzo_2025":243,
+  "Abril_2025":248,
+  "Mayo_2025":263,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
@@ -81,6 +84,7 @@
   "Febrero_2025":30,
   "Marzo_2025":30,
   "Abril_2025":30,
-  "Mayo_2025":0
+  "Mayo_2025":32,
+  "Junio_2025":0
  }
 ]

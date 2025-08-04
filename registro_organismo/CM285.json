@@ -18,7 +18,8 @@
   "Febrero_2025":4,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Corporación cultural de Ancud",
@@ -35,10 +36,11 @@
   "Octubre_2024":13,
   "Noviembre_2024":13,
   "Diciembre_2024":13,
-  "Enero_2025":81,
-  "Febrero_2025":145,
-  "Marzo_2025":34,
+  "Enero_2025":65,
+  "Febrero_2025":90,
+  "Marzo_2025":29,
   "Abril_2025":27,
-  "Mayo_2025":25
+  "Mayo_2025":25,
+  "Junio_2025":16
  }
 ]

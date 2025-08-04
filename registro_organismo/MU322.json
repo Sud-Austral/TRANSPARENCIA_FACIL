@@ -18,7 +18,8 @@
   "Febrero_2025":28,
   "Marzo_2025":0,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
@@ -39,7 +40,8 @@
   "Febrero_2025":89,
   "Marzo_2025":87,
   "Abril_2025":86,
-  "Mayo_2025":88
+  "Mayo_2025":88,
+  "Junio_2025":92
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
@@ -49,7 +51,7 @@
   "Marzo_2024":148,
   "Abril_2024":152,
   "Mayo_2024":169,
-  "Junio_2024":205,
+  "Junio_2024":224,
   "Julio_2024":101,
   "Agosto_2024":184,
   "Septiembre_2024":184,
@@ -60,7 +62,8 @@
   "Febrero_2025":77,
   "Marzo_2025":105,
   "Abril_2025":106,
-  "Mayo_2025":105
+  "Mayo_2025":105,
+  "Junio_2025":102
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":36,
   "Marzo_2025":40,
   "Abril_2025":37,
-  "Mayo_2025":37
+  "Mayo_2025":37,
+  "Junio_2025":38
  }
 ]

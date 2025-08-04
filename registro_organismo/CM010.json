@@ -18,7 +18,8 @@
   "Febrero_2025":20,
   "Marzo_2025":0,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":10
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
@@ -39,7 +40,8 @@
   "Febrero_2025":122,
   "Marzo_2025":123,
   "Abril_2025":125,
-  "Mayo_2025":123
+  "Mayo_2025":123,
+  "Junio_2025":124
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
@@ -60,7 +62,8 @@
   "Febrero_2025":73,
   "Marzo_2025":82,
   "Abril_2025":91,
-  "Mayo_2025":96
+  "Mayo_2025":96,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
@@ -81,6 +84,7 @@
   "Febrero_2025":279,
   "Marzo_2025":279,
   "Abril_2025":279,
-  "Mayo_2025":279
+  "Mayo_2025":279,
+  "Junio_2025":278
  }
 ]

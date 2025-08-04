@@ -18,7 +18,8 @@
   "Febrero_2025":455,
   "Marzo_2025":470,
   "Abril_2025":471,
-  "Mayo_2025":473
+  "Mayo_2025":473,
+  "Junio_2025":471
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
@@ -39,7 +40,8 @@
   "Febrero_2025":253,
   "Marzo_2025":249,
   "Abril_2025":263,
-  "Mayo_2025":262
+  "Mayo_2025":262,
+  "Junio_2025":269
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
@@ -60,7 +62,8 @@
   "Febrero_2025":47,
   "Marzo_2025":47,
   "Abril_2025":48,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":42
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
@@ -81,6 +84,7 @@
   "Febrero_2025":529,
   "Marzo_2025":519,
   "Abril_2025":519,
-  "Mayo_2025":518
+  "Mayo_2025":518,
+  "Junio_2025":518
  }
 ]

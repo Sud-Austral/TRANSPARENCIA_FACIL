@@ -18,7 +18,8 @@
   "Febrero_2025":1692,
   "Marzo_2025":1692,
   "Abril_2025":1699,
-  "Mayo_2025":0
+  "Mayo_2025":1705,
+  "Junio_2025":1683
  },
  {
   "organismo_nombre":"Servicio de Salud Aysén",
@@ -39,7 +40,8 @@
   "Febrero_2025":127,
   "Marzo_2025":133,
   "Abril_2025":137,
-  "Mayo_2025":0
+  "Mayo_2025":146,
+  "Junio_2025":154
  },
  {
   "organismo_nombre":"Servicio de Salud Aysén",
@@ -60,6 +62,7 @@
   "Febrero_2025":1146,
   "Marzo_2025":1119,
   "Abril_2025":1061,
-  "Mayo_2025":0
+  "Mayo_2025":1056,
+  "Junio_2025":1053
  }
 ]

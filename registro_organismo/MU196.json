@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":1,
   "Abril_2025":8,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
@@ -39,7 +40,8 @@
   "Febrero_2025":149,
   "Marzo_2025":149,
   "Abril_2025":46,
-  "Mayo_2025":53
+  "Mayo_2025":161,
+  "Junio_2025":157
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
@@ -50,17 +52,18 @@
   "Abril_2024":63,
   "Mayo_2024":64,
   "Junio_2024":66,
-  "Julio_2024":74,
-  "Agosto_2024":70,
-  "Septiembre_2024":56,
-  "Octubre_2024":50,
-  "Noviembre_2024":136,
+  "Julio_2024":105,
+  "Agosto_2024":100,
+  "Septiembre_2024":86,
+  "Octubre_2024":80,
+  "Noviembre_2024":160,
   "Diciembre_2024":102,
   "Enero_2025":109,
   "Febrero_2025":69,
   "Marzo_2025":66,
-  "Abril_2025":45,
-  "Mayo_2025":29
+  "Abril_2025":96,
+  "Mayo_2025":29,
+  "Junio_2025":101
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":217,
   "Marzo_2025":217,
   "Abril_2025":216,
-  "Mayo_2025":0
+  "Mayo_2025":223,
+  "Junio_2025":221
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":66,
   "Marzo_2025":67,
   "Abril_2025":68,
-  "Mayo_2025":69
+  "Mayo_2025":69,
+  "Junio_2025":67
  },
  {
   "organismo_nombre":"Subsecretaría de la Niñez",
@@ -39,7 +40,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Subsecretaría de la Niñez",
@@ -60,6 +62,7 @@
   "Febrero_2025":5,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  }
 ]

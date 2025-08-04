@@ -18,7 +18,8 @@
   "Febrero_2025":909,
   "Marzo_2025":923,
   "Abril_2025":915,
-  "Mayo_2025":914
+  "Mayo_2025":914,
+  "Junio_2025":922
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
@@ -39,7 +40,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
@@ -60,7 +62,8 @@
   "Febrero_2025":21,
   "Marzo_2025":31,
   "Abril_2025":27,
-  "Mayo_2025":32
+  "Mayo_2025":32,
+  "Junio_2025":34
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
@@ -81,6 +84,7 @@
   "Febrero_2025":90,
   "Marzo_2025":90,
   "Abril_2025":89,
-  "Mayo_2025":90
+  "Mayo_2025":90,
+  "Junio_2025":92
  }
 ]

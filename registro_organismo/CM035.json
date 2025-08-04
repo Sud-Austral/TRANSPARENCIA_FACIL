@@ -18,7 +18,8 @@
   "Febrero_2025":12,
   "Marzo_2025":12,
   "Abril_2025":12,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Corporación Municipal de Calera De Tango",
@@ -39,7 +40,8 @@
   "Febrero_2025":50,
   "Marzo_2025":52,
   "Abril_2025":58,
-  "Mayo_2025":54
+  "Mayo_2025":54,
+  "Junio_2025":55
  },
  {
   "organismo_nombre":"Corporación Municipal de Calera De Tango",
@@ -49,7 +51,7 @@
   "Marzo_2024":0,
   "Abril_2024":0,
   "Mayo_2024":0,
-  "Junio_2024":171,
+  "Junio_2024":172,
   "Julio_2024":108,
   "Agosto_2024":85,
   "Septiembre_2024":207,
@@ -60,7 +62,8 @@
   "Febrero_2025":45,
   "Marzo_2025":68,
   "Abril_2025":116,
-  "Mayo_2025":0
+  "Mayo_2025":32,
+  "Junio_2025":60
  },
  {
   "organismo_nombre":"Corporación Municipal de Calera De Tango",
@@ -81,6 +84,7 @@
   "Febrero_2025":103,
   "Marzo_2025":102,
   "Abril_2025":102,
-  "Mayo_2025":102
+  "Mayo_2025":102,
+  "Junio_2025":101
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":137,
   "Marzo_2025":128,
   "Abril_2025":124,
-  "Mayo_2025":123
+  "Mayo_2025":123,
+  "Junio_2025":123
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
@@ -39,7 +40,8 @@
   "Febrero_2025":80,
   "Marzo_2025":63,
   "Abril_2025":70,
-  "Mayo_2025":73
+  "Mayo_2025":73,
+  "Junio_2025":74
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
@@ -47,9 +49,9 @@
   "Enero_2024":96,
   "Febrero_2024":119,
   "Marzo_2024":103,
-  "Abril_2024":14,
+  "Abril_2024":15,
   "Mayo_2024":97,
-  "Junio_2024":97,
+  "Junio_2024":98,
   "Julio_2024":111,
   "Agosto_2024":113,
   "Septiembre_2024":111,
@@ -60,7 +62,8 @@
   "Febrero_2025":85,
   "Marzo_2025":75,
   "Abril_2025":84,
-  "Mayo_2025":87
+  "Mayo_2025":87,
+  "Junio_2025":91
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
@@ -81,6 +84,7 @@
   "Febrero_2025":153,
   "Marzo_2025":154,
   "Abril_2025":151,
-  "Mayo_2025":151
+  "Mayo_2025":151,
+  "Junio_2025":148
  }
 ]

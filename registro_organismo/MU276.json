@@ -18,7 +18,8 @@
   "Febrero_2025":336,
   "Marzo_2025":344,
   "Abril_2025":342,
-  "Mayo_2025":333
+  "Mayo_2025":333,
+  "Junio_2025":327
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
@@ -39,7 +40,8 @@
   "Febrero_2025":163,
   "Marzo_2025":174,
   "Abril_2025":174,
-  "Mayo_2025":165
+  "Mayo_2025":165,
+  "Junio_2025":166
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
@@ -60,7 +62,8 @@
   "Febrero_2025":34,
   "Marzo_2025":45,
   "Abril_2025":42,
-  "Mayo_2025":77
+  "Mayo_2025":77,
+  "Junio_2025":69
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
@@ -81,6 +84,7 @@
   "Febrero_2025":303,
   "Marzo_2025":303,
   "Abril_2025":307,
-  "Mayo_2025":310
+  "Mayo_2025":310,
+  "Junio_2025":302
  }
 ]

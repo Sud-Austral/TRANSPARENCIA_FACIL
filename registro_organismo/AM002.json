@@ -18,7 +18,8 @@
   "Febrero_2025":183,
   "Marzo_2025":183,
   "Abril_2025":184,
-  "Mayo_2025":184
+  "Mayo_2025":184,
+  "Junio_2025":184
  },
  {
   "organismo_nombre":"Dirección General de Obras Públicas (DGOP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":29,
   "Marzo_2025":29,
   "Abril_2025":31,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":31
  },
  {
   "organismo_nombre":"Dirección General de Obras Públicas (DGOP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":21,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

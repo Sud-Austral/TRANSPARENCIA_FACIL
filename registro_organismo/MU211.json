@@ -18,7 +18,8 @@
   "Febrero_2025":488,
   "Marzo_2025":484,
   "Abril_2025":497,
-  "Mayo_2025":461
+  "Mayo_2025":461,
+  "Junio_2025":467
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
@@ -39,7 +40,8 @@
   "Febrero_2025":489,
   "Marzo_2025":514,
   "Abril_2025":553,
-  "Mayo_2025":244
+  "Mayo_2025":556,
+  "Junio_2025":119
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
@@ -60,7 +62,8 @@
   "Febrero_2025":211,
   "Marzo_2025":244,
   "Abril_2025":117,
-  "Mayo_2025":124
+  "Mayo_2025":124,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
@@ -81,6 +84,7 @@
   "Febrero_2025":875,
   "Marzo_2025":873,
   "Abril_2025":880,
-  "Mayo_2025":868
+  "Mayo_2025":868,
+  "Junio_2025":691
  }
 ]

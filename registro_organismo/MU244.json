@@ -18,7 +18,8 @@
   "Febrero_2025":31,
   "Marzo_2025":11,
   "Abril_2025":19,
-  "Mayo_2025":19
+  "Mayo_2025":19,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Municipalidad de Putre",
@@ -38,8 +39,9 @@
   "Enero_2025":127,
   "Febrero_2025":127,
   "Marzo_2025":128,
-  "Abril_2025":101,
-  "Mayo_2025":0
+  "Abril_2025":134,
+  "Mayo_2025":145,
+  "Junio_2025":107
  },
  {
   "organismo_nombre":"Municipalidad de Putre",
@@ -60,6 +62,7 @@
   "Febrero_2025":45,
   "Marzo_2025":47,
   "Abril_2025":45,
-  "Mayo_2025":45
+  "Mayo_2025":45,
+  "Junio_2025":44
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":9,
   "Marzo_2025":7,
   "Abril_2025":5,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
@@ -39,7 +40,8 @@
   "Febrero_2025":761,
   "Marzo_2025":763,
   "Abril_2025":756,
-  "Mayo_2025":756
+  "Mayo_2025":756,
+  "Junio_2025":753
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
@@ -60,7 +62,8 @@
   "Febrero_2025":131,
   "Marzo_2025":135,
   "Abril_2025":135,
-  "Mayo_2025":138
+  "Mayo_2025":138,
+  "Junio_2025":140
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
@@ -81,6 +84,7 @@
   "Febrero_2025":14,
   "Marzo_2025":13,
   "Abril_2025":13,
-  "Mayo_2025":13
+  "Mayo_2025":13,
+  "Junio_2025":13
  }
 ]

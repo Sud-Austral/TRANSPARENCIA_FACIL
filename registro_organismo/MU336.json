@@ -18,7 +18,8 @@
   "Febrero_2025":250,
   "Marzo_2025":273,
   "Abril_2025":275,
-  "Mayo_2025":285
+  "Mayo_2025":285,
+  "Junio_2025":284
  },
  {
   "organismo_nombre":"Municipalidad de Vilcún",
@@ -39,7 +40,8 @@
   "Febrero_2025":301,
   "Marzo_2025":309,
   "Abril_2025":315,
-  "Mayo_2025":325
+  "Mayo_2025":325,
+  "Junio_2025":320
  },
  {
   "organismo_nombre":"Municipalidad de Vilcún",
@@ -60,7 +62,8 @@
   "Febrero_2025":180,
   "Marzo_2025":48,
   "Abril_2025":18,
-  "Mayo_2025":41
+  "Mayo_2025":41,
+  "Junio_2025":58
  },
  {
   "organismo_nombre":"Municipalidad de Vilcún",
@@ -81,6 +84,7 @@
   "Febrero_2025":347,
   "Marzo_2025":340,
   "Abril_2025":338,
-  "Mayo_2025":338
+  "Mayo_2025":338,
+  "Junio_2025":338
  }
 ]

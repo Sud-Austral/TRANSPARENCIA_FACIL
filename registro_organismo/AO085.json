@@ -18,7 +18,8 @@
   "Febrero_2025":2658,
   "Marzo_2025":3467,
   "Abril_2025":3246,
-  "Mayo_2025":0
+  "Mayo_2025":3292,
+  "Junio_2025":3289
  },
  {
   "organismo_nombre":"Hospital Regional de Talca",
@@ -39,7 +40,8 @@
   "Febrero_2025":52,
   "Marzo_2025":50,
   "Abril_2025":47,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Regional de Talca",
@@ -60,6 +62,7 @@
   "Febrero_2025":990,
   "Marzo_2025":985,
   "Abril_2025":948,
-  "Mayo_2025":0
+  "Mayo_2025":959,
+  "Junio_2025":939
  }
 ]

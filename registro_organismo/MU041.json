@@ -17,8 +17,9 @@
   "Enero_2025":1,
   "Febrero_2025":1,
   "Marzo_2025":1,
-  "Abril_2025":1,
-  "Mayo_2025":1
+  "Abril_2025":2,
+  "Mayo_2025":1,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
@@ -39,7 +40,8 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":0,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
@@ -60,7 +62,8 @@
   "Febrero_2025":156,
   "Marzo_2025":157,
   "Abril_2025":161,
-  "Mayo_2025":0
+  "Mayo_2025":162,
+  "Junio_2025":158
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
@@ -77,10 +80,11 @@
   "Octubre_2024":19,
   "Noviembre_2024":22,
   "Diciembre_2024":20,
-  "Enero_2025":20,
-  "Febrero_2025":21,
-  "Marzo_2025":21,
-  "Abril_2025":21,
-  "Mayo_2025":2
+  "Enero_2025":19,
+  "Febrero_2025":20,
+  "Marzo_2025":20,
+  "Abril_2025":20,
+  "Mayo_2025":20,
+  "Junio_2025":20
  }
 ]

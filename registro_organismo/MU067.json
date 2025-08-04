@@ -18,7 +18,8 @@
   "Febrero_2025":105,
   "Marzo_2025":103,
   "Abril_2025":54,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":73
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
@@ -39,7 +40,8 @@
   "Febrero_2025":791,
   "Marzo_2025":812,
   "Abril_2025":803,
-  "Mayo_2025":841
+  "Mayo_2025":841,
+  "Junio_2025":825
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
@@ -60,7 +62,8 @@
   "Febrero_2025":1820,
   "Marzo_2025":1866,
   "Abril_2025":1976,
-  "Mayo_2025":2076
+  "Mayo_2025":2076,
+  "Junio_2025":2072
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1293,
   "Marzo_2025":1295,
   "Abril_2025":1291,
-  "Mayo_2025":1277
+  "Mayo_2025":1277,
+  "Junio_2025":1257
  }
 ]

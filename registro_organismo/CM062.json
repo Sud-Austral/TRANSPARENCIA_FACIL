@@ -18,7 +18,8 @@
   "Febrero_2025":44,
   "Marzo_2025":47,
   "Abril_2025":70,
-  "Mayo_2025":44
+  "Mayo_2025":44,
+  "Junio_2025":45
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Iquique (CORMUDEPI)",
@@ -28,17 +29,18 @@
   "Marzo_2024":53,
   "Abril_2024":50,
   "Mayo_2024":114,
-  "Junio_2024":58,
-  "Julio_2024":57,
-  "Agosto_2024":57,
+  "Junio_2024":66,
+  "Julio_2024":85,
+  "Agosto_2024":90,
   "Septiembre_2024":57,
-  "Octubre_2024":56,
+  "Octubre_2024":96,
   "Noviembre_2024":51,
-  "Diciembre_2024":49,
-  "Enero_2025":51,
+  "Diciembre_2024":99,
+  "Enero_2025":55,
   "Febrero_2025":57,
-  "Marzo_2025":60,
-  "Abril_2025":132,
-  "Mayo_2025":0
+  "Marzo_2025":83,
+  "Abril_2025":82,
+  "Mayo_2025":84,
+  "Junio_2025":68
  }
 ]

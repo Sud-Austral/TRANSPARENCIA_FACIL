@@ -18,7 +18,8 @@
   "Febrero_2025":579,
   "Marzo_2025":605,
   "Abril_2025":623,
-  "Mayo_2025":622
+  "Mayo_2025":622,
+  "Junio_2025":617
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
@@ -39,7 +40,8 @@
   "Febrero_2025":537,
   "Marzo_2025":534,
   "Abril_2025":526,
-  "Mayo_2025":532
+  "Mayo_2025":532,
+  "Junio_2025":558
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
@@ -60,7 +62,8 @@
   "Febrero_2025":337,
   "Marzo_2025":296,
   "Abril_2025":344,
-  "Mayo_2025":379
+  "Mayo_2025":393,
+  "Junio_2025":416
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1067,
   "Marzo_2025":1096,
   "Abril_2025":1141,
-  "Mayo_2025":1137
+  "Mayo_2025":1137,
+  "Junio_2025":1096
  }
 ]

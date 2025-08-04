@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
@@ -39,7 +40,8 @@
   "Febrero_2025":64,
   "Marzo_2025":65,
   "Abril_2025":65,
-  "Mayo_2025":67
+  "Mayo_2025":67,
+  "Junio_2025":64
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
@@ -60,7 +62,8 @@
   "Febrero_2025":109,
   "Marzo_2025":149,
   "Abril_2025":106,
-  "Mayo_2025":117
+  "Mayo_2025":118,
+  "Junio_2025":118
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
@@ -81,6 +84,7 @@
   "Febrero_2025":98,
   "Marzo_2025":98,
   "Abril_2025":98,
-  "Mayo_2025":97
+  "Mayo_2025":97,
+  "Junio_2025":98
  }
 ]

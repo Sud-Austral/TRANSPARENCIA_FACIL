@@ -18,7 +18,8 @@
   "Febrero_2025":47,
   "Marzo_2025":47,
   "Abril_2025":37,
-  "Mayo_2025":37
+  "Mayo_2025":37,
+  "Junio_2025":37
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional Metropolitana",
@@ -39,7 +40,8 @@
   "Febrero_2025":36,
   "Marzo_2025":37,
   "Abril_2025":39,
-  "Mayo_2025":35
+  "Mayo_2025":39,
+  "Junio_2025":37
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional Metropolitana",
@@ -60,6 +62,7 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":7
  }
 ]

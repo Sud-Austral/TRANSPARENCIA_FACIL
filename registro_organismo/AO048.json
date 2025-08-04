@@ -18,7 +18,8 @@
   "Febrero_2025":6,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud del Bío Bío",
@@ -39,7 +40,8 @@
   "Febrero_2025":461,
   "Marzo_2025":467,
   "Abril_2025":451,
-  "Mayo_2025":453
+  "Mayo_2025":453,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud del Bío Bío",
@@ -60,7 +62,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud del Bío Bío",
@@ -81,6 +84,7 @@
   "Febrero_2025":12,
   "Marzo_2025":12,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":0
  }
 ]

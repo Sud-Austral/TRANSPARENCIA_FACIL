@@ -4,7 +4,7 @@
   "base":"Contrata",
   "Enero_2024":10014,
   "Febrero_2024":9272,
-  "Marzo_2024":9512,
+  "Marzo_2024":0,
   "Abril_2024":2941,
   "Mayo_2024":5359,
   "Junio_2024":6683,
@@ -16,9 +16,10 @@
   "Diciembre_2024":6774,
   "Enero_2025":8100,
   "Febrero_2025":5265,
-  "Marzo_2025":5757,
-  "Abril_2025":6554,
-  "Mayo_2025":0
+  "Marzo_2025":7766,
+  "Abril_2025":6712,
+  "Mayo_2025":7459,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Santiago de Chile (USACH)",
@@ -37,9 +38,10 @@
   "Diciembre_2024":3180,
   "Enero_2025":1685,
   "Febrero_2025":691,
-  "Marzo_2025":998,
-  "Abril_2025":1440,
-  "Mayo_2025":0
+  "Marzo_2025":1020,
+  "Abril_2025":1737,
+  "Mayo_2025":1923,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Santiago de Chile (USACH)",
@@ -58,8 +60,9 @@
   "Diciembre_2024":387,
   "Enero_2025":379,
   "Febrero_2025":376,
-  "Marzo_2025":382,
+  "Marzo_2025":383,
   "Abril_2025":375,
-  "Mayo_2025":0
+  "Mayo_2025":377,
+  "Junio_2025":0
  }
 ]

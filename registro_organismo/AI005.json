@@ -18,7 +18,8 @@
   "Febrero_2025":160,
   "Marzo_2025":161,
   "Abril_2025":160,
-  "Mayo_2025":163
+  "Mayo_2025":163,
+  "Junio_2025":165
  },
  {
   "organismo_nombre":"Instituto Nacional de la Juventud (INJUV)",
@@ -39,7 +40,8 @@
   "Febrero_2025":3,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":4,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto Nacional de la Juventud (INJUV)",
@@ -60,6 +62,7 @@
   "Febrero_2025":19,
   "Marzo_2025":20,
   "Abril_2025":21,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

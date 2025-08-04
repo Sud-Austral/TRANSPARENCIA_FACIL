@@ -18,7 +18,8 @@
   "Febrero_2025":851,
   "Marzo_2025":815,
   "Abril_2025":1550,
-  "Mayo_2025":0
+  "Mayo_2025":802,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San José de Coronel",
@@ -39,7 +40,8 @@
   "Febrero_2025":9,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":0
+  "Mayo_2025":10,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San José de Coronel",
@@ -60,6 +62,7 @@
   "Febrero_2025":293,
   "Marzo_2025":293,
   "Abril_2025":291,
-  "Mayo_2025":0
+  "Mayo_2025":291,
+  "Junio_2025":0
  }
 ]

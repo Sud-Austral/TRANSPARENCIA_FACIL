@@ -18,7 +18,8 @@
   "Febrero_2025":3159,
   "Marzo_2025":1125,
   "Abril_2025":3026,
-  "Mayo_2025":2905
+  "Mayo_2025":2905,
+  "Junio_2025":2951
  },
  {
   "organismo_nombre":"Servicio de Salud OHiggins",
@@ -39,7 +40,8 @@
   "Febrero_2025":148,
   "Marzo_2025":141,
   "Abril_2025":102,
-  "Mayo_2025":66
+  "Mayo_2025":66,
+  "Junio_2025":218
  },
  {
   "organismo_nombre":"Servicio de Salud OHiggins",
@@ -60,6 +62,7 @@
   "Febrero_2025":1374,
   "Marzo_2025":1362,
   "Abril_2025":1310,
-  "Mayo_2025":1317
+  "Mayo_2025":1317,
+  "Junio_2025":1300
  }
 ]

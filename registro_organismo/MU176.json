@@ -17,8 +17,9 @@
   "Enero_2025":38,
   "Febrero_2025":36,
   "Marzo_2025":36,
-  "Abril_2025":33,
-  "Mayo_2025":32
+  "Abril_2025":35,
+  "Mayo_2025":34,
+  "Junio_2025":32
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
@@ -38,8 +39,9 @@
   "Enero_2025":234,
   "Febrero_2025":230,
   "Marzo_2025":229,
-  "Abril_2025":51,
-  "Mayo_2025":105
+  "Abril_2025":194,
+  "Mayo_2025":261,
+  "Junio_2025":105
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
@@ -59,8 +61,9 @@
   "Enero_2025":168,
   "Febrero_2025":223,
   "Marzo_2025":194,
-  "Abril_2025":30,
-  "Mayo_2025":27
+  "Abril_2025":218,
+  "Mayo_2025":27,
+  "Junio_2025":33
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
@@ -80,7 +83,8 @@
   "Enero_2025":201,
   "Febrero_2025":199,
   "Marzo_2025":198,
-  "Abril_2025":139,
-  "Mayo_2025":137
+  "Abril_2025":196,
+  "Mayo_2025":196,
+  "Junio_2025":137
  }
 ]

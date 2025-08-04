@@ -18,7 +18,8 @@
   "Febrero_2025":119,
   "Marzo_2025":93,
   "Abril_2025":79,
-  "Mayo_2025":82
+  "Mayo_2025":82,
+  "Junio_2025":78
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
@@ -39,7 +40,8 @@
   "Febrero_2025":430,
   "Marzo_2025":438,
   "Abril_2025":449,
-  "Mayo_2025":445
+  "Mayo_2025":446,
+  "Junio_2025":437
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
@@ -60,7 +62,8 @@
   "Febrero_2025":956,
   "Marzo_2025":755,
   "Abril_2025":733,
-  "Mayo_2025":856
+  "Mayo_2025":856,
+  "Junio_2025":933
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
@@ -81,6 +84,7 @@
   "Febrero_2025":649,
   "Marzo_2025":646,
   "Abril_2025":640,
-  "Mayo_2025":640
+  "Mayo_2025":640,
+  "Junio_2025":638
  }
 ]

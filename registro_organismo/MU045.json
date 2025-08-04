@@ -18,7 +18,8 @@
   "Febrero_2025":147,
   "Marzo_2025":157,
   "Abril_2025":159,
-  "Mayo_2025":163
+  "Mayo_2025":163,
+  "Junio_2025":163
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
@@ -39,7 +40,8 @@
   "Febrero_2025":90,
   "Marzo_2025":122,
   "Abril_2025":58,
-  "Mayo_2025":96
+  "Mayo_2025":96,
+  "Junio_2025":97
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
@@ -60,7 +62,8 @@
   "Febrero_2025":125,
   "Marzo_2025":256,
   "Abril_2025":184,
-  "Mayo_2025":194
+  "Mayo_2025":194,
+  "Junio_2025":260
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
@@ -81,6 +84,7 @@
   "Febrero_2025":210,
   "Marzo_2025":209,
   "Abril_2025":208,
-  "Mayo_2025":208
+  "Mayo_2025":208,
+  "Junio_2025":208
  }
 ]

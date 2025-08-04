@@ -18,7 +18,8 @@
   "Febrero_2025":2161400,
   "Marzo_2025":2161400,
   "Abril_2025":2161400,
-  "Mayo_2025":0
+  "Mayo_2025":2161400,
+  "Junio_2025":2161400
  },
  {
   "organismo_nombre":"Asociación de Municipios para la Conservación de la Biodiversidad de la Región de Los Ríos",
@@ -37,8 +38,9 @@
   "Diciembre_2024":667975,
   "Enero_2025":684800,
   "Febrero_2025":684800,
-  "Marzo_2025":523200,
-  "Abril_2025":1169600,
-  "Mayo_2025":0
+  "Marzo_2025":684800,
+  "Abril_2025":684800,
+  "Mayo_2025":684800,
+  "Junio_2025":504150
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":74,
   "Marzo_2025":71,
   "Abril_2025":70,
-  "Mayo_2025":69
+  "Mayo_2025":115,
+  "Junio_2025":117
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
@@ -39,7 +40,8 @@
   "Febrero_2025":57,
   "Marzo_2025":52,
   "Abril_2025":54,
-  "Mayo_2025":56
+  "Mayo_2025":79,
+  "Junio_2025":78
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
@@ -56,11 +58,12 @@
   "Octubre_2024":132,
   "Noviembre_2024":6,
   "Diciembre_2024":232,
-  "Enero_2025":33,
-  "Febrero_2025":88,
-  "Marzo_2025":96,
-  "Abril_2025":113,
-  "Mayo_2025":3
+  "Enero_2025":61,
+  "Febrero_2025":216,
+  "Marzo_2025":294,
+  "Abril_2025":258,
+  "Mayo_2025":268,
+  "Junio_2025":266
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
@@ -77,10 +80,11 @@
   "Octubre_2024":150,
   "Noviembre_2024":150,
   "Diciembre_2024":150,
-  "Enero_2025":129,
-  "Febrero_2025":129,
-  "Marzo_2025":128,
-  "Abril_2025":126,
-  "Mayo_2025":126
+  "Enero_2025":150,
+  "Febrero_2025":150,
+  "Marzo_2025":149,
+  "Abril_2025":146,
+  "Mayo_2025":146,
+  "Junio_2025":146
  }
 ]

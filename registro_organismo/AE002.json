@@ -18,7 +18,8 @@
   "Febrero_2025":363,
   "Marzo_2025":368,
   "Abril_2025":364,
-  "Mayo_2025":364
+  "Mayo_2025":364,
+  "Junio_2025":363
  },
  {
   "organismo_nombre":"Dirección de Presupuestos (DIPRES)",
@@ -39,7 +40,8 @@
   "Febrero_2025":37,
   "Marzo_2025":40,
   "Abril_2025":40,
-  "Mayo_2025":38
+  "Mayo_2025":38,
+  "Junio_2025":40
  },
  {
   "organismo_nombre":"Dirección de Presupuestos (DIPRES)",
@@ -58,8 +60,9 @@
   "Diciembre_2024":39,
   "Enero_2025":39,
   "Febrero_2025":39,
-  "Marzo_2025":78,
-  "Abril_2025":0,
-  "Mayo_2025":37
+  "Marzo_2025":39,
+  "Abril_2025":39,
+  "Mayo_2025":37,
+  "Junio_2025":37
  }
 ]

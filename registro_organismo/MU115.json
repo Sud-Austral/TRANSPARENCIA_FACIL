@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Juan Fernández",
@@ -39,7 +40,8 @@
   "Febrero_2025":44,
   "Marzo_2025":35,
   "Abril_2025":32,
-  "Mayo_2025":32
+  "Mayo_2025":32,
+  "Junio_2025":34
  },
  {
   "organismo_nombre":"Municipalidad de Juan Fernández",
@@ -60,7 +62,8 @@
   "Febrero_2025":45,
   "Marzo_2025":60,
   "Abril_2025":51,
-  "Mayo_2025":70
+  "Mayo_2025":70,
+  "Junio_2025":68
  },
  {
   "organismo_nombre":"Municipalidad de Juan Fernández",
@@ -81,6 +84,7 @@
   "Febrero_2025":42,
   "Marzo_2025":42,
   "Abril_2025":42,
-  "Mayo_2025":42
+  "Mayo_2025":42,
+  "Junio_2025":42
  }
 ]

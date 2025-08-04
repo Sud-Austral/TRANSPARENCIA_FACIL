@@ -18,7 +18,8 @@
   "Febrero_2025":1003,
   "Marzo_2025":1001,
   "Abril_2025":1243,
-  "Mayo_2025":1257
+  "Mayo_2025":1306,
+  "Junio_2025":1203
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Aysén (SLEP Aysén)",
@@ -39,7 +40,8 @@
   "Febrero_2025":3,
   "Marzo_2025":4,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Aysén (SLEP Aysén)",
@@ -60,6 +62,7 @@
   "Febrero_2025":28,
   "Marzo_2025":1664,
   "Abril_2025":1611,
-  "Mayo_2025":1578
+  "Mayo_2025":1578,
+  "Junio_2025":1575
  }
 ]

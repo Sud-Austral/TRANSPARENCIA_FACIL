@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
@@ -39,7 +40,8 @@
   "Febrero_2025":20,
   "Marzo_2025":18,
   "Abril_2025":18,
-  "Mayo_2025":19
+  "Mayo_2025":19,
+  "Junio_2025":19
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
@@ -57,10 +59,11 @@
   "Noviembre_2024":0,
   "Diciembre_2024":0,
   "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Febrero_2025":1,
+  "Marzo_2025":1,
+  "Abril_2025":1,
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
@@ -81,6 +84,7 @@
   "Febrero_2025":27,
   "Marzo_2025":26,
   "Abril_2025":26,
-  "Mayo_2025":26
+  "Mayo_2025":26,
+  "Junio_2025":25
  }
 ]

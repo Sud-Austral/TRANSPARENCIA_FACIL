@@ -18,7 +18,8 @@
   "Febrero_2025":101,
   "Marzo_2025":136,
   "Abril_2025":206,
-  "Mayo_2025":207
+  "Mayo_2025":207,
+  "Junio_2025":207
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
@@ -39,7 +40,8 @@
   "Febrero_2025":62,
   "Marzo_2025":66,
   "Abril_2025":69,
-  "Mayo_2025":73
+  "Mayo_2025":73,
+  "Junio_2025":70
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
@@ -60,7 +62,8 @@
   "Febrero_2025":102,
   "Marzo_2025":94,
   "Abril_2025":114,
-  "Mayo_2025":118
+  "Mayo_2025":118,
+  "Junio_2025":117
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
@@ -81,6 +84,7 @@
   "Febrero_2025":148,
   "Marzo_2025":148,
   "Abril_2025":147,
-  "Mayo_2025":148
+  "Mayo_2025":148,
+  "Junio_2025":146
  }
 ]

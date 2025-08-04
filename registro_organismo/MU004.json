@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
@@ -28,7 +29,7 @@
   "Marzo_2024":47,
   "Abril_2024":48,
   "Mayo_2024":49,
-  "Junio_2024":47,
+  "Junio_2024":48,
   "Julio_2024":45,
   "Agosto_2024":46,
   "Septiembre_2024":45,
@@ -39,7 +40,8 @@
   "Febrero_2025":51,
   "Marzo_2025":51,
   "Abril_2025":53,
-  "Mayo_2025":52
+  "Mayo_2025":52,
+  "Junio_2025":52
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
@@ -60,7 +62,8 @@
   "Febrero_2025":98,
   "Marzo_2025":117,
   "Abril_2025":111,
-  "Mayo_2025":127
+  "Mayo_2025":148,
+  "Junio_2025":116
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
@@ -81,6 +84,7 @@
   "Febrero_2025":84,
   "Marzo_2025":85,
   "Abril_2025":85,
-  "Mayo_2025":87
+  "Mayo_2025":123,
+  "Junio_2025":49
  }
 ]

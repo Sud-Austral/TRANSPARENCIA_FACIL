@@ -18,7 +18,8 @@
   "Febrero_2025":49,
   "Marzo_2025":101,
   "Abril_2025":58,
-  "Mayo_2025":57
+  "Mayo_2025":57,
+  "Junio_2025":57
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
@@ -39,7 +40,8 @@
   "Febrero_2025":49,
   "Marzo_2025":356,
   "Abril_2025":346,
-  "Mayo_2025":351
+  "Mayo_2025":351,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
@@ -59,8 +61,9 @@
   "Enero_2025":115,
   "Febrero_2025":125,
   "Marzo_2025":190,
-  "Abril_2025":7,
-  "Mayo_2025":0
+  "Abril_2025":212,
+  "Mayo_2025":205,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
@@ -81,6 +84,7 @@
   "Febrero_2025":459,
   "Marzo_2025":456,
   "Abril_2025":455,
-  "Mayo_2025":454
+  "Mayo_2025":454,
+  "Junio_2025":0
  }
 ]

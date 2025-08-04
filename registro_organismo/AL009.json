@@ -18,7 +18,8 @@
   "Febrero_2025":277,
   "Marzo_2025":279,
   "Abril_2025":279,
-  "Mayo_2025":0
+  "Mayo_2025":280,
+  "Junio_2025":284
  },
  {
   "organismo_nombre":"Superintendencia de Seguridad Social (SUSESO)",
@@ -39,7 +40,8 @@
   "Febrero_2025":31,
   "Marzo_2025":38,
   "Abril_2025":39,
-  "Mayo_2025":40
+  "Mayo_2025":40,
+  "Junio_2025":41
  },
  {
   "organismo_nombre":"Superintendencia de Seguridad Social (SUSESO)",
@@ -60,6 +62,7 @@
   "Febrero_2025":20,
   "Marzo_2025":20,
   "Abril_2025":20,
-  "Mayo_2025":20
+  "Mayo_2025":20,
+  "Junio_2025":20
  }
 ]

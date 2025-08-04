@@ -16,8 +16,31 @@
   "Diciembre_2024":80,
   "Enero_2025":83,
   "Febrero_2025":84,
-  "Marzo_2025":1,
-  "Abril_2025":2,
-  "Mayo_2025":2
+  "Marzo_2025":82,
+  "Abril_2025":84,
+  "Mayo_2025":87,
+  "Junio_2025":0
+ },
+ {
+  "organismo_nombre":"Corporación de Cultura y Turismo de Calama",
+  "base":"Contratohonorarios",
+  "Enero_2024":16,
+  "Febrero_2024":0,
+  "Marzo_2024":0,
+  "Abril_2024":0,
+  "Mayo_2024":0,
+  "Junio_2024":0,
+  "Julio_2024":0,
+  "Agosto_2024":0,
+  "Septiembre_2024":0,
+  "Octubre_2024":0,
+  "Noviembre_2024":0,
+  "Diciembre_2024":0,
+  "Enero_2025":0,
+  "Febrero_2025":0,
+  "Marzo_2025":0,
+  "Abril_2025":0,
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":2476,
   "Marzo_2025":3051,
   "Abril_2025":2940,
-  "Mayo_2025":2945
+  "Mayo_2025":2945,
+  "Junio_2025":4810
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Montt",
@@ -39,7 +40,8 @@
   "Febrero_2025":2483,
   "Marzo_2025":2568,
   "Abril_2025":2930,
-  "Mayo_2025":2991
+  "Mayo_2025":2991,
+  "Junio_2025":3073
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Montt",
@@ -52,15 +54,16 @@
   "Junio_2024":428,
   "Julio_2024":432,
   "Agosto_2024":484,
-  "Septiembre_2024":726,
+  "Septiembre_2024":727,
   "Octubre_2024":823,
   "Noviembre_2024":827,
   "Diciembre_2024":799,
-  "Enero_2025":490,
-  "Febrero_2025":282,
+  "Enero_2025":482,
+  "Febrero_2025":281,
   "Marzo_2025":245,
   "Abril_2025":264,
-  "Mayo_2025":361
+  "Mayo_2025":368,
+  "Junio_2025":334
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Montt",
@@ -81,6 +84,7 @@
   "Febrero_2025":3267,
   "Marzo_2025":3190,
   "Abril_2025":3194,
-  "Mayo_2025":3182
+  "Mayo_2025":3182,
+  "Junio_2025":3163
  }
 ]

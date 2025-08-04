@@ -18,7 +18,8 @@
   "Febrero_2025":4125,
   "Marzo_2025":4268,
   "Abril_2025":4054,
-  "Mayo_2025":0
+  "Mayo_2025":4037,
+  "Junio_2025":4048
  },
  {
   "organismo_nombre":"Hospital Gustavo Fricke",
@@ -39,7 +40,8 @@
   "Febrero_2025":131,
   "Marzo_2025":333,
   "Abril_2025":311,
-  "Mayo_2025":238
+  "Mayo_2025":238,
+  "Junio_2025":335
  },
  {
   "organismo_nombre":"Hospital Gustavo Fricke",
@@ -60,6 +62,7 @@
   "Febrero_2025":798,
   "Marzo_2025":761,
   "Abril_2025":753,
-  "Mayo_2025":0
+  "Mayo_2025":749,
+  "Junio_2025":746
  }
 ]

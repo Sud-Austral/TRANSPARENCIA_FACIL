@@ -17,8 +17,9 @@
   "Enero_2025":525,
   "Febrero_2025":532,
   "Marzo_2025":506,
-  "Abril_2025":488,
-  "Mayo_2025":482
+  "Abril_2025":491,
+  "Mayo_2025":488,
+  "Junio_2025":464
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
@@ -39,7 +40,8 @@
   "Febrero_2025":418,
   "Marzo_2025":360,
   "Abril_2025":372,
-  "Mayo_2025":444
+  "Mayo_2025":444,
+  "Junio_2025":449
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
@@ -58,9 +60,10 @@
   "Diciembre_2024":303,
   "Enero_2025":198,
   "Febrero_2025":215,
-  "Marzo_2025":258,
-  "Abril_2025":315,
-  "Mayo_2025":307
+  "Marzo_2025":259,
+  "Abril_2025":318,
+  "Mayo_2025":310,
+  "Junio_2025":324
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
@@ -81,6 +84,7 @@
   "Febrero_2025":256,
   "Marzo_2025":264,
   "Abril_2025":274,
-  "Mayo_2025":252
+  "Mayo_2025":252,
+  "Junio_2025":264
  }
 ]

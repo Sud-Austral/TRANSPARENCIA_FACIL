@@ -18,7 +18,8 @@
   "Febrero_2025":811,
   "Marzo_2025":807,
   "Abril_2025":805,
-  "Mayo_2025":806
+  "Mayo_2025":806,
+  "Junio_2025":805
  },
  {
   "organismo_nombre":"SERVIU Metropolitano",
@@ -39,7 +40,8 @@
   "Febrero_2025":77,
   "Marzo_2025":78,
   "Abril_2025":76,
-  "Mayo_2025":91
+  "Mayo_2025":91,
+  "Junio_2025":91
  },
  {
   "organismo_nombre":"SERVIU Metropolitano",
@@ -60,6 +62,7 @@
   "Febrero_2025":61,
   "Marzo_2025":63,
   "Abril_2025":65,
-  "Mayo_2025":64
+  "Mayo_2025":64,
+  "Junio_2025":63
  }
 ]

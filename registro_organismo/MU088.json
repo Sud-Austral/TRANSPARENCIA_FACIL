@@ -18,7 +18,8 @@
   "Febrero_2025":161,
   "Marzo_2025":159,
   "Abril_2025":316,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":163
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
@@ -39,7 +40,8 @@
   "Febrero_2025":91,
   "Marzo_2025":89,
   "Abril_2025":91,
-  "Mayo_2025":96
+  "Mayo_2025":147,
+  "Junio_2025":29
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
@@ -59,8 +61,9 @@
   "Enero_2025":165,
   "Febrero_2025":306,
   "Marzo_2025":209,
-  "Abril_2025":206,
-  "Mayo_2025":35
+  "Abril_2025":227,
+  "Mayo_2025":211,
+  "Junio_2025":39
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":213,
   "Marzo_2025":210,
   "Abril_2025":206,
-  "Mayo_2025":135
+  "Mayo_2025":135,
+  "Junio_2025":164
  }
 ]

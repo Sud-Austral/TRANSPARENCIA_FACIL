@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
@@ -39,7 +40,8 @@
   "Febrero_2025":132,
   "Marzo_2025":132,
   "Abril_2025":129,
-  "Mayo_2025":128
+  "Mayo_2025":128,
+  "Junio_2025":129
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":2,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
@@ -81,6 +84,7 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  }
 ]

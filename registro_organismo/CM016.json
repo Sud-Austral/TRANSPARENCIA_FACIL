@@ -18,7 +18,8 @@
   "Febrero_2025":57,
   "Marzo_2025":59,
   "Abril_2025":57,
-  "Mayo_2025":58
+  "Mayo_2025":58,
+  "Junio_2025":56
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
@@ -39,7 +40,8 @@
   "Febrero_2025":51,
   "Marzo_2025":52,
   "Abril_2025":55,
-  "Mayo_2025":56
+  "Mayo_2025":56,
+  "Junio_2025":56
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
@@ -60,7 +62,8 @@
   "Febrero_2025":58,
   "Marzo_2025":35,
   "Abril_2025":43,
-  "Mayo_2025":36
+  "Mayo_2025":36,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
@@ -81,6 +84,7 @@
   "Febrero_2025":79,
   "Marzo_2025":78,
   "Abril_2025":78,
-  "Mayo_2025":78
+  "Mayo_2025":78,
+  "Junio_2025":77
  }
 ]

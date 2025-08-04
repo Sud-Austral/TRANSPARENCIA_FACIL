@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":147,
-  "Mayo_2025":177
+  "Mayo_2025":177,
+  "Junio_2025":176
  },
  {
   "organismo_nombre":"Subsecretaría de Seguridad Pública",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":99,
-  "Mayo_2025":103
+  "Mayo_2025":103,
+  "Junio_2025":102
  },
  {
   "organismo_nombre":"Subsecretaría de Seguridad Pública",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":15,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":30
  }
 ]

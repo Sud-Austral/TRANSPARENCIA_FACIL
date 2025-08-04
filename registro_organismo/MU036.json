@@ -18,7 +18,8 @@
   "Febrero_2025":235,
   "Marzo_2025":179,
   "Abril_2025":185,
-  "Mayo_2025":185
+  "Mayo_2025":185,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
@@ -39,7 +40,8 @@
   "Febrero_2025":67,
   "Marzo_2025":77,
   "Abril_2025":83,
-  "Mayo_2025":77
+  "Mayo_2025":77,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
@@ -60,7 +62,8 @@
   "Febrero_2025":19,
   "Marzo_2025":77,
   "Abril_2025":68,
-  "Mayo_2025":68
+  "Mayo_2025":68,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
@@ -81,6 +84,7 @@
   "Febrero_2025":115,
   "Marzo_2025":114,
   "Abril_2025":111,
-  "Mayo_2025":112
+  "Mayo_2025":112,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":38,
   "Marzo_2025":37,
   "Abril_2025":37,
-  "Mayo_2025":32
+  "Mayo_2025":32,
+  "Junio_2025":32
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
@@ -39,7 +40,8 @@
   "Febrero_2025":4228,
   "Marzo_2025":4231,
   "Abril_2025":4408,
-  "Mayo_2025":4428
+  "Mayo_2025":4428,
+  "Junio_2025":4431
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
@@ -60,7 +62,8 @@
   "Febrero_2025":21,
   "Marzo_2025":9,
   "Abril_2025":6,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1082,
   "Marzo_2025":1079,
   "Abril_2025":1076,
-  "Mayo_2025":1078
+  "Mayo_2025":1078,
+  "Junio_2025":1077
  }
 ]

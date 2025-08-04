@@ -18,7 +18,8 @@
   "Febrero_2025":27,
   "Marzo_2025":8,
   "Abril_2025":11,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
@@ -39,7 +40,8 @@
   "Febrero_2025":115,
   "Marzo_2025":161,
   "Abril_2025":66,
-  "Mayo_2025":113
+  "Mayo_2025":113,
+  "Junio_2025":115
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
@@ -60,7 +62,8 @@
   "Febrero_2025":172,
   "Marzo_2025":207,
   "Abril_2025":164,
-  "Mayo_2025":183
+  "Mayo_2025":183,
+  "Junio_2025":181
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
@@ -81,6 +84,7 @@
   "Febrero_2025":259,
   "Marzo_2025":322,
   "Abril_2025":195,
-  "Mayo_2025":256
+  "Mayo_2025":262,
+  "Junio_2025":251
  }
 ]

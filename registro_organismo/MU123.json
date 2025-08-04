@@ -18,7 +18,8 @@
   "Febrero_2025":441,
   "Marzo_2025":453,
   "Abril_2025":462,
-  "Mayo_2025":912
+  "Mayo_2025":917,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
@@ -39,7 +40,8 @@
   "Febrero_2025":277,
   "Marzo_2025":290,
   "Abril_2025":443,
-  "Mayo_2025":395
+  "Mayo_2025":450,
+  "Junio_2025":160
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
@@ -60,7 +62,8 @@
   "Febrero_2025":300,
   "Marzo_2025":87,
   "Abril_2025":85,
-  "Mayo_2025":85
+  "Mayo_2025":85,
+  "Junio_2025":90
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
@@ -81,6 +84,7 @@
   "Febrero_2025":445,
   "Marzo_2025":447,
   "Abril_2025":448,
-  "Mayo_2025":380
+  "Mayo_2025":445,
+  "Junio_2025":205
  }
 ]

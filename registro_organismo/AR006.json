@@ -18,7 +18,8 @@
   "Febrero_2025":555,
   "Marzo_2025":552,
   "Abril_2025":1098,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":549
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
@@ -39,7 +40,8 @@
   "Febrero_2025":3784,
   "Marzo_2025":3792,
   "Abril_2025":3781,
-  "Mayo_2025":3777
+  "Mayo_2025":3777,
+  "Junio_2025":3770
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
@@ -60,7 +62,8 @@
   "Febrero_2025":848,
   "Marzo_2025":841,
   "Abril_2025":740,
-  "Mayo_2025":474
+  "Mayo_2025":474,
+  "Junio_2025":470
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
@@ -81,6 +84,7 @@
   "Febrero_2025":56,
   "Marzo_2025":56,
   "Abril_2025":55,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":55
  }
 ]

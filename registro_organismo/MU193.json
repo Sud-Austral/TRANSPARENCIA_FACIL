@@ -18,7 +18,8 @@
   "Febrero_2025":28,
   "Marzo_2025":28,
   "Abril_2025":28,
-  "Mayo_2025":22
+  "Mayo_2025":28,
+  "Junio_2025":83
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
@@ -39,7 +40,8 @@
   "Febrero_2025":296,
   "Marzo_2025":292,
   "Abril_2025":294,
-  "Mayo_2025":188
+  "Mayo_2025":290,
+  "Junio_2025":404
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
@@ -60,7 +62,8 @@
   "Febrero_2025":420,
   "Marzo_2025":499,
   "Abril_2025":503,
-  "Mayo_2025":316
+  "Mayo_2025":316,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
@@ -81,6 +84,7 @@
   "Febrero_2025":595,
   "Marzo_2025":595,
   "Abril_2025":595,
-  "Mayo_2025":491
+  "Mayo_2025":595,
+  "Junio_2025":576
  }
 ]

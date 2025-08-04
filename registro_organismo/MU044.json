@@ -18,7 +18,8 @@
   "Febrero_2025":36,
   "Marzo_2025":35,
   "Abril_2025":35,
-  "Mayo_2025":0
+  "Mayo_2025":12,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
@@ -39,7 +40,8 @@
   "Febrero_2025":127,
   "Marzo_2025":128,
   "Abril_2025":122,
-  "Mayo_2025":53
+  "Mayo_2025":119,
+  "Junio_2025":53
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
@@ -56,11 +58,12 @@
   "Octubre_2024":333,
   "Noviembre_2024":374,
   "Diciembre_2024":253,
-  "Enero_2025":119,
+  "Enero_2025":187,
   "Febrero_2025":166,
   "Marzo_2025":43,
   "Abril_2025":43,
-  "Mayo_2025":0
+  "Mayo_2025":34,
+  "Junio_2025":31
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
@@ -81,6 +84,7 @@
   "Febrero_2025":168,
   "Marzo_2025":169,
   "Abril_2025":168,
-  "Mayo_2025":96
+  "Mayo_2025":169,
+  "Junio_2025":96
  }
 ]

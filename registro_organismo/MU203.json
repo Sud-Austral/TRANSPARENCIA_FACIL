@@ -18,7 +18,8 @@
   "Febrero_2025":96,
   "Marzo_2025":107,
   "Abril_2025":103,
-  "Mayo_2025":101
+  "Mayo_2025":101,
+  "Junio_2025":100
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
@@ -39,7 +40,8 @@
   "Febrero_2025":130,
   "Marzo_2025":134,
   "Abril_2025":137,
-  "Mayo_2025":135
+  "Mayo_2025":135,
+  "Junio_2025":134
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
@@ -60,7 +62,8 @@
   "Febrero_2025":13,
   "Marzo_2025":27,
   "Abril_2025":28,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":21
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
@@ -81,6 +84,7 @@
   "Febrero_2025":162,
   "Marzo_2025":161,
   "Abril_2025":160,
-  "Mayo_2025":160
+  "Mayo_2025":160,
+  "Junio_2025":160
  }
 ]

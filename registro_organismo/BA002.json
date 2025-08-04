@@ -18,7 +18,8 @@
   "Febrero_2025":400,
   "Marzo_2025":406,
   "Abril_2025":394,
-  "Mayo_2025":397
+  "Mayo_2025":397,
+  "Junio_2025":403
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
@@ -39,7 +40,8 @@
   "Febrero_2025":904,
   "Marzo_2025":907,
   "Abril_2025":895,
-  "Mayo_2025":891
+  "Mayo_2025":891,
+  "Junio_2025":897
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
@@ -55,12 +57,13 @@
   "Septiembre_2024":2195,
   "Octubre_2024":2431,
   "Noviembre_2024":3015,
-  "Diciembre_2024":1128,
+  "Diciembre_2024":1145,
   "Enero_2025":525,
-  "Febrero_2025":684,
+  "Febrero_2025":690,
   "Marzo_2025":545,
-  "Abril_2025":2113,
-  "Mayo_2025":1691
+  "Abril_2025":2413,
+  "Mayo_2025":2268,
+  "Junio_2025":2565
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":103,
   "Abril_2025":101,
-  "Mayo_2025":100
+  "Mayo_2025":100,
+  "Junio_2025":101
  }
 ]

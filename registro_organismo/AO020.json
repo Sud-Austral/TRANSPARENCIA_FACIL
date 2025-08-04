@@ -18,7 +18,8 @@
   "Febrero_2025":2114,
   "Marzo_2025":2064,
   "Abril_2025":2090,
-  "Mayo_2025":2033
+  "Mayo_2025":2033,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Coquimbo",
@@ -39,7 +40,8 @@
   "Febrero_2025":143,
   "Marzo_2025":150,
   "Abril_2025":150,
-  "Mayo_2025":150
+  "Mayo_2025":150,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Coquimbo",
@@ -60,6 +62,7 @@
   "Febrero_2025":898,
   "Marzo_2025":449,
   "Abril_2025":443,
-  "Mayo_2025":444
+  "Mayo_2025":444,
+  "Junio_2025":0
  }
 ]

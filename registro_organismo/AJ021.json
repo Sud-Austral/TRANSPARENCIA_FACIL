@@ -18,7 +18,8 @@
   "Febrero_2025":55,
   "Marzo_2025":63,
   "Abril_2025":61,
-  "Mayo_2025":61
+  "Mayo_2025":61,
+  "Junio_2025":62
  },
  {
   "organismo_nombre":"Superintendencia de Educación Superior",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Superintendencia de Educación Superior",
@@ -60,6 +62,7 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":9
  }
 ]

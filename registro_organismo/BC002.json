@@ -18,7 +18,8 @@
   "Febrero_2025":37,
   "Marzo_2025":38,
   "Abril_2025":38,
-  "Mayo_2025":38
+  "Mayo_2025":38,
+  "Junio_2025":39
  },
  {
   "organismo_nombre":"Subsecretaría del Patrimonio Cultural",
@@ -39,7 +40,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Subsecretaría del Patrimonio Cultural",
@@ -60,6 +62,7 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":1
  }
 ]

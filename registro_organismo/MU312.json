@@ -18,7 +18,8 @@
   "Febrero_2025":2945,
   "Marzo_2025":2229,
   "Abril_2025":2071,
-  "Mayo_2025":2017
+  "Mayo_2025":2017,
+  "Junio_2025":2064
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
@@ -39,7 +40,8 @@
   "Febrero_2025":1360,
   "Marzo_2025":1615,
   "Abril_2025":1882,
-  "Mayo_2025":1626
+  "Mayo_2025":1626,
+  "Junio_2025":1832
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
@@ -60,7 +62,8 @@
   "Febrero_2025":2090,
   "Marzo_2025":2258,
   "Abril_2025":2335,
-  "Mayo_2025":2291
+  "Mayo_2025":2291,
+  "Junio_2025":2335
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
@@ -81,6 +84,7 @@
   "Febrero_2025":2906,
   "Marzo_2025":3157,
   "Abril_2025":3879,
-  "Mayo_2025":2811
+  "Mayo_2025":2811,
+  "Junio_2025":3695
  }
 ]

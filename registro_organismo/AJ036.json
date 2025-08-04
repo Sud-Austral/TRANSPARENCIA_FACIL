@@ -18,7 +18,8 @@
   "Febrero_2025":2216,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
@@ -39,7 +40,8 @@
   "Febrero_2025":710,
   "Marzo_2025":51,
   "Abril_2025":51,
-  "Mayo_2025":49
+  "Mayo_2025":49,
+  "Junio_2025":1291
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
@@ -60,7 +62,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
@@ -81,6 +84,7 @@
   "Febrero_2025":1482,
   "Marzo_2025":28,
   "Abril_2025":56,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1448
  }
 ]

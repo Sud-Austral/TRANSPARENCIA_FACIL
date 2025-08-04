@@ -18,7 +18,8 @@
   "Febrero_2025":61,
   "Marzo_2025":62,
   "Abril_2025":59,
-  "Mayo_2025":60
+  "Mayo_2025":60,
+  "Junio_2025":61
  },
  {
   "organismo_nombre":"Corporación Cultural de Lo Barnechea",
@@ -38,7 +39,8 @@
   "Enero_2025":58,
   "Febrero_2025":0,
   "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":127,
+  "Mayo_2025":149,
+  "Junio_2025":188
  }
 ]

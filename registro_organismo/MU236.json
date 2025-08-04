@@ -17,8 +17,9 @@
   "Enero_2025":25,
   "Febrero_2025":50,
   "Marzo_2025":32,
-  "Abril_2025":17,
-  "Mayo_2025":0
+  "Abril_2025":9,
+  "Mayo_2025":8,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Varas",
@@ -28,7 +29,7 @@
   "Marzo_2024":190,
   "Abril_2024":207,
   "Mayo_2024":227,
-  "Junio_2024":357,
+  "Junio_2024":358,
   "Julio_2024":239,
   "Agosto_2024":238,
   "Septiembre_2024":238,
@@ -37,9 +38,10 @@
   "Diciembre_2024":236,
   "Enero_2025":246,
   "Febrero_2025":242,
-  "Marzo_2025":113,
-  "Abril_2025":113,
-  "Mayo_2025":120
+  "Marzo_2025":239,
+  "Abril_2025":241,
+  "Mayo_2025":248,
+  "Junio_2025":242
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Varas",
@@ -60,7 +62,8 @@
   "Febrero_2025":341,
   "Marzo_2025":391,
   "Abril_2025":380,
-  "Mayo_2025":455
+  "Mayo_2025":455,
+  "Junio_2025":472
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Varas",
@@ -80,7 +83,8 @@
   "Enero_2025":273,
   "Febrero_2025":273,
   "Marzo_2025":105,
-  "Abril_2025":102,
-  "Mayo_2025":109
+  "Abril_2025":273,
+  "Mayo_2025":445,
+  "Junio_2025":274
  }
 ]

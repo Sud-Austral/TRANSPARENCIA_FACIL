@@ -18,7 +18,8 @@
   "Febrero_2025":104,
   "Marzo_2025":106,
   "Abril_2025":106,
-  "Mayo_2025":109
+  "Mayo_2025":109,
+  "Junio_2025":109
  },
  {
   "organismo_nombre":"Dirección General de Movilización Nacional (DGMN)",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Dirección General de Movilización Nacional (DGMN)",
@@ -60,6 +62,7 @@
   "Febrero_2025":146,
   "Marzo_2025":146,
   "Abril_2025":146,
-  "Mayo_2025":163
+  "Mayo_2025":163,
+  "Junio_2025":163
  }
 ]

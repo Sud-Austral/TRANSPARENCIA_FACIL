@@ -18,7 +18,8 @@
   "Febrero_2025":32,
   "Marzo_2025":32,
   "Abril_2025":30,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Lagos",
@@ -39,7 +40,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Lagos",
@@ -60,6 +62,7 @@
   "Febrero_2025":2,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

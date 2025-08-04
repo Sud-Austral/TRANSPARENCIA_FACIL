@@ -18,7 +18,8 @@
   "Febrero_2025":211,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Peralillo",
@@ -39,7 +40,8 @@
   "Febrero_2025":119,
   "Marzo_2025":17,
   "Abril_2025":18,
-  "Mayo_2025":18
+  "Mayo_2025":18,
+  "Junio_2025":19
  },
  {
   "organismo_nombre":"Municipalidad de Peralillo",
@@ -60,7 +62,8 @@
   "Febrero_2025":123,
   "Marzo_2025":131,
   "Abril_2025":144,
-  "Mayo_2025":145
+  "Mayo_2025":145,
+  "Junio_2025":129
  },
  {
   "organismo_nombre":"Municipalidad de Peralillo",
@@ -81,6 +84,7 @@
   "Febrero_2025":235,
   "Marzo_2025":53,
   "Abril_2025":53,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":52
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":13,
   "Marzo_2025":12,
   "Abril_2025":21,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Corporación Municipal de Ancud",
@@ -39,7 +40,8 @@
   "Febrero_2025":174,
   "Marzo_2025":174,
   "Abril_2025":160,
-  "Mayo_2025":158
+  "Mayo_2025":158,
+  "Junio_2025":160
  },
  {
   "organismo_nombre":"Corporación Municipal de Ancud",
@@ -60,7 +62,8 @@
   "Febrero_2025":66,
   "Marzo_2025":75,
   "Abril_2025":89,
-  "Mayo_2025":81
+  "Mayo_2025":81,
+  "Junio_2025":94
  },
  {
   "organismo_nombre":"Corporación Municipal de Ancud",
@@ -81,6 +84,7 @@
   "Febrero_2025":342,
   "Marzo_2025":340,
   "Abril_2025":339,
-  "Mayo_2025":336
+  "Mayo_2025":336,
+  "Junio_2025":337
  }
 ]

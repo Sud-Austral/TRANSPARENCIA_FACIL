@@ -18,7 +18,8 @@
   "Febrero_2025":287,
   "Marzo_2025":286,
   "Abril_2025":284,
-  "Mayo_2025":0
+  "Mayo_2025":285,
+  "Junio_2025":284
  },
  {
   "organismo_nombre":"Subsecretaría de Telecomunicaciones (SUBTEL)",
@@ -39,7 +40,8 @@
   "Febrero_2025":34,
   "Marzo_2025":34,
   "Abril_2025":32,
-  "Mayo_2025":0
+  "Mayo_2025":32,
+  "Junio_2025":34
  },
  {
   "organismo_nombre":"Subsecretaría de Telecomunicaciones (SUBTEL)",
@@ -60,6 +62,7 @@
   "Febrero_2025":16,
   "Marzo_2025":16,
   "Abril_2025":16,
-  "Mayo_2025":0
+  "Mayo_2025":16,
+  "Junio_2025":16
  }
 ]

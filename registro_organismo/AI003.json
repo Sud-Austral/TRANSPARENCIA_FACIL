@@ -18,7 +18,8 @@
   "Febrero_2025":174,
   "Marzo_2025":172,
   "Abril_2025":173,
-  "Mayo_2025":171
+  "Mayo_2025":171,
+  "Junio_2025":171
  },
  {
   "organismo_nombre":"Servicio Nacional de la Discapacidad (SENADIS)",
@@ -39,7 +40,8 @@
   "Febrero_2025":4,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Servicio Nacional de la Discapacidad (SENADIS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":16,
   "Marzo_2025":15,
   "Abril_2025":15,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":17
  }
 ]

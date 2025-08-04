@@ -18,7 +18,8 @@
   "Febrero_2025":1112,
   "Marzo_2025":1149,
   "Abril_2025":1167,
-  "Mayo_2025":1157
+  "Mayo_2025":1157,
+  "Junio_2025":1152
  },
  {
   "organismo_nombre":"Corporación Municipal de Colina",
@@ -39,7 +40,8 @@
   "Febrero_2025":673,
   "Marzo_2025":722,
   "Abril_2025":761,
-  "Mayo_2025":752
+  "Mayo_2025":752,
+  "Junio_2025":763
  },
  {
   "organismo_nombre":"Corporación Municipal de Colina",
@@ -59,8 +61,9 @@
   "Enero_2025":536,
   "Febrero_2025":364,
   "Marzo_2025":389,
-  "Abril_2025":451,
-  "Mayo_2025":63
+  "Abril_2025":450,
+  "Mayo_2025":467,
+  "Junio_2025":54
  },
  {
   "organismo_nombre":"Corporación Municipal de Colina",
@@ -81,6 +84,7 @@
   "Febrero_2025":895,
   "Marzo_2025":889,
   "Abril_2025":893,
-  "Mayo_2025":782
+  "Mayo_2025":880,
+  "Junio_2025":881
  }
 ]

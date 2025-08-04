@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
@@ -39,7 +40,8 @@
   "Febrero_2025":74,
   "Marzo_2025":77,
   "Abril_2025":73,
-  "Mayo_2025":75
+  "Mayo_2025":75,
+  "Junio_2025":73
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
@@ -60,7 +62,8 @@
   "Febrero_2025":171,
   "Marzo_2025":169,
   "Abril_2025":170,
-  "Mayo_2025":177
+  "Mayo_2025":178,
+  "Junio_2025":184
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
@@ -81,6 +84,7 @@
   "Febrero_2025":120,
   "Marzo_2025":119,
   "Abril_2025":120,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":120
  }
 ]

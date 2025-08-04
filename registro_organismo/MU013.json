@@ -18,7 +18,8 @@
   "Febrero_2025":11,
   "Marzo_2025":11,
   "Abril_2025":11,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Municipalidad de Aysén",
@@ -39,7 +40,8 @@
   "Febrero_2025":52,
   "Marzo_2025":53,
   "Abril_2025":51,
-  "Mayo_2025":54
+  "Mayo_2025":54,
+  "Junio_2025":51
  },
  {
   "organismo_nombre":"Municipalidad de Aysén",
@@ -60,7 +62,8 @@
   "Febrero_2025":170,
   "Marzo_2025":198,
   "Abril_2025":203,
-  "Mayo_2025":157
+  "Mayo_2025":157,
+  "Junio_2025":166
  },
  {
   "organismo_nombre":"Municipalidad de Aysén",
@@ -81,6 +84,7 @@
   "Febrero_2025":86,
   "Marzo_2025":87,
   "Abril_2025":87,
-  "Mayo_2025":88
+  "Mayo_2025":88,
+  "Junio_2025":87
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":57,
   "Marzo_2025":56,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
@@ -37,9 +38,10 @@
   "Diciembre_2024":134,
   "Enero_2025":126,
   "Febrero_2025":120,
-  "Marzo_2025":89,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":122,
+  "Abril_2025":120,
+  "Mayo_2025":116,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
@@ -58,9 +60,10 @@
   "Diciembre_2024":234,
   "Enero_2025":207,
   "Febrero_2025":208,
-  "Marzo_2025":249,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":257,
+  "Abril_2025":275,
+  "Mayo_2025":272,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
@@ -68,7 +71,7 @@
   "Enero_2024":87,
   "Febrero_2024":114,
   "Marzo_2024":114,
-  "Abril_2024":113,
+  "Abril_2024":114,
   "Mayo_2024":113,
   "Junio_2024":112,
   "Julio_2024":112,
@@ -79,8 +82,9 @@
   "Diciembre_2024":111,
   "Enero_2025":110,
   "Febrero_2025":110,
-  "Marzo_2025":80,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":107,
+  "Abril_2025":107,
+  "Mayo_2025":108,
+  "Junio_2025":0
  }
 ]

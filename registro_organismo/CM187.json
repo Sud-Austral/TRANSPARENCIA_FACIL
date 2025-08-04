@@ -18,7 +18,8 @@
   "Febrero_2025":15,
   "Marzo_2025":15,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":15
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Padre Las Casas",
@@ -39,6 +40,7 @@
   "Febrero_2025":27,
   "Marzo_2025":1,
   "Abril_2025":36,
-  "Mayo_2025":37
+  "Mayo_2025":37,
+  "Junio_2025":36
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
@@ -39,7 +40,8 @@
   "Febrero_2025":50,
   "Marzo_2025":49,
   "Abril_2025":50,
-  "Mayo_2025":52
+  "Mayo_2025":52,
+  "Junio_2025":50
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
@@ -60,7 +62,8 @@
   "Febrero_2025":143,
   "Marzo_2025":147,
   "Abril_2025":137,
-  "Mayo_2025":132
+  "Mayo_2025":151,
+  "Junio_2025":133
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
@@ -81,6 +84,7 @@
   "Febrero_2025":54,
   "Marzo_2025":56,
   "Abril_2025":57,
-  "Mayo_2025":58
+  "Mayo_2025":58,
+  "Junio_2025":58
  }
 ]

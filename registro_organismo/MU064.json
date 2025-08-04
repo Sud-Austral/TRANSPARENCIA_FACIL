@@ -18,7 +18,8 @@
   "Febrero_2025":182,
   "Marzo_2025":116,
   "Abril_2025":83,
-  "Mayo_2025":82
+  "Mayo_2025":82,
+  "Junio_2025":81
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
@@ -39,7 +40,8 @@
   "Febrero_2025":224,
   "Marzo_2025":225,
   "Abril_2025":265,
-  "Mayo_2025":268
+  "Mayo_2025":268,
+  "Junio_2025":262
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
@@ -60,7 +62,8 @@
   "Febrero_2025":535,
   "Marzo_2025":548,
   "Abril_2025":547,
-  "Mayo_2025":398
+  "Mayo_2025":319,
+  "Junio_2025":400
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
@@ -81,6 +84,7 @@
   "Febrero_2025":566,
   "Marzo_2025":85,
   "Abril_2025":325,
-  "Mayo_2025":325
+  "Mayo_2025":325,
+  "Junio_2025":325
  }
 ]

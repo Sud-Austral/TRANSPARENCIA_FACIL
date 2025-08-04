@@ -18,7 +18,8 @@
   "Febrero_2025":374,
   "Marzo_2025":374,
   "Abril_2025":369,
-  "Mayo_2025":370
+  "Mayo_2025":370,
+  "Junio_2025":365
  },
  {
   "organismo_nombre":"Servicio Nacional del Consumidor (SERNAC)",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional del Consumidor (SERNAC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":28,
   "Abril_2025":28,
-  "Mayo_2025":26
+  "Mayo_2025":26,
+  "Junio_2025":25
  }
 ]

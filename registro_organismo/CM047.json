@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinchao",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":45,
-  "Mayo_2025":45
+  "Mayo_2025":45,
+  "Junio_2025":46
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinchao",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":24,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinchao",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":70,
-  "Mayo_2025":70
+  "Mayo_2025":70,
+  "Junio_2025":70
  }
 ]

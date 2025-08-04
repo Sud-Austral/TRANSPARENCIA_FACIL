@@ -18,7 +18,8 @@
   "Febrero_2025":1328,
   "Marzo_2025":1306,
   "Abril_2025":1325,
-  "Mayo_2025":1288
+  "Mayo_2025":1289,
+  "Junio_2025":1235
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
@@ -39,7 +40,8 @@
   "Febrero_2025":1090,
   "Marzo_2025":1086,
   "Abril_2025":1157,
-  "Mayo_2025":1158
+  "Mayo_2025":1158,
+  "Junio_2025":1177
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
@@ -54,13 +56,14 @@
   "Agosto_2024":258,
   "Septiembre_2024":266,
   "Octubre_2024":232,
-  "Noviembre_2024":219,
+  "Noviembre_2024":220,
   "Diciembre_2024":195,
-  "Enero_2025":116,
-  "Febrero_2025":140,
+  "Enero_2025":117,
+  "Febrero_2025":141,
   "Marzo_2025":195,
-  "Abril_2025":230,
-  "Mayo_2025":228
+  "Abril_2025":231,
+  "Mayo_2025":301,
+  "Junio_2025":289
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
@@ -81,6 +84,7 @@
   "Febrero_2025":1841,
   "Marzo_2025":1839,
   "Abril_2025":1839,
-  "Mayo_2025":1818
+  "Mayo_2025":1818,
+  "Junio_2025":1807
  }
 ]

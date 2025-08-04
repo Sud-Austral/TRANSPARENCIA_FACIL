@@ -18,7 +18,8 @@
   "Febrero_2025":233,
   "Marzo_2025":238,
   "Abril_2025":245,
-  "Mayo_2025":251
+  "Mayo_2025":251,
+  "Junio_2025":253
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
@@ -39,7 +40,8 @@
   "Febrero_2025":1241,
   "Marzo_2025":1265,
   "Abril_2025":1286,
-  "Mayo_2025":1308
+  "Mayo_2025":1308,
+  "Junio_2025":1314
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
@@ -60,7 +62,8 @@
   "Febrero_2025":81,
   "Marzo_2025":87,
   "Abril_2025":83,
-  "Mayo_2025":0
+  "Mayo_2025":96,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
@@ -81,6 +84,7 @@
   "Febrero_2025":488,
   "Marzo_2025":491,
   "Abril_2025":486,
-  "Mayo_2025":487
+  "Mayo_2025":487,
+  "Junio_2025":0
  }
 ]

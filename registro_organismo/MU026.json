@@ -18,7 +18,8 @@
   "Febrero_2025":225,
   "Marzo_2025":353,
   "Abril_2025":367,
-  "Mayo_2025":369
+  "Mayo_2025":369,
+  "Junio_2025":369
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
@@ -39,7 +40,8 @@
   "Febrero_2025":65,
   "Marzo_2025":90,
   "Abril_2025":90,
-  "Mayo_2025":74
+  "Mayo_2025":92,
+  "Junio_2025":75
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
@@ -60,7 +62,8 @@
   "Febrero_2025":92,
   "Marzo_2025":98,
   "Abril_2025":100,
-  "Mayo_2025":80
+  "Mayo_2025":104,
+  "Junio_2025":99
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
@@ -81,6 +84,7 @@
   "Febrero_2025":247,
   "Marzo_2025":236,
   "Abril_2025":235,
-  "Mayo_2025":135
+  "Mayo_2025":235,
+  "Junio_2025":134
  }
 ]

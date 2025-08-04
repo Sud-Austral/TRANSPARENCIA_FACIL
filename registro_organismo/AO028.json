@@ -18,7 +18,8 @@
   "Febrero_2025":1439,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Talcahuano",
@@ -39,7 +40,8 @@
   "Febrero_2025":75,
   "Marzo_2025":75,
   "Abril_2025":79,
-  "Mayo_2025":0
+  "Mayo_2025":79,
+  "Junio_2025":98
  },
  {
   "organismo_nombre":"Servicio de Salud Talcahuano",
@@ -60,6 +62,7 @@
   "Febrero_2025":206,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":6397,
   "Marzo_2025":6110,
   "Abril_2025":6089,
-  "Mayo_2025":6071
+  "Mayo_2025":6071,
+  "Junio_2025":5418
  },
  {
   "organismo_nombre":"Servicio de Salud Araucanía Sur",
@@ -39,7 +40,8 @@
   "Febrero_2025":109,
   "Marzo_2025":0,
   "Abril_2025":118,
-  "Mayo_2025":117
+  "Mayo_2025":117,
+  "Junio_2025":183
  },
  {
   "organismo_nombre":"Servicio de Salud Araucanía Sur",
@@ -60,6 +62,7 @@
   "Febrero_2025":961,
   "Marzo_2025":958,
   "Abril_2025":497,
-  "Mayo_2025":947
+  "Mayo_2025":947,
+  "Junio_2025":1301
  }
 ]

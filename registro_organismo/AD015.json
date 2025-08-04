@@ -18,7 +18,8 @@
   "Febrero_2025":757,
   "Marzo_2025":758,
   "Abril_2025":762,
-  "Mayo_2025":753
+  "Mayo_2025":753,
+  "Junio_2025":747
  },
  {
   "organismo_nombre":"Caja de Previsión de la Defensa Nacional (CAPREDENA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":395,
   "Marzo_2025":394,
   "Abril_2025":398,
-  "Mayo_2025":397
+  "Mayo_2025":397,
+  "Junio_2025":398
  },
  {
   "organismo_nombre":"Caja de Previsión de la Defensa Nacional (CAPREDENA)",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Caja de Previsión de la Defensa Nacional (CAPREDENA)",
@@ -81,6 +84,7 @@
   "Febrero_2025":38,
   "Marzo_2025":38,
   "Abril_2025":36,
-  "Mayo_2025":36
+  "Mayo_2025":36,
+  "Junio_2025":34
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":149,
   "Marzo_2025":151,
   "Abril_2025":149,
-  "Mayo_2025":147
+  "Mayo_2025":148,
+  "Junio_2025":150
  },
  {
   "organismo_nombre":"Dirección de Educación Pública",
@@ -39,7 +40,8 @@
   "Febrero_2025":87,
   "Marzo_2025":94,
   "Abril_2025":91,
-  "Mayo_2025":91
+  "Mayo_2025":91,
+  "Junio_2025":100
  },
  {
   "organismo_nombre":"Dirección de Educación Pública",
@@ -60,6 +62,7 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":18,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":9
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":0
+  "Mayo_2025":6,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Corporación Municipal de Puqueldón",
@@ -39,7 +40,8 @@
   "Febrero_2025":29,
   "Marzo_2025":32,
   "Abril_2025":27,
-  "Mayo_2025":0
+  "Mayo_2025":27,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Corporación Municipal de Puqueldón",
@@ -60,7 +62,8 @@
   "Febrero_2025":18,
   "Marzo_2025":22,
   "Abril_2025":14,
-  "Mayo_2025":0
+  "Mayo_2025":22,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Puqueldón",
@@ -81,6 +84,7 @@
   "Febrero_2025":55,
   "Marzo_2025":55,
   "Abril_2025":55,
-  "Mayo_2025":0
+  "Mayo_2025":55,
+  "Junio_2025":55
  }
 ]

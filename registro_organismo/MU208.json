@@ -18,7 +18,8 @@
   "Febrero_2025":20,
   "Marzo_2025":20,
   "Abril_2025":20,
-  "Mayo_2025":20
+  "Mayo_2025":20,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Municipalidad de Pemuco",
@@ -39,7 +40,8 @@
   "Febrero_2025":101,
   "Marzo_2025":101,
   "Abril_2025":103,
-  "Mayo_2025":102
+  "Mayo_2025":102,
+  "Junio_2025":102
  },
  {
   "organismo_nombre":"Municipalidad de Pemuco",
@@ -48,7 +50,7 @@
   "Febrero_2024":33,
   "Marzo_2024":35,
   "Abril_2024":30,
-  "Mayo_2024":70,
+  "Mayo_2024":35,
   "Junio_2024":34,
   "Julio_2024":41,
   "Agosto_2024":41,
@@ -60,7 +62,8 @@
   "Febrero_2025":32,
   "Marzo_2025":38,
   "Abril_2025":36,
-  "Mayo_2025":0
+  "Mayo_2025":38,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Municipalidad de Pemuco",
@@ -81,6 +84,7 @@
   "Febrero_2025":148,
   "Marzo_2025":148,
   "Abril_2025":147,
-  "Mayo_2025":146
+  "Mayo_2025":146,
+  "Junio_2025":147
  }
 ]

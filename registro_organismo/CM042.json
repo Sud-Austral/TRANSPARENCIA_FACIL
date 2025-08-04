@@ -18,7 +18,8 @@
   "Febrero_2025":1061,
   "Marzo_2025":1019,
   "Abril_2025":1030,
-  "Mayo_2025":1028
+  "Mayo_2025":1028,
+  "Junio_2025":1019
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
@@ -39,7 +40,8 @@
   "Febrero_2025":819,
   "Marzo_2025":827,
   "Abril_2025":850,
-  "Mayo_2025":856
+  "Mayo_2025":856,
+  "Junio_2025":839
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
@@ -60,7 +62,8 @@
   "Febrero_2025":215,
   "Marzo_2025":209,
   "Abril_2025":205,
-  "Mayo_2025":209
+  "Mayo_2025":209,
+  "Junio_2025":273
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":549,
   "Marzo_2025":1120,
   "Abril_2025":1114,
-  "Mayo_2025":1114
+  "Mayo_2025":1114,
+  "Junio_2025":1113
  }
 ]

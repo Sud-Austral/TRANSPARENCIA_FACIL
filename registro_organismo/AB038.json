@@ -18,7 +18,8 @@
   "Febrero_2025":16,
   "Marzo_2025":16,
   "Abril_2025":16,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":16
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Los Andes",
@@ -33,13 +34,14 @@
   "Agosto_2024":17,
   "Septiembre_2024":19,
   "Octubre_2024":22,
-  "Noviembre_2024":24,
-  "Diciembre_2024":9,
-  "Enero_2025":8,
-  "Febrero_2025":15,
-  "Marzo_2025":15,
-  "Abril_2025":13,
-  "Mayo_2025":13
+  "Noviembre_2024":17,
+  "Diciembre_2024":16,
+  "Enero_2025":14,
+  "Febrero_2025":14,
+  "Marzo_2025":14,
+  "Abril_2025":12,
+  "Mayo_2025":12,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Los Andes",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":2,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":39,
   "Marzo_2025":39,
   "Abril_2025":37,
-  "Mayo_2025":36
+  "Mayo_2025":36,
+  "Junio_2025":37
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
@@ -39,7 +40,8 @@
   "Febrero_2025":714,
   "Marzo_2025":731,
   "Abril_2025":757,
-  "Mayo_2025":762
+  "Mayo_2025":762,
+  "Junio_2025":762
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
@@ -60,7 +62,8 @@
   "Febrero_2025":456,
   "Marzo_2025":460,
   "Abril_2025":478,
-  "Mayo_2025":544
+  "Mayo_2025":544,
+  "Junio_2025":581
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
@@ -81,6 +84,7 @@
   "Febrero_2025":279,
   "Marzo_2025":1023,
   "Abril_2025":1013,
-  "Mayo_2025":1024
+  "Mayo_2025":1024,
+  "Junio_2025":1013
  }
 ]

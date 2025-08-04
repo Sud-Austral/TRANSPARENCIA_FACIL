@@ -18,7 +18,8 @@
   "Febrero_2025":822,
   "Marzo_2025":808,
   "Abril_2025":786,
-  "Mayo_2025":863
+  "Mayo_2025":863,
+  "Junio_2025":857
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
@@ -39,7 +40,8 @@
   "Febrero_2025":1004,
   "Marzo_2025":1017,
   "Abril_2025":1112,
-  "Mayo_2025":1164
+  "Mayo_2025":1164,
+  "Junio_2025":1163
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
@@ -60,7 +62,8 @@
   "Febrero_2025":41,
   "Marzo_2025":53,
   "Abril_2025":46,
-  "Mayo_2025":71
+  "Mayo_2025":71,
+  "Junio_2025":72
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
@@ -81,6 +84,7 @@
   "Febrero_2025":1726,
   "Marzo_2025":1724,
   "Abril_2025":1677,
-  "Mayo_2025":1672
+  "Mayo_2025":1672,
+  "Junio_2025":1672
  }
 ]

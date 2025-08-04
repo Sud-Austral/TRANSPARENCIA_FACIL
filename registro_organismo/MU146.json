@@ -18,7 +18,8 @@
   "Febrero_2025":92,
   "Marzo_2025":95,
   "Abril_2025":93,
-  "Mayo_2025":97
+  "Mayo_2025":97,
+  "Junio_2025":98
  },
  {
   "organismo_nombre":"Municipalidad de Lo Prado",
@@ -39,7 +40,8 @@
   "Febrero_2025":149,
   "Marzo_2025":148,
   "Abril_2025":151,
-  "Mayo_2025":0
+  "Mayo_2025":153,
+  "Junio_2025":149
  },
  {
   "organismo_nombre":"Municipalidad de Lo Prado",
@@ -60,7 +62,8 @@
   "Febrero_2025":360,
   "Marzo_2025":326,
   "Abril_2025":313,
-  "Mayo_2025":214
+  "Mayo_2025":215,
+  "Junio_2025":228
  },
  {
   "organismo_nombre":"Municipalidad de Lo Prado",
@@ -81,6 +84,7 @@
   "Febrero_2025":196,
   "Marzo_2025":193,
   "Abril_2025":193,
-  "Mayo_2025":195
+  "Mayo_2025":195,
+  "Junio_2025":186
  }
 ]

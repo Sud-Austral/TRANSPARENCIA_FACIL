@@ -18,7 +18,8 @@
   "Febrero_2025":80,
   "Marzo_2025":81,
   "Abril_2025":79,
-  "Mayo_2025":0
+  "Mayo_2025":80,
+  "Junio_2025":81
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Ñuñoa",
@@ -39,6 +40,7 @@
   "Febrero_2025":260,
   "Marzo_2025":261,
   "Abril_2025":244,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

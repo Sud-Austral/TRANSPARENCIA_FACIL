@@ -18,7 +18,8 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":16,
-  "Mayo_2025":7
+  "Mayo_2025":32,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
@@ -39,7 +40,8 @@
   "Febrero_2025":15,
   "Marzo_2025":15,
   "Abril_2025":14,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
@@ -60,7 +62,8 @@
   "Febrero_2025":93,
   "Marzo_2025":116,
   "Abril_2025":116,
-  "Mayo_2025":0
+  "Mayo_2025":106,
+  "Junio_2025":97
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
@@ -81,6 +84,7 @@
   "Febrero_2025":20,
   "Marzo_2025":21,
   "Abril_2025":20,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":20
  }
 ]

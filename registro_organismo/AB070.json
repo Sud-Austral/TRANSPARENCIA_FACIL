@@ -18,7 +18,8 @@
   "Febrero_2025":23,
   "Marzo_2025":22,
   "Abril_2025":23,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":23
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cordillera",
@@ -39,7 +40,8 @@
   "Febrero_2025":17,
   "Marzo_2025":18,
   "Abril_2025":18,
-  "Mayo_2025":18
+  "Mayo_2025":18,
+  "Junio_2025":19
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cordillera",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1218,
   "Marzo_2025":1210,
   "Abril_2025":1253,
-  "Mayo_2025":1267
+  "Mayo_2025":1267,
+  "Junio_2025":1283
  },
  {
   "organismo_nombre":"Dirección del Trabajo (DT)",
@@ -39,7 +40,8 @@
   "Febrero_2025":17,
   "Marzo_2025":16,
   "Abril_2025":16,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":15
  },
  {
   "organismo_nombre":"Dirección del Trabajo (DT)",
@@ -60,6 +62,7 @@
   "Febrero_2025":1124,
   "Marzo_2025":1124,
   "Abril_2025":1122,
-  "Mayo_2025":1113
+  "Mayo_2025":1113,
+  "Junio_2025":1109
  }
 ]

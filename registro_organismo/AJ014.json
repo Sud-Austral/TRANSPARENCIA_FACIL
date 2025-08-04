@@ -18,7 +18,8 @@
   "Febrero_2025":110,
   "Marzo_2025":111,
   "Abril_2025":109,
-  "Mayo_2025":0
+  "Mayo_2025":112,
+  "Junio_2025":111
  },
  {
   "organismo_nombre":"Subsecretaría de Educación Parvularia",
@@ -38,8 +39,9 @@
   "Enero_2025":8,
   "Febrero_2025":8,
   "Marzo_2025":8,
-  "Abril_2025":8,
-  "Mayo_2025":0
+  "Abril_2025":0,
+  "Mayo_2025":7,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Subsecretaría de Educación Parvularia",
@@ -60,6 +62,7 @@
   "Febrero_2025":9,
   "Marzo_2025":9,
   "Abril_2025":9,
-  "Mayo_2025":0
+  "Mayo_2025":9,
+  "Junio_2025":9
  }
 ]

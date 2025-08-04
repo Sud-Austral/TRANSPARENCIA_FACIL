@@ -18,7 +18,8 @@
   "Febrero_2025":301,
   "Marzo_2025":302,
   "Abril_2025":312,
-  "Mayo_2025":314
+  "Mayo_2025":314,
+  "Junio_2025":308
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
@@ -39,7 +40,8 @@
   "Febrero_2025":190,
   "Marzo_2025":205,
   "Abril_2025":222,
-  "Mayo_2025":180
+  "Mayo_2025":250,
+  "Junio_2025":195
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
@@ -60,7 +62,8 @@
   "Febrero_2025":345,
   "Marzo_2025":336,
   "Abril_2025":327,
-  "Mayo_2025":44
+  "Mayo_2025":339,
+  "Junio_2025":345
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
@@ -81,6 +84,7 @@
   "Febrero_2025":363,
   "Marzo_2025":361,
   "Abril_2025":358,
-  "Mayo_2025":303
+  "Mayo_2025":352,
+  "Junio_2025":356
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
@@ -39,7 +40,8 @@
   "Febrero_2025":225,
   "Marzo_2025":224,
   "Abril_2025":225,
-  "Mayo_2025":221
+  "Mayo_2025":221,
+  "Junio_2025":221
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
@@ -81,6 +84,7 @@
   "Febrero_2025":12,
   "Marzo_2025":12,
   "Abril_2025":9,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":9
  }
 ]

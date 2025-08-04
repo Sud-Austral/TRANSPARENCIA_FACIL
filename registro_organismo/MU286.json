@@ -18,7 +18,8 @@
   "Febrero_2025":782,
   "Marzo_2025":788,
   "Abril_2025":811,
-  "Mayo_2025":810
+  "Mayo_2025":810,
+  "Junio_2025":806
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
@@ -39,7 +40,8 @@
   "Febrero_2025":375,
   "Marzo_2025":504,
   "Abril_2025":520,
-  "Mayo_2025":528
+  "Mayo_2025":528,
+  "Junio_2025":523
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
@@ -60,7 +62,8 @@
   "Febrero_2025":373,
   "Marzo_2025":448,
   "Abril_2025":502,
-  "Mayo_2025":371
+  "Mayo_2025":781,
+  "Junio_2025":594
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
@@ -81,6 +84,7 @@
   "Febrero_2025":743,
   "Marzo_2025":742,
   "Abril_2025":740,
-  "Mayo_2025":742
+  "Mayo_2025":742,
+  "Junio_2025":740
  }
 ]

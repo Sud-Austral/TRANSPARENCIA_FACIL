@@ -18,7 +18,8 @@
   "Febrero_2025":94,
   "Marzo_2025":96,
   "Abril_2025":96,
-  "Mayo_2025":95
+  "Mayo_2025":95,
+  "Junio_2025":93
  },
  {
   "organismo_nombre":"CFT de la Región del Tarapacá",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"CFT de la Región del Tarapacá",
@@ -60,6 +62,7 @@
   "Febrero_2025":43,
   "Marzo_2025":43,
   "Abril_2025":45,
-  "Mayo_2025":45
+  "Mayo_2025":45,
+  "Junio_2025":45
  }
 ]

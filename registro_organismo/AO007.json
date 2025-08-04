@@ -18,7 +18,8 @@
   "Febrero_2025":1842,
   "Marzo_2025":1845,
   "Abril_2025":1861,
-  "Mayo_2025":1874
+  "Mayo_2025":1874,
+  "Junio_2025":1870
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Central",
@@ -39,7 +40,8 @@
   "Febrero_2025":988,
   "Marzo_2025":1077,
   "Abril_2025":1260,
-  "Mayo_2025":1398
+  "Mayo_2025":1398,
+  "Junio_2025":1429
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Central",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":619,
   "Abril_2025":596,
-  "Mayo_2025":599
+  "Mayo_2025":599,
+  "Junio_2025":606
  }
 ]

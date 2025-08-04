@@ -18,7 +18,8 @@
   "Febrero_2025":22,
   "Marzo_2025":11,
   "Abril_2025":11,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Osorno",
@@ -39,7 +40,8 @@
   "Febrero_2025":4,
   "Marzo_2025":24,
   "Abril_2025":4,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":36
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Osorno",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

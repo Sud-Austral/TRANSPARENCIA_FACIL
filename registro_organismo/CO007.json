@@ -18,7 +18,8 @@
   "Febrero_2025":1649,
   "Marzo_2025":1719,
   "Abril_2025":1753,
-  "Mayo_2025":1801
+  "Mayo_2025":1801,
+  "Junio_2025":1807
  },
  {
   "organismo_nombre":"Servicio Nacional de Reinserción Social Juvenil",
@@ -36,10 +37,11 @@
   "Noviembre_2024":2,
   "Diciembre_2024":2,
   "Enero_2025":1,
-  "Febrero_2025":1,
-  "Marzo_2025":2,
-  "Abril_2025":2,
-  "Mayo_2025":2
+  "Febrero_2025":2,
+  "Marzo_2025":3,
+  "Abril_2025":3,
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Servicio Nacional de Reinserción Social Juvenil",
@@ -60,6 +62,7 @@
   "Febrero_2025":18,
   "Marzo_2025":17,
   "Abril_2025":16,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":17
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
@@ -39,7 +40,8 @@
   "Febrero_2025":159,
   "Marzo_2025":159,
   "Abril_2025":160,
-  "Mayo_2025":157
+  "Mayo_2025":157,
+  "Junio_2025":158
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":2
  }
 ]

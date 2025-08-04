@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
@@ -39,7 +40,8 @@
   "Febrero_2025":2763,
   "Marzo_2025":3743,
   "Abril_2025":3546,
-  "Mayo_2025":2791
+  "Mayo_2025":2791,
+  "Junio_2025":2673
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
@@ -60,7 +62,8 @@
   "Febrero_2025":148,
   "Marzo_2025":190,
   "Abril_2025":164,
-  "Mayo_2025":158
+  "Mayo_2025":158,
+  "Junio_2025":183
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
@@ -81,6 +84,7 @@
   "Febrero_2025":783,
   "Marzo_2025":820,
   "Abril_2025":803,
-  "Mayo_2025":797
+  "Mayo_2025":797,
+  "Junio_2025":772
  }
 ]

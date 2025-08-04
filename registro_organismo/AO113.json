@@ -18,7 +18,8 @@
   "Febrero_2025":1362,
   "Marzo_2025":1392,
   "Abril_2025":1336,
-  "Mayo_2025":1316
+  "Mayo_2025":1316,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Regional Copiapó San José del Carmen",
@@ -39,7 +40,8 @@
   "Febrero_2025":5,
   "Marzo_2025":37,
   "Abril_2025":6,
-  "Mayo_2025":44
+  "Mayo_2025":44,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Regional Copiapó San José del Carmen",
@@ -60,6 +62,7 @@
   "Febrero_2025":601,
   "Marzo_2025":576,
   "Abril_2025":530,
-  "Mayo_2025":539
+  "Mayo_2025":539,
+  "Junio_2025":0
  }
 ]

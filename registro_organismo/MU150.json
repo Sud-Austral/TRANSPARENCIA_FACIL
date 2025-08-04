@@ -18,7 +18,8 @@
   "Febrero_2025":283,
   "Marzo_2025":269,
   "Abril_2025":274,
-  "Mayo_2025":274
+  "Mayo_2025":274,
+  "Junio_2025":276
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
@@ -39,7 +40,8 @@
   "Febrero_2025":144,
   "Marzo_2025":159,
   "Abril_2025":151,
-  "Mayo_2025":156
+  "Mayo_2025":156,
+  "Junio_2025":154
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
@@ -49,7 +51,7 @@
   "Marzo_2024":253,
   "Abril_2024":264,
   "Mayo_2024":365,
-  "Junio_2024":408,
+  "Junio_2024":409,
   "Julio_2024":407,
   "Agosto_2024":403,
   "Septiembre_2024":312,
@@ -60,7 +62,8 @@
   "Febrero_2025":226,
   "Marzo_2025":234,
   "Abril_2025":259,
-  "Mayo_2025":285
+  "Mayo_2025":285,
+  "Junio_2025":317
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
@@ -81,6 +84,7 @@
   "Febrero_2025":157,
   "Marzo_2025":224,
   "Abril_2025":156,
-  "Mayo_2025":191
+  "Mayo_2025":191,
+  "Junio_2025":190
  }
 ]

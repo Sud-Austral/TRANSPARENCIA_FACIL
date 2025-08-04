@@ -18,7 +18,8 @@
   "Febrero_2025":1270,
   "Marzo_2025":1280,
   "Abril_2025":1389,
-  "Mayo_2025":1444
+  "Mayo_2025":1444,
+  "Junio_2025":1417
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Valparaíso (SLEP Valparaíso)",
@@ -39,7 +40,8 @@
   "Febrero_2025":37,
   "Marzo_2025":40,
   "Abril_2025":42,
-  "Mayo_2025":45
+  "Mayo_2025":45,
+  "Junio_2025":46
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Valparaíso (SLEP Valparaíso)",
@@ -60,6 +62,7 @@
   "Febrero_2025":2442,
   "Marzo_2025":2482,
   "Abril_2025":2474,
-  "Mayo_2025":2472
+  "Mayo_2025":2472,
+  "Junio_2025":2467
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1703,
   "Marzo_2025":1562,
   "Abril_2025":1626,
-  "Mayo_2025":1592
+  "Mayo_2025":1592,
+  "Junio_2025":1617
  },
  {
   "organismo_nombre":"SERVICIO DE SALUD ARAUCANIA NORTE",
@@ -39,7 +40,8 @@
   "Febrero_2025":17,
   "Marzo_2025":31,
   "Abril_2025":34,
-  "Mayo_2025":57
+  "Mayo_2025":57,
+  "Junio_2025":64
  },
  {
   "organismo_nombre":"SERVICIO DE SALUD ARAUCANIA NORTE",
@@ -60,6 +62,7 @@
   "Febrero_2025":428,
   "Marzo_2025":429,
   "Abril_2025":429,
-  "Mayo_2025":428
+  "Mayo_2025":428,
+  "Junio_2025":429
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":223,
   "Marzo_2025":202,
   "Abril_2025":225,
-  "Mayo_2025":227
+  "Mayo_2025":227,
+  "Junio_2025":227
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
@@ -39,7 +40,8 @@
   "Febrero_2025":218,
   "Marzo_2025":226,
   "Abril_2025":232,
-  "Mayo_2025":237
+  "Mayo_2025":237,
+  "Junio_2025":229
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
@@ -60,7 +62,8 @@
   "Febrero_2025":16,
   "Marzo_2025":17,
   "Abril_2025":18,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":19
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
@@ -81,6 +84,7 @@
   "Febrero_2025":325,
   "Marzo_2025":318,
   "Abril_2025":317,
-  "Mayo_2025":317
+  "Mayo_2025":317,
+  "Junio_2025":315
  }
 ]

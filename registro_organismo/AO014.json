@@ -18,7 +18,8 @@
   "Febrero_2025":357,
   "Marzo_2025":351,
   "Abril_2025":355,
-  "Mayo_2025":0
+  "Mayo_2025":345,
+  "Junio_2025":352
  },
  {
   "organismo_nombre":"Centro de Referencia de Salud de Peñalolén Cordillera Oriente (CRSORIENTE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":28,
   "Marzo_2025":27,
   "Abril_2025":27,
-  "Mayo_2025":0
+  "Mayo_2025":27,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Centro de Referencia de Salud de Peñalolén Cordillera Oriente (CRSORIENTE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":8,
   "Abril_2025":8,
-  "Mayo_2025":0
+  "Mayo_2025":8,
+  "Junio_2025":8
  }
 ]

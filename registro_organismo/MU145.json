@@ -18,7 +18,8 @@
   "Febrero_2025":41,
   "Marzo_2025":41,
   "Abril_2025":33,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":34
  },
  {
   "organismo_nombre":"Municipalidad de Lo Espejo",
@@ -39,7 +40,8 @@
   "Febrero_2025":521,
   "Marzo_2025":528,
   "Abril_2025":535,
-  "Mayo_2025":557
+  "Mayo_2025":557,
+  "Junio_2025":535
  },
  {
   "organismo_nombre":"Municipalidad de Lo Espejo",
@@ -60,7 +62,8 @@
   "Febrero_2025":116,
   "Marzo_2025":330,
   "Abril_2025":339,
-  "Mayo_2025":215
+  "Mayo_2025":445,
+  "Junio_2025":385
  },
  {
   "organismo_nombre":"Municipalidad de Lo Espejo",
@@ -81,6 +84,7 @@
   "Febrero_2025":602,
   "Marzo_2025":588,
   "Abril_2025":580,
-  "Mayo_2025":598
+  "Mayo_2025":598,
+  "Junio_2025":569
  }
 ]

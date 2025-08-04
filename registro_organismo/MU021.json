@@ -18,7 +18,8 @@
   "Febrero_2025":32,
   "Marzo_2025":31,
   "Abril_2025":30,
-  "Mayo_2025":27
+  "Mayo_2025":27,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Municipalidad de Caldera",
@@ -39,7 +40,8 @@
   "Febrero_2025":104,
   "Marzo_2025":105,
   "Abril_2025":104,
-  "Mayo_2025":104
+  "Mayo_2025":104,
+  "Junio_2025":104
  },
  {
   "organismo_nombre":"Municipalidad de Caldera",
@@ -60,7 +62,8 @@
   "Febrero_2025":557,
   "Marzo_2025":590,
   "Abril_2025":593,
-  "Mayo_2025":615
+  "Mayo_2025":615,
+  "Junio_2025":618
  },
  {
   "organismo_nombre":"Municipalidad de Caldera",
@@ -81,6 +84,7 @@
   "Febrero_2025":234,
   "Marzo_2025":231,
   "Abril_2025":228,
-  "Mayo_2025":224
+  "Mayo_2025":224,
+  "Junio_2025":227
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":816,
   "Marzo_2025":816,
   "Abril_2025":821,
-  "Mayo_2025":826
+  "Mayo_2025":826,
+  "Junio_2025":830
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
@@ -60,7 +62,8 @@
   "Febrero_2025":22,
   "Marzo_2025":17,
   "Abril_2025":17,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":32
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":71,
   "Marzo_2025":71,
   "Abril_2025":71,
-  "Mayo_2025":69
+  "Mayo_2025":69,
+  "Junio_2025":71
  }
 ]

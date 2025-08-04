@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":17
  },
  {
   "organismo_nombre":"Municipalidad de Curaco de Vélez",
@@ -39,7 +40,8 @@
   "Febrero_2025":96,
   "Marzo_2025":96,
   "Abril_2025":79,
-  "Mayo_2025":91
+  "Mayo_2025":91,
+  "Junio_2025":98
  },
  {
   "organismo_nombre":"Municipalidad de Curaco de Vélez",
@@ -60,6 +62,7 @@
   "Febrero_2025":37,
   "Marzo_2025":36,
   "Abril_2025":36,
-  "Mayo_2025":37
+  "Mayo_2025":37,
+  "Junio_2025":37
  }
 ]

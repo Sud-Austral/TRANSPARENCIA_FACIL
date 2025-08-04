@@ -18,13 +18,14 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":0
+  "Mayo_2025":14,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Petorca",
   "base":"Contratohonorarios",
   "Enero_2024":5,
-  "Febrero_2024":2,
+  "Febrero_2024":5,
   "Marzo_2024":4,
   "Abril_2024":4,
   "Mayo_2024":4,
@@ -39,7 +40,8 @@
   "Febrero_2025":4,
   "Marzo_2025":4,
   "Abril_2025":4,
-  "Mayo_2025":0
+  "Mayo_2025":4,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Petorca",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":0
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

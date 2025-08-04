@@ -18,7 +18,8 @@
   "Febrero_2025":103,
   "Marzo_2025":106,
   "Abril_2025":108,
-  "Mayo_2025":111
+  "Mayo_2025":111,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
@@ -39,7 +40,8 @@
   "Febrero_2025":91,
   "Marzo_2025":101,
   "Abril_2025":99,
-  "Mayo_2025":101
+  "Mayo_2025":101,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
@@ -60,7 +62,8 @@
   "Febrero_2025":574,
   "Marzo_2025":623,
   "Abril_2025":660,
-  "Mayo_2025":706
+  "Mayo_2025":706,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
@@ -81,6 +84,7 @@
   "Febrero_2025":121,
   "Marzo_2025":120,
   "Abril_2025":120,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":0
  }
 ]

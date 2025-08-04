@@ -18,7 +18,8 @@
   "Febrero_2025":50,
   "Marzo_2025":49,
   "Abril_2025":49,
-  "Mayo_2025":49
+  "Mayo_2025":49,
+  "Junio_2025":48
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
@@ -39,7 +40,8 @@
   "Febrero_2025":281,
   "Marzo_2025":276,
   "Abril_2025":278,
-  "Mayo_2025":266
+  "Mayo_2025":266,
+  "Junio_2025":264
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
@@ -60,7 +62,8 @@
   "Febrero_2025":89,
   "Marzo_2025":108,
   "Abril_2025":109,
-  "Mayo_2025":105
+  "Mayo_2025":105,
+  "Junio_2025":118
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
@@ -81,6 +84,7 @@
   "Febrero_2025":281,
   "Marzo_2025":279,
   "Abril_2025":279,
-  "Mayo_2025":281
+  "Mayo_2025":281,
+  "Junio_2025":279
  }
 ]

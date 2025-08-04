@@ -18,7 +18,8 @@
   "Febrero_2025":1010,
   "Marzo_2025":1018,
   "Abril_2025":1069,
-  "Mayo_2025":1044
+  "Mayo_2025":1044,
+  "Junio_2025":1047
  },
  {
   "organismo_nombre":"Servicio de Salud Osorno",
@@ -39,7 +40,8 @@
   "Febrero_2025":64,
   "Marzo_2025":76,
   "Abril_2025":75,
-  "Mayo_2025":118
+  "Mayo_2025":118,
+  "Junio_2025":126
  },
  {
   "organismo_nombre":"Servicio de Salud Osorno",
@@ -60,6 +62,7 @@
   "Febrero_2025":334,
   "Marzo_2025":333,
   "Abril_2025":330,
-  "Mayo_2025":331
+  "Mayo_2025":331,
+  "Junio_2025":328
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":335,
   "Marzo_2025":324,
   "Abril_2025":287,
-  "Mayo_2025":291
+  "Mayo_2025":291,
+  "Junio_2025":287
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
@@ -39,7 +40,8 @@
   "Febrero_2025":168,
   "Marzo_2025":171,
   "Abril_2025":177,
-  "Mayo_2025":176
+  "Mayo_2025":176,
+  "Junio_2025":174
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
@@ -60,7 +62,8 @@
   "Febrero_2025":221,
   "Marzo_2025":199,
   "Abril_2025":195,
-  "Mayo_2025":202
+  "Mayo_2025":202,
+  "Junio_2025":247
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
@@ -81,6 +84,7 @@
   "Febrero_2025":264,
   "Marzo_2025":264,
   "Abril_2025":264,
-  "Mayo_2025":265
+  "Mayo_2025":265,
+  "Junio_2025":264
  }
 ]

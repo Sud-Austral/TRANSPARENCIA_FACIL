@@ -18,7 +18,8 @@
   "Febrero_2025":3407,
   "Marzo_2025":3342,
   "Abril_2025":3289,
-  "Mayo_2025":3272
+  "Mayo_2025":3272,
+  "Junio_2025":3274
  },
  {
   "organismo_nombre":"Servicio de Registro Civil e Identificación",
@@ -39,7 +40,8 @@
   "Febrero_2025":9,
   "Marzo_2025":8,
   "Abril_2025":9,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":10
  },
  {
   "organismo_nombre":"Servicio de Registro Civil e Identificación",
@@ -60,6 +62,7 @@
   "Febrero_2025":53,
   "Marzo_2025":66,
   "Abril_2025":69,
-  "Mayo_2025":69
+  "Mayo_2025":69,
+  "Junio_2025":68
  }
 ]

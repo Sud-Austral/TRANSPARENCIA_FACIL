@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
@@ -39,7 +40,8 @@
   "Febrero_2025":231,
   "Marzo_2025":232,
   "Abril_2025":228,
-  "Mayo_2025":236
+  "Mayo_2025":236,
+  "Junio_2025":238
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
@@ -60,7 +62,8 @@
   "Febrero_2025":49,
   "Marzo_2025":72,
   "Abril_2025":147,
-  "Mayo_2025":142
+  "Mayo_2025":142,
+  "Junio_2025":110
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
@@ -81,6 +84,7 @@
   "Febrero_2025":280,
   "Marzo_2025":280,
   "Abril_2025":280,
-  "Mayo_2025":281
+  "Mayo_2025":281,
+  "Junio_2025":281
  }
 ]

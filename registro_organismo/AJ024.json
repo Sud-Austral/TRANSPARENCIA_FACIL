@@ -18,7 +18,8 @@
   "Febrero_2025":1373,
   "Marzo_2025":1502,
   "Abril_2025":1562,
-  "Mayo_2025":1590
+  "Mayo_2025":1590,
+  "Junio_2025":1857
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
@@ -39,7 +40,8 @@
   "Febrero_2025":951,
   "Marzo_2025":901,
   "Abril_2025":1183,
-  "Mayo_2025":1167
+  "Mayo_2025":1167,
+  "Junio_2025":1151
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":25,
   "Abril_2025":23,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1173,
   "Marzo_2025":1174,
   "Abril_2025":1252,
-  "Mayo_2025":1170
+  "Mayo_2025":1170,
+  "Junio_2025":1168
  }
 ]

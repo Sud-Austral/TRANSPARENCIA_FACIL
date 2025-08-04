@@ -18,7 +18,8 @@
   "Febrero_2025":1573,
   "Marzo_2025":1518,
   "Abril_2025":1067,
-  "Mayo_2025":1529
+  "Mayo_2025":1529,
+  "Junio_2025":1516
  },
  {
   "organismo_nombre":"Servicio de Salud Aconcagua",
@@ -39,7 +40,8 @@
   "Febrero_2025":17,
   "Marzo_2025":17,
   "Abril_2025":17,
-  "Mayo_2025":28
+  "Mayo_2025":28,
+  "Junio_2025":36
  },
  {
   "organismo_nombre":"Servicio de Salud Aconcagua",
@@ -60,6 +62,7 @@
   "Febrero_2025":435,
   "Marzo_2025":437,
   "Abril_2025":436,
-  "Mayo_2025":433
+  "Mayo_2025":433,
+  "Junio_2025":433
  }
 ]

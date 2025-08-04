@@ -18,7 +18,8 @@
   "Febrero_2025":21,
   "Marzo_2025":11,
   "Abril_2025":11,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cauquenes",
@@ -30,16 +31,17 @@
   "Mayo_2024":5,
   "Junio_2024":5,
   "Julio_2024":5,
-  "Agosto_2024":10,
-  "Septiembre_2024":14,
+  "Agosto_2024":5,
+  "Septiembre_2024":10,
   "Octubre_2024":4,
   "Noviembre_2024":4,
   "Diciembre_2024":9,
   "Enero_2025":8,
   "Febrero_2025":10,
-  "Marzo_2025":6,
-  "Abril_2025":7,
-  "Mayo_2025":11
+  "Marzo_2025":5,
+  "Abril_2025":6,
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cauquenes",
@@ -50,7 +52,7 @@
   "Abril_2024":2,
   "Mayo_2024":2,
   "Junio_2024":2,
-  "Julio_2024":4,
+  "Julio_2024":2,
   "Agosto_2024":0,
   "Septiembre_2024":2,
   "Octubre_2024":2,
@@ -60,6 +62,7 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  }
 ]

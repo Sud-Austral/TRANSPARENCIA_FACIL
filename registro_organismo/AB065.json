@@ -18,7 +18,8 @@
   "Febrero_2025":15,
   "Marzo_2025":15,
   "Abril_2025":15,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":15
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de última Esperanza",
@@ -31,15 +32,16 @@
   "Junio_2024":30,
   "Julio_2024":30,
   "Agosto_2024":31,
-  "Septiembre_2024":3,
+  "Septiembre_2024":31,
   "Octubre_2024":31,
-  "Noviembre_2024":28,
+  "Noviembre_2024":52,
   "Diciembre_2024":34,
   "Enero_2025":14,
   "Febrero_2025":45,
   "Marzo_2025":38,
   "Abril_2025":31,
-  "Mayo_2025":31
+  "Mayo_2025":31,
+  "Junio_2025":33
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de última Esperanza",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

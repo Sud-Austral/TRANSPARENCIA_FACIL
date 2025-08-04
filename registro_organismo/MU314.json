@@ -18,7 +18,8 @@
   "Febrero_2025":533,
   "Marzo_2025":565,
   "Abril_2025":536,
-  "Mayo_2025":531
+  "Mayo_2025":531,
+  "Junio_2025":452
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
@@ -39,7 +40,8 @@
   "Febrero_2025":93,
   "Marzo_2025":111,
   "Abril_2025":109,
-  "Mayo_2025":114
+  "Mayo_2025":114,
+  "Junio_2025":104
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
@@ -58,9 +60,10 @@
   "Diciembre_2024":72,
   "Enero_2025":40,
   "Febrero_2025":77,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":82,
+  "Abril_2025":78,
+  "Mayo_2025":75,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
@@ -81,6 +84,7 @@
   "Febrero_2025":183,
   "Marzo_2025":183,
   "Abril_2025":187,
-  "Mayo_2025":186
+  "Mayo_2025":186,
+  "Junio_2025":186
  }
 ]

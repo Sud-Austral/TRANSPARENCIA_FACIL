@@ -18,7 +18,8 @@
   "Febrero_2025":237,
   "Marzo_2025":241,
   "Abril_2025":243,
-  "Mayo_2025":243
+  "Mayo_2025":243,
+  "Junio_2025":243
  },
  {
   "organismo_nombre":"Superintendencia de Servicios Sanitarios (SISS)",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Superintendencia de Servicios Sanitarios (SISS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":10
  }
 ]

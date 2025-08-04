@@ -11,14 +11,15 @@
   "Julio_2024":4,
   "Agosto_2024":4,
   "Septiembre_2024":4,
-  "Octubre_2024":0,
-  "Noviembre_2024":0,
-  "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Octubre_2024":4,
+  "Noviembre_2024":4,
+  "Diciembre_2024":4,
+  "Enero_2025":4,
+  "Febrero_2025":5,
+  "Marzo_2025":5,
+  "Abril_2025":5,
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Asociación de Municipalidades del Norte de Chile",
@@ -32,13 +33,14 @@
   "Julio_2024":2,
   "Agosto_2024":2,
   "Septiembre_2024":2,
-  "Octubre_2024":0,
-  "Noviembre_2024":0,
-  "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Octubre_2024":2,
+  "Noviembre_2024":2,
+  "Diciembre_2024":4,
+  "Enero_2025":2,
+  "Febrero_2025":1,
+  "Marzo_2025":2,
+  "Abril_2025":2,
+  "Mayo_2025":3,
+  "Junio_2025":2
  }
 ]

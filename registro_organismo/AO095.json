@@ -18,7 +18,8 @@
   "Febrero_2025":2628,
   "Marzo_2025":2632,
   "Abril_2025":2477,
-  "Mayo_2025":2436
+  "Mayo_2025":2436,
+  "Junio_2025":2435
  },
  {
   "organismo_nombre":"Hospital Carlos Van Buren",
@@ -39,7 +40,8 @@
   "Febrero_2025":13,
   "Marzo_2025":25,
   "Abril_2025":67,
-  "Mayo_2025":75
+  "Mayo_2025":75,
+  "Junio_2025":114
  },
  {
   "organismo_nombre":"Hospital Carlos Van Buren",
@@ -60,6 +62,7 @@
   "Febrero_2025":895,
   "Marzo_2025":892,
   "Abril_2025":883,
-  "Mayo_2025":876
+  "Mayo_2025":876,
+  "Junio_2025":873
  }
 ]

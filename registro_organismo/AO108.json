@@ -18,7 +18,8 @@
   "Febrero_2025":849,
   "Marzo_2025":836,
   "Abril_2025":852,
-  "Mayo_2025":868
+  "Mayo_2025":868,
+  "Junio_2025":853
  },
  {
   "organismo_nombre":"Instituto Nacional del Cáncer",
@@ -39,7 +40,8 @@
   "Febrero_2025":48,
   "Marzo_2025":41,
   "Abril_2025":48,
-  "Mayo_2025":44
+  "Mayo_2025":44,
+  "Junio_2025":45
  },
  {
   "organismo_nombre":"Instituto Nacional del Cáncer",
@@ -60,6 +62,7 @@
   "Febrero_2025":75,
   "Marzo_2025":81,
   "Abril_2025":80,
-  "Mayo_2025":79
+  "Mayo_2025":79,
+  "Junio_2025":79
  }
 ]

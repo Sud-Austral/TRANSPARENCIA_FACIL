@@ -18,7 +18,8 @@
   "Febrero_2025":216,
   "Marzo_2025":218,
   "Abril_2025":218,
-  "Mayo_2025":218
+  "Mayo_2025":218,
+  "Junio_2025":218
  },
  {
   "organismo_nombre":"Comisión Nacional de Riego (CNR)",
@@ -39,7 +40,8 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Comisión Nacional de Riego (CNR)",
@@ -60,6 +62,7 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  }
 ]

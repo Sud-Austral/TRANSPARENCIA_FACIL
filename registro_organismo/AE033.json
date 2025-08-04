@@ -18,7 +18,8 @@
   "Febrero_2025":49,
   "Marzo_2025":49,
   "Abril_2025":50,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":55
  },
  {
   "organismo_nombre":"Defensoría del Contribuyente",
@@ -39,7 +40,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Defensoría del Contribuyente",
@@ -60,6 +62,7 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  }
 ]

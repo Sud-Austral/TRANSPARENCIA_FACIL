@@ -18,7 +18,8 @@
   "Febrero_2025":86,
   "Marzo_2025":81,
   "Abril_2025":84,
-  "Mayo_2025":85
+  "Mayo_2025":85,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Trehuaco",
@@ -39,7 +40,8 @@
   "Febrero_2025":113,
   "Marzo_2025":115,
   "Abril_2025":140,
-  "Mayo_2025":144
+  "Mayo_2025":144,
+  "Junio_2025":36
  },
  {
   "organismo_nombre":"Municipalidad de Trehuaco",
@@ -60,7 +62,8 @@
   "Febrero_2025":57,
   "Marzo_2025":18,
   "Abril_2025":28,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":33
  },
  {
   "organismo_nombre":"Municipalidad de Trehuaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":186,
   "Marzo_2025":187,
   "Abril_2025":185,
-  "Mayo_2025":183
+  "Mayo_2025":183,
+  "Junio_2025":64
  }
 ]

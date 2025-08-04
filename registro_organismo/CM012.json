@@ -18,7 +18,8 @@
   "Febrero_2025":7,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
@@ -39,7 +40,8 @@
   "Febrero_2025":87,
   "Marzo_2025":101,
   "Abril_2025":79,
-  "Mayo_2025":90
+  "Mayo_2025":90,
+  "Junio_2025":83
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
@@ -81,6 +84,7 @@
   "Febrero_2025":151,
   "Marzo_2025":151,
   "Abril_2025":151,
-  "Mayo_2025":150
+  "Mayo_2025":150,
+  "Junio_2025":150
  }
 ]

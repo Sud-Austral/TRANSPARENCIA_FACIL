@@ -18,7 +18,8 @@
   "Febrero_2025":120,
   "Marzo_2025":120,
   "Abril_2025":124,
-  "Mayo_2025":0
+  "Mayo_2025":124,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Cultural de Antofagasta",
@@ -39,6 +40,7 @@
   "Febrero_2025":8,
   "Marzo_2025":12,
   "Abril_2025":23,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

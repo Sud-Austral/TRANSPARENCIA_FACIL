@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":103,
   "Marzo_2025":106,
   "Abril_2025":104,
-  "Mayo_2025":108
+  "Mayo_2025":108,
+  "Junio_2025":109
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
@@ -60,7 +62,8 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":9
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":20,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

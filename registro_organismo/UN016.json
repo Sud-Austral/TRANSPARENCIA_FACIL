@@ -18,7 +18,8 @@
   "Febrero_2025":477,
   "Marzo_2025":478,
   "Abril_2025":481,
-  "Mayo_2025":482
+  "Mayo_2025":482,
+  "Junio_2025":490
  },
  {
   "organismo_nombre":"Universidad de Magallanes",
@@ -39,7 +40,8 @@
   "Febrero_2025":363,
   "Marzo_2025":301,
   "Abril_2025":451,
-  "Mayo_2025":604
+  "Mayo_2025":604,
+  "Junio_2025":691
  },
  {
   "organismo_nombre":"Universidad de Magallanes",
@@ -60,6 +62,7 @@
   "Febrero_2025":185,
   "Marzo_2025":184,
   "Abril_2025":183,
-  "Mayo_2025":183
+  "Mayo_2025":183,
+  "Junio_2025":181
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":78,
   "Marzo_2025":77,
   "Abril_2025":76,
-  "Mayo_2025":75
+  "Mayo_2025":75,
+  "Junio_2025":75
  },
  {
   "organismo_nombre":"Municipalidad de Llanquihue",
@@ -39,7 +40,8 @@
   "Febrero_2025":127,
   "Marzo_2025":130,
   "Abril_2025":132,
-  "Mayo_2025":137
+  "Mayo_2025":137,
+  "Junio_2025":135
  },
  {
   "organismo_nombre":"Municipalidad de Llanquihue",
@@ -60,7 +62,8 @@
   "Febrero_2025":115,
   "Marzo_2025":92,
   "Abril_2025":96,
-  "Mayo_2025":96
+  "Mayo_2025":96,
+  "Junio_2025":95
  },
  {
   "organismo_nombre":"Municipalidad de Llanquihue",
@@ -81,6 +84,7 @@
   "Febrero_2025":136,
   "Marzo_2025":138,
   "Abril_2025":137,
-  "Mayo_2025":138
+  "Mayo_2025":138,
+  "Junio_2025":137
  }
 ]

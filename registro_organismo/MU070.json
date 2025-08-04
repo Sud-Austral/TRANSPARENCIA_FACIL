@@ -16,9 +16,10 @@
   "Diciembre_2024":7,
   "Enero_2025":14,
   "Febrero_2025":7,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":7,
+  "Abril_2025":7,
+  "Mayo_2025":7,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Municipalidad de Coyhaique",
@@ -37,9 +38,10 @@
   "Diciembre_2024":74,
   "Enero_2025":69,
   "Febrero_2025":72,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":74,
+  "Abril_2025":71,
+  "Mayo_2025":73,
+  "Junio_2025":73
  },
  {
   "organismo_nombre":"Municipalidad de Coyhaique",
@@ -58,9 +60,10 @@
   "Diciembre_2024":310,
   "Enero_2025":432,
   "Febrero_2025":252,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":255,
+  "Abril_2025":270,
+  "Mayo_2025":280,
+  "Junio_2025":269
  },
  {
   "organismo_nombre":"Municipalidad de Coyhaique",
@@ -79,8 +82,9 @@
   "Diciembre_2024":101,
   "Enero_2025":70,
   "Febrero_2025":100,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":102,
+  "Abril_2025":101,
+  "Mayo_2025":102,
+  "Junio_2025":102
  }
 ]

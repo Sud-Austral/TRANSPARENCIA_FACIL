@@ -515,8 +515,8 @@
         >
           Remuneración Bruta
         </a>
-        <a
-          href="../remuneracion/remuneracion1.html?organismo=AE013"
+        <a id="organismoDetalleBTN"
+          href="../remuneracion/remuneracion1.html?organismo="
           style="
             text-decoration: none;
             background: var(--primary-color);
@@ -527,7 +527,7 @@
             transition: background 0.3s ease;
           "
         >
-          Ver Detalle pagos
+          Ver Remuneración Detalle
         </a>
       </div>
     </nav>
@@ -649,6 +649,7 @@
 
     <!-- Cargar el script externo -->
     <script src="organismos.js"></script>
+    <script src="../organismosCodigo.js"></script>
     <script>
       const formatter = new Intl.NumberFormat('es-CL');
       const params = new URLSearchParams(window.location.search);
@@ -664,6 +665,17 @@
         padreFilter.appendChild(option);
       });
 
+      function cargarTitulosBoton(rawData){
+        const titulo = document.getElementById("titulo_principal");
+        if (titulo) {
+          titulo.innerHTML = `<i class="fas fa-chart-line"></i>Sueldos Pagados por ${rawData[0].organismo_nombre}`;
+        }
+        const vinculoBTN = document.getElementById("organismoDetalleBTN");
+        
+        const orgCod = organismoCodigo[rawData[0].organismo_nombre]
+        vinculoBTN.href = `../remuneracion/remuneracion1.html?organismo=${orgCod}`;
+      }
+
       //////////////////////////////////////////////////////////////////////////////////
 
       ///////////////////////////////////////////////////////////////////////////////
@@ -676,10 +688,7 @@
           const response = await fetch(url);
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           rawData = await response.json();
-          const titulo = document.getElementById("titulo_principal");
-          if (titulo) {
-            titulo.innerHTML = `<i class="fas fa-chart-line"></i>Sueldos Pagados por ${rawData[0].organismo_nombre}`;
-          }
+          cargarTitulosBoton(rawData);
         } catch (error) {
           console.error("Error al leer el JSON:", error);
         }

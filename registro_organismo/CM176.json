@@ -18,7 +18,8 @@
   "Febrero_2025":5,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":0
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Padre Hurtado",
@@ -38,7 +39,8 @@
   "Enero_2025":36,
   "Febrero_2025":46,
   "Marzo_2025":30,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":41,
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

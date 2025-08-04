@@ -18,7 +18,8 @@
   "Febrero_2025":92,
   "Marzo_2025":93,
   "Abril_2025":92,
-  "Mayo_2025":92
+  "Mayo_2025":92,
+  "Junio_2025":90
  },
  {
   "organismo_nombre":"Comisión Nacional de Energía (CNE)",
@@ -38,8 +39,9 @@
   "Enero_2025":1,
   "Febrero_2025":1,
   "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":3,
+  "Mayo_2025":4,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Comisión Nacional de Energía (CNE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  }
 ]

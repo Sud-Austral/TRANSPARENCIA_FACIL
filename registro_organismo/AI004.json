@@ -18,7 +18,8 @@
   "Febrero_2025":904,
   "Marzo_2025":902,
   "Abril_2025":896,
-  "Mayo_2025":895
+  "Mayo_2025":926,
+  "Junio_2025":871
  },
  {
   "organismo_nombre":"Fondo de Solidaridad e Inversión Social (FOSIS)",
@@ -39,7 +40,8 @@
   "Febrero_2025":193,
   "Marzo_2025":198,
   "Abril_2025":202,
-  "Mayo_2025":200
+  "Mayo_2025":200,
+  "Junio_2025":191
  },
  {
   "organismo_nombre":"Fondo de Solidaridad e Inversión Social (FOSIS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":16,
   "Marzo_2025":16,
   "Abril_2025":16,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":15
  }
 ]

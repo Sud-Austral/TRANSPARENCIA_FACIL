@@ -18,7 +18,8 @@
   "Febrero_2025":282,
   "Marzo_2025":299,
   "Abril_2025":306,
-  "Mayo_2025":313
+  "Mayo_2025":313,
+  "Junio_2025":314
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
@@ -39,7 +40,8 @@
   "Febrero_2025":110,
   "Marzo_2025":100,
   "Abril_2025":95,
-  "Mayo_2025":50
+  "Mayo_2025":97,
+  "Junio_2025":55
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
@@ -60,7 +62,8 @@
   "Febrero_2025":146,
   "Marzo_2025":152,
   "Abril_2025":159,
-  "Mayo_2025":168
+  "Mayo_2025":168,
+  "Junio_2025":173
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
@@ -81,6 +84,7 @@
   "Febrero_2025":218,
   "Marzo_2025":229,
   "Abril_2025":226,
-  "Mayo_2025":160
+  "Mayo_2025":226,
+  "Junio_2025":162
  }
 ]

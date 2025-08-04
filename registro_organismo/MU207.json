@@ -18,7 +18,8 @@
   "Febrero_2025":268,
   "Marzo_2025":61,
   "Abril_2025":47,
-  "Mayo_2025":47
+  "Mayo_2025":47,
+  "Junio_2025":52
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
@@ -39,7 +40,8 @@
   "Febrero_2025":90,
   "Marzo_2025":90,
   "Abril_2025":92,
-  "Mayo_2025":90
+  "Mayo_2025":90,
+  "Junio_2025":94
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
@@ -60,7 +62,8 @@
   "Febrero_2025":65,
   "Marzo_2025":98,
   "Abril_2025":98,
-  "Mayo_2025":148
+  "Mayo_2025":148,
+  "Junio_2025":142
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
@@ -81,6 +84,7 @@
   "Febrero_2025":189,
   "Marzo_2025":186,
   "Abril_2025":193,
-  "Mayo_2025":181
+  "Mayo_2025":181,
+  "Junio_2025":188
  }
 ]

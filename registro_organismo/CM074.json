@@ -18,7 +18,8 @@
   "Febrero_2025":29,
   "Marzo_2025":29,
   "Abril_2025":31,
-  "Mayo_2025":0
+  "Mayo_2025":31,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Cultural de Lampa",
@@ -39,6 +40,7 @@
   "Febrero_2025":27,
   "Marzo_2025":14,
   "Abril_2025":15,
-  "Mayo_2025":0
+  "Mayo_2025":50,
+  "Junio_2025":0
  }
 ]

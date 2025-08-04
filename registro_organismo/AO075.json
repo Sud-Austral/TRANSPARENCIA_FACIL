@@ -18,7 +18,8 @@
   "Febrero_2025":2622,
   "Marzo_2025":2378,
   "Abril_2025":2315,
-  "Mayo_2025":2527
+  "Mayo_2025":2527,
+  "Junio_2025":2493
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios",
@@ -39,7 +40,8 @@
   "Febrero_2025":91,
   "Marzo_2025":95,
   "Abril_2025":97,
-  "Mayo_2025":86
+  "Mayo_2025":86,
+  "Junio_2025":170
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios",
@@ -60,6 +62,7 @@
   "Febrero_2025":1301,
   "Marzo_2025":1161,
   "Abril_2025":1159,
-  "Mayo_2025":1308
+  "Mayo_2025":1308,
+  "Junio_2025":1186
  }
 ]

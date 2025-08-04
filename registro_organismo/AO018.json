@@ -18,7 +18,8 @@
   "Febrero_2025":1321,
   "Marzo_2025":1325,
   "Abril_2025":1353,
-  "Mayo_2025":1329
+  "Mayo_2025":1329,
+  "Junio_2025":1307
  },
  {
   "organismo_nombre":"Servicio de Salud Antofagasta",
@@ -39,7 +40,8 @@
   "Febrero_2025":41,
   "Marzo_2025":43,
   "Abril_2025":45,
-  "Mayo_2025":67
+  "Mayo_2025":67,
+  "Junio_2025":68
  },
  {
   "organismo_nombre":"Servicio de Salud Antofagasta",
@@ -60,6 +62,7 @@
   "Febrero_2025":452,
   "Marzo_2025":444,
   "Abril_2025":442,
-  "Mayo_2025":435
+  "Mayo_2025":435,
+  "Junio_2025":429
  }
 ]

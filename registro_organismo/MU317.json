@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":2
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Teodoro Schmidt",
@@ -39,7 +40,8 @@
   "Febrero_2025":133,
   "Marzo_2025":124,
   "Abril_2025":122,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":119
  },
  {
   "organismo_nombre":"Municipalidad de Teodoro Schmidt",
@@ -60,7 +62,8 @@
   "Febrero_2025":138,
   "Marzo_2025":174,
   "Abril_2025":102,
-  "Mayo_2025":51
+  "Mayo_2025":134,
+  "Junio_2025":169
  },
  {
   "organismo_nombre":"Municipalidad de Teodoro Schmidt",
@@ -81,6 +84,7 @@
   "Febrero_2025":172,
   "Marzo_2025":172,
   "Abril_2025":168,
-  "Mayo_2025":172
+  "Mayo_2025":172,
+  "Junio_2025":168
  }
 ]

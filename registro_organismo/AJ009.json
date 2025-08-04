@@ -18,7 +18,8 @@
   "Febrero_2025":906,
   "Marzo_2025":910,
   "Abril_2025":905,
-  "Mayo_2025":904
+  "Mayo_2025":904,
+  "Junio_2025":900
  },
  {
   "organismo_nombre":"Junta Nacional de Auxilio Escolar y Becas (JUNAEB)",
@@ -39,7 +40,8 @@
   "Febrero_2025":25,
   "Marzo_2025":31,
   "Abril_2025":36,
-  "Mayo_2025":35
+  "Mayo_2025":35,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Junta Nacional de Auxilio Escolar y Becas (JUNAEB)",
@@ -60,6 +62,7 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":21,
-  "Mayo_2025":22
+  "Mayo_2025":22,
+  "Junio_2025":22
  }
 ]

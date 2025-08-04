@@ -18,7 +18,8 @@
   "Febrero_2025":2216,
   "Marzo_2025":2038,
   "Abril_2025":1932,
-  "Mayo_2025":1879
+  "Mayo_2025":1879,
+  "Junio_2025":1956
  },
  {
   "organismo_nombre":"Hospital de Ovalle",
@@ -39,7 +40,8 @@
   "Febrero_2025":67,
   "Marzo_2025":84,
   "Abril_2025":76,
-  "Mayo_2025":76
+  "Mayo_2025":76,
+  "Junio_2025":60
  },
  {
   "organismo_nombre":"Hospital de Ovalle",
@@ -60,6 +62,7 @@
   "Febrero_2025":353,
   "Marzo_2025":353,
   "Abril_2025":353,
-  "Mayo_2025":349
+  "Mayo_2025":349,
+  "Junio_2025":350
  }
 ]

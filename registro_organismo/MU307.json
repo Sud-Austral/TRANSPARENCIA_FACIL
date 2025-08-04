@@ -18,7 +18,8 @@
   "Febrero_2025":119,
   "Marzo_2025":119,
   "Abril_2025":124,
-  "Mayo_2025":127
+  "Mayo_2025":127,
+  "Junio_2025":125
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
@@ -39,7 +40,8 @@
   "Febrero_2025":156,
   "Marzo_2025":154,
   "Abril_2025":163,
-  "Mayo_2025":162
+  "Mayo_2025":163,
+  "Junio_2025":159
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
@@ -60,7 +62,8 @@
   "Febrero_2025":153,
   "Marzo_2025":171,
   "Abril_2025":209,
-  "Mayo_2025":250
+  "Mayo_2025":250,
+  "Junio_2025":247
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
@@ -81,6 +84,7 @@
   "Febrero_2025":237,
   "Marzo_2025":235,
   "Abril_2025":234,
-  "Mayo_2025":239
+  "Mayo_2025":239,
+  "Junio_2025":238
  }
 ]

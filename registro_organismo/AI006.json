@@ -18,7 +18,8 @@
   "Febrero_2025":331,
   "Marzo_2025":330,
   "Abril_2025":330,
-  "Mayo_2025":328
+  "Mayo_2025":328,
+  "Junio_2025":323
  },
  {
   "organismo_nombre":"Servicio Nacional del Adulto Mayor (SENAMA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":39,
   "Marzo_2025":43,
   "Abril_2025":41,
-  "Mayo_2025":40
+  "Mayo_2025":40,
+  "Junio_2025":41
  },
  {
   "organismo_nombre":"Servicio Nacional del Adulto Mayor (SENAMA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":19,
   "Marzo_2025":20,
   "Abril_2025":19,
-  "Mayo_2025":19
+  "Mayo_2025":19,
+  "Junio_2025":19
  }
 ]

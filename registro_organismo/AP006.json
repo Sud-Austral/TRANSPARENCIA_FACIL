@@ -18,7 +18,8 @@
   "Febrero_2025":403,
   "Marzo_2025":405,
   "Abril_2025":399,
-  "Mayo_2025":402
+  "Mayo_2025":402,
+  "Junio_2025":403
  },
  {
   "organismo_nombre":"SERVIU Región de Valparaíso",
@@ -39,7 +40,8 @@
   "Febrero_2025":43,
   "Marzo_2025":44,
   "Abril_2025":44,
-  "Mayo_2025":37
+  "Mayo_2025":37,
+  "Junio_2025":40
  },
  {
   "organismo_nombre":"SERVIU Región de Valparaíso",
@@ -60,6 +62,7 @@
   "Febrero_2025":34,
   "Marzo_2025":34,
   "Abril_2025":34,
-  "Mayo_2025":35
+  "Mayo_2025":35,
+  "Junio_2025":35
  }
 ]

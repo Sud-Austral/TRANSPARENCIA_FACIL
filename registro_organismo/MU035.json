@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":3,
   "Abril_2025":2,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
@@ -39,7 +40,8 @@
   "Febrero_2025":551,
   "Marzo_2025":529,
   "Abril_2025":533,
-  "Mayo_2025":525
+  "Mayo_2025":533,
+  "Junio_2025":533
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
@@ -60,7 +62,8 @@
   "Febrero_2025":399,
   "Marzo_2025":738,
   "Abril_2025":499,
-  "Mayo_2025":649
+  "Mayo_2025":673,
+  "Junio_2025":609
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
@@ -81,6 +84,7 @@
   "Febrero_2025":730,
   "Marzo_2025":711,
   "Abril_2025":705,
-  "Mayo_2025":695
+  "Mayo_2025":695,
+  "Junio_2025":698
  }
 ]

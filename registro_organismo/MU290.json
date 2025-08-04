@@ -18,7 +18,8 @@
   "Febrero_2025":572,
   "Marzo_2025":591,
   "Abril_2025":596,
-  "Mayo_2025":591
+  "Mayo_2025":591,
+  "Junio_2025":593
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
@@ -39,7 +40,8 @@
   "Febrero_2025":410,
   "Marzo_2025":475,
   "Abril_2025":495,
-  "Mayo_2025":500
+  "Mayo_2025":500,
+  "Junio_2025":511
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
@@ -60,7 +62,8 @@
   "Febrero_2025":171,
   "Marzo_2025":194,
   "Abril_2025":206,
-  "Mayo_2025":232
+  "Mayo_2025":232,
+  "Junio_2025":245
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
@@ -81,6 +84,7 @@
   "Febrero_2025":693,
   "Marzo_2025":689,
   "Abril_2025":688,
-  "Mayo_2025":688
+  "Mayo_2025":688,
+  "Junio_2025":688
  }
 ]

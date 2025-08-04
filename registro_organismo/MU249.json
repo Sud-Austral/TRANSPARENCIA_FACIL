@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":75,
   "Abril_2025":75,
-  "Mayo_2025":76
+  "Mayo_2025":76,
+  "Junio_2025":77
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
@@ -39,7 +40,8 @@
   "Febrero_2025":109,
   "Marzo_2025":115,
   "Abril_2025":121,
-  "Mayo_2025":127
+  "Mayo_2025":127,
+  "Junio_2025":121
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
@@ -57,10 +59,11 @@
   "Noviembre_2024":62,
   "Diciembre_2024":62,
   "Enero_2025":47,
-  "Febrero_2025":143,
-  "Marzo_2025":8,
+  "Febrero_2025":83,
+  "Marzo_2025":68,
   "Abril_2025":69,
-  "Mayo_2025":73
+  "Mayo_2025":73,
+  "Junio_2025":84
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":165,
   "Marzo_2025":160,
   "Abril_2025":155,
-  "Mayo_2025":156
+  "Mayo_2025":156,
+  "Junio_2025":154
  }
 ]

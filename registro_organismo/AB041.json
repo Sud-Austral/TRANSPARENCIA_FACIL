@@ -18,7 +18,8 @@
   "Febrero_2025":19,
   "Marzo_2025":19,
   "Abril_2025":19,
-  "Mayo_2025":19
+  "Mayo_2025":19,
+  "Junio_2025":18
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Isla de Pascua",
@@ -39,7 +40,8 @@
   "Febrero_2025":13,
   "Marzo_2025":21,
   "Abril_2025":15,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Isla de Pascua",
@@ -59,7 +61,8 @@
   "Enero_2025":1,
   "Febrero_2025":1,
   "Marzo_2025":1,
-  "Abril_2025":1,
-  "Mayo_2025":1
+  "Abril_2025":2,
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

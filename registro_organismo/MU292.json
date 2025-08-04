@@ -18,7 +18,8 @@
   "Febrero_2025":19,
   "Marzo_2025":19,
   "Abril_2025":17,
-  "Mayo_2025":20
+  "Mayo_2025":20,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Municipalidad de San José de Maipo",
@@ -39,7 +40,8 @@
   "Febrero_2025":57,
   "Marzo_2025":58,
   "Abril_2025":57,
-  "Mayo_2025":62
+  "Mayo_2025":62,
+  "Junio_2025":61
  },
  {
   "organismo_nombre":"Municipalidad de San José de Maipo",
@@ -60,6 +62,7 @@
   "Febrero_2025":68,
   "Marzo_2025":69,
   "Abril_2025":67,
-  "Mayo_2025":67
+  "Mayo_2025":67,
+  "Junio_2025":67
  }
 ]

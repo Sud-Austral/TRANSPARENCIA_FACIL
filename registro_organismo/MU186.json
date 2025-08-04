@@ -18,7 +18,8 @@
   "Febrero_2025":4,
   "Marzo_2025":3,
   "Abril_2025":4,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
@@ -39,7 +40,8 @@
   "Febrero_2025":203,
   "Marzo_2025":198,
   "Abril_2025":201,
-  "Mayo_2025":218
+  "Mayo_2025":218,
+  "Junio_2025":222
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
@@ -60,7 +62,8 @@
   "Febrero_2025":35,
   "Marzo_2025":42,
   "Abril_2025":42,
-  "Mayo_2025":41
+  "Mayo_2025":41,
+  "Junio_2025":49
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
@@ -81,6 +84,7 @@
   "Febrero_2025":392,
   "Marzo_2025":391,
   "Abril_2025":384,
-  "Mayo_2025":394
+  "Mayo_2025":394,
+  "Junio_2025":383
  }
 ]

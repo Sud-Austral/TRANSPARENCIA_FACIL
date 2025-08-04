@@ -18,7 +18,8 @@
   "Febrero_2025":1509,
   "Marzo_2025":1629,
   "Abril_2025":1633,
-  "Mayo_2025":1689
+  "Mayo_2025":1689,
+  "Junio_2025":1715
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1207,
   "Marzo_2025":1344,
   "Abril_2025":1449,
-  "Mayo_2025":0
+  "Mayo_2025":1502,
+  "Junio_2025":1386
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
@@ -60,7 +62,8 @@
   "Febrero_2025":788,
   "Marzo_2025":830,
   "Abril_2025":1175,
-  "Mayo_2025":1318
+  "Mayo_2025":1318,
+  "Junio_2025":1177
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3546,
   "Marzo_2025":4002,
   "Abril_2025":3995,
-  "Mayo_2025":0
+  "Mayo_2025":3937,
+  "Junio_2025":3944
  }
 ]

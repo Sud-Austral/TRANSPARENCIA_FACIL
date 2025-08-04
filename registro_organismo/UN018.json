@@ -18,7 +18,8 @@
   "Febrero_2025":677,
   "Marzo_2025":687,
   "Abril_2025":701,
-  "Mayo_2025":710
+  "Mayo_2025":710,
+  "Junio_2025":708
  },
  {
   "organismo_nombre":"Universidad de OHiggins",
@@ -39,7 +40,8 @@
   "Febrero_2025":240,
   "Marzo_2025":779,
   "Abril_2025":1546,
-  "Mayo_2025":1500
+  "Mayo_2025":1500,
+  "Junio_2025":1643
  },
  {
   "organismo_nombre":"Universidad de OHiggins",
@@ -60,6 +62,7 @@
   "Febrero_2025":31,
   "Marzo_2025":31,
   "Abril_2025":32,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":35
  }
 ]

@@ -17,8 +17,9 @@
   "Enero_2025":360,
   "Febrero_2025":365,
   "Marzo_2025":391,
-  "Abril_2025":0,
-  "Mayo_2025":416
+  "Abril_2025":402,
+  "Mayo_2025":416,
+  "Junio_2025":428
  },
  {
   "organismo_nombre":"Asociación de Municipalidades para la Seguridad Ciudadana en la Zona Oriente",
@@ -39,6 +40,7 @@
   "Febrero_2025":20,
   "Marzo_2025":20,
   "Abril_2025":25,
-  "Mayo_2025":20
+  "Mayo_2025":20,
+  "Junio_2025":20
  }
 ]

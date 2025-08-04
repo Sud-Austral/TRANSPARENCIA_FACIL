@@ -18,7 +18,8 @@
   "Febrero_2025":571,
   "Marzo_2025":595,
   "Abril_2025":606,
-  "Mayo_2025":0
+  "Mayo_2025":635,
+  "Junio_2025":613
  },
  {
   "organismo_nombre":"Municipalidad de Molina",
@@ -39,7 +40,8 @@
   "Febrero_2025":386,
   "Marzo_2025":409,
   "Abril_2025":421,
-  "Mayo_2025":0
+  "Mayo_2025":427,
+  "Junio_2025":428
  },
  {
   "organismo_nombre":"Municipalidad de Molina",
@@ -60,7 +62,8 @@
   "Febrero_2025":253,
   "Marzo_2025":314,
   "Abril_2025":335,
-  "Mayo_2025":130
+  "Mayo_2025":360,
+  "Junio_2025":403
  },
  {
   "organismo_nombre":"Municipalidad de Molina",
@@ -81,6 +84,7 @@
   "Febrero_2025":626,
   "Marzo_2025":623,
   "Abril_2025":623,
-  "Mayo_2025":1
+  "Mayo_2025":625,
+  "Junio_2025":622
  }
 ]

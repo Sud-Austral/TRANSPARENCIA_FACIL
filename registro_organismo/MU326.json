@@ -18,7 +18,8 @@
   "Febrero_2025":17,
   "Marzo_2025":11,
   "Abril_2025":12,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
@@ -39,7 +40,8 @@
   "Febrero_2025":14,
   "Marzo_2025":11,
   "Abril_2025":10,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
@@ -60,7 +62,8 @@
   "Febrero_2025":52,
   "Marzo_2025":59,
   "Abril_2025":58,
-  "Mayo_2025":58
+  "Mayo_2025":58,
+  "Junio_2025":60
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
@@ -81,6 +84,7 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":14
  }
 ]

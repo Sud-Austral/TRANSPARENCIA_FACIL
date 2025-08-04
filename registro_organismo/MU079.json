@@ -18,7 +18,8 @@
   "Febrero_2025":29,
   "Marzo_2025":29,
   "Abril_2025":29,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":28
  },
  {
   "organismo_nombre":"Municipalidad de Dalcahue",
@@ -39,7 +40,8 @@
   "Febrero_2025":146,
   "Marzo_2025":174,
   "Abril_2025":86,
-  "Mayo_2025":131
+  "Mayo_2025":131,
+  "Junio_2025":130
  },
  {
   "organismo_nombre":"Municipalidad de Dalcahue",
@@ -60,6 +62,7 @@
   "Febrero_2025":50,
   "Marzo_2025":50,
   "Abril_2025":50,
-  "Mayo_2025":51
+  "Mayo_2025":51,
+  "Junio_2025":50
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":329,
   "Marzo_2025":341,
   "Abril_2025":356,
-  "Mayo_2025":341
+  "Mayo_2025":341,
+  "Junio_2025":337
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
@@ -39,7 +40,8 @@
   "Febrero_2025":301,
   "Marzo_2025":331,
   "Abril_2025":339,
-  "Mayo_2025":336
+  "Mayo_2025":336,
+  "Junio_2025":334
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
@@ -60,7 +62,8 @@
   "Febrero_2025":131,
   "Marzo_2025":128,
   "Abril_2025":151,
-  "Mayo_2025":145
+  "Mayo_2025":145,
+  "Junio_2025":161
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
@@ -81,6 +84,7 @@
   "Febrero_2025":432,
   "Marzo_2025":431,
   "Abril_2025":435,
-  "Mayo_2025":433
+  "Mayo_2025":433,
+  "Junio_2025":432
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":335,
   "Marzo_2025":330,
   "Abril_2025":336,
-  "Mayo_2025":339
+  "Mayo_2025":339,
+  "Junio_2025":345
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
@@ -39,7 +40,8 @@
   "Febrero_2025":293,
   "Marzo_2025":288,
   "Abril_2025":294,
-  "Mayo_2025":296
+  "Mayo_2025":296,
+  "Junio_2025":302
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
@@ -60,7 +62,8 @@
   "Febrero_2025":66,
   "Marzo_2025":56,
   "Abril_2025":82,
-  "Mayo_2025":74
+  "Mayo_2025":74,
+  "Junio_2025":80
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
@@ -81,6 +84,7 @@
   "Febrero_2025":404,
   "Marzo_2025":402,
   "Abril_2025":402,
-  "Mayo_2025":396
+  "Mayo_2025":396,
+  "Junio_2025":397
  }
 ]

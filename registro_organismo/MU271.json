@@ -18,7 +18,8 @@
   "Febrero_2025":287,
   "Marzo_2025":297,
   "Abril_2025":291,
-  "Mayo_2025":290
+  "Mayo_2025":290,
+  "Junio_2025":308
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
@@ -39,7 +40,8 @@
   "Febrero_2025":187,
   "Marzo_2025":181,
   "Abril_2025":184,
-  "Mayo_2025":186
+  "Mayo_2025":186,
+  "Junio_2025":186
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
@@ -60,7 +62,8 @@
   "Febrero_2025":116,
   "Marzo_2025":300,
   "Abril_2025":117,
-  "Mayo_2025":94
+  "Mayo_2025":216,
+  "Junio_2025":93
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
@@ -81,6 +84,7 @@
   "Febrero_2025":273,
   "Marzo_2025":272,
   "Abril_2025":272,
-  "Mayo_2025":273
+  "Mayo_2025":273,
+  "Junio_2025":271
  }
 ]

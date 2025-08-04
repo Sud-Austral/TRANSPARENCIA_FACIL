@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":4,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
@@ -28,7 +29,7 @@
   "Marzo_2024":62,
   "Abril_2024":62,
   "Mayo_2024":65,
-  "Junio_2024":64,
+  "Junio_2024":65,
   "Julio_2024":62,
   "Agosto_2024":62,
   "Septiembre_2024":62,
@@ -39,7 +40,8 @@
   "Febrero_2025":69,
   "Marzo_2025":70,
   "Abril_2025":74,
-  "Mayo_2025":75
+  "Mayo_2025":75,
+  "Junio_2025":77
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
@@ -60,7 +62,8 @@
   "Febrero_2025":217,
   "Marzo_2025":94,
   "Abril_2025":225,
-  "Mayo_2025":251
+  "Mayo_2025":251,
+  "Junio_2025":252
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
@@ -81,6 +84,7 @@
   "Febrero_2025":128,
   "Marzo_2025":125,
   "Abril_2025":123,
-  "Mayo_2025":123
+  "Mayo_2025":123,
+  "Junio_2025":122
  }
 ]

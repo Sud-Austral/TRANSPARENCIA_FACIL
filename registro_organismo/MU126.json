@@ -18,7 +18,8 @@
   "Febrero_2025":347,
   "Marzo_2025":340,
   "Abril_2025":308,
-  "Mayo_2025":0
+  "Mayo_2025":263,
+  "Junio_2025":105
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
@@ -38,8 +39,9 @@
   "Enero_2025":250,
   "Febrero_2025":249,
   "Marzo_2025":270,
-  "Abril_2025":278,
-  "Mayo_2025":0
+  "Abril_2025":280,
+  "Mayo_2025":284,
+  "Junio_2025":282
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
@@ -60,7 +62,8 @@
   "Febrero_2025":543,
   "Marzo_2025":592,
   "Abril_2025":642,
-  "Mayo_2025":0
+  "Mayo_2025":707,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
@@ -81,6 +84,7 @@
   "Febrero_2025":431,
   "Marzo_2025":430,
   "Abril_2025":424,
-  "Mayo_2025":432
+  "Mayo_2025":431,
+  "Junio_2025":424
  }
 ]

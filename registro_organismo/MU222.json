@@ -18,7 +18,8 @@
   "Febrero_2025":287,
   "Marzo_2025":313,
   "Abril_2025":285,
-  "Mayo_2025":286
+  "Mayo_2025":286,
+  "Junio_2025":280
  },
  {
   "organismo_nombre":"Municipalidad de Pitrufquén",
@@ -39,7 +40,8 @@
   "Febrero_2025":270,
   "Marzo_2025":281,
   "Abril_2025":260,
-  "Mayo_2025":276
+  "Mayo_2025":276,
+  "Junio_2025":264
  },
  {
   "organismo_nombre":"Municipalidad de Pitrufquén",
@@ -60,7 +62,8 @@
   "Febrero_2025":221,
   "Marzo_2025":260,
   "Abril_2025":259,
-  "Mayo_2025":285
+  "Mayo_2025":285,
+  "Junio_2025":288
  },
  {
   "organismo_nombre":"Municipalidad de Pitrufquén",
@@ -81,6 +84,7 @@
   "Febrero_2025":371,
   "Marzo_2025":352,
   "Abril_2025":361,
-  "Mayo_2025":364
+  "Mayo_2025":364,
+  "Junio_2025":361
  }
 ]

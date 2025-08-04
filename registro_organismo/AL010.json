@@ -18,7 +18,8 @@
   "Febrero_2025":67,
   "Marzo_2025":71,
   "Abril_2025":73,
-  "Mayo_2025":83
+  "Mayo_2025":83,
+  "Junio_2025":84
  },
  {
   "organismo_nombre":"Comisión del Sistema Nacional de Certificación de Competencias Laborales",
@@ -39,6 +40,7 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":11,
+  "Junio_2025":0
  }
 ]

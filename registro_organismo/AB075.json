@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":101,
   "Marzo_2025":114,
   "Abril_2025":103,
-  "Mayo_2025":103
+  "Mayo_2025":103,
+  "Junio_2025":106
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
@@ -60,12 +62,13 @@
   "Febrero_2025":17,
   "Marzo_2025":16,
   "Abril_2025":11,
-  "Mayo_2025":13
+  "Mayo_2025":13,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
   "base":"Planta",
-  "Enero_2024":56,
+  "Enero_2024":28,
   "Febrero_2024":28,
   "Marzo_2024":29,
   "Abril_2024":29,
@@ -81,6 +84,7 @@
   "Febrero_2025":28,
   "Marzo_2025":30,
   "Abril_2025":29,
-  "Mayo_2025":28
+  "Mayo_2025":28,
+  "Junio_2025":28
  }
 ]

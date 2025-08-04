@@ -17,8 +17,9 @@
   "Enero_2025":11,
   "Febrero_2025":150,
   "Marzo_2025":144,
-  "Abril_2025":136,
-  "Mayo_2025":128
+  "Abril_2025":137,
+  "Mayo_2025":129,
+  "Junio_2025":128
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
@@ -38,8 +39,9 @@
   "Enero_2025":72,
   "Febrero_2025":113,
   "Marzo_2025":118,
-  "Abril_2025":42,
-  "Mayo_2025":39
+  "Abril_2025":118,
+  "Mayo_2025":119,
+  "Junio_2025":120
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
@@ -58,9 +60,10 @@
   "Diciembre_2024":249,
   "Enero_2025":164,
   "Febrero_2025":243,
-  "Marzo_2025":228,
+  "Marzo_2025":306,
   "Abril_2025":162,
-  "Mayo_2025":0
+  "Mayo_2025":244,
+  "Junio_2025":82
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
@@ -79,8 +82,9 @@
   "Diciembre_2024":163,
   "Enero_2025":205,
   "Febrero_2025":161,
-  "Marzo_2025":163,
-  "Abril_2025":81,
-  "Mayo_2025":81
+  "Marzo_2025":205,
+  "Abril_2025":115,
+  "Mayo_2025":157,
+  "Junio_2025":159
  }
 ]

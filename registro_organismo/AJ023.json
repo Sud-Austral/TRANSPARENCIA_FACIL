@@ -18,7 +18,8 @@
   "Febrero_2025":1690,
   "Marzo_2025":1652,
   "Abril_2025":1719,
-  "Mayo_2025":0
+  "Mayo_2025":1730,
+  "Junio_2025":1739
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chinchorro (SLEP Chinchorro)",
@@ -39,7 +40,8 @@
   "Febrero_2025":924,
   "Marzo_2025":973,
   "Abril_2025":1042,
-  "Mayo_2025":0
+  "Mayo_2025":1073,
+  "Junio_2025":1083
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chinchorro (SLEP Chinchorro)",
@@ -60,7 +62,8 @@
   "Febrero_2025":11,
   "Marzo_2025":11,
   "Abril_2025":11,
-  "Mayo_2025":0
+  "Mayo_2025":11,
+  "Junio_2025":11
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chinchorro (SLEP Chinchorro)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1140,
   "Marzo_2025":1108,
   "Abril_2025":1103,
-  "Mayo_2025":0
+  "Mayo_2025":1098,
+  "Junio_2025":1094
  }
 ]

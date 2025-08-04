@@ -18,7 +18,8 @@
   "Febrero_2025":2902,
   "Marzo_2025":2723,
   "Abril_2025":2633,
-  "Mayo_2025":2554
+  "Mayo_2025":2554,
+  "Junio_2025":2595
  },
  {
   "organismo_nombre":"Hospital Base de Valdivia",
@@ -39,7 +40,8 @@
   "Febrero_2025":142,
   "Marzo_2025":144,
   "Abril_2025":148,
-  "Mayo_2025":158
+  "Mayo_2025":158,
+  "Junio_2025":167
  },
  {
   "organismo_nombre":"Hospital Base de Valdivia",
@@ -60,6 +62,7 @@
   "Febrero_2025":894,
   "Marzo_2025":887,
   "Abril_2025":877,
-  "Mayo_2025":877
+  "Mayo_2025":877,
+  "Junio_2025":852
  }
 ]

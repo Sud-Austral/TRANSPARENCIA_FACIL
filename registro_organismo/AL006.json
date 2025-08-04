@@ -18,7 +18,8 @@
   "Febrero_2025":650,
   "Marzo_2025":644,
   "Abril_2025":648,
-  "Mayo_2025":655
+  "Mayo_2025":655,
+  "Junio_2025":666
  },
  {
   "organismo_nombre":"Instituto de Seguridad Laboral (ISL)",
@@ -39,7 +40,8 @@
   "Febrero_2025":32,
   "Marzo_2025":31,
   "Abril_2025":30,
-  "Mayo_2025":28
+  "Mayo_2025":28,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Instituto de Seguridad Laboral (ISL)",
@@ -60,6 +62,7 @@
   "Febrero_2025":11,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":20,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":15,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
@@ -39,7 +40,8 @@
   "Febrero_2025":202,
   "Marzo_2025":207,
   "Abril_2025":212,
-  "Mayo_2025":217
+  "Mayo_2025":217,
+  "Junio_2025":209
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
@@ -60,7 +62,8 @@
   "Febrero_2025":503,
   "Marzo_2025":507,
   "Abril_2025":532,
-  "Mayo_2025":515
+  "Mayo_2025":515,
+  "Junio_2025":523
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
@@ -81,6 +84,7 @@
   "Febrero_2025":262,
   "Marzo_2025":270,
   "Abril_2025":260,
-  "Mayo_2025":270
+  "Mayo_2025":270,
+  "Junio_2025":257
  }
 ]

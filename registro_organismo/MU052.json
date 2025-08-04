@@ -18,7 +18,8 @@
   "Febrero_2025":320,
   "Marzo_2025":319,
   "Abril_2025":330,
-  "Mayo_2025":393
+  "Mayo_2025":393,
+  "Junio_2025":336
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
@@ -39,7 +40,8 @@
   "Febrero_2025":148,
   "Marzo_2025":161,
   "Abril_2025":158,
-  "Mayo_2025":171
+  "Mayo_2025":171,
+  "Junio_2025":171
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
@@ -60,7 +62,8 @@
   "Febrero_2025":102,
   "Marzo_2025":114,
   "Abril_2025":122,
-  "Mayo_2025":116
+  "Mayo_2025":116,
+  "Junio_2025":132
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
@@ -81,6 +84,7 @@
   "Febrero_2025":295,
   "Marzo_2025":296,
   "Abril_2025":300,
-  "Mayo_2025":79
+  "Mayo_2025":290,
+  "Junio_2025":294
  }
 ]

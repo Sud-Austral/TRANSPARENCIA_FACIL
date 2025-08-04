@@ -18,7 +18,8 @@
   "Febrero_2025":146,
   "Marzo_2025":121,
   "Abril_2025":122,
-  "Mayo_2025":123
+  "Mayo_2025":123,
+  "Junio_2025":127
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
@@ -39,7 +40,8 @@
   "Febrero_2025":111,
   "Marzo_2025":99,
   "Abril_2025":100,
-  "Mayo_2025":103
+  "Mayo_2025":103,
+  "Junio_2025":99
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
@@ -60,7 +62,8 @@
   "Febrero_2025":187,
   "Marzo_2025":179,
   "Abril_2025":192,
-  "Mayo_2025":196
+  "Mayo_2025":196,
+  "Junio_2025":219
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
@@ -81,6 +84,7 @@
   "Febrero_2025":170,
   "Marzo_2025":169,
   "Abril_2025":168,
-  "Mayo_2025":168
+  "Mayo_2025":168,
+  "Junio_2025":166
  }
 ]

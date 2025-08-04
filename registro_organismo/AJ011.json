@@ -18,7 +18,8 @@
   "Febrero_2025":716,
   "Marzo_2025":718,
   "Abril_2025":710,
-  "Mayo_2025":708
+  "Mayo_2025":708,
+  "Junio_2025":713
  },
  {
   "organismo_nombre":"Superintendencia de Educación Dirección Nacional",
@@ -39,7 +40,8 @@
   "Febrero_2025":18,
   "Marzo_2025":19,
   "Abril_2025":17,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":15
  },
  {
   "organismo_nombre":"Superintendencia de Educación Dirección Nacional",
@@ -60,6 +62,7 @@
   "Febrero_2025":167,
   "Marzo_2025":167,
   "Abril_2025":164,
-  "Mayo_2025":164
+  "Mayo_2025":164,
+  "Junio_2025":164
  }
 ]

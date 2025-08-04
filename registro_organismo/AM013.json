@@ -18,7 +18,8 @@
   "Febrero_2025":102,
   "Marzo_2025":102,
   "Abril_2025":103,
-  "Mayo_2025":101
+  "Mayo_2025":101,
+  "Junio_2025":101
  },
  {
   "organismo_nombre":"Fiscalía de Obras Públicas",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Fiscalía de Obras Públicas",
@@ -60,6 +62,7 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":7
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
@@ -39,7 +40,8 @@
   "Febrero_2025":108,
   "Marzo_2025":105,
   "Abril_2025":109,
-  "Mayo_2025":113
+  "Mayo_2025":113,
+  "Junio_2025":108
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
@@ -60,7 +62,8 @@
   "Febrero_2025":307,
   "Marzo_2025":354,
   "Abril_2025":385,
-  "Mayo_2025":398
+  "Mayo_2025":398,
+  "Junio_2025":404
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
@@ -81,6 +84,7 @@
   "Febrero_2025":265,
   "Marzo_2025":262,
   "Abril_2025":264,
-  "Mayo_2025":263
+  "Mayo_2025":263,
+  "Junio_2025":257
  }
 ]

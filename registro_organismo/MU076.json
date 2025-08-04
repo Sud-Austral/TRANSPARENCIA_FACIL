@@ -18,7 +18,8 @@
   "Febrero_2025":85,
   "Marzo_2025":88,
   "Abril_2025":2,
-  "Mayo_2025":84
+  "Mayo_2025":86,
+  "Junio_2025":133
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
@@ -39,7 +40,8 @@
   "Febrero_2025":101,
   "Marzo_2025":37,
   "Abril_2025":97,
-  "Mayo_2025":95
+  "Mayo_2025":105,
+  "Junio_2025":104
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
@@ -60,7 +62,8 @@
   "Febrero_2025":113,
   "Marzo_2025":120,
   "Abril_2025":122,
-  "Mayo_2025":164
+  "Mayo_2025":164,
+  "Junio_2025":157
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
@@ -81,6 +84,7 @@
   "Febrero_2025":163,
   "Marzo_2025":162,
   "Abril_2025":162,
-  "Mayo_2025":122
+  "Mayo_2025":164,
+  "Junio_2025":162
  }
 ]

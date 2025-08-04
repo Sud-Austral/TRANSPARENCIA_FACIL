@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
@@ -39,7 +40,8 @@
   "Febrero_2025":81,
   "Marzo_2025":77,
   "Abril_2025":77,
-  "Mayo_2025":82
+  "Mayo_2025":82,
+  "Junio_2025":78
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
@@ -60,7 +62,8 @@
   "Febrero_2025":90,
   "Marzo_2025":79,
   "Abril_2025":88,
-  "Mayo_2025":99
+  "Mayo_2025":99,
+  "Junio_2025":96
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
@@ -81,6 +84,7 @@
   "Febrero_2025":80,
   "Marzo_2025":80,
   "Abril_2025":79,
-  "Mayo_2025":78
+  "Mayo_2025":78,
+  "Junio_2025":77
  }
 ]

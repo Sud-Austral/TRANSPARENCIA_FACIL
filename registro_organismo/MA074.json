@@ -18,7 +18,8 @@
   "Febrero_2025":181,
   "Marzo_2025":176,
   "Abril_2025":167,
-  "Mayo_2025":0
+  "Mayo_2025":166,
+  "Junio_2025":163
  },
  {
   "organismo_nombre":"Asociación de Municipios para la seguridad comunitaria (AMSC)",
@@ -35,10 +36,11 @@
   "Octubre_2024":3,
   "Noviembre_2024":1,
   "Diciembre_2024":5,
-  "Enero_2025":0,
+  "Enero_2025":3,
   "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":4,
+  "Abril_2025":2,
+  "Mayo_2025":3,
+  "Junio_2025":5
  }
 ]

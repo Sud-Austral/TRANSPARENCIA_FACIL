@@ -18,7 +18,8 @@
   "Febrero_2025":1447,
   "Marzo_2025":1463,
   "Abril_2025":1460,
-  "Mayo_2025":1423
+  "Mayo_2025":1423,
+  "Junio_2025":1423
  },
  {
   "organismo_nombre":"Hospital de Quilpué",
@@ -39,7 +40,8 @@
   "Febrero_2025":127,
   "Marzo_2025":151,
   "Abril_2025":144,
-  "Mayo_2025":133
+  "Mayo_2025":133,
+  "Junio_2025":148
  },
  {
   "organismo_nombre":"Hospital de Quilpué",
@@ -60,6 +62,7 @@
   "Febrero_2025":212,
   "Marzo_2025":211,
   "Abril_2025":209,
-  "Mayo_2025":209
+  "Mayo_2025":209,
+  "Junio_2025":209
  }
 ]

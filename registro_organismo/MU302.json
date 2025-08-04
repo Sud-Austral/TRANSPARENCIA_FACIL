@@ -18,7 +18,8 @@
   "Febrero_2025":54,
   "Marzo_2025":55,
   "Abril_2025":58,
-  "Mayo_2025":0
+  "Mayo_2025":65,
+  "Junio_2025":65
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
@@ -39,7 +40,8 @@
   "Febrero_2025":83,
   "Marzo_2025":85,
   "Abril_2025":86,
-  "Mayo_2025":0
+  "Mayo_2025":80,
+  "Junio_2025":83
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
@@ -60,7 +62,8 @@
   "Febrero_2025":81,
   "Marzo_2025":86,
   "Abril_2025":0,
-  "Mayo_2025":1
+  "Mayo_2025":102,
+  "Junio_2025":87
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
@@ -80,7 +83,8 @@
   "Enero_2025":99,
   "Febrero_2025":87,
   "Marzo_2025":141,
-  "Abril_2025":86,
-  "Mayo_2025":0
+  "Abril_2025":92,
+  "Mayo_2025":79,
+  "Junio_2025":85
  }
 ]

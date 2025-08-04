@@ -18,7 +18,8 @@
   "Febrero_2025":116,
   "Marzo_2025":114,
   "Abril_2025":107,
-  "Mayo_2025":79
+  "Mayo_2025":103,
+  "Junio_2025":105
  },
  {
   "organismo_nombre":"Municipalidad de San Carlos",
@@ -39,7 +40,8 @@
   "Febrero_2025":288,
   "Marzo_2025":277,
   "Abril_2025":267,
-  "Mayo_2025":0
+  "Mayo_2025":270,
+  "Junio_2025":163
  },
  {
   "organismo_nombre":"Municipalidad de San Carlos",
@@ -51,16 +53,17 @@
   "Mayo_2024":1087,
   "Junio_2024":333,
   "Julio_2024":722,
-  "Agosto_2024":741,
-  "Septiembre_2024":749,
-  "Octubre_2024":743,
-  "Noviembre_2024":739,
-  "Diciembre_2024":838,
+  "Agosto_2024":751,
+  "Septiembre_2024":753,
+  "Octubre_2024":746,
+  "Noviembre_2024":742,
+  "Diciembre_2024":841,
   "Enero_2025":424,
   "Febrero_2025":604,
   "Marzo_2025":644,
   "Abril_2025":681,
-  "Mayo_2025":0
+  "Mayo_2025":717,
+  "Junio_2025":384
  },
  {
   "organismo_nombre":"Municipalidad de San Carlos",
@@ -81,6 +84,7 @@
   "Febrero_2025":360,
   "Marzo_2025":359,
   "Abril_2025":355,
-  "Mayo_2025":296
+  "Mayo_2025":354,
+  "Junio_2025":295
  }
 ]

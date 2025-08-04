@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":5,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Quellón",
@@ -39,7 +40,8 @@
   "Febrero_2025":21,
   "Marzo_2025":22,
   "Abril_2025":26,
-  "Mayo_2025":26
+  "Mayo_2025":26,
+  "Junio_2025":25
  },
  {
   "organismo_nombre":"Municipalidad de Quellón",
@@ -60,7 +62,8 @@
   "Febrero_2025":258,
   "Marzo_2025":155,
   "Abril_2025":145,
-  "Mayo_2025":150
+  "Mayo_2025":156,
+  "Junio_2025":158
  },
  {
   "organismo_nombre":"Municipalidad de Quellón",
@@ -81,6 +84,7 @@
   "Febrero_2025":80,
   "Marzo_2025":80,
   "Abril_2025":79,
-  "Mayo_2025":80
+  "Mayo_2025":80,
+  "Junio_2025":80
  }
 ]

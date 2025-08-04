@@ -18,7 +18,8 @@
   "Febrero_2025":164,
   "Marzo_2025":164,
   "Abril_2025":167,
-  "Mayo_2025":169
+  "Mayo_2025":169,
+  "Junio_2025":171
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1104,
   "Marzo_2025":1287,
   "Abril_2025":1440,
-  "Mayo_2025":1541
+  "Mayo_2025":1541,
+  "Junio_2025":1554
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
@@ -60,7 +62,8 @@
   "Febrero_2025":16,
   "Marzo_2025":23,
   "Abril_2025":30,
-  "Mayo_2025":37
+  "Mayo_2025":37,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2225,
   "Marzo_2025":2163,
   "Abril_2025":2148,
-  "Mayo_2025":2141
+  "Mayo_2025":2142,
+  "Junio_2025":2138
  }
 ]

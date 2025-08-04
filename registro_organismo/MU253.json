@@ -18,7 +18,8 @@
   "Febrero_2025":668,
   "Marzo_2025":701,
   "Abril_2025":710,
-  "Mayo_2025":697
+  "Mayo_2025":697,
+  "Junio_2025":691
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
@@ -39,7 +40,8 @@
   "Febrero_2025":804,
   "Marzo_2025":832,
   "Abril_2025":837,
-  "Mayo_2025":838
+  "Mayo_2025":838,
+  "Junio_2025":850
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
@@ -60,7 +62,8 @@
   "Febrero_2025":721,
   "Marzo_2025":755,
   "Abril_2025":782,
-  "Mayo_2025":106
+  "Mayo_2025":825,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
@@ -81,6 +84,7 @@
   "Febrero_2025":933,
   "Marzo_2025":932,
   "Abril_2025":930,
-  "Mayo_2025":928
+  "Mayo_2025":928,
+  "Junio_2025":926
  }
 ]

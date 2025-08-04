@@ -18,7 +18,8 @@
   "Febrero_2025":2453,
   "Marzo_2025":2457,
   "Abril_2025":2455,
-  "Mayo_2025":2452
+  "Mayo_2025":2452,
+  "Junio_2025":2455
  },
  {
   "organismo_nombre":"Instituto de Previsión Social (IPS)",
@@ -39,7 +40,8 @@
   "Febrero_2025":21,
   "Marzo_2025":20,
   "Abril_2025":22,
-  "Mayo_2025":22
+  "Mayo_2025":22,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Instituto de Previsión Social (IPS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":64,
   "Marzo_2025":59,
   "Abril_2025":59,
-  "Mayo_2025":59
+  "Mayo_2025":59,
+  "Junio_2025":60
  }
 ]

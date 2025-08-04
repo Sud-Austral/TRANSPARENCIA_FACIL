@@ -18,7 +18,8 @@
   "Febrero_2025":574,
   "Marzo_2025":606,
   "Abril_2025":611,
-  "Mayo_2025":616
+  "Mayo_2025":616,
+  "Junio_2025":609
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
@@ -39,7 +40,8 @@
   "Febrero_2025":513,
   "Marzo_2025":561,
   "Abril_2025":567,
-  "Mayo_2025":575
+  "Mayo_2025":575,
+  "Junio_2025":573
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
@@ -60,7 +62,8 @@
   "Febrero_2025":6,
   "Marzo_2025":7,
   "Abril_2025":11,
-  "Mayo_2025":50
+  "Mayo_2025":50,
+  "Junio_2025":66
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
@@ -81,6 +84,7 @@
   "Febrero_2025":688,
   "Marzo_2025":680,
   "Abril_2025":664,
-  "Mayo_2025":661
+  "Mayo_2025":661,
+  "Junio_2025":660
  }
 ]

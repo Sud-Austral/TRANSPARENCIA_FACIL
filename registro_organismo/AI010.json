@@ -18,7 +18,8 @@
   "Febrero_2025":2831,
   "Marzo_2025":2884,
   "Abril_2025":2841,
-  "Mayo_2025":0
+  "Mayo_2025":2851,
+  "Junio_2025":2809
  },
  {
   "organismo_nombre":"Servicio Nacional de Protección Especializada a la Niñez y Adolescencia",
@@ -39,7 +40,8 @@
   "Febrero_2025":45,
   "Marzo_2025":47,
   "Abril_2025":49,
-  "Mayo_2025":0
+  "Mayo_2025":43,
+  "Junio_2025":45
  },
  {
   "organismo_nombre":"Servicio Nacional de Protección Especializada a la Niñez y Adolescencia",
@@ -60,6 +62,7 @@
   "Febrero_2025":19,
   "Marzo_2025":19,
   "Abril_2025":16,
-  "Mayo_2025":0
+  "Mayo_2025":17,
+  "Junio_2025":18
  }
 ]

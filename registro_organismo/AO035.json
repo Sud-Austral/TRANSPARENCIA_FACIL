@@ -18,7 +18,8 @@
   "Febrero_2025":1984,
   "Marzo_2025":2012,
   "Abril_2025":2013,
-  "Mayo_2025":1980
+  "Mayo_2025":1980,
+  "Junio_2025":1835
  },
  {
   "organismo_nombre":"Servicio de Salud de Chiloé",
@@ -39,7 +40,8 @@
   "Febrero_2025":82,
   "Marzo_2025":87,
   "Abril_2025":94,
-  "Mayo_2025":99
+  "Mayo_2025":99,
+  "Junio_2025":101
  },
  {
   "organismo_nombre":"Servicio de Salud de Chiloé",
@@ -60,6 +62,7 @@
   "Febrero_2025":660,
   "Marzo_2025":0,
   "Abril_2025":327,
-  "Mayo_2025":327
+  "Mayo_2025":327,
+  "Junio_2025":381
  }
 ]

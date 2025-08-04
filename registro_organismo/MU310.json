@@ -18,7 +18,8 @@
   "Febrero_2025":57,
   "Marzo_2025":55,
   "Abril_2025":61,
-  "Mayo_2025":108
+  "Mayo_2025":55,
+  "Junio_2025":108
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
@@ -38,8 +39,9 @@
   "Enero_2025":83,
   "Febrero_2025":95,
   "Marzo_2025":109,
-  "Abril_2025":75,
-  "Mayo_2025":26
+  "Abril_2025":110,
+  "Mayo_2025":123,
+  "Junio_2025":116
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
@@ -55,12 +57,13 @@
   "Septiembre_2024":106,
   "Octubre_2024":101,
   "Noviembre_2024":100,
-  "Diciembre_2024":100,
+  "Diciembre_2024":0,
   "Enero_2025":0,
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
@@ -80,7 +83,8 @@
   "Enero_2025":97,
   "Febrero_2025":96,
   "Marzo_2025":96,
-  "Abril_2025":72,
-  "Mayo_2025":18
+  "Abril_2025":94,
+  "Mayo_2025":117,
+  "Junio_2025":54
  }
 ]

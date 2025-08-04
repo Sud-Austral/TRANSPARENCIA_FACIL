@@ -18,7 +18,8 @@
   "Febrero_2025":1734,
   "Marzo_2025":1732,
   "Abril_2025":1734,
-  "Mayo_2025":1716
+  "Mayo_2025":1716,
+  "Junio_2025":1713
  },
  {
   "organismo_nombre":"Instituto Nacional de Estadisticas (INE)",
@@ -27,19 +28,20 @@
   "Febrero_2024":5311,
   "Marzo_2024":27809,
   "Abril_2024":22463,
-  "Mayo_2024":24332,
-  "Junio_2024":32687,
+  "Mayo_2024":26332,
+  "Junio_2024":34798,
   "Julio_2024":8973,
-  "Agosto_2024":6477,
+  "Agosto_2024":6478,
   "Septiembre_2024":1444,
-  "Octubre_2024":1443,
+  "Octubre_2024":1445,
   "Noviembre_2024":1309,
   "Diciembre_2024":1088,
   "Enero_2025":316,
   "Febrero_2025":322,
   "Marzo_2025":356,
   "Abril_2025":372,
-  "Mayo_2025":421
+  "Mayo_2025":421,
+  "Junio_2025":493
  },
  {
   "organismo_nombre":"Instituto Nacional de Estadisticas (INE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":69,
   "Marzo_2025":69,
   "Abril_2025":70,
-  "Mayo_2025":68
+  "Mayo_2025":68,
+  "Junio_2025":66
  }
 ]

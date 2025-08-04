@@ -18,7 +18,8 @@
   "Febrero_2025":684,
   "Marzo_2025":734,
   "Abril_2025":739,
-  "Mayo_2025":1260
+  "Mayo_2025":1260,
+  "Junio_2025":737
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinta Normal",
@@ -39,7 +40,8 @@
   "Febrero_2025":376,
   "Marzo_2025":417,
   "Abril_2025":422,
-  "Mayo_2025":430
+  "Mayo_2025":440,
+  "Junio_2025":432
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinta Normal",
@@ -60,7 +62,8 @@
   "Febrero_2025":210,
   "Marzo_2025":230,
   "Abril_2025":458,
-  "Mayo_2025":234
+  "Mayo_2025":234,
+  "Junio_2025":263
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinta Normal",
@@ -81,6 +84,7 @@
   "Febrero_2025":724,
   "Marzo_2025":719,
   "Abril_2025":719,
-  "Mayo_2025":1438
+  "Mayo_2025":1438,
+  "Junio_2025":718
  }
 ]

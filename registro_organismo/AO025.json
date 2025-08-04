@@ -18,7 +18,8 @@
   "Febrero_2025":2898,
   "Marzo_2025":2827,
   "Abril_2025":2864,
-  "Mayo_2025":2695
+  "Mayo_2025":2695,
+  "Junio_2025":2763
  },
  {
   "organismo_nombre":"Servicio de Salud Maule",
@@ -39,7 +40,8 @@
   "Febrero_2025":48,
   "Marzo_2025":48,
   "Abril_2025":59,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":139
  },
  {
   "organismo_nombre":"Servicio de Salud Maule",
@@ -60,6 +62,7 @@
   "Febrero_2025":1168,
   "Marzo_2025":1083,
   "Abril_2025":1049,
-  "Mayo_2025":1039
+  "Mayo_2025":1039,
+  "Junio_2025":1032
  }
 ]

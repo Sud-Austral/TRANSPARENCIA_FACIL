@@ -18,7 +18,8 @@
   "Febrero_2025":28,
   "Marzo_2025":29,
   "Abril_2025":27,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
@@ -39,7 +40,8 @@
   "Febrero_2025":43,
   "Marzo_2025":28,
   "Abril_2025":29,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":18
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
@@ -60,7 +62,8 @@
   "Febrero_2025":66,
   "Marzo_2025":31,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
@@ -81,6 +84,7 @@
   "Febrero_2025":51,
   "Marzo_2025":35,
   "Abril_2025":36,
-  "Mayo_2025":35
+  "Mayo_2025":35,
+  "Junio_2025":17
  }
 ]

@@ -16,9 +16,10 @@
   "Diciembre_2024":848,
   "Enero_2025":819,
   "Febrero_2025":811,
-  "Marzo_2025":798,
+  "Marzo_2025":799,
   "Abril_2025":809,
-  "Mayo_2025":807
+  "Mayo_2025":807,
+  "Junio_2025":822
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
@@ -39,7 +40,8 @@
   "Febrero_2025":283,
   "Marzo_2025":286,
   "Abril_2025":303,
-  "Mayo_2025":310
+  "Mayo_2025":310,
+  "Junio_2025":142
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
@@ -60,7 +62,8 @@
   "Febrero_2025":221,
   "Marzo_2025":257,
   "Abril_2025":270,
-  "Mayo_2025":239
+  "Mayo_2025":344,
+  "Junio_2025":190
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
@@ -81,6 +84,7 @@
   "Febrero_2025":598,
   "Marzo_2025":595,
   "Abril_2025":599,
-  "Mayo_2025":598
+  "Mayo_2025":598,
+  "Junio_2025":591
  }
 ]

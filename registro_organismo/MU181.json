@@ -18,7 +18,8 @@
   "Febrero_2025":145,
   "Marzo_2025":152,
   "Abril_2025":10,
-  "Mayo_2025":290
+  "Mayo_2025":290,
+  "Junio_2025":150
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
@@ -39,7 +40,8 @@
   "Febrero_2025":174,
   "Marzo_2025":153,
   "Abril_2025":159,
-  "Mayo_2025":156
+  "Mayo_2025":156,
+  "Junio_2025":150
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
@@ -58,9 +60,10 @@
   "Diciembre_2024":277,
   "Enero_2025":139,
   "Febrero_2025":133,
-  "Marzo_2025":60,
-  "Abril_2025":82,
-  "Mayo_2025":0
+  "Marzo_2025":156,
+  "Abril_2025":180,
+  "Mayo_2025":194,
+  "Junio_2025":191
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
@@ -81,6 +84,7 @@
   "Febrero_2025":223,
   "Marzo_2025":223,
   "Abril_2025":222,
-  "Mayo_2025":221
+  "Mayo_2025":221,
+  "Junio_2025":221
  }
 ]

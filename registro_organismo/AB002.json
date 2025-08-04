@@ -18,7 +18,8 @@
   "Febrero_2025":448,
   "Marzo_2025":449,
   "Abril_2025":448,
-  "Mayo_2025":449
+  "Mayo_2025":449,
+  "Junio_2025":447
  },
  {
   "organismo_nombre":"Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":55,
   "Marzo_2025":56,
   "Abril_2025":56,
-  "Mayo_2025":63
+  "Mayo_2025":63,
+  "Junio_2025":65
  },
  {
   "organismo_nombre":"Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":11,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":10
  }
 ]

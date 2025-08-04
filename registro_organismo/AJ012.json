@@ -18,7 +18,8 @@
   "Febrero_2025":410,
   "Marzo_2025":411,
   "Abril_2025":414,
-  "Mayo_2025":410
+  "Mayo_2025":410,
+  "Junio_2025":413
  },
  {
   "organismo_nombre":"Agencia de Calidad de la Educación",
@@ -39,7 +40,8 @@
   "Febrero_2025":7,
   "Marzo_2025":9,
   "Abril_2025":9,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Agencia de Calidad de la Educación",
@@ -60,6 +62,7 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":7
  }
 ]

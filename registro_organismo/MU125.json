@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
@@ -39,7 +40,8 @@
   "Febrero_2025":127,
   "Marzo_2025":141,
   "Abril_2025":146,
-  "Mayo_2025":149
+  "Mayo_2025":149,
+  "Junio_2025":147
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
@@ -60,7 +62,8 @@
   "Febrero_2025":163,
   "Marzo_2025":157,
   "Abril_2025":168,
-  "Mayo_2025":179
+  "Mayo_2025":185,
+  "Junio_2025":224
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
@@ -81,6 +84,7 @@
   "Febrero_2025":308,
   "Marzo_2025":292,
   "Abril_2025":290,
-  "Mayo_2025":288
+  "Mayo_2025":288,
+  "Junio_2025":279
  }
 ]

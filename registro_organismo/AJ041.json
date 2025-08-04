@@ -16,9 +16,10 @@
   "Diciembre_2024":0,
   "Enero_2025":2725,
   "Febrero_2025":2668,
-  "Marzo_2025":2831,
+  "Marzo_2025":3214,
   "Abril_2025":3026,
-  "Mayo_2025":0
+  "Mayo_2025":2448,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
@@ -35,11 +36,12 @@
   "Octubre_2024":21,
   "Noviembre_2024":21,
   "Diciembre_2024":27,
-  "Enero_2025":1018,
-  "Febrero_2025":1153,
-  "Marzo_2025":1056,
-  "Abril_2025":141,
-  "Mayo_2025":81
+  "Enero_2025":1022,
+  "Febrero_2025":1157,
+  "Marzo_2025":1060,
+  "Abril_2025":145,
+  "Mayo_2025":85,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
@@ -81,6 +84,7 @@
   "Febrero_2025":1595,
   "Marzo_2025":53,
   "Abril_2025":2651,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":19,
   "Marzo_2025":18,
   "Abril_2025":19,
-  "Mayo_2025":18
+  "Mayo_2025":18,
+  "Junio_2025":18
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
@@ -39,7 +40,8 @@
   "Febrero_2025":109,
   "Marzo_2025":113,
   "Abril_2025":112,
-  "Mayo_2025":112
+  "Mayo_2025":112,
+  "Junio_2025":116
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
@@ -60,7 +62,8 @@
   "Febrero_2025":143,
   "Marzo_2025":144,
   "Abril_2025":143,
-  "Mayo_2025":136
+  "Mayo_2025":136,
+  "Junio_2025":153
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
@@ -81,6 +84,7 @@
   "Febrero_2025":126,
   "Marzo_2025":125,
   "Abril_2025":124,
-  "Mayo_2025":124
+  "Mayo_2025":124,
+  "Junio_2025":124
  }
 ]

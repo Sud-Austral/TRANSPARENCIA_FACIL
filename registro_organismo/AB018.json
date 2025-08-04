@@ -18,7 +18,8 @@
   "Febrero_2025":38,
   "Marzo_2025":38,
   "Abril_2025":31,
-  "Mayo_2025":0
+  "Mayo_2025":31,
+  "Junio_2025":31
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Valparaíso",
@@ -28,18 +29,19 @@
   "Marzo_2024":11,
   "Abril_2024":12,
   "Mayo_2024":12,
-  "Junio_2024":3,
-  "Julio_2024":3,
-  "Agosto_2024":3,
-  "Septiembre_2024":0,
-  "Octubre_2024":0,
-  "Noviembre_2024":0,
-  "Diciembre_2024":0,
-  "Enero_2025":2,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
+  "Junio_2024":12,
+  "Julio_2024":12,
+  "Agosto_2024":11,
+  "Septiembre_2024":10,
+  "Octubre_2024":11,
+  "Noviembre_2024":10,
+  "Diciembre_2024":9,
+  "Enero_2025":10,
+  "Febrero_2025":9,
+  "Marzo_2025":8,
   "Abril_2025":7,
-  "Mayo_2025":0
+  "Mayo_2025":7,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Valparaíso",
@@ -60,6 +62,7 @@
   "Febrero_2025":4,
   "Marzo_2025":4,
   "Abril_2025":4,
-  "Mayo_2025":0
+  "Mayo_2025":4,
+  "Junio_2025":4
  }
 ]

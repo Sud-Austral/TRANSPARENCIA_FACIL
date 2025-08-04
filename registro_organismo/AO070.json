@@ -18,7 +18,8 @@
   "Febrero_2025":2426,
   "Marzo_2025":2402,
   "Abril_2025":2379,
-  "Mayo_2025":2399
+  "Mayo_2025":2399,
+  "Junio_2025":2370
  },
  {
   "organismo_nombre":"Hospital San Borja Arriarán",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":294,
   "Abril_2025":256,
-  "Mayo_2025":221
+  "Mayo_2025":221,
+  "Junio_2025":229
  },
  {
   "organismo_nombre":"Hospital San Borja Arriarán",
@@ -60,6 +62,7 @@
   "Febrero_2025":1300,
   "Marzo_2025":1281,
   "Abril_2025":1220,
-  "Mayo_2025":1199
+  "Mayo_2025":1199,
+  "Junio_2025":1196
  }
 ]

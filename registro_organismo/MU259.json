@@ -2,7 +2,7 @@
  {
   "organismo_nombre":"Municipalidad de Quirihue",
   "base":"Codigotrabajo",
-  "Enero_2024":244,
+  "Enero_2024":245,
   "Febrero_2024":238,
   "Marzo_2024":247,
   "Abril_2024":254,
@@ -18,7 +18,8 @@
   "Febrero_2025":242,
   "Marzo_2025":248,
   "Abril_2025":261,
-  "Mayo_2025":259
+  "Mayo_2025":259,
+  "Junio_2025":253
  },
  {
   "organismo_nombre":"Municipalidad de Quirihue",
@@ -39,7 +40,8 @@
   "Febrero_2025":101,
   "Marzo_2025":123,
   "Abril_2025":136,
-  "Mayo_2025":136
+  "Mayo_2025":136,
+  "Junio_2025":136
  },
  {
   "organismo_nombre":"Municipalidad de Quirihue",
@@ -56,11 +58,12 @@
   "Octubre_2024":192,
   "Noviembre_2024":159,
   "Diciembre_2024":199,
-  "Enero_2025":105,
-  "Febrero_2025":134,
-  "Marzo_2025":279,
-  "Abril_2025":20,
-  "Mayo_2025":152
+  "Enero_2025":103,
+  "Febrero_2025":130,
+  "Marzo_2025":174,
+  "Abril_2025":139,
+  "Mayo_2025":149,
+  "Junio_2025":154
  },
  {
   "organismo_nombre":"Municipalidad de Quirihue",
@@ -81,6 +84,7 @@
   "Febrero_2025":210,
   "Marzo_2025":206,
   "Abril_2025":203,
-  "Mayo_2025":202
+  "Mayo_2025":202,
+  "Junio_2025":202
  }
 ]

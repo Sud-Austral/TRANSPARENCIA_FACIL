@@ -18,7 +18,8 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
@@ -39,7 +40,8 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
@@ -60,7 +62,8 @@
   "Febrero_2025":33,
   "Marzo_2025":30,
   "Abril_2025":51,
-  "Mayo_2025":48
+  "Mayo_2025":48,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
@@ -81,6 +84,7 @@
   "Febrero_2025":20,
   "Marzo_2025":20,
   "Abril_2025":20,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

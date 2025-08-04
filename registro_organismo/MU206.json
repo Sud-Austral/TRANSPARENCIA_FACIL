@@ -18,7 +18,8 @@
   "Febrero_2025":206,
   "Marzo_2025":208,
   "Abril_2025":222,
-  "Mayo_2025":226
+  "Mayo_2025":226,
+  "Junio_2025":229
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
@@ -28,7 +29,7 @@
   "Marzo_2024":232,
   "Abril_2024":262,
   "Mayo_2024":261,
-  "Junio_2024":354,
+  "Junio_2024":355,
   "Julio_2024":256,
   "Agosto_2024":260,
   "Septiembre_2024":261,
@@ -39,7 +40,8 @@
   "Febrero_2025":250,
   "Marzo_2025":250,
   "Abril_2025":273,
-  "Mayo_2025":283
+  "Mayo_2025":283,
+  "Junio_2025":286
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
@@ -60,7 +62,8 @@
   "Febrero_2025":138,
   "Marzo_2025":164,
   "Abril_2025":158,
-  "Mayo_2025":161
+  "Mayo_2025":161,
+  "Junio_2025":175
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
@@ -81,6 +84,7 @@
   "Febrero_2025":198,
   "Marzo_2025":198,
   "Abril_2025":195,
-  "Mayo_2025":195
+  "Mayo_2025":195,
+  "Junio_2025":127
  }
 ]

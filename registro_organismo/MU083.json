@@ -18,7 +18,8 @@
   "Febrero_2025":358,
   "Marzo_2025":377,
   "Abril_2025":333,
-  "Mayo_2025":337
+  "Mayo_2025":340,
+  "Junio_2025":333
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
@@ -39,7 +40,8 @@
   "Febrero_2025":190,
   "Marzo_2025":227,
   "Abril_2025":221,
-  "Mayo_2025":230
+  "Mayo_2025":230,
+  "Junio_2025":228
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
@@ -49,7 +51,7 @@
   "Marzo_2024":141,
   "Abril_2024":150,
   "Mayo_2024":158,
-  "Junio_2024":154,
+  "Junio_2024":157,
   "Julio_2024":261,
   "Agosto_2024":159,
   "Septiembre_2024":182,
@@ -59,8 +61,9 @@
   "Enero_2025":154,
   "Febrero_2025":153,
   "Marzo_2025":152,
-  "Abril_2025":171,
-  "Mayo_2025":188
+  "Abril_2025":172,
+  "Mayo_2025":188,
+  "Junio_2025":188
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
@@ -81,6 +84,7 @@
   "Febrero_2025":337,
   "Marzo_2025":268,
   "Abril_2025":306,
-  "Mayo_2025":306
+  "Mayo_2025":306,
+  "Junio_2025":304
  }
 ]

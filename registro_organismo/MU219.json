@@ -18,7 +18,8 @@
   "Febrero_2025":514,
   "Marzo_2025":407,
   "Abril_2025":312,
-  "Mayo_2025":296
+  "Mayo_2025":298,
+  "Junio_2025":297
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
@@ -39,7 +40,8 @@
   "Febrero_2025":194,
   "Marzo_2025":212,
   "Abril_2025":217,
-  "Mayo_2025":112
+  "Mayo_2025":213,
+  "Junio_2025":210
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
@@ -58,9 +60,10 @@
   "Diciembre_2024":237,
   "Enero_2025":162,
   "Febrero_2025":127,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":164,
+  "Abril_2025":24,
+  "Mayo_2025":17,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
@@ -81,6 +84,7 @@
   "Febrero_2025":255,
   "Marzo_2025":256,
   "Abril_2025":252,
-  "Mayo_2025":157
+  "Mayo_2025":247,
+  "Junio_2025":248
  }
 ]

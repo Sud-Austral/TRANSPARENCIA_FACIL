@@ -18,7 +18,8 @@
   "Febrero_2025":456,
   "Marzo_2025":487,
   "Abril_2025":518,
-  "Mayo_2025":496
+  "Mayo_2025":496,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Mulchén",
@@ -39,7 +40,8 @@
   "Febrero_2025":171,
   "Marzo_2025":163,
   "Abril_2025":217,
-  "Mayo_2025":186
+  "Mayo_2025":186,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Mulchén",
@@ -60,7 +62,8 @@
   "Febrero_2025":15,
   "Marzo_2025":16,
   "Abril_2025":22,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Mulchén",
@@ -81,6 +84,7 @@
   "Febrero_2025":412,
   "Marzo_2025":406,
   "Abril_2025":405,
-  "Mayo_2025":408
+  "Mayo_2025":409,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":198,
   "Marzo_2025":181,
   "Abril_2025":183,
-  "Mayo_2025":4
+  "Mayo_2025":181,
+  "Junio_2025":181
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
@@ -39,7 +40,8 @@
   "Febrero_2025":96,
   "Marzo_2025":96,
   "Abril_2025":100,
-  "Mayo_2025":20
+  "Mayo_2025":99,
+  "Junio_2025":97
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
@@ -60,7 +62,8 @@
   "Febrero_2025":65,
   "Marzo_2025":65,
   "Abril_2025":204,
-  "Mayo_2025":0
+  "Mayo_2025":215,
+  "Junio_2025":53
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
@@ -81,6 +84,7 @@
   "Febrero_2025":168,
   "Marzo_2025":166,
   "Abril_2025":164,
-  "Mayo_2025":50
+  "Mayo_2025":172,
+  "Junio_2025":166
  }
 ]

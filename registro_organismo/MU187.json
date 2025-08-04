@@ -18,7 +18,8 @@
   "Febrero_2025":8,
   "Marzo_2025":1,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
@@ -39,7 +40,8 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":1,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
@@ -60,7 +62,8 @@
   "Febrero_2025":78,
   "Marzo_2025":72,
   "Abril_2025":79,
-  "Mayo_2025":74
+  "Mayo_2025":74,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
@@ -81,6 +84,7 @@
   "Febrero_2025":12,
   "Marzo_2025":12,
   "Abril_2025":12,
-  "Mayo_2025":11
+  "Mayo_2025":11,
+  "Junio_2025":11
  }
 ]

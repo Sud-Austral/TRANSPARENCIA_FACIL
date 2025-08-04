@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
@@ -39,7 +40,8 @@
   "Febrero_2025":56,
   "Marzo_2025":54,
   "Abril_2025":55,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":57
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
@@ -60,7 +62,8 @@
   "Febrero_2025":16,
   "Marzo_2025":122,
   "Abril_2025":116,
-  "Mayo_2025":127
+  "Mayo_2025":127,
+  "Junio_2025":129
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
@@ -81,6 +84,7 @@
   "Febrero_2025":88,
   "Marzo_2025":88,
   "Abril_2025":88,
-  "Mayo_2025":87
+  "Mayo_2025":87,
+  "Junio_2025":88
  }
 ]

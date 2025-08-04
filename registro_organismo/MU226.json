@@ -18,7 +18,8 @@
   "Febrero_2025":12,
   "Marzo_2025":13,
   "Abril_2025":15,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
@@ -39,7 +40,8 @@
   "Febrero_2025":81,
   "Marzo_2025":82,
   "Abril_2025":83,
-  "Mayo_2025":83
+  "Mayo_2025":83,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
@@ -60,7 +62,8 @@
   "Febrero_2025":170,
   "Marzo_2025":169,
   "Abril_2025":174,
-  "Mayo_2025":178
+  "Mayo_2025":178,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
@@ -81,6 +84,7 @@
   "Febrero_2025":54,
   "Marzo_2025":54,
   "Abril_2025":54,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":0
  }
 ]

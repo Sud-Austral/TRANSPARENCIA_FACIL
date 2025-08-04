@@ -18,7 +18,8 @@
   "Febrero_2025":335,
   "Marzo_2025":346,
   "Abril_2025":345,
-  "Mayo_2025":352
+  "Mayo_2025":352,
+  "Junio_2025":349
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
@@ -39,7 +40,8 @@
   "Febrero_2025":170,
   "Marzo_2025":268,
   "Abril_2025":280,
-  "Mayo_2025":283
+  "Mayo_2025":325,
+  "Junio_2025":245
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
@@ -60,7 +62,8 @@
   "Febrero_2025":263,
   "Marzo_2025":215,
   "Abril_2025":328,
-  "Mayo_2025":277
+  "Mayo_2025":296,
+  "Junio_2025":202
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
@@ -81,6 +84,7 @@
   "Febrero_2025":375,
   "Marzo_2025":371,
   "Abril_2025":371,
-  "Mayo_2025":372
+  "Mayo_2025":372,
+  "Junio_2025":369
  }
 ]

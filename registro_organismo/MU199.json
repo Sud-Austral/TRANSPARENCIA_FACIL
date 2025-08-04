@@ -18,7 +18,8 @@
   "Febrero_2025":137,
   "Marzo_2025":136,
   "Abril_2025":145,
-  "Mayo_2025":150
+  "Mayo_2025":150,
+  "Junio_2025":143
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
@@ -38,8 +39,9 @@
   "Enero_2025":193,
   "Febrero_2025":188,
   "Marzo_2025":201,
-  "Abril_2025":158,
-  "Mayo_2025":118
+  "Abril_2025":202,
+  "Mayo_2025":200,
+  "Junio_2025":199
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
@@ -59,8 +61,9 @@
   "Enero_2025":28,
   "Febrero_2025":31,
   "Marzo_2025":41,
-  "Abril_2025":35,
-  "Mayo_2025":1
+  "Abril_2025":43,
+  "Mayo_2025":30,
+  "Junio_2025":41
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
@@ -78,9 +81,10 @@
   "Noviembre_2024":240,
   "Diciembre_2024":243,
   "Enero_2025":239,
-  "Febrero_2025":295,
-  "Marzo_2025":183,
-  "Abril_2025":161,
-  "Mayo_2025":104
+  "Febrero_2025":239,
+  "Marzo_2025":239,
+  "Abril_2025":235,
+  "Mayo_2025":234,
+  "Junio_2025":234
  }
 ]

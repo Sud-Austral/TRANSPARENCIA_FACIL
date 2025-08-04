@@ -18,7 +18,8 @@
   "Febrero_2025":703,
   "Marzo_2025":705,
   "Abril_2025":706,
-  "Mayo_2025":0
+  "Mayo_2025":708,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Los Lagos",
@@ -39,7 +40,8 @@
   "Febrero_2025":513,
   "Marzo_2025":843,
   "Abril_2025":1178,
-  "Mayo_2025":1472
+  "Mayo_2025":1472,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Los Lagos",
@@ -60,6 +62,7 @@
   "Febrero_2025":283,
   "Marzo_2025":282,
   "Abril_2025":279,
-  "Mayo_2025":278
+  "Mayo_2025":278,
+  "Junio_2025":0
  }
 ]

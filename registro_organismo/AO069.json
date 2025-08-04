@@ -18,7 +18,8 @@
   "Febrero_2025":1946,
   "Marzo_2025":1940,
   "Abril_2025":1923,
-  "Mayo_2025":1916
+  "Mayo_2025":1916,
+  "Junio_2025":1944
  },
  {
   "organismo_nombre":"Hospital de Urgencia Asistencia Pública (HUAP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1980,
   "Marzo_2025":3579,
   "Abril_2025":1657,
-  "Mayo_2025":1671
+  "Mayo_2025":1671,
+  "Junio_2025":1676
  },
  {
   "organismo_nombre":"Hospital de Urgencia Asistencia Pública (HUAP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":661,
   "Marzo_2025":667,
   "Abril_2025":655,
-  "Mayo_2025":654
+  "Mayo_2025":654,
+  "Junio_2025":659
  }
 ]

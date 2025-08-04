@@ -18,7 +18,8 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":8,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":9
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chiloé",
@@ -38,8 +39,9 @@
   "Enero_2025":13,
   "Febrero_2025":17,
   "Marzo_2025":16,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":16,
+  "Mayo_2025":18,
+  "Junio_2025":18
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chiloé",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

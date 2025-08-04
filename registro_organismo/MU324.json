@@ -18,7 +18,8 @@
   "Febrero_2025":1329,
   "Marzo_2025":1120,
   "Abril_2025":1006,
-  "Mayo_2025":1109
+  "Mayo_2025":1109,
+  "Junio_2025":1120
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
@@ -39,7 +40,8 @@
   "Febrero_2025":779,
   "Marzo_2025":793,
   "Abril_2025":807,
-  "Mayo_2025":801
+  "Mayo_2025":801,
+  "Junio_2025":788
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
@@ -60,7 +62,8 @@
   "Febrero_2025":281,
   "Marzo_2025":315,
   "Abril_2025":309,
-  "Mayo_2025":177
+  "Mayo_2025":357,
+  "Junio_2025":361
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
@@ -81,6 +84,7 @@
   "Febrero_2025":1066,
   "Marzo_2025":1058,
   "Abril_2025":1053,
-  "Mayo_2025":1057
+  "Mayo_2025":1057,
+  "Junio_2025":1052
  }
 ]

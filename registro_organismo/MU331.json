@@ -18,7 +18,8 @@
   "Febrero_2025":11,
   "Marzo_2025":12,
   "Abril_2025":11,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vallenar",
@@ -39,7 +40,8 @@
   "Febrero_2025":172,
   "Marzo_2025":166,
   "Abril_2025":121,
-  "Mayo_2025":120
+  "Mayo_2025":208,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vallenar",
@@ -48,19 +50,20 @@
   "Febrero_2024":1,
   "Marzo_2024":1,
   "Abril_2024":0,
-  "Mayo_2024":0,
+  "Mayo_2024":1,
   "Junio_2024":0,
   "Julio_2024":0,
   "Agosto_2024":0,
   "Septiembre_2024":0,
   "Octubre_2024":0,
   "Noviembre_2024":0,
-  "Diciembre_2024":3,
-  "Enero_2025":518,
+  "Diciembre_2024":6,
+  "Enero_2025":574,
   "Febrero_2025":448,
-  "Marzo_2025":520,
-  "Abril_2025":0,
-  "Mayo_2025":1
+  "Marzo_2025":521,
+  "Abril_2025":285,
+  "Mayo_2025":125,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vallenar",
@@ -77,10 +80,11 @@
   "Octubre_2024":0,
   "Noviembre_2024":0,
   "Diciembre_2024":0,
-  "Enero_2025":330,
+  "Enero_2025":228,
   "Febrero_2025":329,
   "Marzo_2025":329,
-  "Abril_2025":454,
-  "Mayo_2025":227
+  "Abril_2025":326,
+  "Mayo_2025":326,
+  "Junio_2025":0
  }
 ]

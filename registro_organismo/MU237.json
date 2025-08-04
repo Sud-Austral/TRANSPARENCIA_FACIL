@@ -18,7 +18,8 @@
   "Febrero_2025":70,
   "Marzo_2025":71,
   "Abril_2025":70,
-  "Mayo_2025":76
+  "Mayo_2025":76,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
@@ -39,7 +40,8 @@
   "Febrero_2025":92,
   "Marzo_2025":102,
   "Abril_2025":118,
-  "Mayo_2025":91
+  "Mayo_2025":91,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
@@ -60,7 +62,8 @@
   "Febrero_2025":73,
   "Marzo_2025":78,
   "Abril_2025":78,
-  "Mayo_2025":79
+  "Mayo_2025":79,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
@@ -81,6 +84,7 @@
   "Febrero_2025":83,
   "Marzo_2025":81,
   "Abril_2025":81,
-  "Mayo_2025":77
+  "Mayo_2025":77,
+  "Junio_2025":18
  }
 ]

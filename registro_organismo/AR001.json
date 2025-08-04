@@ -18,7 +18,8 @@
   "Febrero_2025":184,
   "Marzo_2025":184,
   "Abril_2025":188,
-  "Mayo_2025":187
+  "Mayo_2025":187,
+  "Junio_2025":189
  },
  {
   "organismo_nombre":"Subsecretaría de Agricultura",
@@ -39,7 +40,8 @@
   "Febrero_2025":77,
   "Marzo_2025":77,
   "Abril_2025":80,
-  "Mayo_2025":78
+  "Mayo_2025":78,
+  "Junio_2025":84
  },
  {
   "organismo_nombre":"Subsecretaría de Agricultura",
@@ -60,6 +62,7 @@
   "Febrero_2025":35,
   "Marzo_2025":35,
   "Abril_2025":35,
-  "Mayo_2025":36
+  "Mayo_2025":36,
+  "Junio_2025":36
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":9,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Consejo de Rectores",
@@ -39,7 +40,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Consejo de Rectores",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":0
  }
 ]

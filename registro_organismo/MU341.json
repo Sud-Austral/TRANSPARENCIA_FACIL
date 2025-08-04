@@ -18,7 +18,8 @@
   "Febrero_2025":175,
   "Marzo_2025":192,
   "Abril_2025":184,
-  "Mayo_2025":187
+  "Mayo_2025":187,
+  "Junio_2025":188
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
@@ -39,7 +40,8 @@
   "Febrero_2025":418,
   "Marzo_2025":431,
   "Abril_2025":433,
-  "Mayo_2025":444
+  "Mayo_2025":444,
+  "Junio_2025":458
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
@@ -60,7 +62,8 @@
   "Febrero_2025":218,
   "Marzo_2025":231,
   "Abril_2025":265,
-  "Mayo_2025":274
+  "Mayo_2025":274,
+  "Junio_2025":284
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
@@ -81,6 +84,7 @@
   "Febrero_2025":647,
   "Marzo_2025":647,
   "Abril_2025":634,
-  "Mayo_2025":638
+  "Mayo_2025":638,
+  "Junio_2025":638
  }
 ]

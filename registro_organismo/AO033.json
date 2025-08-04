@@ -18,7 +18,8 @@
   "Febrero_2025":2231,
   "Marzo_2025":2095,
   "Abril_2025":2013,
-  "Mayo_2025":0
+  "Mayo_2025":2049,
+  "Junio_2025":2040
  },
  {
   "organismo_nombre":"Servicio de Salud Valdivia",
@@ -39,7 +40,8 @@
   "Febrero_2025":73,
   "Marzo_2025":97,
   "Abril_2025":88,
-  "Mayo_2025":0
+  "Mayo_2025":123,
+  "Junio_2025":118
  },
  {
   "organismo_nombre":"Servicio de Salud Valdivia",
@@ -60,6 +62,7 @@
   "Febrero_2025":1400,
   "Marzo_2025":622,
   "Abril_2025":575,
-  "Mayo_2025":0
+  "Mayo_2025":595,
+  "Junio_2025":592
  }
 ]

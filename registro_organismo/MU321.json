@@ -18,7 +18,8 @@
   "Febrero_2025":181,
   "Marzo_2025":195,
   "Abril_2025":211,
-  "Mayo_2025":214
+  "Mayo_2025":214,
+  "Junio_2025":217
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
@@ -39,7 +40,8 @@
   "Febrero_2025":187,
   "Marzo_2025":190,
   "Abril_2025":198,
-  "Mayo_2025":187
+  "Mayo_2025":187,
+  "Junio_2025":186
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
@@ -60,7 +62,8 @@
   "Febrero_2025":83,
   "Marzo_2025":87,
   "Abril_2025":84,
-  "Mayo_2025":82
+  "Mayo_2025":82,
+  "Junio_2025":85
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
@@ -81,6 +84,7 @@
   "Febrero_2025":239,
   "Marzo_2025":240,
   "Abril_2025":239,
-  "Mayo_2025":163
+  "Mayo_2025":163,
+  "Junio_2025":237
  }
 ]

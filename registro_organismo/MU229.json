@@ -18,7 +18,8 @@
   "Febrero_2025":414,
   "Marzo_2025":397,
   "Abril_2025":376,
-  "Mayo_2025":378
+  "Mayo_2025":378,
+  "Junio_2025":380
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
@@ -39,7 +40,8 @@
   "Febrero_2025":242,
   "Marzo_2025":172,
   "Abril_2025":238,
-  "Mayo_2025":238
+  "Mayo_2025":238,
+  "Junio_2025":241
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
@@ -60,7 +62,8 @@
   "Febrero_2025":167,
   "Marzo_2025":226,
   "Abril_2025":235,
-  "Mayo_2025":169
+  "Mayo_2025":206,
+  "Junio_2025":205
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
@@ -81,6 +84,7 @@
   "Febrero_2025":314,
   "Marzo_2025":313,
   "Abril_2025":380,
-  "Mayo_2025":240
+  "Mayo_2025":240,
+  "Junio_2025":305
  }
 ]

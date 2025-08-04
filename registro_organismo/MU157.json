@@ -18,7 +18,8 @@
   "Febrero_2025":276,
   "Marzo_2025":300,
   "Abril_2025":284,
-  "Mayo_2025":279
+  "Mayo_2025":279,
+  "Junio_2025":285
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
@@ -39,7 +40,8 @@
   "Febrero_2025":212,
   "Marzo_2025":212,
   "Abril_2025":215,
-  "Mayo_2025":222
+  "Mayo_2025":222,
+  "Junio_2025":219
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
@@ -60,7 +62,8 @@
   "Febrero_2025":376,
   "Marzo_2025":458,
   "Abril_2025":369,
-  "Mayo_2025":357
+  "Mayo_2025":357,
+  "Junio_2025":352
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
@@ -81,6 +84,7 @@
   "Febrero_2025":263,
   "Marzo_2025":258,
   "Abril_2025":257,
-  "Mayo_2025":256
+  "Mayo_2025":257,
+  "Junio_2025":256
  }
 ]

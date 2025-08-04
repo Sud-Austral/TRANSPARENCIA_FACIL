@@ -18,7 +18,8 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":2
+  "Mayo_2025":7,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
@@ -39,7 +40,8 @@
   "Febrero_2025":328,
   "Marzo_2025":356,
   "Abril_2025":341,
-  "Mayo_2025":121
+  "Mayo_2025":348,
+  "Junio_2025":347
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
@@ -60,7 +62,8 @@
   "Febrero_2025":287,
   "Marzo_2025":304,
   "Abril_2025":302,
-  "Mayo_2025":201
+  "Mayo_2025":201,
+  "Junio_2025":155
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
@@ -81,6 +84,7 @@
   "Febrero_2025":469,
   "Marzo_2025":469,
   "Abril_2025":633,
-  "Mayo_2025":190
+  "Mayo_2025":461,
+  "Junio_2025":448
  }
 ]

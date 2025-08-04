@@ -18,7 +18,8 @@
   "Febrero_2025":286,
   "Marzo_2025":286,
   "Abril_2025":281,
-  "Mayo_2025":281
+  "Mayo_2025":281,
+  "Junio_2025":279
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
@@ -39,7 +40,8 @@
   "Febrero_2025":168,
   "Marzo_2025":172,
   "Abril_2025":178,
-  "Mayo_2025":183
+  "Mayo_2025":183,
+  "Junio_2025":184
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
@@ -60,7 +62,8 @@
   "Febrero_2025":478,
   "Marzo_2025":455,
   "Abril_2025":464,
-  "Mayo_2025":508
+  "Mayo_2025":509,
+  "Junio_2025":533
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
@@ -81,6 +84,7 @@
   "Febrero_2025":212,
   "Marzo_2025":240,
   "Abril_2025":240,
-  "Mayo_2025":240
+  "Mayo_2025":240,
+  "Junio_2025":303
  }
 ]

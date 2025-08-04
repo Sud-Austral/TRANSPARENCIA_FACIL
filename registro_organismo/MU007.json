@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
@@ -39,7 +40,8 @@
   "Febrero_2025":31,
   "Marzo_2025":30,
   "Abril_2025":30,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
@@ -60,7 +62,8 @@
   "Febrero_2025":190,
   "Marzo_2025":208,
   "Abril_2025":207,
-  "Mayo_2025":195
+  "Mayo_2025":210,
+  "Junio_2025":180
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
@@ -81,6 +84,7 @@
   "Febrero_2025":37,
   "Marzo_2025":37,
   "Abril_2025":37,
-  "Mayo_2025":40
+  "Mayo_2025":40,
+  "Junio_2025":40
  }
 ]

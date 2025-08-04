@@ -18,7 +18,8 @@
   "Febrero_2025":37,
   "Marzo_2025":37,
   "Abril_2025":27,
-  "Mayo_2025":0
+  "Mayo_2025":27,
+  "Junio_2025":26
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
@@ -39,7 +40,8 @@
   "Febrero_2025":594,
   "Marzo_2025":590,
   "Abril_2025":592,
-  "Mayo_2025":0
+  "Mayo_2025":585,
+  "Junio_2025":579
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
@@ -60,7 +62,8 @@
   "Febrero_2025":575,
   "Marzo_2025":577,
   "Abril_2025":595,
-  "Mayo_2025":0
+  "Mayo_2025":606,
+  "Junio_2025":632
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
@@ -81,6 +84,7 @@
   "Febrero_2025":626,
   "Marzo_2025":627,
   "Abril_2025":622,
-  "Mayo_2025":0
+  "Mayo_2025":620,
+  "Junio_2025":624
  }
 ]

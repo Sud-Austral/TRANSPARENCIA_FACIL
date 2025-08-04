@@ -18,7 +18,8 @@
   "Febrero_2025":693,
   "Marzo_2025":697,
   "Abril_2025":665,
-  "Mayo_2025":648
+  "Mayo_2025":648,
+  "Junio_2025":651
  },
  {
   "organismo_nombre":"Hospital Eduardo Pereira de Valparaíso",
@@ -39,7 +40,8 @@
   "Febrero_2025":61,
   "Marzo_2025":72,
   "Abril_2025":88,
-  "Mayo_2025":92
+  "Mayo_2025":92,
+  "Junio_2025":81
  },
  {
   "organismo_nombre":"Hospital Eduardo Pereira de Valparaíso",
@@ -60,6 +62,7 @@
   "Febrero_2025":355,
   "Marzo_2025":350,
   "Abril_2025":348,
-  "Mayo_2025":347
+  "Mayo_2025":347,
+  "Junio_2025":349
  }
 ]

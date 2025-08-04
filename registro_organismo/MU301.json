@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
@@ -39,7 +40,8 @@
   "Febrero_2025":227,
   "Marzo_2025":231,
   "Abril_2025":234,
-  "Mayo_2025":227
+  "Mayo_2025":227,
+  "Junio_2025":232
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
@@ -49,7 +51,7 @@
   "Marzo_2024":741,
   "Abril_2024":770,
   "Mayo_2024":831,
-  "Junio_2024":879,
+  "Junio_2024":900,
   "Julio_2024":901,
   "Agosto_2024":848,
   "Septiembre_2024":1396,
@@ -60,7 +62,8 @@
   "Febrero_2025":688,
   "Marzo_2025":756,
   "Abril_2025":723,
-  "Mayo_2025":787
+  "Mayo_2025":787,
+  "Junio_2025":826
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
@@ -81,6 +84,7 @@
   "Febrero_2025":609,
   "Marzo_2025":604,
   "Abril_2025":595,
-  "Mayo_2025":586
+  "Mayo_2025":586,
+  "Junio_2025":588
  }
 ]

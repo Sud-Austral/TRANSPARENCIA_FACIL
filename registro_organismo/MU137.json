@@ -18,7 +18,8 @@
   "Febrero_2025":594,
   "Marzo_2025":564,
   "Abril_2025":569,
-  "Mayo_2025":578
+  "Mayo_2025":578,
+  "Junio_2025":590
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
@@ -39,7 +40,8 @@
   "Febrero_2025":194,
   "Marzo_2025":213,
   "Abril_2025":237,
-  "Mayo_2025":237
+  "Mayo_2025":237,
+  "Junio_2025":232
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
@@ -60,7 +62,8 @@
   "Febrero_2025":187,
   "Marzo_2025":185,
   "Abril_2025":178,
-  "Mayo_2025":204
+  "Mayo_2025":204,
+  "Junio_2025":263
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
@@ -81,6 +84,7 @@
   "Febrero_2025":460,
   "Marzo_2025":456,
   "Abril_2025":454,
-  "Mayo_2025":213
+  "Mayo_2025":213,
+  "Junio_2025":451
  }
 ]

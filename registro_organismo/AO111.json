@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":3104,
   "Abril_2025":3051,
-  "Mayo_2025":3150
+  "Mayo_2025":3150,
+  "Junio_2025":3026
  },
  {
   "organismo_nombre":"Hospital El Carmen Dr. Luis Valentín Ferrada",
@@ -39,7 +40,8 @@
   "Febrero_2025":1395,
   "Marzo_2025":1364,
   "Abril_2025":1401,
-  "Mayo_2025":1509
+  "Mayo_2025":1509,
+  "Junio_2025":1529
  },
  {
   "organismo_nombre":"Hospital El Carmen Dr. Luis Valentín Ferrada",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":125,
   "Abril_2025":115,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":119
  }
 ]

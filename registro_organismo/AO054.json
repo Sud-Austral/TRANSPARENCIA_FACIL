@@ -17,8 +17,9 @@
   "Enero_2025":1100,
   "Febrero_2025":1121,
   "Marzo_2025":1111,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":810,
+  "Mayo_2025":1089,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de San Camilo",
@@ -39,7 +40,8 @@
   "Febrero_2025":29,
   "Marzo_2025":29,
   "Abril_2025":74,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de San Camilo",
@@ -59,7 +61,8 @@
   "Enero_2025":318,
   "Febrero_2025":315,
   "Marzo_2025":312,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":308,
+  "Mayo_2025":299,
+  "Junio_2025":0
  }
 ]

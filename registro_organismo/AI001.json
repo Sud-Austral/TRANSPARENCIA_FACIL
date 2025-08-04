@@ -18,7 +18,8 @@
   "Febrero_2025":253,
   "Marzo_2025":253,
   "Abril_2025":252,
-  "Mayo_2025":252
+  "Mayo_2025":252,
+  "Junio_2025":254
  },
  {
   "organismo_nombre":"Subsecretaría de Evaluación Social",
@@ -39,7 +40,8 @@
   "Febrero_2025":25,
   "Marzo_2025":26,
   "Abril_2025":30,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Subsecretaría de Evaluación Social",
@@ -60,6 +62,7 @@
   "Febrero_2025":31,
   "Marzo_2025":32,
   "Abril_2025":31,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":31
  }
 ]

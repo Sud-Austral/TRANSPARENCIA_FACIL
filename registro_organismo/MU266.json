@@ -18,7 +18,8 @@
   "Febrero_2025":945,
   "Marzo_2025":1060,
   "Abril_2025":1026,
-  "Mayo_2025":1032
+  "Mayo_2025":1032,
+  "Junio_2025":1028
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
@@ -39,7 +40,8 @@
   "Febrero_2025":600,
   "Marzo_2025":645,
   "Abril_2025":659,
-  "Mayo_2025":683
+  "Mayo_2025":683,
+  "Junio_2025":678
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
@@ -60,7 +62,8 @@
   "Febrero_2025":216,
   "Marzo_2025":228,
   "Abril_2025":268,
-  "Mayo_2025":260
+  "Mayo_2025":260,
+  "Junio_2025":265
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
@@ -81,6 +84,7 @@
   "Febrero_2025":868,
   "Marzo_2025":868,
   "Abril_2025":872,
-  "Mayo_2025":864
+  "Mayo_2025":864,
+  "Junio_2025":863
  }
 ]

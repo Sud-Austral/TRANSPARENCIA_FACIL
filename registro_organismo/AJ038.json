@@ -18,7 +18,8 @@
   "Febrero_2025":1937,
   "Marzo_2025":1963,
   "Abril_2025":2088,
-  "Mayo_2025":2140
+  "Mayo_2025":2140,
+  "Junio_2025":2140
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1031,
   "Marzo_2025":922,
   "Abril_2025":1072,
-  "Mayo_2025":1181
+  "Mayo_2025":1181,
+  "Junio_2025":1164
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
@@ -60,7 +62,8 @@
   "Febrero_2025":1,
   "Marzo_2025":9,
   "Abril_2025":11,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":10
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1565,
   "Marzo_2025":1434,
   "Abril_2025":1497,
-  "Mayo_2025":1568
+  "Mayo_2025":1568,
+  "Junio_2025":1578
  }
 ]

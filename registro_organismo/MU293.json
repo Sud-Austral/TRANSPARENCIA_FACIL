@@ -14,11 +14,12 @@
   "Octubre_2024":168,
   "Noviembre_2024":169,
   "Diciembre_2024":166,
-  "Enero_2025":246,
-  "Febrero_2025":90,
+  "Enero_2025":174,
+  "Febrero_2025":162,
   "Marzo_2025":170,
   "Abril_2025":174,
-  "Mayo_2025":157
+  "Mayo_2025":157,
+  "Junio_2025":159
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
@@ -39,7 +40,8 @@
   "Febrero_2025":139,
   "Marzo_2025":140,
   "Abril_2025":144,
-  "Mayo_2025":147
+  "Mayo_2025":147,
+  "Junio_2025":147
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
@@ -60,7 +62,8 @@
   "Febrero_2025":61,
   "Marzo_2025":71,
   "Abril_2025":71,
-  "Mayo_2025":77
+  "Mayo_2025":77,
+  "Junio_2025":87
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
@@ -81,6 +84,7 @@
   "Febrero_2025":154,
   "Marzo_2025":179,
   "Abril_2025":180,
-  "Mayo_2025":179
+  "Mayo_2025":179,
+  "Junio_2025":179
  }
 ]

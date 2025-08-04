@@ -18,7 +18,8 @@
   "Febrero_2025":531,
   "Marzo_2025":503,
   "Abril_2025":510,
-  "Mayo_2025":514
+  "Mayo_2025":514,
+  "Junio_2025":510
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
@@ -39,7 +40,8 @@
   "Febrero_2025":182,
   "Marzo_2025":185,
   "Abril_2025":202,
-  "Mayo_2025":206
+  "Mayo_2025":206,
+  "Junio_2025":206
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
@@ -60,7 +62,8 @@
   "Febrero_2025":11,
   "Marzo_2025":8,
   "Abril_2025":34,
-  "Mayo_2025":67
+  "Mayo_2025":67,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
@@ -81,6 +84,7 @@
   "Febrero_2025":378,
   "Marzo_2025":391,
   "Abril_2025":390,
-  "Mayo_2025":384
+  "Mayo_2025":384,
+  "Junio_2025":384
  }
 ]

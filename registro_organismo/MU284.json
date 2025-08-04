@@ -18,7 +18,8 @@
   "Febrero_2025":221,
   "Marzo_2025":219,
   "Abril_2025":221,
-  "Mayo_2025":206
+  "Mayo_2025":224,
+  "Junio_2025":227
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
@@ -39,7 +40,8 @@
   "Febrero_2025":184,
   "Marzo_2025":203,
   "Abril_2025":202,
-  "Mayo_2025":153
+  "Mayo_2025":205,
+  "Junio_2025":201
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
@@ -60,7 +62,8 @@
   "Febrero_2025":114,
   "Marzo_2025":116,
   "Abril_2025":119,
-  "Mayo_2025":89
+  "Mayo_2025":134,
+  "Junio_2025":140
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
@@ -81,6 +84,7 @@
   "Febrero_2025":254,
   "Marzo_2025":246,
   "Abril_2025":244,
-  "Mayo_2025":207
+  "Mayo_2025":244,
+  "Junio_2025":243
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":224,
   "Marzo_2025":255,
   "Abril_2025":242,
-  "Mayo_2025":236
+  "Mayo_2025":236,
+  "Junio_2025":234
  },
  {
   "organismo_nombre":"Municipalidad de Hijuelas",
@@ -39,7 +40,8 @@
   "Febrero_2025":161,
   "Marzo_2025":164,
   "Abril_2025":171,
-  "Mayo_2025":95
+  "Mayo_2025":173,
+  "Junio_2025":94
  },
  {
   "organismo_nombre":"Municipalidad de Hijuelas",
@@ -60,7 +62,8 @@
   "Febrero_2025":91,
   "Marzo_2025":93,
   "Abril_2025":116,
-  "Mayo_2025":84
+  "Mayo_2025":124,
+  "Junio_2025":68
  },
  {
   "organismo_nombre":"Municipalidad de Hijuelas",
@@ -81,6 +84,7 @@
   "Febrero_2025":286,
   "Marzo_2025":287,
   "Abril_2025":285,
-  "Mayo_2025":175
+  "Mayo_2025":285,
+  "Junio_2025":172
  }
 ]

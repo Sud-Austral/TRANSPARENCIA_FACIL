@@ -18,7 +18,8 @@
   "Febrero_2025":49,
   "Marzo_2025":49,
   "Abril_2025":20,
-  "Mayo_2025":20
+  "Mayo_2025":20,
+  "Junio_2025":19
  },
  {
   "organismo_nombre":"Municipalidad de Renca",
@@ -39,7 +40,8 @@
   "Febrero_2025":172,
   "Marzo_2025":156,
   "Abril_2025":154,
-  "Mayo_2025":172
+  "Mayo_2025":172,
+  "Junio_2025":159
  },
  {
   "organismo_nombre":"Municipalidad de Renca",
@@ -60,7 +62,8 @@
   "Febrero_2025":229,
   "Marzo_2025":227,
   "Abril_2025":233,
-  "Mayo_2025":270
+  "Mayo_2025":285,
+  "Junio_2025":306
  },
  {
   "organismo_nombre":"Municipalidad de Renca",
@@ -81,6 +84,7 @@
   "Febrero_2025":288,
   "Marzo_2025":287,
   "Abril_2025":286,
-  "Mayo_2025":300
+  "Mayo_2025":300,
+  "Junio_2025":241
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":400,
   "Marzo_2025":418,
   "Abril_2025":418,
-  "Mayo_2025":339
+  "Mayo_2025":422,
+  "Junio_2025":340
  },
  {
   "organismo_nombre":"Municipalidad de Pica",
@@ -39,7 +40,8 @@
   "Febrero_2025":176,
   "Marzo_2025":147,
   "Abril_2025":87,
-  "Mayo_2025":78
+  "Mayo_2025":91,
+  "Junio_2025":80
  },
  {
   "organismo_nombre":"Municipalidad de Pica",
@@ -60,7 +62,8 @@
   "Febrero_2025":333,
   "Marzo_2025":268,
   "Abril_2025":313,
-  "Mayo_2025":92
+  "Mayo_2025":325,
+  "Junio_2025":105
  },
  {
   "organismo_nombre":"Municipalidad de Pica",
@@ -81,6 +84,7 @@
   "Febrero_2025":141,
   "Marzo_2025":142,
   "Abril_2025":65,
-  "Mayo_2025":46
+  "Mayo_2025":65,
+  "Junio_2025":46
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1989,
   "Marzo_2025":1997,
   "Abril_2025":1957,
-  "Mayo_2025":1979
+  "Mayo_2025":1979,
+  "Junio_2025":1919
  },
  {
   "organismo_nombre":"Hospital Padre Hurtado",
@@ -39,7 +40,8 @@
   "Febrero_2025":396,
   "Marzo_2025":399,
   "Abril_2025":462,
-  "Mayo_2025":368
+  "Mayo_2025":368,
+  "Junio_2025":434
  },
  {
   "organismo_nombre":"Hospital Padre Hurtado",
@@ -60,6 +62,7 @@
   "Febrero_2025":639,
   "Marzo_2025":642,
   "Abril_2025":639,
-  "Mayo_2025":636
+  "Mayo_2025":1272,
+  "Junio_2025":0
  }
 ]

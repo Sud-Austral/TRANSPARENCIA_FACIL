@@ -18,7 +18,8 @@
   "Febrero_2025":1188,
   "Marzo_2025":1174,
   "Abril_2025":1172,
-  "Mayo_2025":1092
+  "Mayo_2025":1092,
+  "Junio_2025":1051
  },
  {
   "organismo_nombre":"Hospital de Linares",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1,
   "Abril_2025":32,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":25
  },
  {
   "organismo_nombre":"Hospital de Linares",
@@ -60,6 +62,7 @@
   "Febrero_2025":476,
   "Marzo_2025":475,
   "Abril_2025":473,
-  "Mayo_2025":472
+  "Mayo_2025":472,
+  "Junio_2025":473
  }
 ]

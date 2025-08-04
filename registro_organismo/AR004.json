@@ -18,7 +18,8 @@
   "Febrero_2025":1493,
   "Marzo_2025":1497,
   "Abril_2025":1499,
-  "Mayo_2025":1503
+  "Mayo_2025":1503,
+  "Junio_2025":1502
  },
  {
   "organismo_nombre":"Instituto de Desarrollo Agropecuario (INDAP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":97,
   "Marzo_2025":111,
   "Abril_2025":71,
-  "Mayo_2025":91
+  "Mayo_2025":91,
+  "Junio_2025":68
  },
  {
   "organismo_nombre":"Instituto de Desarrollo Agropecuario (INDAP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":97,
   "Marzo_2025":97,
   "Abril_2025":93,
-  "Mayo_2025":91
+  "Mayo_2025":91,
+  "Junio_2025":90
  }
 ]

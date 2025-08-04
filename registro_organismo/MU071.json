@@ -18,7 +18,8 @@
   "Febrero_2025":438,
   "Marzo_2025":223,
   "Abril_2025":231,
-  "Mayo_2025":229
+  "Mayo_2025":229,
+  "Junio_2025":48
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
@@ -39,7 +40,8 @@
   "Febrero_2025":200,
   "Marzo_2025":218,
   "Abril_2025":223,
-  "Mayo_2025":195
+  "Mayo_2025":217,
+  "Junio_2025":92
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
@@ -60,7 +62,8 @@
   "Febrero_2025":259,
   "Marzo_2025":259,
   "Abril_2025":261,
-  "Mayo_2025":256
+  "Mayo_2025":291,
+  "Junio_2025":272
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
@@ -81,6 +84,7 @@
   "Febrero_2025":254,
   "Marzo_2025":253,
   "Abril_2025":254,
-  "Mayo_2025":230
+  "Mayo_2025":249,
+  "Junio_2025":127
  }
 ]

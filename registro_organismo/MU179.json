@@ -16,9 +16,10 @@
   "Diciembre_2024":51,
   "Enero_2025":67,
   "Febrero_2025":71,
-  "Marzo_2025":73,
+  "Marzo_2025":74,
   "Abril_2025":72,
-  "Mayo_2025":0
+  "Mayo_2025":65,
+  "Junio_2025":62
  },
  {
   "organismo_nombre":"Municipalidad de Nancagua",
@@ -36,10 +37,11 @@
   "Noviembre_2024":253,
   "Diciembre_2024":206,
   "Enero_2025":141,
-  "Febrero_2025":334,
-  "Marzo_2025":16,
+  "Febrero_2025":174,
+  "Marzo_2025":159,
   "Abril_2025":152,
-  "Mayo_2025":0
+  "Mayo_2025":196,
+  "Junio_2025":201
  },
  {
   "organismo_nombre":"Municipalidad de Nancagua",
@@ -60,6 +62,7 @@
   "Febrero_2025":101,
   "Marzo_2025":100,
   "Abril_2025":98,
-  "Mayo_2025":0
+  "Mayo_2025":103,
+  "Junio_2025":100
  }
 ]

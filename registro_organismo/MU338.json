@@ -18,7 +18,8 @@
   "Febrero_2025":6,
   "Marzo_2025":7,
   "Abril_2025":6,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
@@ -39,7 +40,8 @@
   "Febrero_2025":121,
   "Marzo_2025":121,
   "Abril_2025":130,
-  "Mayo_2025":132
+  "Mayo_2025":132,
+  "Junio_2025":133
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
@@ -60,7 +62,8 @@
   "Febrero_2025":310,
   "Marzo_2025":255,
   "Abril_2025":279,
-  "Mayo_2025":306
+  "Mayo_2025":306,
+  "Junio_2025":282
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
@@ -81,6 +84,7 @@
   "Febrero_2025":203,
   "Marzo_2025":207,
   "Abril_2025":207,
-  "Mayo_2025":0
+  "Mayo_2025":203,
+  "Junio_2025":205
  }
 ]

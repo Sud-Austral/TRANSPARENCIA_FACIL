@@ -18,7 +18,8 @@
   "Febrero_2025":249,
   "Marzo_2025":261,
   "Abril_2025":245,
-  "Mayo_2025":0
+  "Mayo_2025":2,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Salamanca",
@@ -39,7 +40,8 @@
   "Febrero_2025":175,
   "Marzo_2025":198,
   "Abril_2025":195,
-  "Mayo_2025":0
+  "Mayo_2025":49,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Salamanca",
@@ -60,7 +62,8 @@
   "Febrero_2025":453,
   "Marzo_2025":479,
   "Abril_2025":563,
-  "Mayo_2025":386
+  "Mayo_2025":472,
+  "Junio_2025":397
  },
  {
   "organismo_nombre":"Municipalidad de Salamanca",
@@ -81,6 +84,7 @@
   "Febrero_2025":249,
   "Marzo_2025":248,
   "Abril_2025":245,
-  "Mayo_2025":0
+  "Mayo_2025":111,
+  "Junio_2025":0
  }
 ]

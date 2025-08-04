@@ -18,7 +18,8 @@
   "Febrero_2025":66,
   "Marzo_2025":73,
   "Abril_2025":0,
-  "Mayo_2025":75
+  "Mayo_2025":75,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
@@ -39,7 +40,8 @@
   "Febrero_2025":70,
   "Marzo_2025":73,
   "Abril_2025":71,
-  "Mayo_2025":74
+  "Mayo_2025":74,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
@@ -60,7 +62,8 @@
   "Febrero_2025":43,
   "Marzo_2025":49,
   "Abril_2025":50,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
@@ -81,6 +84,7 @@
   "Febrero_2025":120,
   "Marzo_2025":120,
   "Abril_2025":119,
-  "Mayo_2025":116
+  "Mayo_2025":116,
+  "Junio_2025":0
  }
 ]

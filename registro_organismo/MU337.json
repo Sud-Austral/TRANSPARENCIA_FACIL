@@ -18,7 +18,8 @@
   "Febrero_2025":288,
   "Marzo_2025":139,
   "Abril_2025":287,
-  "Mayo_2025":291
+  "Mayo_2025":291,
+  "Junio_2025":289
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
@@ -39,7 +40,8 @@
   "Febrero_2025":140,
   "Marzo_2025":202,
   "Abril_2025":215,
-  "Mayo_2025":214
+  "Mayo_2025":214,
+  "Junio_2025":215
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
@@ -60,7 +62,8 @@
   "Febrero_2025":201,
   "Marzo_2025":228,
   "Abril_2025":234,
-  "Mayo_2025":252
+  "Mayo_2025":252,
+  "Junio_2025":258
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
@@ -81,6 +84,7 @@
   "Febrero_2025":387,
   "Marzo_2025":385,
   "Abril_2025":379,
-  "Mayo_2025":44
+  "Mayo_2025":382,
+  "Junio_2025":374
  }
 ]

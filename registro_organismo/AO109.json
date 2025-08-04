@@ -18,7 +18,8 @@
   "Febrero_2025":1214,
   "Marzo_2025":1219,
   "Abril_2025":1208,
-  "Mayo_2025":1211
+  "Mayo_2025":1211,
+  "Junio_2025":1215
  },
  {
   "organismo_nombre":"Hospital Luis Calvo Mackenna",
@@ -39,7 +40,8 @@
   "Febrero_2025":11,
   "Marzo_2025":11,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":29
  },
  {
   "organismo_nombre":"Hospital Luis Calvo Mackenna",
@@ -60,6 +62,7 @@
   "Febrero_2025":567,
   "Marzo_2025":556,
   "Abril_2025":548,
-  "Mayo_2025":532
+  "Mayo_2025":532,
+  "Junio_2025":528
  }
 ]

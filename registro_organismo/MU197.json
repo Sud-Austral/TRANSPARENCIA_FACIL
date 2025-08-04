@@ -18,7 +18,8 @@
   "Febrero_2025":194,
   "Marzo_2025":213,
   "Abril_2025":207,
-  "Mayo_2025":205
+  "Mayo_2025":205,
+  "Junio_2025":199
  },
  {
   "organismo_nombre":"Municipalidad de Paine",
@@ -39,7 +40,8 @@
   "Febrero_2025":733,
   "Marzo_2025":875,
   "Abril_2025":865,
-  "Mayo_2025":906
+  "Mayo_2025":906,
+  "Junio_2025":894
  },
  {
   "organismo_nombre":"Municipalidad de Paine",
@@ -60,7 +62,8 @@
   "Febrero_2025":556,
   "Marzo_2025":536,
   "Abril_2025":571,
-  "Mayo_2025":568
+  "Mayo_2025":568,
+  "Junio_2025":650
  },
  {
   "organismo_nombre":"Municipalidad de Paine",
@@ -81,6 +84,7 @@
   "Febrero_2025":1199,
   "Marzo_2025":1227,
   "Abril_2025":1166,
-  "Mayo_2025":1171
+  "Mayo_2025":1171,
+  "Junio_2025":1162
  }
 ]

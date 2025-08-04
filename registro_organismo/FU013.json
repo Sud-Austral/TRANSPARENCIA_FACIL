@@ -18,7 +18,8 @@
   "Febrero_2025":42,
   "Marzo_2025":46,
   "Abril_2025":49,
-  "Mayo_2025":46
+  "Mayo_2025":46,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"CORPORACIÓN REGIONAL DE TURISMO DE LA REGIÓN METROPOLITANA",
@@ -39,6 +40,7 @@
   "Febrero_2025":29,
   "Marzo_2025":26,
   "Abril_2025":26,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":0
  }
 ]

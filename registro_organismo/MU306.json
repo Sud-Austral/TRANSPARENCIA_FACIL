@@ -12,13 +12,14 @@
   "Agosto_2024":223,
   "Septiembre_2024":231,
   "Octubre_2024":199,
-  "Noviembre_2024":220,
-  "Diciembre_2024":208,
+  "Noviembre_2024":231,
+  "Diciembre_2024":219,
   "Enero_2025":40,
   "Febrero_2025":41,
   "Marzo_2025":23,
   "Abril_2025":22,
-  "Mayo_2025":22
+  "Mayo_2025":22,
+  "Junio_2025":22
  },
  {
   "organismo_nombre":"Municipalidad de Santa Juana",
@@ -34,12 +35,13 @@
   "Septiembre_2024":207,
   "Octubre_2024":207,
   "Noviembre_2024":197,
-  "Diciembre_2024":150,
-  "Enero_2025":117,
-  "Febrero_2025":27,
+  "Diciembre_2024":195,
+  "Enero_2025":73,
+  "Febrero_2025":71,
   "Marzo_2025":72,
   "Abril_2025":74,
-  "Mayo_2025":75
+  "Mayo_2025":75,
+  "Junio_2025":74
  },
  {
   "organismo_nombre":"Municipalidad de Santa Juana",
@@ -60,7 +62,8 @@
   "Febrero_2025":72,
   "Marzo_2025":71,
   "Abril_2025":79,
-  "Mayo_2025":84
+  "Mayo_2025":84,
+  "Junio_2025":86
  },
  {
   "organismo_nombre":"Municipalidad de Santa Juana",
@@ -81,6 +84,7 @@
   "Febrero_2025":83,
   "Marzo_2025":82,
   "Abril_2025":82,
-  "Mayo_2025":83
+  "Mayo_2025":83,
+  "Junio_2025":82
  }
 ]

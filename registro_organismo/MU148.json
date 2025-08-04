@@ -18,7 +18,8 @@
   "Febrero_2025":252,
   "Marzo_2025":254,
   "Abril_2025":253,
-  "Mayo_2025":0
+  "Mayo_2025":249,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
@@ -38,8 +39,9 @@
   "Enero_2025":251,
   "Febrero_2025":124,
   "Marzo_2025":241,
-  "Abril_2025":163,
-  "Mayo_2025":0
+  "Abril_2025":250,
+  "Mayo_2025":248,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
@@ -60,7 +62,8 @@
   "Febrero_2025":187,
   "Marzo_2025":198,
   "Abril_2025":134,
-  "Mayo_2025":0
+  "Mayo_2025":132,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
@@ -80,7 +83,8 @@
   "Enero_2025":342,
   "Febrero_2025":173,
   "Marzo_2025":173,
-  "Abril_2025":258,
-  "Mayo_2025":0
+  "Abril_2025":341,
+  "Mayo_2025":342,
+  "Junio_2025":0
  }
 ]

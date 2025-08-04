@@ -18,7 +18,8 @@
   "Febrero_2025":471,
   "Marzo_2025":471,
   "Abril_2025":153,
-  "Mayo_2025":152
+  "Mayo_2025":152,
+  "Junio_2025":471
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Costa Central (SLEP Costa Central)",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Costa Central (SLEP Costa Central)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  }
 ]

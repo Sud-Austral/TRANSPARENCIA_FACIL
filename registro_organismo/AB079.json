@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
@@ -39,7 +40,8 @@
   "Febrero_2025":118,
   "Marzo_2025":113,
   "Abril_2025":113,
-  "Mayo_2025":119
+  "Mayo_2025":119,
+  "Junio_2025":119
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
@@ -60,7 +62,8 @@
   "Febrero_2025":16,
   "Marzo_2025":9,
   "Abril_2025":0,
-  "Mayo_2025":36
+  "Mayo_2025":36,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
@@ -81,6 +84,7 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":21,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

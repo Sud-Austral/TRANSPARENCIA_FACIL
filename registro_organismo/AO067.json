@@ -18,7 +18,8 @@
   "Febrero_2025":2311,
   "Marzo_2025":2251,
   "Abril_2025":2216,
-  "Mayo_2025":0
+  "Mayo_2025":2247,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San Pablo de Coquimbo",
@@ -39,7 +40,8 @@
   "Febrero_2025":662,
   "Marzo_2025":650,
   "Abril_2025":663,
-  "Mayo_2025":0
+  "Mayo_2025":469,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San Pablo de Coquimbo",
@@ -60,6 +62,7 @@
   "Febrero_2025":484,
   "Marzo_2025":483,
   "Abril_2025":467,
-  "Mayo_2025":0
+  "Mayo_2025":466,
+  "Junio_2025":0
  }
 ]

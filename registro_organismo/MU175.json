@@ -18,7 +18,8 @@
   "Febrero_2025":551,
   "Marzo_2025":543,
   "Abril_2025":563,
-  "Mayo_2025":575
+  "Mayo_2025":575,
+  "Junio_2025":572
  },
  {
   "organismo_nombre":"Municipalidad de Monte Patria",
@@ -39,7 +40,8 @@
   "Febrero_2025":475,
   "Marzo_2025":471,
   "Abril_2025":476,
-  "Mayo_2025":468
+  "Mayo_2025":468,
+  "Junio_2025":464
  },
  {
   "organismo_nombre":"Municipalidad de Monte Patria",
@@ -60,7 +62,8 @@
   "Febrero_2025":464,
   "Marzo_2025":30,
   "Abril_2025":425,
-  "Mayo_2025":363
+  "Mayo_2025":422,
+  "Junio_2025":432
  },
  {
   "organismo_nombre":"Municipalidad de Monte Patria",
@@ -81,6 +84,7 @@
   "Febrero_2025":551,
   "Marzo_2025":546,
   "Abril_2025":539,
-  "Mayo_2025":539
+  "Mayo_2025":539,
+  "Junio_2025":536
  }
 ]

@@ -17,8 +17,9 @@
   "Enero_2025":129,
   "Febrero_2025":132,
   "Marzo_2025":127,
-  "Abril_2025":1,
-  "Mayo_2025":0
+  "Abril_2025":126,
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
@@ -38,8 +39,9 @@
   "Enero_2025":99,
   "Febrero_2025":100,
   "Marzo_2025":113,
-  "Abril_2025":15,
-  "Mayo_2025":0
+  "Abril_2025":119,
+  "Mayo_2025":60,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
@@ -59,8 +61,9 @@
   "Enero_2025":22,
   "Febrero_2025":37,
   "Marzo_2025":49,
-  "Abril_2025":27,
-  "Mayo_2025":0
+  "Abril_2025":57,
+  "Mayo_2025":58,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
@@ -80,7 +83,8 @@
   "Enero_2025":269,
   "Febrero_2025":268,
   "Marzo_2025":258,
-  "Abril_2025":68,
-  "Mayo_2025":0
+  "Abril_2025":253,
+  "Mayo_2025":151,
+  "Junio_2025":0
  }
 ]

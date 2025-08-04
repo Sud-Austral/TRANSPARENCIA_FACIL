@@ -18,7 +18,8 @@
   "Febrero_2025":10,
   "Marzo_2025":12,
   "Abril_2025":11,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Universidad de Aysén",
@@ -39,7 +40,8 @@
   "Febrero_2025":97,
   "Marzo_2025":113,
   "Abril_2025":114,
-  "Mayo_2025":114
+  "Mayo_2025":114,
+  "Junio_2025":114
  },
  {
   "organismo_nombre":"Universidad de Aysén",
@@ -60,7 +62,8 @@
   "Febrero_2025":41,
   "Marzo_2025":56,
   "Abril_2025":66,
-  "Mayo_2025":74
+  "Mayo_2025":74,
+  "Junio_2025":108
  },
  {
   "organismo_nombre":"Universidad de Aysén",
@@ -81,6 +84,7 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  }
 ]

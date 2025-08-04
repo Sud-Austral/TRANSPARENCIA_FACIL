@@ -18,7 +18,8 @@
   "Febrero_2025":14,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Municipalidad de Lanco",
@@ -39,7 +40,8 @@
   "Febrero_2025":92,
   "Marzo_2025":88,
   "Abril_2025":87,
-  "Mayo_2025":84
+  "Mayo_2025":84,
+  "Junio_2025":90
  },
  {
   "organismo_nombre":"Municipalidad de Lanco",
@@ -60,7 +62,8 @@
   "Febrero_2025":62,
   "Marzo_2025":32,
   "Abril_2025":35,
-  "Mayo_2025":35
+  "Mayo_2025":35,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Municipalidad de Lanco",
@@ -81,6 +84,7 @@
   "Febrero_2025":124,
   "Marzo_2025":123,
   "Abril_2025":121,
-  "Mayo_2025":123
+  "Mayo_2025":123,
+  "Junio_2025":119
  }
 ]

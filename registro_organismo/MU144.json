@@ -18,7 +18,8 @@
   "Febrero_2025":267,
   "Marzo_2025":291,
   "Abril_2025":283,
-  "Mayo_2025":290
+  "Mayo_2025":302,
+  "Junio_2025":276
  },
  {
   "organismo_nombre":"Municipalidad de Lo Barnechea",
@@ -39,7 +40,8 @@
   "Febrero_2025":491,
   "Marzo_2025":520,
   "Abril_2025":521,
-  "Mayo_2025":520
+  "Mayo_2025":919,
+  "Junio_2025":121
  },
  {
   "organismo_nombre":"Municipalidad de Lo Barnechea",
@@ -53,14 +55,15 @@
   "Julio_2024":567,
   "Agosto_2024":418,
   "Septiembre_2024":479,
-  "Octubre_2024":407,
+  "Octubre_2024":408,
   "Noviembre_2024":1440,
   "Diciembre_2024":692,
   "Enero_2025":398,
   "Febrero_2025":413,
   "Marzo_2025":365,
   "Abril_2025":423,
-  "Mayo_2025":781
+  "Mayo_2025":459,
+  "Junio_2025":188
  },
  {
   "organismo_nombre":"Municipalidad de Lo Barnechea",
@@ -81,6 +84,7 @@
   "Febrero_2025":606,
   "Marzo_2025":604,
   "Abril_2025":606,
-  "Mayo_2025":373
+  "Mayo_2025":920,
+  "Junio_2025":72
  }
 ]

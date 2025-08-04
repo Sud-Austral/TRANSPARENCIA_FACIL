@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
@@ -39,7 +40,8 @@
   "Febrero_2025":13,
   "Marzo_2025":13,
   "Abril_2025":12,
-  "Mayo_2025":13
+  "Mayo_2025":13,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
@@ -60,7 +62,8 @@
   "Febrero_2025":43,
   "Marzo_2025":0,
   "Abril_2025":46,
-  "Mayo_2025":52
+  "Mayo_2025":52,
+  "Junio_2025":52
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
@@ -81,6 +84,7 @@
   "Febrero_2025":26,
   "Marzo_2025":25,
   "Abril_2025":25,
-  "Mayo_2025":25
+  "Mayo_2025":25,
+  "Junio_2025":25
  }
 ]

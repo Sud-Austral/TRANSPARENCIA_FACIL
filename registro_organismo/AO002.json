@@ -18,7 +18,8 @@
   "Febrero_2025":502,
   "Marzo_2025":499,
   "Abril_2025":494,
-  "Mayo_2025":494
+  "Mayo_2025":494,
+  "Junio_2025":498
  },
  {
   "organismo_nombre":"Subsecretaría de Redes Asistenciales",
@@ -39,7 +40,8 @@
   "Febrero_2025":352,
   "Marzo_2025":478,
   "Abril_2025":501,
-  "Mayo_2025":535
+  "Mayo_2025":535,
+  "Junio_2025":563
  },
  {
   "organismo_nombre":"Subsecretaría de Redes Asistenciales",
@@ -60,6 +62,7 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":4,
-  "Mayo_2025":4
+  "Mayo_2025":4,
+  "Junio_2025":3
  }
 ]

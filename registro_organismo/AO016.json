@@ -18,7 +18,8 @@
   "Febrero_2025":605,
   "Marzo_2025":616,
   "Abril_2025":575,
-  "Mayo_2025":528
+  "Mayo_2025":528,
+  "Junio_2025":554
  },
  {
   "organismo_nombre":"Servicio de Salud Arica y Parinacota",
@@ -39,7 +40,8 @@
   "Febrero_2025":50,
   "Marzo_2025":51,
   "Abril_2025":54,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":64
  },
  {
   "organismo_nombre":"Servicio de Salud Arica y Parinacota",
@@ -60,6 +62,7 @@
   "Febrero_2025":98,
   "Marzo_2025":98,
   "Abril_2025":98,
-  "Mayo_2025":97
+  "Mayo_2025":97,
+  "Junio_2025":95
  }
 ]

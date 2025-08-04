@@ -18,7 +18,8 @@
   "Febrero_2025":235,
   "Marzo_2025":257,
   "Abril_2025":262,
-  "Mayo_2025":266
+  "Mayo_2025":266,
+  "Junio_2025":269
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
@@ -39,7 +40,8 @@
   "Febrero_2025":150,
   "Marzo_2025":160,
   "Abril_2025":172,
-  "Mayo_2025":177
+  "Mayo_2025":177,
+  "Junio_2025":173
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
@@ -60,7 +62,8 @@
   "Febrero_2025":167,
   "Marzo_2025":193,
   "Abril_2025":169,
-  "Mayo_2025":146
+  "Mayo_2025":146,
+  "Junio_2025":181
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
@@ -81,6 +84,7 @@
   "Febrero_2025":310,
   "Marzo_2025":306,
   "Abril_2025":309,
-  "Mayo_2025":308
+  "Mayo_2025":308,
+  "Junio_2025":307
  }
 ]

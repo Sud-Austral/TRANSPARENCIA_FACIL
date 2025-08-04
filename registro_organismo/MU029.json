@@ -18,7 +18,8 @@
   "Febrero_2025":398,
   "Marzo_2025":351,
   "Abril_2025":326,
-  "Mayo_2025":309
+  "Mayo_2025":309,
+  "Junio_2025":315
  },
  {
   "organismo_nombre":"Municipalidad de Cartagena",
@@ -39,7 +40,8 @@
   "Febrero_2025":257,
   "Marzo_2025":220,
   "Abril_2025":233,
-  "Mayo_2025":242
+  "Mayo_2025":242,
+  "Junio_2025":242
  },
  {
   "organismo_nombre":"Municipalidad de Cartagena",
@@ -60,7 +62,8 @@
   "Febrero_2025":26,
   "Marzo_2025":224,
   "Abril_2025":284,
-  "Mayo_2025":18
+  "Mayo_2025":278,
+  "Junio_2025":61
  },
  {
   "organismo_nombre":"Municipalidad de Cartagena",
@@ -81,6 +84,7 @@
   "Febrero_2025":430,
   "Marzo_2025":427,
   "Abril_2025":413,
-  "Mayo_2025":418
+  "Mayo_2025":418,
+  "Junio_2025":410
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1326,
   "Marzo_2025":1297,
   "Abril_2025":1294,
-  "Mayo_2025":0
+  "Mayo_2025":1285,
+  "Junio_2025":1251
  },
  {
   "organismo_nombre":"Hospital Regional Coyhaique",
@@ -39,7 +40,8 @@
   "Febrero_2025":64,
   "Marzo_2025":69,
   "Abril_2025":66,
-  "Mayo_2025":59
+  "Mayo_2025":59,
+  "Junio_2025":64
  },
  {
   "organismo_nombre":"Hospital Regional Coyhaique",
@@ -60,6 +62,7 @@
   "Febrero_2025":630,
   "Marzo_2025":578,
   "Abril_2025":553,
-  "Mayo_2025":0
+  "Mayo_2025":555,
+  "Junio_2025":540
  }
 ]

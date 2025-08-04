@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":15,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital El Pino",
@@ -39,7 +40,8 @@
   "Febrero_2025":1684,
   "Marzo_2025":1622,
   "Abril_2025":1607,
-  "Mayo_2025":1579
+  "Mayo_2025":1579,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital El Pino",
@@ -60,7 +62,8 @@
   "Febrero_2025":126,
   "Marzo_2025":135,
   "Abril_2025":100,
-  "Mayo_2025":106
+  "Mayo_2025":106,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital El Pino",
@@ -81,6 +84,7 @@
   "Febrero_2025":488,
   "Marzo_2025":459,
   "Abril_2025":0,
-  "Mayo_2025":423
+  "Mayo_2025":423,
+  "Junio_2025":0
  }
 ]

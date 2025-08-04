@@ -18,7 +18,8 @@
   "Febrero_2025":32,
   "Marzo_2025":32,
   "Abril_2025":30,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":16
  },
  {
   "organismo_nombre":"Corporación de Desarrollo de Talca",
@@ -36,9 +37,10 @@
   "Noviembre_2024":0,
   "Diciembre_2024":5,
   "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Febrero_2025":59,
+  "Marzo_2025":13,
+  "Abril_2025":7,
+  "Mayo_2025":0,
+  "Junio_2025":2
  }
 ]

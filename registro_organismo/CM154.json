@@ -18,7 +18,8 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Corporación Municipal Cultural Museo de Bellas Artes Valparaíso",
@@ -39,6 +40,7 @@
   "Febrero_2025":2,
   "Marzo_2025":10,
   "Abril_2025":17,
-  "Mayo_2025":15
+  "Mayo_2025":15,
+  "Junio_2025":19
  }
 ]

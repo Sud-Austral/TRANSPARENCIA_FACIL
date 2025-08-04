@@ -18,7 +18,8 @@
   "Febrero_2025":1993,
   "Marzo_2025":2392,
   "Abril_2025":2324,
-  "Mayo_2025":2273
+  "Mayo_2025":2273,
+  "Junio_2025":2288
  },
  {
   "organismo_nombre":"Hospital San Martín de Quillota",
@@ -39,7 +40,8 @@
   "Febrero_2025":104,
   "Marzo_2025":102,
   "Abril_2025":120,
-  "Mayo_2025":87
+  "Mayo_2025":87,
+  "Junio_2025":131
  },
  {
   "organismo_nombre":"Hospital San Martín de Quillota",
@@ -60,6 +62,7 @@
   "Febrero_2025":297,
   "Marzo_2025":299,
   "Abril_2025":290,
-  "Mayo_2025":289
+  "Mayo_2025":289,
+  "Junio_2025":289
  }
 ]

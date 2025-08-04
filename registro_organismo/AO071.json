@@ -18,7 +18,8 @@
   "Febrero_2025":3219,
   "Marzo_2025":3112,
   "Abril_2025":3054,
-  "Mayo_2025":3018
+  "Mayo_2025":3018,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San José",
@@ -39,7 +40,8 @@
   "Febrero_2025":292,
   "Marzo_2025":255,
   "Abril_2025":267,
-  "Mayo_2025":0
+  "Mayo_2025":303,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San José",
@@ -60,6 +62,7 @@
   "Febrero_2025":785,
   "Marzo_2025":867,
   "Abril_2025":856,
-  "Mayo_2025":853
+  "Mayo_2025":853,
+  "Junio_2025":0
  }
 ]

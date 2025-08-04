@@ -18,7 +18,8 @@
   "Febrero_2025":11,
   "Marzo_2025":9,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
@@ -39,7 +40,8 @@
   "Febrero_2025":125,
   "Marzo_2025":124,
   "Abril_2025":123,
-  "Mayo_2025":58
+  "Mayo_2025":125,
+  "Junio_2025":124
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
@@ -60,7 +62,8 @@
   "Febrero_2025":378,
   "Marzo_2025":369,
   "Abril_2025":391,
-  "Mayo_2025":325
+  "Mayo_2025":410,
+  "Junio_2025":323
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":159,
   "Marzo_2025":159,
   "Abril_2025":158,
-  "Mayo_2025":0
+  "Mayo_2025":157,
+  "Junio_2025":158
  }
 ]

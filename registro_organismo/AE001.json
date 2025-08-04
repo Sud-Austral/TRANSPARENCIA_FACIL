@@ -18,7 +18,8 @@
   "Febrero_2025":243,
   "Marzo_2025":241,
   "Abril_2025":240,
-  "Mayo_2025":243
+  "Mayo_2025":243,
+  "Junio_2025":242
  },
  {
   "organismo_nombre":"Subsecretaría de Hacienda",
@@ -39,7 +40,8 @@
   "Febrero_2025":126,
   "Marzo_2025":129,
   "Abril_2025":127,
-  "Mayo_2025":126
+  "Mayo_2025":126,
+  "Junio_2025":126
  },
  {
   "organismo_nombre":"Subsecretaría de Hacienda",
@@ -60,6 +62,7 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":14
  }
 ]

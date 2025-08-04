@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
@@ -38,8 +39,9 @@
   "Enero_2025":55,
   "Febrero_2025":55,
   "Marzo_2025":53,
-  "Abril_2025":54,
-  "Mayo_2025":52
+  "Abril_2025":60,
+  "Mayo_2025":52,
+  "Junio_2025":52
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
@@ -60,7 +62,8 @@
   "Febrero_2025":112,
   "Marzo_2025":107,
   "Abril_2025":113,
-  "Mayo_2025":7
+  "Mayo_2025":125,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
@@ -80,7 +83,8 @@
   "Enero_2025":57,
   "Febrero_2025":57,
   "Marzo_2025":58,
-  "Abril_2025":55,
-  "Mayo_2025":55
+  "Abril_2025":58,
+  "Mayo_2025":58,
+  "Junio_2025":54
  }
 ]

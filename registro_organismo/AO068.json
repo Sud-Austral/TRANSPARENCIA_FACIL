@@ -18,7 +18,8 @@
   "Febrero_2025":2402,
   "Marzo_2025":2407,
   "Abril_2025":2289,
-  "Mayo_2025":2298
+  "Mayo_2025":2298,
+  "Junio_2025":2252
  },
  {
   "organismo_nombre":"Hospital Ernesto Torres de Iquique",
@@ -39,7 +40,8 @@
   "Febrero_2025":45,
   "Marzo_2025":76,
   "Abril_2025":146,
-  "Mayo_2025":163
+  "Mayo_2025":163,
+  "Junio_2025":168
  },
  {
   "organismo_nombre":"Hospital Ernesto Torres de Iquique",
@@ -60,6 +62,7 @@
   "Febrero_2025":625,
   "Marzo_2025":628,
   "Abril_2025":623,
-  "Mayo_2025":625
+  "Mayo_2025":625,
+  "Junio_2025":622
  }
 ]

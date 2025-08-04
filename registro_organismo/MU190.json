@@ -18,7 +18,8 @@
   "Febrero_2025":20,
   "Marzo_2025":179,
   "Abril_2025":193,
-  "Mayo_2025":198
+  "Mayo_2025":198,
+  "Junio_2025":193
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
@@ -39,7 +40,8 @@
   "Febrero_2025":93,
   "Marzo_2025":174,
   "Abril_2025":178,
-  "Mayo_2025":185
+  "Mayo_2025":185,
+  "Junio_2025":188
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
@@ -59,8 +61,9 @@
   "Enero_2025":148,
   "Febrero_2025":253,
   "Marzo_2025":157,
-  "Abril_2025":167,
-  "Mayo_2025":0
+  "Abril_2025":168,
+  "Mayo_2025":160,
+  "Junio_2025":160
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
@@ -81,6 +84,7 @@
   "Febrero_2025":144,
   "Marzo_2025":241,
   "Abril_2025":241,
-  "Mayo_2025":241
+  "Mayo_2025":241,
+  "Junio_2025":239
  }
 ]

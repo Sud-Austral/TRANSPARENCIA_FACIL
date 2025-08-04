@@ -18,7 +18,8 @@
   "Febrero_2025":164,
   "Marzo_2025":173,
   "Abril_2025":168,
-  "Mayo_2025":169
+  "Mayo_2025":169,
+  "Junio_2025":199
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
@@ -39,7 +40,8 @@
   "Febrero_2025":167,
   "Marzo_2025":172,
   "Abril_2025":177,
-  "Mayo_2025":176
+  "Mayo_2025":176,
+  "Junio_2025":175
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
@@ -60,7 +62,8 @@
   "Febrero_2025":90,
   "Marzo_2025":92,
   "Abril_2025":104,
-  "Mayo_2025":113
+  "Mayo_2025":113,
+  "Junio_2025":114
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
@@ -81,6 +84,7 @@
   "Febrero_2025":215,
   "Marzo_2025":216,
   "Abril_2025":214,
-  "Mayo_2025":214
+  "Mayo_2025":214,
+  "Junio_2025":212
  }
 ]

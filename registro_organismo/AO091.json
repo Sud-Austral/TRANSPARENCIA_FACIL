@@ -18,7 +18,8 @@
   "Febrero_2025":658,
   "Marzo_2025":641,
   "Abril_2025":622,
-  "Mayo_2025":0
+  "Mayo_2025":628,
+  "Junio_2025":629
  },
  {
   "organismo_nombre":"Hospital de Tomé",
@@ -39,7 +40,8 @@
   "Febrero_2025":8,
   "Marzo_2025":9,
   "Abril_2025":8,
-  "Mayo_2025":0
+  "Mayo_2025":16,
+  "Junio_2025":16
  },
  {
   "organismo_nombre":"Hospital de Tomé",
@@ -60,6 +62,7 @@
   "Febrero_2025":193,
   "Marzo_2025":193,
   "Abril_2025":191,
-  "Mayo_2025":0
+  "Mayo_2025":191,
+  "Junio_2025":191
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":964,
   "Marzo_2025":999,
   "Abril_2025":1005,
-  "Mayo_2025":1024
+  "Mayo_2025":1024,
+  "Junio_2025":1008
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
@@ -39,7 +40,8 @@
   "Febrero_2025":457,
   "Marzo_2025":524,
   "Abril_2025":555,
-  "Mayo_2025":574
+  "Mayo_2025":574,
+  "Junio_2025":564
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":8,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
@@ -81,6 +84,7 @@
   "Febrero_2025":658,
   "Marzo_2025":631,
   "Abril_2025":630,
-  "Mayo_2025":629
+  "Mayo_2025":629,
+  "Junio_2025":629
  }
 ]

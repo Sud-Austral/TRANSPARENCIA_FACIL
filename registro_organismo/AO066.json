@@ -18,7 +18,8 @@
   "Febrero_2025":2991,
   "Marzo_2025":0,
   "Abril_2025":2902,
-  "Mayo_2025":2848
+  "Mayo_2025":2848,
+  "Junio_2025":2935
  },
  {
   "organismo_nombre":"Hospital La Serena",
@@ -39,7 +40,8 @@
   "Febrero_2025":434,
   "Marzo_2025":449,
   "Abril_2025":420,
-  "Mayo_2025":463
+  "Mayo_2025":463,
+  "Junio_2025":452
  },
  {
   "organismo_nombre":"Hospital La Serena",
@@ -60,6 +62,7 @@
   "Febrero_2025":419,
   "Marzo_2025":418,
   "Abril_2025":402,
-  "Mayo_2025":404
+  "Mayo_2025":404,
+  "Junio_2025":400
  }
 ]

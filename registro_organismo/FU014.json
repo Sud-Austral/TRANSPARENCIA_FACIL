@@ -18,7 +18,8 @@
   "Febrero_2025":179,
   "Marzo_2025":179,
   "Abril_2025":180,
-  "Mayo_2025":0
+  "Mayo_2025":181,
+  "Junio_2025":186
  },
  {
   "organismo_nombre":"Agencia Chilena de Eficiencia Energética",
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

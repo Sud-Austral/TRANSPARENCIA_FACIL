@@ -18,7 +18,8 @@
   "Febrero_2025":386,
   "Marzo_2025":398,
   "Abril_2025":420,
-  "Mayo_2025":416
+  "Mayo_2025":416,
+  "Junio_2025":417
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
@@ -39,7 +40,8 @@
   "Febrero_2025":439,
   "Marzo_2025":435,
   "Abril_2025":445,
-  "Mayo_2025":470
+  "Mayo_2025":470,
+  "Junio_2025":470
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
@@ -60,7 +62,8 @@
   "Febrero_2025":407,
   "Marzo_2025":480,
   "Abril_2025":428,
-  "Mayo_2025":440
+  "Mayo_2025":440,
+  "Junio_2025":655
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
@@ -81,6 +84,7 @@
   "Febrero_2025":690,
   "Marzo_2025":667,
   "Abril_2025":652,
-  "Mayo_2025":654
+  "Mayo_2025":654,
+  "Junio_2025":648
  }
 ]

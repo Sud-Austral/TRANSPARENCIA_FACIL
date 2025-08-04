@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":52,
   "Marzo_2025":54,
   "Abril_2025":54,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":55
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":10
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":44,
   "Marzo_2025":45,
   "Abril_2025":45,
-  "Mayo_2025":45
+  "Mayo_2025":45,
+  "Junio_2025":46
  }
 ]

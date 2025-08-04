@@ -16,9 +16,10 @@
   "Diciembre_2024":1,
   "Enero_2025":1,
   "Febrero_2025":1,
-  "Marzo_2025":1,
+  "Marzo_2025":64,
   "Abril_2025":63,
-  "Mayo_2025":1
+  "Mayo_2025":458,
+  "Junio_2025":447
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
@@ -37,9 +38,10 @@
   "Diciembre_2024":56,
   "Enero_2025":125,
   "Febrero_2025":133,
-  "Marzo_2025":133,
+  "Marzo_2025":153,
   "Abril_2025":250,
-  "Mayo_2025":131
+  "Mayo_2025":223,
+  "Junio_2025":255
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
@@ -58,9 +60,10 @@
   "Diciembre_2024":406,
   "Enero_2025":79,
   "Febrero_2025":12,
-  "Marzo_2025":117,
+  "Marzo_2025":146,
   "Abril_2025":268,
-  "Mayo_2025":208
+  "Mayo_2025":235,
+  "Junio_2025":277
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
@@ -81,6 +84,7 @@
   "Febrero_2025":173,
   "Marzo_2025":536,
   "Abril_2025":529,
-  "Mayo_2025":169
+  "Mayo_2025":532,
+  "Junio_2025":532
  }
 ]

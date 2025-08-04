@@ -18,7 +18,8 @@
   "Febrero_2025":280,
   "Marzo_2025":281,
   "Abril_2025":281,
-  "Mayo_2025":280
+  "Mayo_2025":280,
+  "Junio_2025":281
  },
  {
   "organismo_nombre":"Dirección de Obras Portuarias (DOP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Dirección de Obras Portuarias (DOP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":12,
   "Marzo_2025":12,
   "Abril_2025":12,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":12
  }
 ]

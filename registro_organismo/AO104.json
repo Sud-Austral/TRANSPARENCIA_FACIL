@@ -18,7 +18,8 @@
   "Febrero_2025":2857,
   "Marzo_2025":2797,
   "Abril_2025":2264,
-  "Mayo_2025":2832
+  "Mayo_2025":2832,
+  "Junio_2025":2832
  },
  {
   "organismo_nombre":"Hospital Herminda Martin",
@@ -39,7 +40,8 @@
   "Febrero_2025":104,
   "Marzo_2025":133,
   "Abril_2025":137,
-  "Mayo_2025":163
+  "Mayo_2025":163,
+  "Junio_2025":176
  },
  {
   "organismo_nombre":"Hospital Herminda Martin",
@@ -60,6 +62,7 @@
   "Febrero_2025":771,
   "Marzo_2025":754,
   "Abril_2025":728,
-  "Mayo_2025":767
+  "Mayo_2025":767,
+  "Junio_2025":759
  }
 ]

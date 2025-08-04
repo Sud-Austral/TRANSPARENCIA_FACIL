@@ -18,7 +18,8 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Corporación Cultural de Estación Central",
@@ -39,6 +40,7 @@
   "Febrero_2025":33,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":31
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":43,
   "Marzo_2025":44,
   "Abril_2025":45,
-  "Mayo_2025":89
+  "Mayo_2025":89,
+  "Junio_2025":45
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":181,
   "Marzo_2025":181,
   "Abril_2025":182,
-  "Mayo_2025":363
+  "Mayo_2025":363,
+  "Junio_2025":182
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
@@ -60,7 +62,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":28
+  "Mayo_2025":28,
+  "Junio_2025":14
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":48,
   "Marzo_2025":36,
   "Abril_2025":38,
-  "Mayo_2025":38
+  "Mayo_2025":38,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
@@ -39,7 +40,8 @@
   "Febrero_2025":213,
   "Marzo_2025":215,
   "Abril_2025":220,
-  "Mayo_2025":225
+  "Mayo_2025":225,
+  "Junio_2025":223
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
@@ -60,7 +62,8 @@
   "Febrero_2025":670,
   "Marzo_2025":653,
   "Abril_2025":660,
-  "Mayo_2025":654
+  "Mayo_2025":655,
+  "Junio_2025":663
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
@@ -81,6 +84,7 @@
   "Febrero_2025":378,
   "Marzo_2025":377,
   "Abril_2025":365,
-  "Mayo_2025":377
+  "Mayo_2025":377,
+  "Junio_2025":365
  }
 ]

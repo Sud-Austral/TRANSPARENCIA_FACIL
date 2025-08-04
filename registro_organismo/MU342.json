@@ -18,7 +18,8 @@
   "Febrero_2025":230,
   "Marzo_2025":281,
   "Abril_2025":287,
-  "Mayo_2025":287
+  "Mayo_2025":287,
+  "Junio_2025":287
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
@@ -39,7 +40,8 @@
   "Febrero_2025":197,
   "Marzo_2025":200,
   "Abril_2025":196,
-  "Mayo_2025":216
+  "Mayo_2025":216,
+  "Junio_2025":216
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
@@ -60,7 +62,8 @@
   "Febrero_2025":171,
   "Marzo_2025":182,
   "Abril_2025":191,
-  "Mayo_2025":196
+  "Mayo_2025":231,
+  "Junio_2025":168
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
@@ -81,6 +84,7 @@
   "Febrero_2025":369,
   "Marzo_2025":242,
   "Abril_2025":367,
-  "Mayo_2025":360
+  "Mayo_2025":360,
+  "Junio_2025":358
  }
 ]

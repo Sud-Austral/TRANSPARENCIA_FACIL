@@ -18,7 +18,8 @@
   "Febrero_2025":140,
   "Marzo_2025":140,
   "Abril_2025":143,
-  "Mayo_2025":142
+  "Mayo_2025":142,
+  "Junio_2025":136
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
@@ -39,7 +40,8 @@
   "Febrero_2025":192,
   "Marzo_2025":193,
   "Abril_2025":209,
-  "Mayo_2025":213
+  "Mayo_2025":213,
+  "Junio_2025":211
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
@@ -60,7 +62,8 @@
   "Febrero_2025":75,
   "Marzo_2025":88,
   "Abril_2025":88,
-  "Mayo_2025":76
+  "Mayo_2025":76,
+  "Junio_2025":116
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
@@ -81,6 +84,7 @@
   "Febrero_2025":276,
   "Marzo_2025":240,
   "Abril_2025":258,
-  "Mayo_2025":257
+  "Mayo_2025":257,
+  "Junio_2025":255
  }
 ]

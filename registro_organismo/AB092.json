@@ -18,7 +18,8 @@
   "Febrero_2025":339,
   "Marzo_2025":342,
   "Abril_2025":341,
-  "Mayo_2025":343
+  "Mayo_2025":343,
+  "Junio_2025":343
  },
  {
   "organismo_nombre":"Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (SENDA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":25,
   "Marzo_2025":25,
   "Abril_2025":26,
-  "Mayo_2025":26
+  "Mayo_2025":26,
+  "Junio_2025":25
  },
  {
   "organismo_nombre":"Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (SENDA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":21,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

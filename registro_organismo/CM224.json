@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Corporación Municipal de La Cultura y Las Artes de San Antonio",
@@ -37,8 +38,9 @@
   "Diciembre_2024":10,
   "Enero_2025":8,
   "Febrero_2025":25,
-  "Marzo_2025":12,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":15,
+  "Abril_2025":23,
+  "Mayo_2025":3,
+  "Junio_2025":14
  }
 ]

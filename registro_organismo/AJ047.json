@@ -18,7 +18,8 @@
   "Febrero_2025":5,
   "Marzo_2025":9,
   "Abril_2025":18,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":22
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Antofagasta (SLEP Antofagasta)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Antofagasta (SLEP Antofagasta)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  }
 ]

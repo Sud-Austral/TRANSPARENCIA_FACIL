@@ -18,7 +18,8 @@
   "Febrero_2025":131,
   "Marzo_2025":131,
   "Abril_2025":131,
-  "Mayo_2025":132
+  "Mayo_2025":132,
+  "Junio_2025":131
  },
  {
   "organismo_nombre":"SERVIU Región de Los Ríos",
@@ -39,7 +40,8 @@
   "Febrero_2025":5,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"SERVIU Región de Los Ríos",
@@ -60,6 +62,7 @@
   "Febrero_2025":5,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  }
 ]

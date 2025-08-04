@@ -18,7 +18,8 @@
   "Febrero_2025":475,
   "Marzo_2025":500,
   "Abril_2025":505,
-  "Mayo_2025":516
+  "Mayo_2025":516,
+  "Junio_2025":521
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
@@ -39,7 +40,8 @@
   "Febrero_2025":338,
   "Marzo_2025":509,
   "Abril_2025":349,
-  "Mayo_2025":235
+  "Mayo_2025":235,
+  "Junio_2025":367
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
@@ -56,11 +58,12 @@
   "Octubre_2024":259,
   "Noviembre_2024":362,
   "Diciembre_2024":369,
-  "Enero_2025":174,
-  "Febrero_2025":133,
-  "Marzo_2025":167,
-  "Abril_2025":306,
-  "Mayo_2025":316
+  "Enero_2025":184,
+  "Febrero_2025":145,
+  "Marzo_2025":180,
+  "Abril_2025":322,
+  "Mayo_2025":347,
+  "Junio_2025":306
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
@@ -81,6 +84,7 @@
   "Febrero_2025":927,
   "Marzo_2025":582,
   "Abril_2025":583,
-  "Mayo_2025":593
+  "Mayo_2025":596,
+  "Junio_2025":590
  }
 ]

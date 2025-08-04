@@ -18,7 +18,8 @@
   "Febrero_2025":222,
   "Marzo_2025":225,
   "Abril_2025":228,
-  "Mayo_2025":227
+  "Mayo_2025":227,
+  "Junio_2025":230
  },
  {
   "organismo_nombre":"Superintendencia de Pensiones (SP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":280,
   "Marzo_2025":280,
   "Abril_2025":276,
-  "Mayo_2025":278
+  "Mayo_2025":278,
+  "Junio_2025":278
  },
  {
   "organismo_nombre":"Superintendencia de Pensiones (SP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":32,
   "Marzo_2025":32,
   "Abril_2025":30,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":30
  }
 ]

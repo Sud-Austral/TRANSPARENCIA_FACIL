@@ -18,7 +18,8 @@
   "Febrero_2025":908,
   "Marzo_2025":912,
   "Abril_2025":906,
-  "Mayo_2025":901
+  "Mayo_2025":901,
+  "Junio_2025":907
  },
  {
   "organismo_nombre":"Subsecretaría de Servicios Sociales",
@@ -38,8 +39,9 @@
   "Enero_2025":65,
   "Febrero_2025":72,
   "Marzo_2025":74,
-  "Abril_2025":73,
-  "Mayo_2025":76
+  "Abril_2025":76,
+  "Mayo_2025":94,
+  "Junio_2025":92
  },
  {
   "organismo_nombre":"Subsecretaría de Servicios Sociales",
@@ -60,6 +62,7 @@
   "Febrero_2025":82,
   "Marzo_2025":80,
   "Abril_2025":79,
-  "Mayo_2025":79
+  "Mayo_2025":79,
+  "Junio_2025":78
  }
 ]

@@ -14,11 +14,12 @@
   "Octubre_2024":431,
   "Noviembre_2024":431,
   "Diciembre_2024":423,
-  "Enero_2025":360,
-  "Febrero_2025":353,
-  "Marzo_2025":337,
-  "Abril_2025":356,
-  "Mayo_2025":0
+  "Enero_2025":437,
+  "Febrero_2025":430,
+  "Marzo_2025":418,
+  "Abril_2025":437,
+  "Mayo_2025":430,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Teno",
@@ -35,11 +36,12 @@
   "Octubre_2024":205,
   "Noviembre_2024":204,
   "Diciembre_2024":107,
-  "Enero_2025":211,
-  "Febrero_2025":198,
-  "Marzo_2025":217,
+  "Enero_2025":219,
+  "Febrero_2025":207,
+  "Marzo_2025":218,
   "Abril_2025":228,
-  "Mayo_2025":0
+  "Mayo_2025":188,
+  "Junio_2025":74
  },
  {
   "organismo_nombre":"Municipalidad de Teno",
@@ -58,9 +60,10 @@
   "Diciembre_2024":147,
   "Enero_2025":23,
   "Febrero_2025":24,
-  "Marzo_2025":25,
-  "Abril_2025":21,
-  "Mayo_2025":0
+  "Marzo_2025":28,
+  "Abril_2025":24,
+  "Mayo_2025":11,
+  "Junio_2025":16
  },
  {
   "organismo_nombre":"Municipalidad de Teno",
@@ -81,6 +84,7 @@
   "Febrero_2025":157,
   "Marzo_2025":381,
   "Abril_2025":381,
-  "Mayo_2025":0
+  "Mayo_2025":316,
+  "Junio_2025":89
  }
 ]

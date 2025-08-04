@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
@@ -39,7 +40,8 @@
   "Febrero_2025":124,
   "Marzo_2025":129,
   "Abril_2025":129,
-  "Mayo_2025":129
+  "Mayo_2025":129,
+  "Junio_2025":129
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
@@ -81,6 +84,7 @@
   "Febrero_2025":27,
   "Marzo_2025":27,
   "Abril_2025":27,
-  "Mayo_2025":27
+  "Mayo_2025":27,
+  "Junio_2025":27
  }
 ]

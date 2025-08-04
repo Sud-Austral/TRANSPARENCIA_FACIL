@@ -18,7 +18,8 @@
   "Febrero_2025":71,
   "Marzo_2025":72,
   "Abril_2025":74,
-  "Mayo_2025":74
+  "Mayo_2025":74,
+  "Junio_2025":74
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
@@ -39,7 +40,8 @@
   "Febrero_2025":29,
   "Marzo_2025":45,
   "Abril_2025":48,
-  "Mayo_2025":48
+  "Mayo_2025":58,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
@@ -60,7 +62,8 @@
   "Febrero_2025":167,
   "Marzo_2025":137,
   "Abril_2025":142,
-  "Mayo_2025":131
+  "Mayo_2025":131,
+  "Junio_2025":130
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
@@ -81,6 +84,7 @@
   "Febrero_2025":65,
   "Marzo_2025":75,
   "Abril_2025":75,
-  "Mayo_2025":75
+  "Mayo_2025":85,
+  "Junio_2025":65
  }
 ]

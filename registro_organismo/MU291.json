@@ -18,7 +18,8 @@
   "Febrero_2025":6,
   "Marzo_2025":4,
   "Abril_2025":4,
-  "Mayo_2025":4
+  "Mayo_2025":4,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Municipalidad de San Joaquín",
@@ -39,7 +40,8 @@
   "Febrero_2025":234,
   "Marzo_2025":245,
   "Abril_2025":249,
-  "Mayo_2025":255
+  "Mayo_2025":255,
+  "Junio_2025":227
  },
  {
   "organismo_nombre":"Municipalidad de San Joaquín",
@@ -60,7 +62,8 @@
   "Febrero_2025":230,
   "Marzo_2025":221,
   "Abril_2025":214,
-  "Mayo_2025":258
+  "Mayo_2025":258,
+  "Junio_2025":244
  },
  {
   "organismo_nombre":"Municipalidad de San Joaquín",
@@ -81,6 +84,7 @@
   "Febrero_2025":222,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":224
+  "Mayo_2025":224,
+  "Junio_2025":212
  }
 ]

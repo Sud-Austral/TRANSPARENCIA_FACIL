@@ -18,7 +18,8 @@
   "Febrero_2025":43,
   "Marzo_2025":43,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
@@ -39,7 +40,8 @@
   "Febrero_2025":85,
   "Marzo_2025":95,
   "Abril_2025":84,
-  "Mayo_2025":84
+  "Mayo_2025":84,
+  "Junio_2025":98
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
@@ -60,7 +62,8 @@
   "Febrero_2025":340,
   "Marzo_2025":267,
   "Abril_2025":314,
-  "Mayo_2025":321
+  "Mayo_2025":321,
+  "Junio_2025":319
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
@@ -81,6 +84,7 @@
   "Febrero_2025":146,
   "Marzo_2025":146,
   "Abril_2025":146,
-  "Mayo_2025":147
+  "Mayo_2025":147,
+  "Junio_2025":146
  }
 ]

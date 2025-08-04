@@ -18,7 +18,8 @@
   "Febrero_2025":184,
   "Marzo_2025":155,
   "Abril_2025":164,
-  "Mayo_2025":163
+  "Mayo_2025":164,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
@@ -39,7 +40,8 @@
   "Febrero_2025":198,
   "Marzo_2025":201,
   "Abril_2025":213,
-  "Mayo_2025":146
+  "Mayo_2025":245,
+  "Junio_2025":71
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
@@ -60,7 +62,8 @@
   "Febrero_2025":155,
   "Marzo_2025":127,
   "Abril_2025":102,
-  "Mayo_2025":31
+  "Mayo_2025":125,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
@@ -81,6 +84,7 @@
   "Febrero_2025":258,
   "Marzo_2025":255,
   "Abril_2025":251,
-  "Mayo_2025":234
+  "Mayo_2025":252,
+  "Junio_2025":108
  }
 ]

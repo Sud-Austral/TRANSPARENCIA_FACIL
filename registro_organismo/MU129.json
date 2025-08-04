@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
@@ -39,7 +40,8 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":0
+  "Mayo_2025":12,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
@@ -60,7 +62,8 @@
   "Febrero_2025":93,
   "Marzo_2025":92,
   "Abril_2025":83,
-  "Mayo_2025":87
+  "Mayo_2025":87,
+  "Junio_2025":85
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
@@ -81,6 +84,7 @@
   "Febrero_2025":15,
   "Marzo_2025":15,
   "Abril_2025":15,
-  "Mayo_2025":0
+  "Mayo_2025":15,
+  "Junio_2025":14
  }
 ]

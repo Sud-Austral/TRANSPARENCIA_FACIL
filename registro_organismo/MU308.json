@@ -18,7 +18,8 @@
   "Febrero_2025":1829,
   "Marzo_2025":1622,
   "Abril_2025":1641,
-  "Mayo_2025":4
+  "Mayo_2025":4,
+  "Junio_2025":1658
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
@@ -35,11 +36,12 @@
   "Octubre_2024":2488,
   "Noviembre_2024":2452,
   "Diciembre_2024":2522,
-  "Enero_2025":2581,
+  "Enero_2025":2582,
   "Febrero_2025":2435,
-  "Marzo_2025":2332,
+  "Marzo_2025":2333,
   "Abril_2025":2450,
-  "Mayo_2025":1063
+  "Mayo_2025":1063,
+  "Junio_2025":1739
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
@@ -60,7 +62,8 @@
   "Febrero_2025":466,
   "Marzo_2025":541,
   "Abril_2025":570,
-  "Mayo_2025":485
+  "Mayo_2025":589,
+  "Junio_2025":115
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
@@ -80,7 +83,8 @@
   "Enero_2025":3210,
   "Febrero_2025":3169,
   "Marzo_2025":3180,
-  "Abril_2025":3057,
-  "Mayo_2025":1782
+  "Abril_2025":3179,
+  "Mayo_2025":1782,
+  "Junio_2025":1699
  }
 ]

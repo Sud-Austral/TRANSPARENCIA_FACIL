@@ -18,7 +18,8 @@
   "Febrero_2025":3265,
   "Marzo_2025":2908,
   "Abril_2025":2847,
-  "Mayo_2025":0
+  "Mayo_2025":3132,
+  "Junio_2025":3076
  },
  {
   "organismo_nombre":"Hospital Félix Bulnes",
@@ -39,7 +40,8 @@
   "Febrero_2025":17,
   "Marzo_2025":17,
   "Abril_2025":18,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Hospital Félix Bulnes",
@@ -60,6 +62,7 @@
   "Febrero_2025":900,
   "Marzo_2025":774,
   "Abril_2025":754,
-  "Mayo_2025":826
+  "Mayo_2025":826,
+  "Junio_2025":791
  }
 ]

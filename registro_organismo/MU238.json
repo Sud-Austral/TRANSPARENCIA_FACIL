@@ -18,7 +18,8 @@
   "Febrero_2025":210,
   "Marzo_2025":210,
   "Abril_2025":210,
-  "Mayo_2025":213
+  "Mayo_2025":213,
+  "Junio_2025":214
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
@@ -39,7 +40,8 @@
   "Febrero_2025":135,
   "Marzo_2025":145,
   "Abril_2025":148,
-  "Mayo_2025":151
+  "Mayo_2025":151,
+  "Junio_2025":151
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
@@ -60,7 +62,8 @@
   "Febrero_2025":125,
   "Marzo_2025":137,
   "Abril_2025":145,
-  "Mayo_2025":175
+  "Mayo_2025":175,
+  "Junio_2025":183
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
@@ -81,6 +84,7 @@
   "Febrero_2025":192,
   "Marzo_2025":191,
   "Abril_2025":184,
-  "Mayo_2025":182
+  "Mayo_2025":182,
+  "Junio_2025":181
  }
 ]

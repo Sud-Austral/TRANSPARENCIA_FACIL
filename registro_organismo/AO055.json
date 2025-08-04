@@ -18,28 +18,30 @@
   "Febrero_2025":2974,
   "Marzo_2025":3004,
   "Abril_2025":2997,
-  "Mayo_2025":2896
+  "Mayo_2025":2896,
+  "Junio_2025":2893
  },
  {
   "organismo_nombre":"Hospital Leonardo Guzmán de Antofagasta",
   "base":"Contratohonorarios",
-  "Enero_2024":223,
-  "Febrero_2024":148,
-  "Marzo_2024":175,
-  "Abril_2024":160,
-  "Mayo_2024":283,
-  "Junio_2024":207,
-  "Julio_2024":300,
-  "Agosto_2024":188,
-  "Septiembre_2024":472,
-  "Octubre_2024":294,
-  "Noviembre_2024":0,
-  "Diciembre_2024":211,
+  "Enero_2024":245,
+  "Febrero_2024":171,
+  "Marzo_2024":199,
+  "Abril_2024":184,
+  "Mayo_2024":24,
+  "Junio_2024":231,
+  "Julio_2024":324,
+  "Agosto_2024":212,
+  "Septiembre_2024":260,
+  "Octubre_2024":317,
+  "Noviembre_2024":258,
+  "Diciembre_2024":234,
   "Enero_2025":175,
   "Febrero_2025":179,
   "Marzo_2025":216,
   "Abril_2025":174,
-  "Mayo_2025":160
+  "Mayo_2025":160,
+  "Junio_2025":190
  },
  {
   "organismo_nombre":"Hospital Leonardo Guzmán de Antofagasta",
@@ -60,6 +62,7 @@
   "Febrero_2025":816,
   "Marzo_2025":771,
   "Abril_2025":747,
-  "Mayo_2025":703
+  "Mayo_2025":703,
+  "Junio_2025":678
  }
 ]

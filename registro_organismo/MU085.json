@@ -7,7 +7,7 @@
   "Marzo_2024":494,
   "Abril_2024":487,
   "Mayo_2024":241,
-  "Junio_2024":242,
+  "Junio_2024":243,
   "Julio_2024":240,
   "Agosto_2024":238,
   "Septiembre_2024":252,
@@ -18,7 +18,8 @@
   "Febrero_2025":555,
   "Marzo_2025":549,
   "Abril_2025":483,
-  "Mayo_2025":220
+  "Mayo_2025":220,
+  "Junio_2025":213
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
@@ -39,7 +40,8 @@
   "Febrero_2025":242,
   "Marzo_2025":220,
   "Abril_2025":249,
-  "Mayo_2025":251
+  "Mayo_2025":251,
+  "Junio_2025":246
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
@@ -60,7 +62,8 @@
   "Febrero_2025":328,
   "Marzo_2025":627,
   "Abril_2025":665,
-  "Mayo_2025":687
+  "Mayo_2025":687,
+  "Junio_2025":691
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
@@ -81,6 +84,7 @@
   "Febrero_2025":302,
   "Marzo_2025":301,
   "Abril_2025":301,
-  "Mayo_2025":302
+  "Mayo_2025":302,
+  "Junio_2025":301
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":30,
   "Marzo_2025":28,
   "Abril_2025":18,
-  "Mayo_2025":13
+  "Mayo_2025":13,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
@@ -39,7 +40,8 @@
   "Febrero_2025":520,
   "Marzo_2025":522,
   "Abril_2025":519,
-  "Mayo_2025":529
+  "Mayo_2025":529,
+  "Junio_2025":524
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
@@ -60,7 +62,8 @@
   "Febrero_2025":2872,
   "Marzo_2025":2910,
   "Abril_2025":2957,
-  "Mayo_2025":3069
+  "Mayo_2025":3473,
+  "Junio_2025":2620
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
@@ -81,6 +84,7 @@
   "Febrero_2025":964,
   "Marzo_2025":970,
   "Abril_2025":955,
-  "Mayo_2025":972
+  "Mayo_2025":972,
+  "Junio_2025":938
  }
 ]

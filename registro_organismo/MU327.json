@@ -18,7 +18,8 @@
   "Febrero_2025":406,
   "Marzo_2025":415,
   "Abril_2025":413,
-  "Mayo_2025":417
+  "Mayo_2025":417,
+  "Junio_2025":420
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
@@ -39,7 +40,8 @@
   "Febrero_2025":113,
   "Marzo_2025":125,
   "Abril_2025":131,
-  "Mayo_2025":128
+  "Mayo_2025":128,
+  "Junio_2025":128
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
@@ -60,7 +62,8 @@
   "Febrero_2025":160,
   "Marzo_2025":170,
   "Abril_2025":163,
-  "Mayo_2025":189
+  "Mayo_2025":189,
+  "Junio_2025":153
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
@@ -81,6 +84,7 @@
   "Febrero_2025":254,
   "Marzo_2025":256,
   "Abril_2025":251,
-  "Mayo_2025":248
+  "Mayo_2025":248,
+  "Junio_2025":248
  }
 ]

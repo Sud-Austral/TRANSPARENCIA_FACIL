@@ -18,7 +18,8 @@
   "Febrero_2025":80,
   "Marzo_2025":158,
   "Abril_2025":0,
-  "Mayo_2025":77
+  "Mayo_2025":77,
+  "Junio_2025":80
  },
  {
   "organismo_nombre":"Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala (INDESPA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":4,
   "Marzo_2025":4,
   "Abril_2025":4,
-  "Mayo_2025":4
+  "Mayo_2025":4,
+  "Junio_2025":4
  },
  {
   "organismo_nombre":"Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala (INDESPA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
@@ -39,7 +40,8 @@
   "Febrero_2025":106,
   "Marzo_2025":110,
   "Abril_2025":110,
-  "Mayo_2025":113
+  "Mayo_2025":113,
+  "Junio_2025":111
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":11,
   "Abril_2025":13,
-  "Mayo_2025":13
+  "Mayo_2025":13,
+  "Junio_2025":13
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
@@ -81,6 +84,7 @@
   "Febrero_2025":29,
   "Marzo_2025":29,
   "Abril_2025":29,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":30
  }
 ]

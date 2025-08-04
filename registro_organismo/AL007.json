@@ -18,7 +18,8 @@
   "Febrero_2025":672,
   "Marzo_2025":674,
   "Abril_2025":675,
-  "Mayo_2025":677
+  "Mayo_2025":677,
+  "Junio_2025":678
  },
  {
   "organismo_nombre":"Servicio Nacional de Capacitación y Empleo (SENCE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":28,
   "Marzo_2025":28,
   "Abril_2025":28,
-  "Mayo_2025":25
+  "Mayo_2025":25,
+  "Junio_2025":29
  },
  {
   "organismo_nombre":"Servicio Nacional de Capacitación y Empleo (SENCE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":16,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":19
  }
 ]

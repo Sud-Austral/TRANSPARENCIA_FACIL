@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
@@ -39,7 +40,8 @@
   "Febrero_2025":89,
   "Marzo_2025":92,
   "Abril_2025":89,
-  "Mayo_2025":96
+  "Mayo_2025":96,
+  "Junio_2025":87
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
@@ -60,7 +62,8 @@
   "Febrero_2025":178,
   "Marzo_2025":210,
   "Abril_2025":216,
-  "Mayo_2025":210
+  "Mayo_2025":210,
+  "Junio_2025":218
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
@@ -81,6 +84,7 @@
   "Febrero_2025":61,
   "Marzo_2025":61,
   "Abril_2025":60,
-  "Mayo_2025":61
+  "Mayo_2025":61,
+  "Junio_2025":60
  }
 ]

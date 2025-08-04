@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
@@ -39,7 +40,8 @@
   "Febrero_2025":104,
   "Marzo_2025":105,
   "Abril_2025":108,
-  "Mayo_2025":107
+  "Mayo_2025":107,
+  "Junio_2025":108
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
@@ -60,7 +62,8 @@
   "Febrero_2025":5,
   "Marzo_2025":5,
   "Abril_2025":3,
-  "Mayo_2025":4
+  "Mayo_2025":4,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
@@ -81,6 +84,7 @@
   "Febrero_2025":34,
   "Marzo_2025":34,
   "Abril_2025":35,
-  "Mayo_2025":35
+  "Mayo_2025":35,
+  "Junio_2025":34
  }
 ]

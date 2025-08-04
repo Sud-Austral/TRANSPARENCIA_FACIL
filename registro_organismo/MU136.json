@@ -18,7 +18,8 @@
   "Febrero_2025":518,
   "Marzo_2025":520,
   "Abril_2025":529,
-  "Mayo_2025":533
+  "Mayo_2025":533,
+  "Junio_2025":516
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
@@ -39,7 +40,8 @@
   "Febrero_2025":581,
   "Marzo_2025":525,
   "Abril_2025":548,
-  "Mayo_2025":307
+  "Mayo_2025":563,
+  "Junio_2025":243
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
@@ -60,7 +62,8 @@
   "Febrero_2025":287,
   "Marzo_2025":354,
   "Abril_2025":268,
-  "Mayo_2025":244
+  "Mayo_2025":342,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
@@ -81,6 +84,7 @@
   "Febrero_2025":672,
   "Marzo_2025":670,
   "Abril_2025":665,
-  "Mayo_2025":671
+  "Mayo_2025":671,
+  "Junio_2025":288
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":124,
   "Marzo_2025":117,
   "Abril_2025":125,
-  "Mayo_2025":129
+  "Mayo_2025":129,
+  "Junio_2025":131
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Octay",
@@ -39,7 +40,8 @@
   "Febrero_2025":126,
   "Marzo_2025":112,
   "Abril_2025":129,
-  "Mayo_2025":130
+  "Mayo_2025":130,
+  "Junio_2025":132
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Octay",
@@ -58,9 +60,10 @@
   "Diciembre_2024":53,
   "Enero_2025":23,
   "Febrero_2025":27,
-  "Marzo_2025":33,
-  "Abril_2025":61,
-  "Mayo_2025":0
+  "Marzo_2025":34,
+  "Abril_2025":62,
+  "Mayo_2025":46,
+  "Junio_2025":40
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Octay",
@@ -81,6 +84,7 @@
   "Febrero_2025":147,
   "Marzo_2025":149,
   "Abril_2025":146,
-  "Mayo_2025":147
+  "Mayo_2025":147,
+  "Junio_2025":147
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":2905,
   "Marzo_2025":2731,
   "Abril_2025":3036,
-  "Mayo_2025":2771
+  "Mayo_2025":2771,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de las Higueras",
@@ -39,7 +40,8 @@
   "Febrero_2025":47,
   "Marzo_2025":47,
   "Abril_2025":47,
-  "Mayo_2025":70
+  "Mayo_2025":70,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de las Higueras",
@@ -60,6 +62,7 @@
   "Febrero_2025":787,
   "Marzo_2025":1235,
   "Abril_2025":779,
-  "Mayo_2025":775
+  "Mayo_2025":775,
+  "Junio_2025":0
  }
 ]

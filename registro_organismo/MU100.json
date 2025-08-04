@@ -18,7 +18,8 @@
   "Febrero_2025":371,
   "Marzo_2025":371,
   "Abril_2025":364,
-  "Mayo_2025":367
+  "Mayo_2025":367,
+  "Junio_2025":364
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
@@ -39,7 +40,8 @@
   "Febrero_2025":129,
   "Marzo_2025":129,
   "Abril_2025":132,
-  "Mayo_2025":136
+  "Mayo_2025":136,
+  "Junio_2025":140
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
@@ -60,7 +62,8 @@
   "Febrero_2025":136,
   "Marzo_2025":143,
   "Abril_2025":128,
-  "Mayo_2025":151
+  "Mayo_2025":151,
+  "Junio_2025":197
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
@@ -81,6 +84,7 @@
   "Febrero_2025":172,
   "Marzo_2025":174,
   "Abril_2025":171,
-  "Mayo_2025":169
+  "Mayo_2025":169,
+  "Junio_2025":169
  }
 ]

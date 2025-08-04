@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":105,
   "Marzo_2025":106,
   "Abril_2025":106,
-  "Mayo_2025":106
+  "Mayo_2025":106,
+  "Junio_2025":105
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
@@ -60,7 +62,8 @@
   "Febrero_2025":8,
   "Marzo_2025":8,
   "Abril_2025":7,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":25,
   "Marzo_2025":25,
   "Abril_2025":26,
-  "Mayo_2025":26
+  "Mayo_2025":26,
+  "Junio_2025":26
  }
 ]

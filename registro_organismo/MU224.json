@@ -18,7 +18,8 @@
   "Febrero_2025":97,
   "Marzo_2025":97,
   "Abril_2025":97,
-  "Mayo_2025":97
+  "Mayo_2025":97,
+  "Junio_2025":97
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
@@ -39,7 +40,8 @@
   "Febrero_2025":86,
   "Marzo_2025":116,
   "Abril_2025":57,
-  "Mayo_2025":85
+  "Mayo_2025":85,
+  "Junio_2025":86
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
@@ -49,18 +51,19 @@
   "Marzo_2024":98,
   "Abril_2024":111,
   "Mayo_2024":119,
-  "Junio_2024":112,
+  "Junio_2024":113,
   "Julio_2024":123,
   "Agosto_2024":129,
   "Septiembre_2024":140,
   "Octubre_2024":143,
   "Noviembre_2024":137,
-  "Diciembre_2024":148,
+  "Diciembre_2024":149,
   "Enero_2025":107,
   "Febrero_2025":111,
   "Marzo_2025":107,
-  "Abril_2025":27,
-  "Mayo_2025":27
+  "Abril_2025":112,
+  "Mayo_2025":121,
+  "Junio_2025":139
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
@@ -81,6 +84,7 @@
   "Febrero_2025":132,
   "Marzo_2025":164,
   "Abril_2025":100,
-  "Mayo_2025":134
+  "Mayo_2025":134,
+  "Junio_2025":134
  }
 ]

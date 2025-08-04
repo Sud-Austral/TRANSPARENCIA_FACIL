@@ -14,11 +14,12 @@
   "Octubre_2024":4,
   "Noviembre_2024":5,
   "Diciembre_2024":4,
-  "Enero_2025":7,
-  "Febrero_2025":8,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Enero_2025":8,
+  "Febrero_2025":7,
+  "Marzo_2025":5,
+  "Abril_2025":4,
+  "Mayo_2025":4,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
@@ -39,7 +40,8 @@
   "Febrero_2025":69,
   "Marzo_2025":69,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
@@ -58,9 +60,10 @@
   "Diciembre_2024":289,
   "Enero_2025":292,
   "Febrero_2025":339,
-  "Marzo_2025":308,
+  "Marzo_2025":307,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
@@ -81,6 +84,7 @@
   "Febrero_2025":47,
   "Marzo_2025":47,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

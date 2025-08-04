@@ -18,7 +18,8 @@
   "Febrero_2025":276,
   "Marzo_2025":250,
   "Abril_2025":255,
-  "Mayo_2025":1
+  "Mayo_2025":257,
+  "Junio_2025":260
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
@@ -39,7 +40,8 @@
   "Febrero_2025":157,
   "Marzo_2025":162,
   "Abril_2025":159,
-  "Mayo_2025":33
+  "Mayo_2025":162,
+  "Junio_2025":164
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
@@ -60,7 +62,8 @@
   "Febrero_2025":189,
   "Marzo_2025":187,
   "Abril_2025":195,
-  "Mayo_2025":193
+  "Mayo_2025":193,
+  "Junio_2025":199
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
@@ -81,6 +84,7 @@
   "Febrero_2025":272,
   "Marzo_2025":269,
   "Abril_2025":270,
-  "Mayo_2025":188
+  "Mayo_2025":271,
+  "Junio_2025":269
  }
 ]

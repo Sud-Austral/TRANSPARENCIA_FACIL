@@ -18,7 +18,8 @@
   "Febrero_2025":114,
   "Marzo_2025":115,
   "Abril_2025":115,
-  "Mayo_2025":0
+  "Mayo_2025":119,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Río Negro",
@@ -39,7 +40,8 @@
   "Febrero_2025":111,
   "Marzo_2025":111,
   "Abril_2025":117,
-  "Mayo_2025":0
+  "Mayo_2025":118,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Río Negro",
@@ -60,7 +62,8 @@
   "Febrero_2025":105,
   "Marzo_2025":98,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Río Negro",
@@ -81,6 +84,7 @@
   "Febrero_2025":235,
   "Marzo_2025":234,
   "Abril_2025":231,
-  "Mayo_2025":0
+  "Mayo_2025":236,
+  "Junio_2025":0
  }
 ]

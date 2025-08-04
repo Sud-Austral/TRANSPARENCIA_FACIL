@@ -18,7 +18,8 @@
   "Febrero_2025":80,
   "Marzo_2025":78,
   "Abril_2025":75,
-  "Mayo_2025":122
+  "Mayo_2025":73,
+  "Junio_2025":71
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
@@ -39,7 +40,8 @@
   "Febrero_2025":502,
   "Marzo_2025":510,
   "Abril_2025":527,
-  "Mayo_2025":520
+  "Mayo_2025":520,
+  "Junio_2025":531
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
@@ -60,7 +62,8 @@
   "Febrero_2025":1037,
   "Marzo_2025":1025,
   "Abril_2025":1085,
-  "Mayo_2025":1127
+  "Mayo_2025":1127,
+  "Junio_2025":1105
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
@@ -81,6 +84,7 @@
   "Febrero_2025":933,
   "Marzo_2025":933,
   "Abril_2025":935,
-  "Mayo_2025":0
+  "Mayo_2025":922,
+  "Junio_2025":920
  }
 ]

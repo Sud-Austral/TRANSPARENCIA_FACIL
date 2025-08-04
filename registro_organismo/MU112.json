@@ -18,7 +18,8 @@
   "Febrero_2025":645,
   "Marzo_2025":664,
   "Abril_2025":663,
-  "Mayo_2025":651
+  "Mayo_2025":651,
+  "Junio_2025":652
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
@@ -39,7 +40,8 @@
   "Febrero_2025":158,
   "Marzo_2025":158,
   "Abril_2025":159,
-  "Mayo_2025":0
+  "Mayo_2025":158,
+  "Junio_2025":164
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
@@ -58,9 +60,10 @@
   "Diciembre_2024":4,
   "Enero_2025":7,
   "Febrero_2025":7,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":7,
+  "Abril_2025":7,
+  "Mayo_2025":9,
+  "Junio_2025":10
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
@@ -81,6 +84,7 @@
   "Febrero_2025":262,
   "Marzo_2025":262,
   "Abril_2025":261,
-  "Mayo_2025":262
+  "Mayo_2025":262,
+  "Junio_2025":265
  }
 ]

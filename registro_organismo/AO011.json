@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
@@ -39,7 +40,8 @@
   "Febrero_2025":1734,
   "Marzo_2025":1714,
   "Abril_2025":1730,
-  "Mayo_2025":1731
+  "Mayo_2025":1731,
+  "Junio_2025":1692
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
@@ -60,7 +62,8 @@
   "Febrero_2025":84,
   "Marzo_2025":81,
   "Abril_2025":80,
-  "Mayo_2025":124
+  "Mayo_2025":124,
+  "Junio_2025":136
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
@@ -81,6 +84,7 @@
   "Febrero_2025":544,
   "Marzo_2025":524,
   "Abril_2025":495,
-  "Mayo_2025":490
+  "Mayo_2025":490,
+  "Junio_2025":504
  }
 ]

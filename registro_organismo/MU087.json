@@ -18,7 +18,8 @@
   "Febrero_2025":48,
   "Marzo_2025":48,
   "Abril_2025":48,
-  "Mayo_2025":49
+  "Mayo_2025":49,
+  "Junio_2025":49
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
@@ -39,7 +40,8 @@
   "Febrero_2025":60,
   "Marzo_2025":59,
   "Abril_2025":59,
-  "Mayo_2025":57
+  "Mayo_2025":57,
+  "Junio_2025":55
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
@@ -60,7 +62,8 @@
   "Febrero_2025":10,
   "Marzo_2025":25,
   "Abril_2025":26,
-  "Mayo_2025":28
+  "Mayo_2025":28,
+  "Junio_2025":37
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
@@ -81,6 +84,7 @@
   "Febrero_2025":57,
   "Marzo_2025":57,
   "Abril_2025":57,
-  "Mayo_2025":57
+  "Mayo_2025":57,
+  "Junio_2025":57
  }
 ]

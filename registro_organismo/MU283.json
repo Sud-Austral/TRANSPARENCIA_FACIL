@@ -18,7 +18,8 @@
   "Febrero_2025":524,
   "Marzo_2025":576,
   "Abril_2025":616,
-  "Mayo_2025":630
+  "Mayo_2025":630,
+  "Junio_2025":29
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
@@ -39,7 +40,8 @@
   "Febrero_2025":472,
   "Marzo_2025":509,
   "Abril_2025":532,
-  "Mayo_2025":459
+  "Mayo_2025":459,
+  "Junio_2025":450
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
@@ -60,7 +62,8 @@
   "Febrero_2025":321,
   "Marzo_2025":339,
   "Abril_2025":353,
-  "Mayo_2025":412
+  "Mayo_2025":412,
+  "Junio_2025":433
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
@@ -81,6 +84,7 @@
   "Febrero_2025":795,
   "Marzo_2025":714,
   "Abril_2025":717,
-  "Mayo_2025":810
+  "Mayo_2025":810,
+  "Junio_2025":807
  }
 ]

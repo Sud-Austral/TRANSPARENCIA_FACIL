@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":4,
-  "Mayo_2025":4
+  "Mayo_2025":4,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
@@ -39,7 +40,8 @@
   "Febrero_2025":118,
   "Marzo_2025":116,
   "Abril_2025":119,
-  "Mayo_2025":39
+  "Mayo_2025":118,
+  "Junio_2025":39
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
@@ -60,7 +62,8 @@
   "Febrero_2025":287,
   "Marzo_2025":349,
   "Abril_2025":300,
-  "Mayo_2025":102
+  "Mayo_2025":317,
+  "Junio_2025":320
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
@@ -81,6 +84,7 @@
   "Febrero_2025":159,
   "Marzo_2025":160,
   "Abril_2025":158,
-  "Mayo_2025":31
+  "Mayo_2025":159,
+  "Junio_2025":30
  }
 ]

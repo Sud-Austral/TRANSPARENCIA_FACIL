@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
@@ -39,7 +40,8 @@
   "Febrero_2025":304,
   "Marzo_2025":299,
   "Abril_2025":302,
-  "Mayo_2025":300
+  "Mayo_2025":300,
+  "Junio_2025":293
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
@@ -60,7 +62,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
@@ -81,6 +84,7 @@
   "Febrero_2025":17,
   "Marzo_2025":17,
   "Abril_2025":16,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":16
  }
 ]

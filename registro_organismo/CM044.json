@@ -18,7 +18,8 @@
   "Febrero_2025":2093,
   "Marzo_2025":2039,
   "Abril_2025":2072,
-  "Mayo_2025":2090
+  "Mayo_2025":2090,
+  "Junio_2025":2094
  },
  {
   "organismo_nombre":"Corporación Municipal de Puente Alto",
@@ -39,7 +40,8 @@
   "Febrero_2025":1277,
   "Marzo_2025":1354,
   "Abril_2025":1467,
-  "Mayo_2025":1426
+  "Mayo_2025":1426,
+  "Junio_2025":1416
  },
  {
   "organismo_nombre":"Corporación Municipal de Puente Alto",
@@ -60,7 +62,8 @@
   "Febrero_2025":1927,
   "Marzo_2025":1898,
   "Abril_2025":2276,
-  "Mayo_2025":2594
+  "Mayo_2025":2598,
+  "Junio_2025":2524
  },
  {
   "organismo_nombre":"Corporación Municipal de Puente Alto",
@@ -81,6 +84,7 @@
   "Febrero_2025":1996,
   "Marzo_2025":1993,
   "Abril_2025":1987,
-  "Mayo_2025":1972
+  "Mayo_2025":1972,
+  "Junio_2025":1966
  }
 ]

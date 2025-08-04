@@ -18,7 +18,8 @@
   "Febrero_2025":428,
   "Marzo_2025":405,
   "Abril_2025":410,
-  "Mayo_2025":411
+  "Mayo_2025":411,
+  "Junio_2025":412
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
@@ -39,15 +40,16 @@
   "Febrero_2025":500,
   "Marzo_2025":528,
   "Abril_2025":532,
-  "Mayo_2025":538
+  "Mayo_2025":538,
+  "Junio_2025":521
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
   "base":"Contratohonorarios",
   "Enero_2024":131,
-  "Febrero_2024":253,
-  "Marzo_2024":187,
-  "Abril_2024":214,
+  "Febrero_2024":248,
+  "Marzo_2024":172,
+  "Abril_2024":202,
   "Mayo_2024":231,
   "Junio_2024":230,
   "Julio_2024":279,
@@ -58,9 +60,10 @@
   "Diciembre_2024":289,
   "Enero_2025":150,
   "Febrero_2025":248,
-  "Marzo_2025":254,
+  "Marzo_2025":280,
   "Abril_2025":231,
-  "Mayo_2025":155
+  "Mayo_2025":233,
+  "Junio_2025":221
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
@@ -81,6 +84,7 @@
   "Febrero_2025":664,
   "Marzo_2025":652,
   "Abril_2025":650,
-  "Mayo_2025":649
+  "Mayo_2025":649,
+  "Junio_2025":641
  }
 ]

@@ -17,8 +17,9 @@
   "Enero_2025":3,
   "Febrero_2025":1,
   "Marzo_2025":3,
-  "Abril_2025":0,
-  "Mayo_2025":47
+  "Abril_2025":49,
+  "Mayo_2025":53,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Natales",
@@ -39,6 +40,7 @@
   "Febrero_2025":3,
   "Marzo_2025":9,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

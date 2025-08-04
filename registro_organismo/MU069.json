@@ -18,7 +18,8 @@
   "Febrero_2025":36,
   "Marzo_2025":36,
   "Abril_2025":35,
-  "Mayo_2025":36
+  "Mayo_2025":36,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
@@ -39,7 +40,8 @@
   "Febrero_2025":26,
   "Marzo_2025":25,
   "Abril_2025":36,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":26
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
@@ -60,7 +62,8 @@
   "Febrero_2025":116,
   "Marzo_2025":70,
   "Abril_2025":71,
-  "Mayo_2025":70
+  "Mayo_2025":70,
+  "Junio_2025":63
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
@@ -81,6 +84,7 @@
   "Febrero_2025":51,
   "Marzo_2025":36,
   "Abril_2025":44,
-  "Mayo_2025":44
+  "Mayo_2025":44,
+  "Junio_2025":45
  }
 ]

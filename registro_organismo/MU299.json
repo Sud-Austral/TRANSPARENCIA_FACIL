@@ -18,7 +18,8 @@
   "Febrero_2025":114,
   "Marzo_2025":251,
   "Abril_2025":97,
-  "Mayo_2025":92
+  "Mayo_2025":224,
+  "Junio_2025":92
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
@@ -36,10 +37,11 @@
   "Noviembre_2024":710,
   "Diciembre_2024":418,
   "Enero_2025":383,
-  "Febrero_2025":89,
+  "Febrero_2025":356,
   "Marzo_2025":87,
   "Abril_2025":352,
-  "Mayo_2025":352
+  "Mayo_2025":352,
+  "Junio_2025":345
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
@@ -53,14 +55,15 @@
   "Julio_2024":318,
   "Agosto_2024":475,
   "Septiembre_2024":486,
-  "Octubre_2024":341,
+  "Octubre_2024":502,
   "Noviembre_2024":353,
   "Diciembre_2024":282,
   "Enero_2025":281,
-  "Febrero_2025":429,
-  "Marzo_2025":215,
-  "Abril_2025":141,
-  "Mayo_2025":228
+  "Febrero_2025":334,
+  "Marzo_2025":354,
+  "Abril_2025":373,
+  "Mayo_2025":381,
+  "Junio_2025":389
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
@@ -78,9 +81,10 @@
   "Noviembre_2024":1124,
   "Diciembre_2024":845,
   "Enero_2025":842,
-  "Febrero_2025":188,
+  "Febrero_2025":846,
   "Marzo_2025":187,
   "Abril_2025":841,
-  "Mayo_2025":844
+  "Mayo_2025":844,
+  "Junio_2025":837
  }
 ]

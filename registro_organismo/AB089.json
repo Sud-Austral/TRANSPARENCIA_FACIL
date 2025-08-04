@@ -18,7 +18,8 @@
   "Febrero_2025":2,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
@@ -39,7 +40,8 @@
   "Febrero_2025":229,
   "Marzo_2025":115,
   "Abril_2025":116,
-  "Mayo_2025":116
+  "Mayo_2025":116,
+  "Junio_2025":116
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
@@ -60,7 +62,8 @@
   "Febrero_2025":6,
   "Marzo_2025":7,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
@@ -81,6 +84,7 @@
   "Febrero_2025":32,
   "Marzo_2025":17,
   "Abril_2025":17,
-  "Mayo_2025":16
+  "Mayo_2025":16,
+  "Junio_2025":16
  }
 ]

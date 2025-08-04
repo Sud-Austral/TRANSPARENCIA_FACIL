@@ -18,7 +18,8 @@
   "Febrero_2025":12,
   "Marzo_2025":12,
   "Abril_2025":12,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Antonio",
@@ -39,7 +40,8 @@
   "Febrero_2025":12,
   "Marzo_2025":4,
   "Abril_2025":22,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Antonio",
@@ -60,6 +62,7 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  }
 ]

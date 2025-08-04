@@ -18,7 +18,8 @@
   "Febrero_2025":105,
   "Marzo_2025":113,
   "Abril_2025":117,
-  "Mayo_2025":117
+  "Mayo_2025":117,
+  "Junio_2025":115
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
@@ -39,7 +40,8 @@
   "Febrero_2025":80,
   "Marzo_2025":89,
   "Abril_2025":99,
-  "Mayo_2025":101
+  "Mayo_2025":101,
+  "Junio_2025":103
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
@@ -60,7 +62,8 @@
   "Febrero_2025":33,
   "Marzo_2025":27,
   "Abril_2025":32,
-  "Mayo_2025":30
+  "Mayo_2025":31,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
@@ -81,6 +84,7 @@
   "Febrero_2025":136,
   "Marzo_2025":134,
   "Abril_2025":133,
-  "Mayo_2025":132
+  "Mayo_2025":132,
+  "Junio_2025":134
  }
 ]

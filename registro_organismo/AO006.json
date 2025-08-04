@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
@@ -39,7 +40,8 @@
   "Febrero_2025":306,
   "Marzo_2025":307,
   "Abril_2025":307,
-  "Mayo_2025":307
+  "Mayo_2025":307,
+  "Junio_2025":307
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":7
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
@@ -81,6 +84,7 @@
   "Febrero_2025":24,
   "Marzo_2025":24,
   "Abril_2025":23,
-  "Mayo_2025":24
+  "Mayo_2025":24,
+  "Junio_2025":23
  }
 ]

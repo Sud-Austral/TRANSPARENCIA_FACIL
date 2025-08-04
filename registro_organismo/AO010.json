@@ -18,7 +18,8 @@
   "Febrero_2025":1858,
   "Marzo_2025":1875,
   "Abril_2025":1902,
-  "Mayo_2025":1887
+  "Mayo_2025":1887,
+  "Junio_2025":1908
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Oriente",
@@ -39,7 +40,8 @@
   "Febrero_2025":62,
   "Marzo_2025":108,
   "Abril_2025":102,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":134
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Oriente",
@@ -60,6 +62,7 @@
   "Febrero_2025":86,
   "Marzo_2025":88,
   "Abril_2025":84,
-  "Mayo_2025":79
+  "Mayo_2025":79,
+  "Junio_2025":79
  }
 ]

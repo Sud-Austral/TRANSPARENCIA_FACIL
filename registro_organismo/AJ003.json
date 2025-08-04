@@ -18,7 +18,8 @@
   "Febrero_2025":31,
   "Marzo_2025":31,
   "Abril_2025":62,
-  "Mayo_2025":0
+  "Mayo_2025":31,
+  "Junio_2025":31
  },
  {
   "organismo_nombre":"Consejo Nacional de Educación (CNED)",
@@ -39,6 +40,7 @@
   "Febrero_2025":15,
   "Marzo_2025":24,
   "Abril_2025":47,
-  "Mayo_2025":42
+  "Mayo_2025":43,
+  "Junio_2025":71
  }
 ]

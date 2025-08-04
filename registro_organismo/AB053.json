@@ -18,7 +18,8 @@
   "Febrero_2025":21,
   "Marzo_2025":21,
   "Abril_2025":21,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Malleco",
@@ -39,7 +40,8 @@
   "Febrero_2025":25,
   "Marzo_2025":22,
   "Abril_2025":25,
-  "Mayo_2025":0
+  "Mayo_2025":5,
+  "Junio_2025":8
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Malleco",
@@ -60,6 +62,7 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  }
 ]

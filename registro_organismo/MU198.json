@@ -18,7 +18,8 @@
   "Febrero_2025":67,
   "Marzo_2025":70,
   "Abril_2025":68,
-  "Mayo_2025":65
+  "Mayo_2025":65,
+  "Junio_2025":66
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
@@ -38,8 +39,9 @@
   "Enero_2025":47,
   "Febrero_2025":46,
   "Marzo_2025":43,
-  "Abril_2025":52,
-  "Mayo_2025":53
+  "Abril_2025":54,
+  "Mayo_2025":53,
+  "Junio_2025":53
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
@@ -60,7 +62,8 @@
   "Febrero_2025":7,
   "Marzo_2025":6,
   "Abril_2025":11,
-  "Mayo_2025":13
+  "Mayo_2025":15,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
@@ -81,6 +84,7 @@
   "Febrero_2025":54,
   "Marzo_2025":54,
   "Abril_2025":53,
-  "Mayo_2025":54
+  "Mayo_2025":54,
+  "Junio_2025":52
  }
 ]

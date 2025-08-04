@@ -18,7 +18,8 @@
   "Febrero_2025":450,
   "Marzo_2025":434,
   "Abril_2025":426,
-  "Mayo_2025":413
+  "Mayo_2025":413,
+  "Junio_2025":426
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
@@ -39,7 +40,8 @@
   "Febrero_2025":336,
   "Marzo_2025":334,
   "Abril_2025":345,
-  "Mayo_2025":354
+  "Mayo_2025":354,
+  "Junio_2025":339
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
@@ -49,7 +51,7 @@
   "Marzo_2024":187,
   "Abril_2024":163,
   "Mayo_2024":210,
-  "Junio_2024":209,
+  "Junio_2024":212,
   "Julio_2024":233,
   "Agosto_2024":261,
   "Septiembre_2024":249,
@@ -60,7 +62,8 @@
   "Febrero_2025":138,
   "Marzo_2025":141,
   "Abril_2025":149,
-  "Mayo_2025":189
+  "Mayo_2025":192,
+  "Junio_2025":220
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
@@ -81,6 +84,7 @@
   "Febrero_2025":648,
   "Marzo_2025":646,
   "Abril_2025":646,
-  "Mayo_2025":639
+  "Mayo_2025":640,
+  "Junio_2025":634
  }
 ]

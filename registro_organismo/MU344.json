@@ -18,7 +18,8 @@
   "Febrero_2025":258,
   "Marzo_2025":279,
   "Abril_2025":279,
-  "Mayo_2025":281
+  "Mayo_2025":283,
+  "Junio_2025":266
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
@@ -39,7 +40,8 @@
   "Febrero_2025":140,
   "Marzo_2025":114,
   "Abril_2025":162,
-  "Mayo_2025":124
+  "Mayo_2025":124,
+  "Junio_2025":157
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
@@ -60,7 +62,8 @@
   "Febrero_2025":70,
   "Marzo_2025":52,
   "Abril_2025":102,
-  "Mayo_2025":22
+  "Mayo_2025":101,
+  "Junio_2025":81
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
@@ -81,6 +84,7 @@
   "Febrero_2025":257,
   "Marzo_2025":256,
   "Abril_2025":254,
-  "Mayo_2025":252
+  "Mayo_2025":252,
+  "Junio_2025":251
  }
 ]

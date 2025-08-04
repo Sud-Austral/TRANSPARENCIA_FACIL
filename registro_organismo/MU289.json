@@ -13,12 +13,13 @@
   "Septiembre_2024":237,
   "Octubre_2024":237,
   "Noviembre_2024":237,
-  "Diciembre_2024":33,
+  "Diciembre_2024":31,
   "Enero_2025":208,
-  "Febrero_2025":223,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":14
+  "Febrero_2025":224,
+  "Marzo_2025":441,
+  "Abril_2025":442,
+  "Mayo_2025":264,
+  "Junio_2025":29
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
@@ -37,9 +38,10 @@
   "Diciembre_2024":246,
   "Enero_2025":263,
   "Febrero_2025":263,
-  "Marzo_2025":214,
-  "Abril_2025":202,
-  "Mayo_2025":198
+  "Marzo_2025":262,
+  "Abril_2025":254,
+  "Mayo_2025":253,
+  "Junio_2025":196
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
@@ -60,7 +62,8 @@
   "Febrero_2025":103,
   "Marzo_2025":95,
   "Abril_2025":64,
-  "Mayo_2025":87
+  "Mayo_2025":147,
+  "Junio_2025":101
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
@@ -79,8 +82,9 @@
   "Diciembre_2024":221,
   "Enero_2025":387,
   "Febrero_2025":385,
-  "Marzo_2025":207,
-  "Abril_2025":216,
-  "Mayo_2025":211
+  "Marzo_2025":377,
+  "Abril_2025":387,
+  "Mayo_2025":380,
+  "Junio_2025":219
  }
 ]

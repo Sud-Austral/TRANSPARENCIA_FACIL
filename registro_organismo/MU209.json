@@ -14,11 +14,12 @@
   "Octubre_2024":79,
   "Noviembre_2024":80,
   "Diciembre_2024":80,
-  "Enero_2025":79,
-  "Febrero_2025":80,
-  "Marzo_2025":83,
-  "Abril_2025":81,
-  "Mayo_2025":0
+  "Enero_2025":80,
+  "Febrero_2025":81,
+  "Marzo_2025":84,
+  "Abril_2025":82,
+  "Mayo_2025":81,
+  "Junio_2025":81
  },
  {
   "organismo_nombre":"Municipalidad de Pencahue",
@@ -39,7 +40,8 @@
   "Febrero_2025":106,
   "Marzo_2025":119,
   "Abril_2025":122,
-  "Mayo_2025":0
+  "Mayo_2025":128,
+  "Junio_2025":122
  },
  {
   "organismo_nombre":"Municipalidad de Pencahue",
@@ -60,7 +62,8 @@
   "Febrero_2025":176,
   "Marzo_2025":172,
   "Abril_2025":213,
-  "Mayo_2025":0
+  "Mayo_2025":195,
+  "Junio_2025":190
  },
  {
   "organismo_nombre":"Municipalidad de Pencahue",
@@ -81,6 +84,7 @@
   "Febrero_2025":191,
   "Marzo_2025":187,
   "Abril_2025":188,
-  "Mayo_2025":0
+  "Mayo_2025":187,
+  "Junio_2025":187
  }
 ]

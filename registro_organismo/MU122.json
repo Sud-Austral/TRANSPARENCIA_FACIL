@@ -18,7 +18,8 @@
   "Febrero_2025":106,
   "Marzo_2025":112,
   "Abril_2025":112,
-  "Mayo_2025":113
+  "Mayo_2025":113,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
@@ -37,9 +38,10 @@
   "Diciembre_2024":111,
   "Enero_2025":110,
   "Febrero_2025":109,
-  "Marzo_2025":108,
+  "Marzo_2025":109,
   "Abril_2025":117,
-  "Mayo_2025":117
+  "Mayo_2025":117,
+  "Junio_2025":26
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
@@ -60,7 +62,8 @@
   "Febrero_2025":48,
   "Marzo_2025":66,
   "Abril_2025":79,
-  "Mayo_2025":86
+  "Mayo_2025":86,
+  "Junio_2025":60
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
@@ -81,6 +84,7 @@
   "Febrero_2025":142,
   "Marzo_2025":139,
   "Abril_2025":145,
-  "Mayo_2025":139
+  "Mayo_2025":139,
+  "Junio_2025":29
  }
 ]

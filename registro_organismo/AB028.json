@@ -18,7 +18,8 @@
   "Febrero_2025":14,
   "Marzo_2025":14,
   "Abril_2025":14,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":14
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tocopilla",
@@ -39,7 +40,8 @@
   "Febrero_2025":3,
   "Marzo_2025":13,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tocopilla",
@@ -60,6 +62,7 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  }
 ]

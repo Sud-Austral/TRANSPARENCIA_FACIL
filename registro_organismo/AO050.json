@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
@@ -39,7 +40,8 @@
   "Febrero_2025":134,
   "Marzo_2025":134,
   "Abril_2025":132,
-  "Mayo_2025":132
+  "Mayo_2025":132,
+  "Junio_2025":131
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
@@ -81,6 +84,7 @@
   "Febrero_2025":9,
   "Marzo_2025":9,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
@@ -39,7 +40,8 @@
   "Febrero_2025":67,
   "Marzo_2025":67,
   "Abril_2025":68,
-  "Mayo_2025":68
+  "Mayo_2025":68,
+  "Junio_2025":68
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
@@ -49,7 +51,7 @@
   "Marzo_2024":397,
   "Abril_2024":449,
   "Mayo_2024":445,
-  "Junio_2024":500,
+  "Junio_2024":501,
   "Julio_2024":499,
   "Agosto_2024":512,
   "Septiembre_2024":518,
@@ -60,7 +62,8 @@
   "Febrero_2025":886,
   "Marzo_2025":469,
   "Abril_2025":462,
-  "Mayo_2025":492
+  "Mayo_2025":492,
+  "Junio_2025":496
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
@@ -81,6 +84,7 @@
   "Febrero_2025":94,
   "Marzo_2025":95,
   "Abril_2025":92,
-  "Mayo_2025":95
+  "Mayo_2025":95,
+  "Junio_2025":91
  }
 ]

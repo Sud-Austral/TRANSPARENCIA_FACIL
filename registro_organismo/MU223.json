@@ -18,7 +18,8 @@
   "Febrero_2025":9,
   "Marzo_2025":9,
   "Abril_2025":9,
-  "Mayo_2025":9
+  "Mayo_2025":9,
+  "Junio_2025":9
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
@@ -39,7 +40,8 @@
   "Febrero_2025":60,
   "Marzo_2025":61,
   "Abril_2025":59,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":53
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
@@ -60,7 +62,8 @@
   "Febrero_2025":83,
   "Marzo_2025":61,
   "Abril_2025":75,
-  "Mayo_2025":84
+  "Mayo_2025":84,
+  "Junio_2025":84
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":123,
   "Marzo_2025":123,
   "Abril_2025":122,
-  "Mayo_2025":123
+  "Mayo_2025":123,
+  "Junio_2025":123
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1047,
   "Marzo_2025":1049,
   "Abril_2025":1051,
-  "Mayo_2025":0
+  "Mayo_2025":1048,
+  "Junio_2025":1052
  },
  {
   "organismo_nombre":"Servicio Médico Legal (SML)",
@@ -38,8 +39,9 @@
   "Enero_2025":123,
   "Febrero_2025":123,
   "Marzo_2025":122,
-  "Abril_2025":127,
-  "Mayo_2025":0
+  "Abril_2025":123,
+  "Mayo_2025":124,
+  "Junio_2025":125
  },
  {
   "organismo_nombre":"Servicio Médico Legal (SML)",
@@ -60,6 +62,7 @@
   "Febrero_2025":40,
   "Marzo_2025":39,
   "Abril_2025":40,
-  "Mayo_2025":0
+  "Mayo_2025":39,
+  "Junio_2025":40
  }
 ]

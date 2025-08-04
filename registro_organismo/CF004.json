@@ -18,7 +18,8 @@
   "Febrero_2025":56,
   "Marzo_2025":65,
   "Abril_2025":72,
-  "Mayo_2025":72
+  "Mayo_2025":72,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"CFT de la Región de Los Ríos",
@@ -39,6 +40,7 @@
   "Febrero_2025":101,
   "Marzo_2025":76,
   "Abril_2025":138,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

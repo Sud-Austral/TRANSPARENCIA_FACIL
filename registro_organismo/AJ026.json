@@ -18,7 +18,8 @@
   "Febrero_2025":741,
   "Marzo_2025":747,
   "Abril_2025":848,
-  "Mayo_2025":874
+  "Mayo_2025":874,
+  "Junio_2025":849
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Colchagua (SLEP Colchagua)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Colchagua (SLEP Colchagua)",
@@ -60,6 +62,7 @@
   "Febrero_2025":1682,
   "Marzo_2025":1656,
   "Abril_2025":1645,
-  "Mayo_2025":1639
+  "Mayo_2025":1639,
+  "Junio_2025":1671
  }
 ]

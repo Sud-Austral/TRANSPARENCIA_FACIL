@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
@@ -28,7 +29,7 @@
   "Marzo_2024":314,
   "Abril_2024":328,
   "Mayo_2024":332,
-  "Junio_2024":333,
+  "Junio_2024":361,
   "Julio_2024":546,
   "Agosto_2024":96,
   "Septiembre_2024":362,
@@ -39,7 +40,8 @@
   "Febrero_2025":91,
   "Marzo_2025":69,
   "Abril_2025":99,
-  "Mayo_2025":89
+  "Mayo_2025":89,
+  "Junio_2025":61
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
@@ -59,8 +61,9 @@
   "Enero_2025":36,
   "Febrero_2025":95,
   "Marzo_2025":127,
-  "Abril_2025":11,
-  "Mayo_2025":121
+  "Abril_2025":147,
+  "Mayo_2025":121,
+  "Junio_2025":110
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
@@ -81,6 +84,7 @@
   "Febrero_2025":203,
   "Marzo_2025":201,
   "Abril_2025":201,
-  "Mayo_2025":200
+  "Mayo_2025":200,
+  "Junio_2025":199
  }
 ]

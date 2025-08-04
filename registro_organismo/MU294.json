@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":3,
   "Abril_2025":3,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
@@ -39,7 +40,8 @@
   "Febrero_2025":104,
   "Marzo_2025":304,
   "Abril_2025":0,
-  "Mayo_2025":153
+  "Mayo_2025":153,
+  "Junio_2025":154
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
@@ -60,7 +62,8 @@
   "Febrero_2025":312,
   "Marzo_2025":289,
   "Abril_2025":366,
-  "Mayo_2025":113
+  "Mayo_2025":633,
+  "Junio_2025":393
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
@@ -81,6 +84,7 @@
   "Febrero_2025":303,
   "Marzo_2025":289,
   "Abril_2025":289,
-  "Mayo_2025":286
+  "Mayo_2025":286,
+  "Junio_2025":280
  }
 ]

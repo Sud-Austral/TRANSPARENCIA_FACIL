@@ -17,8 +17,9 @@
   "Enero_2025":17,
   "Febrero_2025":16,
   "Marzo_2025":17,
-  "Abril_2025":38,
-  "Mayo_2025":0
+  "Abril_2025":19,
+  "Mayo_2025":19,
+  "Junio_2025":20
  },
  {
   "organismo_nombre":"Corporación Cultural Municipal de Ovalle",
@@ -39,6 +40,7 @@
   "Febrero_2025":12,
   "Marzo_2025":58,
   "Abril_2025":70,
-  "Mayo_2025":3
+  "Mayo_2025":3,
+  "Junio_2025":42
  }
 ]

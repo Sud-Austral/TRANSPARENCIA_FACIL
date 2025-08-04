@@ -18,7 +18,8 @@
   "Febrero_2025":525,
   "Marzo_2025":531,
   "Abril_2025":532,
-  "Mayo_2025":0
+  "Mayo_2025":540,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
@@ -39,7 +40,8 @@
   "Febrero_2025":538,
   "Marzo_2025":527,
   "Abril_2025":531,
-  "Mayo_2025":156
+  "Mayo_2025":538,
+  "Junio_2025":62
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
@@ -60,7 +62,8 @@
   "Febrero_2025":67,
   "Marzo_2025":70,
   "Abril_2025":74,
-  "Mayo_2025":0
+  "Mayo_2025":81,
+  "Junio_2025":82
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
@@ -81,6 +84,7 @@
   "Febrero_2025":633,
   "Marzo_2025":631,
   "Abril_2025":621,
-  "Mayo_2025":333
+  "Mayo_2025":622,
+  "Junio_2025":97
  }
 ]

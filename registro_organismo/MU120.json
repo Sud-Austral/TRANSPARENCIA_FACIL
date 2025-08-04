@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":27,
   "Abril_2025":27,
-  "Mayo_2025":27
+  "Mayo_2025":27,
+  "Junio_2025":27
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
@@ -39,7 +40,8 @@
   "Febrero_2025":296,
   "Marzo_2025":296,
   "Abril_2025":289,
-  "Mayo_2025":289
+  "Mayo_2025":289,
+  "Junio_2025":289
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
@@ -60,7 +62,8 @@
   "Febrero_2025":957,
   "Marzo_2025":1082,
   "Abril_2025":985,
-  "Mayo_2025":0
+  "Mayo_2025":990,
+  "Junio_2025":1201
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
@@ -81,6 +84,7 @@
   "Febrero_2025":496,
   "Marzo_2025":497,
   "Abril_2025":494,
-  "Mayo_2025":491
+  "Mayo_2025":491,
+  "Junio_2025":491
  }
 ]

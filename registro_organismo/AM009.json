@@ -18,7 +18,8 @@
   "Febrero_2025":139,
   "Marzo_2025":138,
   "Abril_2025":139,
-  "Mayo_2025":140
+  "Mayo_2025":140,
+  "Junio_2025":136
  },
  {
   "organismo_nombre":"Dirección de Planeamiento (DIRPLAN)",
@@ -39,7 +40,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Dirección de Planeamiento (DIRPLAN)",
@@ -60,6 +62,7 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":10
  }
 ]

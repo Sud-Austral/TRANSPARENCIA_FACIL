@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
@@ -39,7 +40,8 @@
   "Febrero_2025":22,
   "Marzo_2025":23,
   "Abril_2025":23,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":23
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
@@ -60,7 +62,8 @@
   "Febrero_2025":48,
   "Marzo_2025":50,
   "Abril_2025":51,
-  "Mayo_2025":51
+  "Mayo_2025":51,
+  "Junio_2025":52
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
@@ -81,6 +84,7 @@
   "Febrero_2025":19,
   "Marzo_2025":20,
   "Abril_2025":20,
-  "Mayo_2025":20
+  "Mayo_2025":20,
+  "Junio_2025":20
  }
 ]

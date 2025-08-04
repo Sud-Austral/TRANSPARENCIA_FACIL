@@ -18,7 +18,8 @@
   "Febrero_2025":407,
   "Marzo_2025":410,
   "Abril_2025":384,
-  "Mayo_2025":369
+  "Mayo_2025":369,
+  "Junio_2025":368
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
@@ -39,7 +40,8 @@
   "Febrero_2025":386,
   "Marzo_2025":357,
   "Abril_2025":382,
-  "Mayo_2025":0
+  "Mayo_2025":279,
+  "Junio_2025":274
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
@@ -60,7 +62,8 @@
   "Febrero_2025":264,
   "Marzo_2025":280,
   "Abril_2025":309,
-  "Mayo_2025":174
+  "Mayo_2025":174,
+  "Junio_2025":175
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
@@ -81,6 +84,7 @@
   "Febrero_2025":599,
   "Marzo_2025":596,
   "Abril_2025":584,
-  "Mayo_2025":480
+  "Mayo_2025":480,
+  "Junio_2025":480
  }
 ]

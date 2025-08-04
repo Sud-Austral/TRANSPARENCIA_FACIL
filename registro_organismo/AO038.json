@@ -18,7 +18,8 @@
   "Febrero_2025":1396,
   "Marzo_2025":1362,
   "Abril_2025":1342,
-  "Mayo_2025":1328
+  "Mayo_2025":1328,
+  "Junio_2025":1297
  },
  {
   "organismo_nombre":"Servicio de Salud Magallanes",
@@ -39,7 +40,8 @@
   "Febrero_2025":117,
   "Marzo_2025":106,
   "Abril_2025":92,
-  "Mayo_2025":86
+  "Mayo_2025":86,
+  "Junio_2025":96
  },
  {
   "organismo_nombre":"Servicio de Salud Magallanes",
@@ -60,6 +62,7 @@
   "Febrero_2025":367,
   "Marzo_2025":344,
   "Abril_2025":343,
-  "Mayo_2025":346
+  "Mayo_2025":346,
+  "Junio_2025":346
  }
 ]

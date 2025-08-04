@@ -18,7 +18,8 @@
   "Febrero_2025":221,
   "Marzo_2025":229,
   "Abril_2025":239,
-  "Mayo_2025":243
+  "Mayo_2025":243,
+  "Junio_2025":76
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
@@ -39,7 +40,8 @@
   "Febrero_2025":367,
   "Marzo_2025":376,
   "Abril_2025":396,
-  "Mayo_2025":408
+  "Mayo_2025":408,
+  "Junio_2025":409
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
@@ -60,7 +62,8 @@
   "Febrero_2025":105,
   "Marzo_2025":105,
   "Abril_2025":106,
-  "Mayo_2025":1
+  "Mayo_2025":102,
+  "Junio_2025":99
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
@@ -81,6 +84,7 @@
   "Febrero_2025":576,
   "Marzo_2025":578,
   "Abril_2025":577,
-  "Mayo_2025":580
+  "Mayo_2025":580,
+  "Junio_2025":577
  }
 ]

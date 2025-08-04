@@ -18,7 +18,8 @@
   "Febrero_2025":598,
   "Marzo_2025":599,
   "Abril_2025":598,
-  "Mayo_2025":600
+  "Mayo_2025":600,
+  "Junio_2025":599
  },
  {
   "organismo_nombre":"Servicio Nacional de Geología y Minería (SERNAGEOMIN)",
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Servicio Nacional de Geología y Minería (SERNAGEOMIN)",
@@ -60,6 +62,7 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":10,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":10
  }
 ]

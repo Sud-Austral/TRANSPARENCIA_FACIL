@@ -14,11 +14,12 @@
   "Octubre_2024":276,
   "Noviembre_2024":267,
   "Diciembre_2024":278,
-  "Enero_2025":1,
-  "Febrero_2025":1,
+  "Enero_2025":280,
+  "Febrero_2025":249,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":0
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
@@ -35,11 +36,12 @@
   "Octubre_2024":295,
   "Noviembre_2024":195,
   "Diciembre_2024":200,
-  "Enero_2025":109,
-  "Febrero_2025":102,
+  "Enero_2025":213,
+  "Febrero_2025":181,
   "Marzo_2025":102,
   "Abril_2025":148,
-  "Mayo_2025":0
+  "Mayo_2025":107,
+  "Junio_2025":100
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
@@ -60,7 +62,8 @@
   "Febrero_2025":73,
   "Marzo_2025":253,
   "Abril_2025":251,
-  "Mayo_2025":0
+  "Mayo_2025":257,
+  "Junio_2025":69
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
@@ -77,10 +80,11 @@
   "Octubre_2024":319,
   "Noviembre_2024":320,
   "Diciembre_2024":330,
-  "Enero_2025":217,
-  "Febrero_2025":221,
+  "Enero_2025":348,
+  "Febrero_2025":330,
   "Marzo_2025":222,
   "Abril_2025":353,
-  "Mayo_2025":0
+  "Mayo_2025":217,
+  "Junio_2025":209
  }
 ]

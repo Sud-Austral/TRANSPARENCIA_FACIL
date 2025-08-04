@@ -18,7 +18,8 @@
   "Febrero_2025":610,
   "Marzo_2025":632,
   "Abril_2025":565,
-  "Mayo_2025":573
+  "Mayo_2025":573,
+  "Junio_2025":572
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
@@ -39,7 +40,8 @@
   "Febrero_2025":541,
   "Marzo_2025":540,
   "Abril_2025":527,
-  "Mayo_2025":526
+  "Mayo_2025":526,
+  "Junio_2025":518
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
@@ -60,7 +62,8 @@
   "Febrero_2025":504,
   "Marzo_2025":532,
   "Abril_2025":566,
-  "Mayo_2025":605
+  "Mayo_2025":605,
+  "Junio_2025":649
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
@@ -81,6 +84,7 @@
   "Febrero_2025":736,
   "Marzo_2025":730,
   "Abril_2025":727,
-  "Mayo_2025":731
+  "Mayo_2025":731,
+  "Junio_2025":727
  }
 ]

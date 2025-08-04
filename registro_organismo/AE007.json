@@ -18,7 +18,8 @@
   "Febrero_2025":1671,
   "Marzo_2025":1685,
   "Abril_2025":1688,
-  "Mayo_2025":1690
+  "Mayo_2025":1690,
+  "Junio_2025":1689
  },
  {
   "organismo_nombre":"Servicio Nacional de Aduanas",
@@ -39,7 +40,8 @@
   "Febrero_2025":1,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Servicio Nacional de Aduanas",
@@ -60,6 +62,7 @@
   "Febrero_2025":464,
   "Marzo_2025":459,
   "Abril_2025":459,
-  "Mayo_2025":457
+  "Mayo_2025":457,
+  "Junio_2025":451
  }
 ]

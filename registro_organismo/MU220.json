@@ -18,7 +18,8 @@
   "Febrero_2025":17,
   "Marzo_2025":17,
   "Abril_2025":17,
-  "Mayo_2025":17
+  "Mayo_2025":17,
+  "Junio_2025":17
  },
  {
   "organismo_nombre":"Municipalidad de Pinto",
@@ -39,7 +40,8 @@
   "Febrero_2025":189,
   "Marzo_2025":108,
   "Abril_2025":102,
-  "Mayo_2025":75
+  "Mayo_2025":80,
+  "Junio_2025":70
  },
  {
   "organismo_nombre":"Municipalidad de Pinto",
@@ -60,7 +62,8 @@
   "Febrero_2025":58,
   "Marzo_2025":105,
   "Abril_2025":108,
-  "Mayo_2025":113
+  "Mayo_2025":113,
+  "Junio_2025":138
  },
  {
   "organismo_nombre":"Municipalidad de Pinto",
@@ -81,6 +84,7 @@
   "Febrero_2025":143,
   "Marzo_2025":144,
   "Abril_2025":142,
-  "Mayo_2025":103
+  "Mayo_2025":103,
+  "Junio_2025":103
  }
 ]

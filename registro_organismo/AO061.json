@@ -18,7 +18,8 @@
   "Febrero_2025":937,
   "Marzo_2025":954,
   "Abril_2025":903,
-  "Mayo_2025":909
+  "Mayo_2025":909,
+  "Junio_2025":848
  },
  {
   "organismo_nombre":"Hospital Dr. Augusto Riffart de Castro",
@@ -39,7 +40,8 @@
   "Febrero_2025":66,
   "Marzo_2025":202,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":147,
+  "Junio_2025":246
  },
  {
   "organismo_nombre":"Hospital Dr. Augusto Riffart de Castro",
@@ -60,6 +62,7 @@
   "Febrero_2025":302,
   "Marzo_2025":302,
   "Abril_2025":302,
-  "Mayo_2025":0
+  "Mayo_2025":300,
+  "Junio_2025":324
  }
 ]

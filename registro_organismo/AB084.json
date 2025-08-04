@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Gobierno Regional del Bío Bío (Gore Bío Bío)",
@@ -39,7 +40,8 @@
   "Febrero_2025":139,
   "Marzo_2025":150,
   "Abril_2025":138,
-  "Mayo_2025":140
+  "Mayo_2025":140,
+  "Junio_2025":146
  },
  {
   "organismo_nombre":"Gobierno Regional del Bío Bío (Gore Bío Bío)",
@@ -59,8 +61,9 @@
   "Enero_2025":8,
   "Febrero_2025":7,
   "Marzo_2025":7,
-  "Abril_2025":8,
-  "Mayo_2025":9
+  "Abril_2025":9,
+  "Mayo_2025":19,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional del Bío Bío (Gore Bío Bío)",
@@ -81,6 +84,7 @@
   "Febrero_2025":30,
   "Marzo_2025":30,
   "Abril_2025":30,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":30
  }
 ]

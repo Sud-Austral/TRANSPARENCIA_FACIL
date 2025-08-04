@@ -18,7 +18,8 @@
   "Febrero_2025":581,
   "Marzo_2025":576,
   "Abril_2025":503,
-  "Mayo_2025":296
+  "Mayo_2025":490,
+  "Junio_2025":502
  },
  {
   "organismo_nombre":"Municipalidad de Quintero",
@@ -39,7 +40,8 @@
   "Febrero_2025":315,
   "Marzo_2025":331,
   "Abril_2025":345,
-  "Mayo_2025":340
+  "Mayo_2025":340,
+  "Junio_2025":349
  },
  {
   "organismo_nombre":"Municipalidad de Quintero",
@@ -60,7 +62,8 @@
   "Febrero_2025":55,
   "Marzo_2025":95,
   "Abril_2025":115,
-  "Mayo_2025":0
+  "Mayo_2025":124,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quintero",
@@ -81,6 +84,7 @@
   "Febrero_2025":228,
   "Marzo_2025":222,
   "Abril_2025":222,
-  "Mayo_2025":220
+  "Mayo_2025":220,
+  "Junio_2025":218
  }
 ]

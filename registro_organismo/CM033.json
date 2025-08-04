@@ -18,7 +18,8 @@
   "Febrero_2025":92,
   "Marzo_2025":178,
   "Abril_2025":184,
-  "Mayo_2025":95
+  "Mayo_2025":115,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
@@ -39,7 +40,8 @@
   "Febrero_2025":568,
   "Marzo_2025":558,
   "Abril_2025":577,
-  "Mayo_2025":571
+  "Mayo_2025":571,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
@@ -59,8 +61,9 @@
   "Enero_2025":373,
   "Febrero_2025":364,
   "Marzo_2025":0,
-  "Abril_2025":414,
-  "Mayo_2025":0
+  "Abril_2025":833,
+  "Mayo_2025":396,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1375,
   "Marzo_2025":1370,
   "Abril_2025":1368,
-  "Mayo_2025":1360
+  "Mayo_2025":1360,
+  "Junio_2025":0
  }
 ]

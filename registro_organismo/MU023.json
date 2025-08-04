@@ -18,7 +18,8 @@
   "Febrero_2025":223,
   "Marzo_2025":217,
   "Abril_2025":211,
-  "Mayo_2025":217
+  "Mayo_2025":217,
+  "Junio_2025":213
  },
  {
   "organismo_nombre":"Municipalidad de Calle Larga",
@@ -39,7 +40,8 @@
   "Febrero_2025":172,
   "Marzo_2025":164,
   "Abril_2025":167,
-  "Mayo_2025":170
+  "Mayo_2025":170,
+  "Junio_2025":166
  },
  {
   "organismo_nombre":"Municipalidad de Calle Larga",
@@ -60,7 +62,8 @@
   "Febrero_2025":149,
   "Marzo_2025":144,
   "Abril_2025":163,
-  "Mayo_2025":183
+  "Mayo_2025":183,
+  "Junio_2025":196
  },
  {
   "organismo_nombre":"Municipalidad de Calle Larga",
@@ -81,6 +84,7 @@
   "Febrero_2025":209,
   "Marzo_2025":212,
   "Abril_2025":212,
-  "Mayo_2025":210
+  "Mayo_2025":211,
+  "Junio_2025":208
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":5279,
   "Marzo_2025":4972,
   "Abril_2025":4684,
-  "Mayo_2025":4774
+  "Mayo_2025":4774,
+  "Junio_2025":4681
  },
  {
   "organismo_nombre":"Hospital Guillermo Grant Benavente de Concepción",
@@ -39,7 +40,8 @@
   "Febrero_2025":229,
   "Marzo_2025":230,
   "Abril_2025":204,
-  "Mayo_2025":286
+  "Mayo_2025":286,
+  "Junio_2025":305
  },
  {
   "organismo_nombre":"Hospital Guillermo Grant Benavente de Concepción",
@@ -60,6 +62,7 @@
   "Febrero_2025":1738,
   "Marzo_2025":1738,
   "Abril_2025":1725,
-  "Mayo_2025":1718
+  "Mayo_2025":1718,
+  "Junio_2025":1700
  }
 ]

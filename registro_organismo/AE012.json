@@ -18,7 +18,8 @@
   "Febrero_2025":57,
   "Marzo_2025":56,
   "Abril_2025":56,
-  "Mayo_2025":55
+  "Mayo_2025":55,
+  "Junio_2025":55
  },
  {
   "organismo_nombre":"Superintendencia de Casinos de Juego (SCJ)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":0,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Superintendencia de Casinos de Juego (SCJ)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6,
   "Marzo_2025":6,
   "Abril_2025":6,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":6
  }
 ]

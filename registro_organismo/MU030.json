@@ -18,7 +18,8 @@
   "Febrero_2025":315,
   "Marzo_2025":317,
   "Abril_2025":319,
-  "Mayo_2025":312
+  "Mayo_2025":312,
+  "Junio_2025":308
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
@@ -39,7 +40,8 @@
   "Febrero_2025":158,
   "Marzo_2025":160,
   "Abril_2025":170,
-  "Mayo_2025":181
+  "Mayo_2025":181,
+  "Junio_2025":169
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
@@ -60,7 +62,8 @@
   "Febrero_2025":226,
   "Marzo_2025":220,
   "Abril_2025":235,
-  "Mayo_2025":240
+  "Mayo_2025":480,
+  "Junio_2025":243
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
@@ -81,6 +84,7 @@
   "Febrero_2025":255,
   "Marzo_2025":253,
   "Abril_2025":251,
-  "Mayo_2025":253
+  "Mayo_2025":253,
+  "Junio_2025":251
  }
 ]

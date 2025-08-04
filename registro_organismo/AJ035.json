@@ -1,6 +1,28 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
+  "base":"Codigotrabajo",
+  "Enero_2024":0,
+  "Febrero_2024":0,
+  "Marzo_2024":0,
+  "Abril_2024":0,
+  "Mayo_2024":0,
+  "Junio_2024":0,
+  "Julio_2024":0,
+  "Agosto_2024":0,
+  "Septiembre_2024":0,
+  "Octubre_2024":0,
+  "Noviembre_2024":0,
+  "Diciembre_2024":0,
+  "Enero_2025":0,
+  "Febrero_2025":0,
+  "Marzo_2025":0,
+  "Abril_2025":1828,
+  "Mayo_2025":1860,
+  "Junio_2025":1886
+ },
+ {
+  "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
   "base":"Contrata",
   "Enero_2024":15,
   "Febrero_2024":32,
@@ -17,8 +39,9 @@
   "Enero_2025":0,
   "Febrero_2025":49,
   "Marzo_2025":106,
-  "Abril_2025":52,
-  "Mayo_2025":902
+  "Abril_2025":878,
+  "Mayo_2025":902,
+  "Junio_2025":896
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
@@ -39,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":12,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":8,
+  "Junio_2025":80
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
@@ -59,7 +83,8 @@
   "Enero_2025":60,
   "Febrero_2025":29,
   "Marzo_2025":28,
-  "Abril_2025":0,
-  "Mayo_2025":1159
+  "Abril_2025":1133,
+  "Mayo_2025":1159,
+  "Junio_2025":1156
  }
 ]

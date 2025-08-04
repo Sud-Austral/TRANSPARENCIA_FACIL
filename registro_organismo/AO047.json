@@ -18,7 +18,8 @@
   "Febrero_2025":10,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":6
+  "Mayo_2025":6,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"SEREMI de Salud del Maule",
@@ -39,7 +40,8 @@
   "Febrero_2025":241,
   "Marzo_2025":241,
   "Abril_2025":240,
-  "Mayo_2025":238
+  "Mayo_2025":238,
+  "Junio_2025":235
  },
  {
   "organismo_nombre":"SEREMI de Salud del Maule",
@@ -60,7 +62,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"SEREMI de Salud del Maule",
@@ -81,6 +84,7 @@
   "Febrero_2025":10,
   "Marzo_2025":10,
   "Abril_2025":8,
-  "Mayo_2025":8
+  "Mayo_2025":8,
+  "Junio_2025":8
  }
 ]

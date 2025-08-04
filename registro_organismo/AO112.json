@@ -18,7 +18,8 @@
   "Febrero_2025":3176,
   "Marzo_2025":3121,
   "Abril_2025":3026,
-  "Mayo_2025":2995
+  "Mayo_2025":2995,
+  "Junio_2025":2965
  },
  {
   "organismo_nombre":"Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza",
@@ -39,7 +40,8 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza",
@@ -60,6 +62,7 @@
   "Febrero_2025":373,
   "Marzo_2025":355,
   "Abril_2025":335,
-  "Mayo_2025":330
+  "Mayo_2025":330,
+  "Junio_2025":324
  }
 ]

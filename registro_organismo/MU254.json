@@ -18,7 +18,8 @@
   "Febrero_2025":38,
   "Marzo_2025":13,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":2,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quilpué",
@@ -39,7 +40,8 @@
   "Febrero_2025":159,
   "Marzo_2025":160,
   "Abril_2025":158,
-  "Mayo_2025":164
+  "Mayo_2025":164,
+  "Junio_2025":160
  },
  {
   "organismo_nombre":"Municipalidad de Quilpué",
@@ -56,11 +58,12 @@
   "Octubre_2024":159,
   "Noviembre_2024":185,
   "Diciembre_2024":133,
-  "Enero_2025":60,
+  "Enero_2025":94,
   "Febrero_2025":139,
-  "Marzo_2025":90,
-  "Abril_2025":131,
-  "Mayo_2025":20
+  "Marzo_2025":101,
+  "Abril_2025":146,
+  "Mayo_2025":148,
+  "Junio_2025":145
  },
  {
   "organismo_nombre":"Municipalidad de Quilpué",
@@ -81,6 +84,7 @@
   "Febrero_2025":272,
   "Marzo_2025":272,
   "Abril_2025":267,
-  "Mayo_2025":277
+  "Mayo_2025":277,
+  "Junio_2025":266
  }
 ]

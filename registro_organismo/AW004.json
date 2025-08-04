@@ -18,7 +18,8 @@
   "Febrero_2025":380,
   "Marzo_2025":381,
   "Abril_2025":376,
-  "Mayo_2025":374
+  "Mayo_2025":374,
+  "Junio_2025":377
  },
  {
   "organismo_nombre":"Servicio de Evaluación Ambiental (SEA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":30,
   "Marzo_2025":31,
   "Abril_2025":33,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":34
  },
  {
   "organismo_nombre":"Servicio de Evaluación Ambiental (SEA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":21,
   "Marzo_2025":19,
   "Abril_2025":18,
-  "Mayo_2025":21
+  "Mayo_2025":21,
+  "Junio_2025":21
  }
 ]

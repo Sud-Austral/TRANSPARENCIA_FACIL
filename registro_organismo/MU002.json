@@ -18,7 +18,8 @@
   "Febrero_2025":201,
   "Marzo_2025":200,
   "Abril_2025":201,
-  "Mayo_2025":201
+  "Mayo_2025":201,
+  "Junio_2025":201
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
@@ -39,7 +40,8 @@
   "Febrero_2025":121,
   "Marzo_2025":122,
   "Abril_2025":144,
-  "Mayo_2025":141
+  "Mayo_2025":141,
+  "Junio_2025":140
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
@@ -56,11 +58,12 @@
   "Octubre_2024":301,
   "Noviembre_2024":296,
   "Diciembre_2024":308,
-  "Enero_2025":263,
+  "Enero_2025":264,
   "Febrero_2025":282,
   "Marzo_2025":287,
-  "Abril_2025":288,
-  "Mayo_2025":273
+  "Abril_2025":294,
+  "Mayo_2025":282,
+  "Junio_2025":292
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
@@ -81,6 +84,7 @@
   "Febrero_2025":178,
   "Marzo_2025":172,
   "Abril_2025":175,
-  "Mayo_2025":174
+  "Mayo_2025":174,
+  "Junio_2025":172
  }
 ]

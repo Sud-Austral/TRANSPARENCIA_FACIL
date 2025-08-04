@@ -18,7 +18,8 @@
   "Febrero_2025":5250,
   "Marzo_2025":9144,
   "Abril_2025":5655,
-  "Mayo_2025":4583
+  "Mayo_2025":4583,
+  "Junio_2025":8205
  },
  {
   "organismo_nombre":"Hospital de Puerto Montt",
@@ -39,7 +40,8 @@
   "Febrero_2025":1272,
   "Marzo_2025":1377,
   "Abril_2025":1402,
-  "Mayo_2025":1303
+  "Mayo_2025":1303,
+  "Junio_2025":1388
  },
  {
   "organismo_nombre":"Hospital de Puerto Montt",
@@ -60,6 +62,7 @@
   "Febrero_2025":994,
   "Marzo_2025":2958,
   "Abril_2025":1266,
-  "Mayo_2025":965
+  "Mayo_2025":965,
+  "Junio_2025":2903
  }
 ]

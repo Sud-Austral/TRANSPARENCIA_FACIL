@@ -18,7 +18,8 @@
   "Febrero_2025":1009,
   "Marzo_2025":1005,
   "Abril_2025":1010,
-  "Mayo_2025":1011
+  "Mayo_2025":1011,
+  "Junio_2025":1024
  },
  {
   "organismo_nombre":"Subsecretaría de Transportes (MTT)",
@@ -39,7 +40,8 @@
   "Febrero_2025":741,
   "Marzo_2025":734,
   "Abril_2025":739,
-  "Mayo_2025":734
+  "Mayo_2025":734,
+  "Junio_2025":734
  },
  {
   "organismo_nombre":"Subsecretaría de Transportes (MTT)",
@@ -60,6 +62,7 @@
   "Febrero_2025":34,
   "Marzo_2025":34,
   "Abril_2025":34,
-  "Mayo_2025":34
+  "Mayo_2025":34,
+  "Junio_2025":34
  }
 ]

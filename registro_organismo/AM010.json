@@ -18,7 +18,8 @@
   "Febrero_2025":715,
   "Marzo_2025":714,
   "Abril_2025":1426,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":711
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
@@ -39,7 +40,8 @@
   "Febrero_2025":4192,
   "Marzo_2025":4184,
   "Abril_2025":4217,
-  "Mayo_2025":4225
+  "Mayo_2025":4225,
+  "Junio_2025":4259
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
@@ -60,7 +62,8 @@
   "Febrero_2025":35,
   "Marzo_2025":35,
   "Abril_2025":36,
-  "Mayo_2025":35
+  "Mayo_2025":35,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
@@ -81,6 +84,7 @@
   "Febrero_2025":137,
   "Marzo_2025":170,
   "Abril_2025":168,
-  "Mayo_2025":167
+  "Mayo_2025":167,
+  "Junio_2025":166
  }
 ]

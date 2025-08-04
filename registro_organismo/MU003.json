@@ -18,7 +18,8 @@
   "Febrero_2025":160,
   "Marzo_2025":155,
   "Abril_2025":156,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
@@ -39,7 +40,8 @@
   "Febrero_2025":157,
   "Marzo_2025":188,
   "Abril_2025":123,
-  "Mayo_2025":1
+  "Mayo_2025":153,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
@@ -60,7 +62,8 @@
   "Febrero_2025":100,
   "Marzo_2025":92,
   "Abril_2025":87,
-  "Mayo_2025":1
+  "Mayo_2025":105,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
@@ -81,6 +84,7 @@
   "Febrero_2025":140,
   "Marzo_2025":73,
   "Abril_2025":140,
-  "Mayo_2025":0
+  "Mayo_2025":140,
+  "Junio_2025":0
  }
 ]

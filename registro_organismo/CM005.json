@@ -18,7 +18,8 @@
   "Febrero_2025":498,
   "Marzo_2025":535,
   "Abril_2025":538,
-  "Mayo_2025":0
+  "Mayo_2025":541,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
@@ -39,7 +40,8 @@
   "Febrero_2025":655,
   "Marzo_2025":685,
   "Abril_2025":711,
-  "Mayo_2025":0
+  "Mayo_2025":687,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
@@ -55,12 +57,13 @@
   "Septiembre_2024":890,
   "Octubre_2024":927,
   "Noviembre_2024":863,
-  "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Diciembre_2024":685,
+  "Enero_2025":603,
+  "Febrero_2025":571,
+  "Marzo_2025":753,
+  "Abril_2025":861,
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1053,
   "Marzo_2025":1048,
   "Abril_2025":1045,
-  "Mayo_2025":0
+  "Mayo_2025":1042,
+  "Junio_2025":0
  }
 ]

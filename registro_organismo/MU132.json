@@ -18,7 +18,8 @@
   "Febrero_2025":84,
   "Marzo_2025":81,
   "Abril_2025":80,
-  "Mayo_2025":80
+  "Mayo_2025":160,
+  "Junio_2025":80
  },
  {
   "organismo_nombre":"Municipalidad de Lampa",
@@ -39,7 +40,8 @@
   "Febrero_2025":571,
   "Marzo_2025":556,
   "Abril_2025":557,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Lampa",
@@ -60,6 +62,7 @@
   "Febrero_2025":82,
   "Marzo_2025":83,
   "Abril_2025":80,
-  "Mayo_2025":80
+  "Mayo_2025":160,
+  "Junio_2025":81
  }
 ]

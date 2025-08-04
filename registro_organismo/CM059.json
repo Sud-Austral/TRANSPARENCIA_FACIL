@@ -18,7 +18,8 @@
   "Febrero_2025":67,
   "Marzo_2025":61,
   "Abril_2025":62,
-  "Mayo_2025":61
+  "Mayo_2025":61,
+  "Junio_2025":59
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes de Rancagua",
@@ -37,8 +38,9 @@
   "Diciembre_2024":100,
   "Enero_2025":100,
   "Febrero_2025":103,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":101,
+  "Abril_2025":98,
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":461,
   "Marzo_2025":422,
   "Abril_2025":385,
-  "Mayo_2025":391
+  "Mayo_2025":391,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pucón",
@@ -39,28 +40,30 @@
   "Febrero_2025":279,
   "Marzo_2025":275,
   "Abril_2025":298,
-  "Mayo_2025":300
+  "Mayo_2025":300,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pucón",
   "base":"Contratohonorarios",
   "Enero_2024":1,
-  "Febrero_2024":213,
-  "Marzo_2024":233,
-  "Abril_2024":245,
-  "Mayo_2024":261,
-  "Junio_2024":290,
-  "Julio_2024":287,
-  "Agosto_2024":339,
-  "Septiembre_2024":337,
+  "Febrero_2024":197,
+  "Marzo_2024":227,
+  "Abril_2024":243,
+  "Mayo_2024":255,
+  "Junio_2024":278,
+  "Julio_2024":277,
+  "Agosto_2024":326,
+  "Septiembre_2024":334,
   "Octubre_2024":348,
-  "Noviembre_2024":365,
-  "Diciembre_2024":382,
+  "Noviembre_2024":356,
+  "Diciembre_2024":340,
   "Enero_2025":31,
   "Febrero_2025":197,
   "Marzo_2025":229,
   "Abril_2025":246,
-  "Mayo_2025":59
+  "Mayo_2025":269,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pucón",
@@ -81,6 +84,7 @@
   "Febrero_2025":442,
   "Marzo_2025":444,
   "Abril_2025":443,
-  "Mayo_2025":440
+  "Mayo_2025":440,
+  "Junio_2025":0
  }
 ]

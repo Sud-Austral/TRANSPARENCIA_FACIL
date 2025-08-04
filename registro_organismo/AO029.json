@@ -18,7 +18,8 @@
   "Febrero_2025":1907,
   "Marzo_2025":1877,
   "Abril_2025":1836,
-  "Mayo_2025":1845
+  "Mayo_2025":1845,
+  "Junio_2025":1783
  },
  {
   "organismo_nombre":"Servicio de Salud Bíobío",
@@ -39,7 +40,8 @@
   "Febrero_2025":100,
   "Marzo_2025":117,
   "Abril_2025":108,
-  "Mayo_2025":140
+  "Mayo_2025":280,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Bíobío",
@@ -60,6 +62,7 @@
   "Febrero_2025":558,
   "Marzo_2025":557,
   "Abril_2025":555,
-  "Mayo_2025":551
+  "Mayo_2025":551,
+  "Junio_2025":550
  }
 ]

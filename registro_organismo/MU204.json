@@ -18,7 +18,8 @@
   "Febrero_2025":515,
   "Marzo_2025":500,
   "Abril_2025":477,
-  "Mayo_2025":485
+  "Mayo_2025":485,
+  "Junio_2025":471
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
@@ -39,7 +40,8 @@
   "Febrero_2025":303,
   "Marzo_2025":339,
   "Abril_2025":324,
-  "Mayo_2025":323
+  "Mayo_2025":323,
+  "Junio_2025":400
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
@@ -57,10 +59,11 @@
   "Noviembre_2024":202,
   "Diciembre_2024":258,
   "Enero_2025":156,
-  "Febrero_2025":230,
-  "Marzo_2025":199,
-  "Abril_2025":239,
-  "Mayo_2025":234
+  "Febrero_2025":238,
+  "Marzo_2025":200,
+  "Abril_2025":242,
+  "Mayo_2025":238,
+  "Junio_2025":250
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
@@ -81,6 +84,7 @@
   "Febrero_2025":710,
   "Marzo_2025":710,
   "Abril_2025":706,
-  "Mayo_2025":703
+  "Mayo_2025":703,
+  "Junio_2025":700
  }
 ]

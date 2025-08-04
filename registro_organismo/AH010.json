@@ -18,7 +18,8 @@
   "Febrero_2025":1123,
   "Marzo_2025":1126,
   "Abril_2025":1120,
-  "Mayo_2025":1121
+  "Mayo_2025":1121,
+  "Junio_2025":1129
  },
  {
   "organismo_nombre":"Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":11,
   "Marzo_2025":11,
   "Abril_2025":11,
-  "Mayo_2025":10
+  "Mayo_2025":10,
+  "Junio_2025":9
  },
  {
   "organismo_nombre":"Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":31,
   "Marzo_2025":31,
   "Abril_2025":32,
-  "Mayo_2025":41
+  "Mayo_2025":41,
+  "Junio_2025":32
  }
 ]

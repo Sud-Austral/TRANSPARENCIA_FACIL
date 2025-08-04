@@ -18,7 +18,8 @@
   "Febrero_2025":1040,
   "Marzo_2025":0,
   "Abril_2025":2034,
-  "Mayo_2025":1018
+  "Mayo_2025":1018,
+  "Junio_2025":1001
  },
  {
   "organismo_nombre":"Hospital Dr. Exequiel González Cortes",
@@ -39,7 +40,8 @@
   "Febrero_2025":49,
   "Marzo_2025":49,
   "Abril_2025":57,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":31
  },
  {
   "organismo_nombre":"Hospital Dr. Exequiel González Cortes",
@@ -60,6 +62,7 @@
   "Febrero_2025":572,
   "Marzo_2025":0,
   "Abril_2025":269,
-  "Mayo_2025":190
+  "Mayo_2025":265,
+  "Junio_2025":265
  }
 ]

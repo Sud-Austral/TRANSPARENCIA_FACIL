@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":2
+  "Mayo_2025":5,
+  "Junio_2025":239
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
@@ -39,7 +40,8 @@
   "Febrero_2025":160,
   "Marzo_2025":149,
   "Abril_2025":164,
-  "Mayo_2025":168
+  "Mayo_2025":169,
+  "Junio_2025":168
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
@@ -60,7 +62,8 @@
   "Febrero_2025":147,
   "Marzo_2025":158,
   "Abril_2025":162,
-  "Mayo_2025":166
+  "Mayo_2025":166,
+  "Junio_2025":176
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
@@ -81,6 +84,7 @@
   "Febrero_2025":258,
   "Marzo_2025":298,
   "Abril_2025":215,
-  "Mayo_2025":258
+  "Mayo_2025":258,
+  "Junio_2025":256
  }
 ]

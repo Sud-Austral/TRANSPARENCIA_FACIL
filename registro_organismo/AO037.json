@@ -18,7 +18,8 @@
   "Febrero_2025":2165,
   "Marzo_2025":2069,
   "Abril_2025":2085,
-  "Mayo_2025":0
+  "Mayo_2025":2044,
+  "Junio_2025":2040
  },
  {
   "organismo_nombre":"Servicio de Salud del Reloncaví",
@@ -39,7 +40,8 @@
   "Febrero_2025":243,
   "Marzo_2025":233,
   "Abril_2025":266,
-  "Mayo_2025":0
+  "Mayo_2025":294,
+  "Junio_2025":253
  },
  {
   "organismo_nombre":"Servicio de Salud del Reloncaví",
@@ -60,6 +62,7 @@
   "Febrero_2025":388,
   "Marzo_2025":386,
   "Abril_2025":384,
-  "Mayo_2025":0
+  "Mayo_2025":384,
+  "Junio_2025":384
  }
 ]

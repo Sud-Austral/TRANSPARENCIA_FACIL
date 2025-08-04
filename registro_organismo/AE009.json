@@ -18,7 +18,8 @@
   "Febrero_2025":668,
   "Marzo_2025":676,
   "Abril_2025":675,
-  "Mayo_2025":674
+  "Mayo_2025":674,
+  "Junio_2025":672
  },
  {
   "organismo_nombre":"Comisión para el Mercado Financiero  CMF ex SVS",
@@ -39,7 +40,8 @@
   "Febrero_2025":4,
   "Marzo_2025":5,
   "Abril_2025":4,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Comisión para el Mercado Financiero  CMF ex SVS",
@@ -60,6 +62,7 @@
   "Febrero_2025":25,
   "Marzo_2025":27,
   "Abril_2025":26,
-  "Mayo_2025":24
+  "Mayo_2025":24,
+  "Junio_2025":20
  }
 ]

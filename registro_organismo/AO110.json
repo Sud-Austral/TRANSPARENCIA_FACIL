@@ -18,7 +18,8 @@
   "Febrero_2025":3407,
   "Marzo_2025":3084,
   "Abril_2025":3044,
-  "Mayo_2025":2547
+  "Mayo_2025":2547,
+  "Junio_2025":2835
  },
  {
   "organismo_nombre":"Hospital Dr. Hernán Henríquez Aravena de Temuco",
@@ -39,7 +40,8 @@
   "Febrero_2025":53,
   "Marzo_2025":50,
   "Abril_2025":51,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":53
  },
  {
   "organismo_nombre":"Hospital Dr. Hernán Henríquez Aravena de Temuco",
@@ -60,6 +62,7 @@
   "Febrero_2025":1234,
   "Marzo_2025":1231,
   "Abril_2025":917,
-  "Mayo_2025":1212
+  "Mayo_2025":1212,
+  "Junio_2025":961
  }
 ]

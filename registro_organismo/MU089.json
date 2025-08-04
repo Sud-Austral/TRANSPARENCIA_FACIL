@@ -18,7 +18,8 @@
   "Febrero_2025":678,
   "Marzo_2025":79,
   "Abril_2025":81,
-  "Mayo_2025":0
+  "Mayo_2025":81,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
@@ -39,7 +40,8 @@
   "Febrero_2025":260,
   "Marzo_2025":256,
   "Abril_2025":259,
-  "Mayo_2025":0
+  "Mayo_2025":242,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
@@ -60,7 +62,8 @@
   "Febrero_2025":712,
   "Marzo_2025":844,
   "Abril_2025":837,
-  "Mayo_2025":5
+  "Mayo_2025":982,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
@@ -81,6 +84,7 @@
   "Febrero_2025":396,
   "Marzo_2025":338,
   "Abril_2025":327,
-  "Mayo_2025":0
+  "Mayo_2025":327,
+  "Junio_2025":0
  }
 ]

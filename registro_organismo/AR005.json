@@ -18,7 +18,8 @@
   "Febrero_2025":99,
   "Marzo_2025":98,
   "Abril_2025":99,
-  "Mayo_2025":97
+  "Mayo_2025":97,
+  "Junio_2025":98
  },
  {
   "organismo_nombre":"Oficinas de Estudios y Políticas Agrarias (ODEPA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":27,
   "Marzo_2025":27,
   "Abril_2025":28,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Oficinas de Estudios y Políticas Agrarias (ODEPA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":7,
   "Marzo_2025":7,
   "Abril_2025":7,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":7
  }
 ]

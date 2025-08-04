@@ -18,7 +18,8 @@
   "Febrero_2025":223,
   "Marzo_2025":224,
   "Abril_2025":156,
-  "Mayo_2025":2
+  "Mayo_2025":163,
+  "Junio_2025":161
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
@@ -39,16 +40,17 @@
   "Febrero_2025":249,
   "Marzo_2025":301,
   "Abril_2025":302,
-  "Mayo_2025":165
+  "Mayo_2025":305,
+  "Junio_2025":304
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
   "base":"Contratohonorarios",
-  "Enero_2024":248,
+  "Enero_2024":249,
   "Febrero_2024":135,
   "Marzo_2024":110,
   "Abril_2024":110,
-  "Mayo_2024":194,
+  "Mayo_2024":202,
   "Junio_2024":187,
   "Julio_2024":211,
   "Agosto_2024":231,
@@ -56,11 +58,12 @@
   "Octubre_2024":235,
   "Noviembre_2024":211,
   "Diciembre_2024":201,
-  "Enero_2025":121,
-  "Febrero_2025":177,
-  "Marzo_2025":148,
-  "Abril_2025":204,
-  "Mayo_2025":0
+  "Enero_2025":122,
+  "Febrero_2025":181,
+  "Marzo_2025":153,
+  "Abril_2025":262,
+  "Mayo_2025":279,
+  "Junio_2025":283
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
@@ -81,6 +84,7 @@
   "Febrero_2025":212,
   "Marzo_2025":210,
   "Abril_2025":211,
-  "Mayo_2025":51
+  "Mayo_2025":206,
+  "Junio_2025":205
  }
 ]

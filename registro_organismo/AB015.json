@@ -18,7 +18,8 @@
   "Febrero_2025":30,
   "Marzo_2025":30,
   "Abril_2025":29,
-  "Mayo_2025":29
+  "Mayo_2025":29,
+  "Junio_2025":29
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Magallanes y la Antártica Chilena",
@@ -39,7 +40,8 @@
   "Febrero_2025":33,
   "Marzo_2025":29,
   "Abril_2025":30,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":35
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Magallanes y la Antártica Chilena",
@@ -60,6 +62,7 @@
   "Febrero_2025":2,
   "Marzo_2025":2,
   "Abril_2025":2,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":2
  }
 ]

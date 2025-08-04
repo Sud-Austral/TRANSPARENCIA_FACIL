@@ -18,7 +18,8 @@
   "Febrero_2025":496,
   "Marzo_2025":498,
   "Abril_2025":497,
-  "Mayo_2025":500
+  "Mayo_2025":500,
+  "Junio_2025":498
  },
  {
   "organismo_nombre":"Consejo de Defensa del Estado (CDE)",
@@ -39,7 +40,8 @@
   "Febrero_2025":9,
   "Marzo_2025":10,
   "Abril_2025":8,
-  "Mayo_2025":7
+  "Mayo_2025":7,
+  "Junio_2025":6
  },
  {
   "organismo_nombre":"Consejo de Defensa del Estado (CDE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":122,
   "Marzo_2025":122,
   "Abril_2025":121,
-  "Mayo_2025":120
+  "Mayo_2025":120,
+  "Junio_2025":120
  }
 ]

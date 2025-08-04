@@ -18,7 +18,8 @@
   "Febrero_2025":1463,
   "Marzo_2025":1408,
   "Abril_2025":1497,
-  "Mayo_2025":1389
+  "Mayo_2025":1389,
+  "Junio_2025":1388
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
@@ -39,7 +40,8 @@
   "Febrero_2025":904,
   "Marzo_2025":910,
   "Abril_2025":921,
-  "Mayo_2025":928
+  "Mayo_2025":928,
+  "Junio_2025":927
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
@@ -60,7 +62,8 @@
   "Febrero_2025":853,
   "Marzo_2025":899,
   "Abril_2025":930,
-  "Mayo_2025":947
+  "Mayo_2025":947,
+  "Junio_2025":996
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
@@ -81,6 +84,7 @@
   "Febrero_2025":1537,
   "Marzo_2025":1535,
   "Abril_2025":1534,
-  "Mayo_2025":1534
+  "Mayo_2025":1533,
+  "Junio_2025":1532
  }
 ]

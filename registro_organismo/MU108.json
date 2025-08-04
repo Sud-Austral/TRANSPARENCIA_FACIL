@@ -18,7 +18,8 @@
   "Febrero_2025":21,
   "Marzo_2025":23,
   "Abril_2025":23,
-  "Mayo_2025":23
+  "Mayo_2025":23,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
@@ -39,7 +40,8 @@
   "Febrero_2025":34,
   "Marzo_2025":34,
   "Abril_2025":59,
-  "Mayo_2025":12
+  "Mayo_2025":12,
+  "Junio_2025":12
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
@@ -56,11 +58,12 @@
   "Octubre_2024":56,
   "Noviembre_2024":0,
   "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
+  "Enero_2025":46,
+  "Febrero_2025":51,
+  "Marzo_2025":49,
   "Abril_2025":47,
-  "Mayo_2025":0
+  "Mayo_2025":104,
+  "Junio_2025":58
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
@@ -81,6 +84,7 @@
   "Febrero_2025":63,
   "Marzo_2025":63,
   "Abril_2025":88,
-  "Mayo_2025":63
+  "Mayo_2025":63,
+  "Junio_2025":25
  }
 ]

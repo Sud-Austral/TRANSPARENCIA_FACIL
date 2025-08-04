@@ -18,7 +18,8 @@
   "Febrero_2025":723,
   "Marzo_2025":673,
   "Abril_2025":637,
-  "Mayo_2025":609
+  "Mayo_2025":609,
+  "Junio_2025":605
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
@@ -39,7 +40,8 @@
   "Febrero_2025":672,
   "Marzo_2025":647,
   "Abril_2025":660,
-  "Mayo_2025":0
+  "Mayo_2025":659,
+  "Junio_2025":629
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
@@ -60,7 +62,8 @@
   "Febrero_2025":786,
   "Marzo_2025":831,
   "Abril_2025":819,
-  "Mayo_2025":0
+  "Mayo_2025":878,
+  "Junio_2025":920
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
@@ -81,6 +84,7 @@
   "Febrero_2025":1335,
   "Marzo_2025":950,
   "Abril_2025":949,
-  "Mayo_2025":0
+  "Mayo_2025":1104,
+  "Junio_2025":781
  }
 ]

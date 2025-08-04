@@ -18,7 +18,8 @@
   "Febrero_2025":553,
   "Marzo_2025":0,
   "Abril_2025":562,
-  "Mayo_2025":0
+  "Mayo_2025":560,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto de Neurocirugía",
@@ -39,7 +40,8 @@
   "Febrero_2025":7,
   "Marzo_2025":6,
   "Abril_2025":7,
-  "Mayo_2025":0
+  "Mayo_2025":7,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto de Neurocirugía",
@@ -60,6 +62,7 @@
   "Febrero_2025":186,
   "Marzo_2025":183,
   "Abril_2025":176,
-  "Mayo_2025":0
+  "Mayo_2025":176,
+  "Junio_2025":0
  }
 ]

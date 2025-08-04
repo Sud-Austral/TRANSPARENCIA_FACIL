@@ -18,7 +18,8 @@
   "Febrero_2025":114,
   "Marzo_2025":117,
   "Abril_2025":119,
-  "Mayo_2025":0
+  "Mayo_2025":119,
+  "Junio_2025":117
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
@@ -39,7 +40,8 @@
   "Febrero_2025":63,
   "Marzo_2025":74,
   "Abril_2025":59,
-  "Mayo_2025":0
+  "Mayo_2025":59,
+  "Junio_2025":56
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
@@ -58,9 +60,10 @@
   "Diciembre_2024":36,
   "Enero_2025":41,
   "Febrero_2025":44,
-  "Marzo_2025":28,
+  "Marzo_2025":43,
   "Abril_2025":16,
-  "Mayo_2025":0
+  "Mayo_2025":16,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
@@ -81,6 +84,7 @@
   "Febrero_2025":125,
   "Marzo_2025":124,
   "Abril_2025":92,
-  "Mayo_2025":0
+  "Mayo_2025":92,
+  "Junio_2025":53
  }
 ]

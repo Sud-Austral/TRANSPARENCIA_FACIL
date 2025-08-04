@@ -18,7 +18,8 @@
   "Febrero_2025":1,
   "Marzo_2025":1,
   "Abril_2025":1,
-  "Mayo_2025":1
+  "Mayo_2025":1,
+  "Junio_2025":1
  },
  {
   "organismo_nombre":"Hospital de Osorno",
@@ -39,7 +40,8 @@
   "Febrero_2025":1990,
   "Marzo_2025":1952,
   "Abril_2025":1865,
-  "Mayo_2025":1910
+  "Mayo_2025":1910,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de Osorno",
@@ -60,7 +62,8 @@
   "Febrero_2025":301,
   "Marzo_2025":295,
   "Abril_2025":272,
-  "Mayo_2025":256
+  "Mayo_2025":256,
+  "Junio_2025":310
  },
  {
   "organismo_nombre":"Hospital de Osorno",
@@ -81,6 +84,7 @@
   "Febrero_2025":790,
   "Marzo_2025":791,
   "Abril_2025":786,
-  "Mayo_2025":785
+  "Mayo_2025":785,
+  "Junio_2025":786
  }
 ]

@@ -18,7 +18,8 @@
   "Febrero_2025":1532,
   "Marzo_2025":1612,
   "Abril_2025":1567,
-  "Mayo_2025":1571
+  "Mayo_2025":1571,
+  "Junio_2025":1578
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
@@ -39,7 +40,8 @@
   "Febrero_2025":474,
   "Marzo_2025":508,
   "Abril_2025":529,
-  "Mayo_2025":537
+  "Mayo_2025":537,
+  "Junio_2025":532
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
@@ -60,7 +62,8 @@
   "Febrero_2025":5,
   "Marzo_2025":0,
   "Abril_2025":2,
-  "Mayo_2025":4
+  "Mayo_2025":2,
+  "Junio_2025":2
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
@@ -81,6 +84,7 @@
   "Febrero_2025":993,
   "Marzo_2025":993,
   "Abril_2025":986,
-  "Mayo_2025":982
+  "Mayo_2025":982,
+  "Junio_2025":982
  }
 ]

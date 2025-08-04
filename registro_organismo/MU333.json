@@ -18,7 +18,8 @@
   "Febrero_2025":110,
   "Marzo_2025":114,
   "Abril_2025":113,
-  "Mayo_2025":0
+  "Mayo_2025":112,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
@@ -38,8 +39,9 @@
   "Enero_2025":99,
   "Febrero_2025":101,
   "Marzo_2025":112,
-  "Abril_2025":85,
-  "Mayo_2025":0
+  "Abril_2025":113,
+  "Mayo_2025":84,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
@@ -59,8 +61,9 @@
   "Enero_2025":49,
   "Febrero_2025":50,
   "Marzo_2025":56,
-  "Abril_2025":29,
-  "Mayo_2025":0
+  "Abril_2025":57,
+  "Mayo_2025":12,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
@@ -80,7 +83,8 @@
   "Enero_2025":135,
   "Febrero_2025":135,
   "Marzo_2025":135,
-  "Abril_2025":81,
-  "Mayo_2025":0
+  "Abril_2025":134,
+  "Mayo_2025":81,
+  "Junio_2025":0
  }
 ]

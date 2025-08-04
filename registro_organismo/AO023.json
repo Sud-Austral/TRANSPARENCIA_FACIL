@@ -18,7 +18,8 @@
   "Febrero_2025":3061,
   "Marzo_2025":3115,
   "Abril_2025":3082,
-  "Mayo_2025":3082
+  "Mayo_2025":3082,
+  "Junio_2025":3010
  },
  {
   "organismo_nombre":"Servicio de Salud Viña del Mar  Quillota",
@@ -39,7 +40,8 @@
   "Febrero_2025":44,
   "Marzo_2025":44,
   "Abril_2025":60,
-  "Mayo_2025":61
+  "Mayo_2025":61,
+  "Junio_2025":22
  },
  {
   "organismo_nombre":"Servicio de Salud Viña del Mar  Quillota",
@@ -60,6 +62,7 @@
   "Febrero_2025":604,
   "Marzo_2025":603,
   "Abril_2025":592,
-  "Mayo_2025":590
+  "Mayo_2025":590,
+  "Junio_2025":588
  }
 ]

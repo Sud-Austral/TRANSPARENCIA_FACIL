@@ -18,7 +18,8 @@
   "Febrero_2025":31,
   "Marzo_2025":30,
   "Abril_2025":32,
-  "Mayo_2025":30
+  "Mayo_2025":30,
+  "Junio_2025":30
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
@@ -39,7 +40,8 @@
   "Febrero_2025":240,
   "Marzo_2025":253,
   "Abril_2025":243,
-  "Mayo_2025":255
+  "Mayo_2025":255,
+  "Junio_2025":234
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
@@ -59,8 +61,9 @@
   "Enero_2025":82,
   "Febrero_2025":128,
   "Marzo_2025":135,
-  "Abril_2025":172,
-  "Mayo_2025":44
+  "Abril_2025":173,
+  "Mayo_2025":231,
+  "Junio_2025":169
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
@@ -81,6 +84,7 @@
   "Febrero_2025":376,
   "Marzo_2025":375,
   "Abril_2025":372,
-  "Mayo_2025":375
+  "Mayo_2025":375,
+  "Junio_2025":369
  }
 ]

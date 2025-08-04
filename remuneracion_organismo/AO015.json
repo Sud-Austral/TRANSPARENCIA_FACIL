@@ -18,7 +18,8 @@
   "Febrero_2025":1731164,
   "Marzo_2025":1955885,
   "Abril_2025":2251490,
-  "Mayo_2025":1834022
+  "Mayo_2025":1834022,
+  "Junio_2025":1999633
  },
  {
   "organismo_nombre":"Centro de Referencia de Salud de Maipú (CRSM)",
@@ -39,7 +40,8 @@
   "Febrero_2025":1588783,
   "Marzo_2025":1371763,
   "Abril_2025":1562107,
-  "Mayo_2025":1684106
+  "Mayo_2025":1684106,
+  "Junio_2025":1663951
  },
  {
   "organismo_nombre":"Centro de Referencia de Salud de Maipú (CRSM)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6861990,
   "Marzo_2025":7092470,
   "Abril_2025":6910800,
-  "Mayo_2025":6747422
+  "Mayo_2025":6855444,
+  "Junio_2025":0
  }
 ]

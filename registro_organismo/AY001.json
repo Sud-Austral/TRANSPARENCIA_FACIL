@@ -18,7 +18,8 @@
   "Febrero_2025":123,
   "Marzo_2025":123,
   "Abril_2025":122,
-  "Mayo_2025":122
+  "Mayo_2025":122,
+  "Junio_2025":123
  },
  {
   "organismo_nombre":"Instituto Nacional de Propiedad Industrial (INAPI)",
@@ -39,7 +40,8 @@
   "Febrero_2025":3,
   "Marzo_2025":7,
   "Abril_2025":13,
-  "Mayo_2025":14
+  "Mayo_2025":14,
+  "Junio_2025":15
  },
  {
   "organismo_nombre":"Instituto Nacional de Propiedad Industrial (INAPI)",
@@ -60,6 +62,7 @@
   "Febrero_2025":54,
   "Marzo_2025":53,
   "Abril_2025":53,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":54
  }
 ]

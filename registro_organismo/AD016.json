@@ -18,7 +18,8 @@
   "Febrero_2025":151,
   "Marzo_2025":153,
   "Abril_2025":148,
-  "Mayo_2025":148
+  "Mayo_2025":148,
+  "Junio_2025":149
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
@@ -39,7 +40,8 @@
   "Febrero_2025":231,
   "Marzo_2025":232,
   "Abril_2025":230,
-  "Mayo_2025":230
+  "Mayo_2025":230,
+  "Junio_2025":230
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
@@ -60,7 +62,8 @@
   "Febrero_2025":55,
   "Marzo_2025":49,
   "Abril_2025":61,
-  "Mayo_2025":60
+  "Mayo_2025":60,
+  "Junio_2025":57
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
@@ -81,6 +84,7 @@
   "Febrero_2025":160,
   "Marzo_2025":165,
   "Abril_2025":172,
-  "Mayo_2025":179
+  "Mayo_2025":179,
+  "Junio_2025":182
  }
 ]

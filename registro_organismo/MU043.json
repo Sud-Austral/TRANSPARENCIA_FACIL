@@ -18,7 +18,8 @@
   "Febrero_2025":3,
   "Marzo_2025":2,
   "Abril_2025":3,
-  "Mayo_2025":2
+  "Mayo_2025":2,
+  "Junio_2025":3
  },
  {
   "organismo_nombre":"Municipalidad de Chillán Viejo",
@@ -39,7 +40,8 @@
   "Febrero_2025":162,
   "Marzo_2025":160,
   "Abril_2025":166,
-  "Mayo_2025":161
+  "Mayo_2025":161,
+  "Junio_2025":162
  },
  {
   "organismo_nombre":"Municipalidad de Chillán Viejo",
@@ -57,10 +59,11 @@
   "Noviembre_2024":371,
   "Diciembre_2024":398,
   "Enero_2025":262,
-  "Febrero_2025":77,
+  "Febrero_2025":272,
   "Marzo_2025":269,
   "Abril_2025":314,
-  "Mayo_2025":343
+  "Mayo_2025":343,
+  "Junio_2025":305
  },
  {
   "organismo_nombre":"Municipalidad de Chillán Viejo",
@@ -81,6 +84,7 @@
   "Febrero_2025":205,
   "Marzo_2025":204,
   "Abril_2025":202,
-  "Mayo_2025":201
+  "Mayo_2025":201,
+  "Junio_2025":202
  }
 ]

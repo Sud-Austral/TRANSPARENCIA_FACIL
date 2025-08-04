@@ -18,7 +18,8 @@
   "Febrero_2025":1869,
   "Marzo_2025":1995,
   "Abril_2025":2039,
-  "Mayo_2025":2060
+  "Mayo_2025":2060,
+  "Junio_2025":2078
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
@@ -39,7 +40,8 @@
   "Febrero_2025":717,
   "Marzo_2025":853,
   "Abril_2025":816,
-  "Mayo_2025":748
+  "Mayo_2025":748,
+  "Junio_2025":826
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
@@ -60,7 +62,8 @@
   "Febrero_2025":50,
   "Marzo_2025":54,
   "Abril_2025":56,
-  "Mayo_2025":53
+  "Mayo_2025":53,
+  "Junio_2025":51
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1066,
   "Marzo_2025":1026,
   "Abril_2025":1004,
-  "Mayo_2025":1004
+  "Mayo_2025":1004,
+  "Junio_2025":1003
  }
 ]

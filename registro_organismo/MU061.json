@@ -18,7 +18,8 @@
   "Febrero_2025":5,
   "Marzo_2025":5,
   "Abril_2025":5,
-  "Mayo_2025":5
+  "Mayo_2025":5,
+  "Junio_2025":5
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
@@ -39,7 +40,8 @@
   "Febrero_2025":961,
   "Marzo_2025":996,
   "Abril_2025":975,
-  "Mayo_2025":987
+  "Mayo_2025":987,
+  "Junio_2025":1010
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
@@ -60,7 +62,8 @@
   "Febrero_2025":321,
   "Marzo_2025":405,
   "Abril_2025":451,
-  "Mayo_2025":535
+  "Mayo_2025":535,
+  "Junio_2025":468
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
@@ -81,6 +84,7 @@
   "Febrero_2025":1161,
   "Marzo_2025":1179,
   "Abril_2025":1168,
-  "Mayo_2025":1161
+  "Mayo_2025":1161,
+  "Junio_2025":1157
  }
 ]

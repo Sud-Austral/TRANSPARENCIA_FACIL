@@ -18,7 +18,8 @@
   "Febrero_2025":31,
   "Marzo_2025":33,
   "Abril_2025":33,
-  "Mayo_2025":33
+  "Mayo_2025":33,
+  "Junio_2025":34
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
@@ -39,7 +40,8 @@
   "Febrero_2025":39,
   "Marzo_2025":57,
   "Abril_2025":52,
-  "Mayo_2025":52
+  "Mayo_2025":52,
+  "Junio_2025":49
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
@@ -59,8 +61,9 @@
   "Enero_2025":30,
   "Febrero_2025":55,
   "Marzo_2025":191,
-  "Abril_2025":124,
-  "Mayo_2025":128
+  "Abril_2025":123,
+  "Mayo_2025":56,
+  "Junio_2025":137
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
@@ -81,6 +84,7 @@
   "Febrero_2025":86,
   "Marzo_2025":86,
   "Abril_2025":85,
-  "Mayo_2025":60
+  "Mayo_2025":88,
+  "Junio_2025":86
  }
 ]

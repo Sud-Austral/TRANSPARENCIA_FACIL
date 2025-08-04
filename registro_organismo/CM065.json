@@ -16,9 +16,10 @@
   "Diciembre_2024":19,
   "Enero_2025":20,
   "Febrero_2025":20,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":20,
+  "Abril_2025":22,
+  "Mayo_2025":21,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Cultural Aldea del Encuentro La Reina",
@@ -39,6 +40,7 @@
   "Febrero_2025":9,
   "Marzo_2025":16,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]
