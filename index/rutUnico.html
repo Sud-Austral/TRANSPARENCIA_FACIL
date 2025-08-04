@@ -500,7 +500,7 @@
       <div class="container">
         <div class="header-content">
           <h1>
-            <i class="fas fa-chart-line"></i> Remuneración bruta promedio por Organismos
+            <i class="fas fa-chart-line"></i> Personas registradas por Organismos
           </h1>
           <p>Seguimiento mensual de registros por organismo público</p>
         </div>
@@ -699,7 +699,7 @@
 
       let rawData = [];
       const url =
-        "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo_remuneracionBruta.json";
+        "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo_rutUnico.json";
 
       async function cargarJSON() {
         try {
@@ -818,7 +818,7 @@
           //Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública
           
 
-          link.href = `remuneracion/remuneracion1.html?organismo=${codeName}`;
+          link.href = `persona/persona1.html?organismo=${codeName}`;
           link.textContent = row.organismo_nombre;
           //link.target = "_blank";
           link.style.color = "inherit";
