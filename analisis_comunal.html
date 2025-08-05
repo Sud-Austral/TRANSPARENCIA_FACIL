@@ -471,114 +471,11 @@
     </div>
     
     <script src="comunas.js"></script>
+    <script src="regiones.js"></script>
 
     <script>
-        // Data generated from Python script (simulated due to environment limitations)
-        // In a real application, this data would be loaded dynamically from CSVs.
-        //console.log(merged_commune_data_for_js.slice(0, 10))
-        //merged_commune_data_for_js = merged_commune_data_for_js.slice(0, 10);
-        const merged_commune_data_for_js2 = [
-            { comuna: 'Colchane', promedioIDI: 254.23, region: 'Tarapacá', latitud: -19.35302347, longitud: -68.84421888 },
-            { comuna: 'Alto Hospicio', promedioIDI: 188.81, region: 'Tarapacá', latitud: -20.18994645, longitud: -70.01096214 },
-            { comuna: 'Ollagüe', promedioIDI: 198.24, region: 'Antofagasta', latitud: -21.45824065, longitud: -68.31325799 },
-            { comuna: 'La Cisterna', promedioIDI: 219.56, region: 'Metropolitana', latitud: -33.53025795, longitud: -70.66399422 },
-            { comuna: 'Recoleta', promedioIDI: 218.44, region: 'Metropolitana', latitud: -33.40579381, longitud: -70.63958695 },
-            { comuna: 'Quinta Normal', promedioIDI: 211.17, region: 'Metropolitana', latitud: -33.42783447, longitud: -70.70137454 },
-            { comuna: 'Tortel', promedioIDI: 150.0, region: 'Aysén', latitud: -48.02792687, longitud: -74.16720291 },
-            { comuna: 'Santiago', promedioIDI: 217.84, region: 'Metropolitana', latitud: -33.45375118, longitud: -70.6569544 },
-            { comuna: 'Huara', promedioIDI: 184.22, region: 'Tarapacá', latitud: -19.60258684, longitud: -69.66289651 },
-            { comuna: 'Cerrillos', promedioIDI: 182.93, region: 'Metropolitana', latitud: -33.49976663, longitud: -70.71254358 },
-            { comuna: 'Estación Central', promedioIDI: 180.23, region: 'Metropolitana', latitud: -33.46445628, longitud: -70.70098921 },
-            { comuna: 'Pozo Almonte', promedioIDI: 95.10, region: 'Tarapacá', latitud: -20.76764845, longitud: -69.5042363 },
-            { comuna: 'Cartagena', promedioIDI: 166.3, region: 'Valparaíso', latitud: -33.5338143, longitud: -71.44220821 },
-            { comuna: 'Lo Prado', promedioIDI: 167.5, region: 'Metropolitana', latitud: -33.44710374, longitud: -70.72320744 },
-            { comuna: 'La Granja', promedioIDI: 173.1, region: 'Metropolitana', latitud: -33.53558391, longitud: -70.62262627 },
-            { comuna: 'Lo Espejo', promedioIDI: 180.1, region: 'Metropolitana', latitud: -33.52062609, longitud: -70.69000835 },
-            { comuna: 'San Miguel', promedioIDI: 156.9, region: 'Metropolitana', latitud: -33.49918771, longitud: -70.65177646 },
-            { comuna: 'San Bernardo', promedioIDI: 180.3, region: 'Metropolitana', latitud: -33.62926943, longitud: -70.72418102 },
-            { comuna: 'Conchalí', promedioIDI: 172.9, region: 'Metropolitana', latitud: -33.3837226, longitud: -70.67690544 },
-            { comuna: 'Ercilla', promedioIDI: 157.0, region: 'La Araucanía', latitud: -38.08284105, longitud: -72.35313749 },
-            { comuna: 'Pudahuel', promedioIDI: 164.3, region: 'Metropolitana', latitud: -33.42408393, longitud: -70.85483581 },
-            { comuna: 'Camarones', promedioIDI: 109.6, region: 'Arica y Parinacota', latitud: -18.93858957, longitud: -69.71405639 },
-            { comuna: 'San Ramón', promedioIDI: 171.7, region: 'Metropolitana', latitud: -33.54053737, longitud: -70.64231531 },
-            { comuna: 'Renca', promedioIDI: 149.1, region: 'Metropolitana', latitud: -33.40191864, longitud: -70.72793517 },
-            { comuna: 'La Pintana', promedioIDI: 154.1, region: 'Metropolitana', latitud: -33.58759563, longitud: -70.63725191 },
-            { comuna: 'San Joaquín', promedioIDI: 160.4, region: 'Metropolitana', latitud: -33.49620587, longitud: -70.62870059 },
-            { comuna: 'Arica', promedioIDI: 125.66, region: 'Arica y Parinacota', latitud: -18.53219308, longitud: -69.97149109 },
-            { comuna: 'Quintero', promedioIDI: 139.7, region: 'Valparaíso', latitud: -32.84318083, longitud: -71.47323046 },
-            { comuna: 'Licantén', promedioIDI: 177.1, region: 'Maule', latitud: -34.9742867, longitud: -72.06032912 },
-            { comuna: 'Providencia', promedioIDI: 144.3, region: 'Metropolitana', latitud: -33.43185105, longitud: -70.61244275 },
-            { comuna: 'María Elena', promedioIDI: 154.9, region: 'Antofagasta', latitud: -22.09293704, longitud: -69.46706747 },
-            { comuna: 'La Estrella', promedioIDI: 66.03, region: 'O\'Higgins', latitud: -34.22311263, longitud: -71.60255137 },
-            { comuna: 'Pedro Aguirre Cerda', promedioIDI: 166.0, region: 'Metropolitana', latitud: -33.49174274, longitud: -70.67565294 },
-            { comuna: 'Hualañé', promedioIDI: 157.8, region: 'Maule', latitud: -34.95261512, longitud: -71.70879395 },
-            { comuna: 'Putre', promedioIDI: 60.10, region: 'Arica y Parinacota', latitud: -18.42751143, longitud: -69.31019307 },
-            { comuna: 'Quilicura', promedioIDI: 132.0, region: 'Metropolitana', latitud: -33.35571213, longitud: -70.73541907 },
-            { comuna: 'Macul', promedioIDI: 154.4, region: 'Metropolitana', latitud: -33.48962137, longitud: -70.60031583 },
-            { comuna: 'Cabo de Hornos', promedioIDI: 82.2, region: 'Magallanes', latitud: -55.02937377, longitud: -69.26761145 },
-            { comuna: 'Iquique', promedioIDI: 130.50, region: 'Tarapacá', latitud: -20.94061512, longitud: -70.04153835 },
-            { comuna: 'Cerro Navia', promedioIDI: 154.0, region: 'Metropolitana', latitud: -33.42247951, longitud: -70.74458693 },
-            { comuna: 'Algarrobo', promedioIDI: 151.0, region: 'Valparaíso', latitud: -33.32944823, longitud: -71.59939565 },
-            { comuna: 'San Pedro', promedioIDI: 95.6, region: 'Metropolitana', latitud: -33.93179022, longitud: -71.45271033 },
-            { comuna: 'Concepción', promedioIDI: 88.0, region: 'Biobío', latitud: -36.83430328, longitud: -72.95082924 },
-            { comuna: 'Valparaíso', promedioIDI: 90.6, region: 'Valparaíso', latitud: -32.99788366, longitud: -71.75333986 },
-            { comuna: 'Juan Fernández', promedioIDI: 134.5, region: 'Valparaíso', latitud: -33.71558123, longitud: -79.87017726 },
-            { comuna: 'Caldera', promedioIDI: 134.0, region: 'Atacama', latitud: -27.14112269, longitud: -70.68213359 },
-            { comuna: 'Huechuraba', promedioIDI: 127.5, region: 'Metropolitana', latitud: -33.36038647, longitud: -70.63820971 },
-            { comuna: 'Pichilemu', promedioIDI: 144.9, region: 'O\'Higgins', latitud: -34.3838926, longitud: -71.91069029 },
-            { comuna: 'El Tabo', promedioIDI: 162.2, region: 'Valparaíso', latitud: -33.48288383, longitud: -71.58063435 },
-            { comuna: 'General Lagos', promedioIDI: 79.2, region: 'Arica y Parinacota', latitud: -17.8292135, longitud: -69.57072281 },
-            { comuna: 'Calama', promedioIDI: 110.00, region: 'Antofagasta', latitud: -22.16211891, longitud: -68.62970982 },
-            { comuna: 'Maipú', promedioIDI: 135.3, region: 'Metropolitana', latitud: -33.50698087, longitud: -70.80975755 },
-            { comuna: 'Tierra Amarilla', promedioIDI: 90.9, region: 'Atacama', latitud: -27.8635434, longitud: -69.67069302 },
-            { comuna: 'Chañaral', promedioIDI: 102.2, region: 'Atacama', latitud: -26.3725371, longitud: -70.33797461 },
-            { comuna: 'Panguipulli', promedioIDI: 133.1, region: 'Los Ríos', latitud: -39.71460315, longitud: -72.02974414 },
-            { comuna: 'Curicó', promedioIDI: 112.0, region: 'Maule', latitud: -35.19849436, longitud: -70.89737078 },
-            { comuna: 'Melipilla', promedioIDI: 107.9, region: 'Metropolitana', latitud: -33.74375254, longitud: -71.19369048 },
-            { comuna: 'Mostazal', promedioIDI: 130.3, region: 'O\'Higgins', latitud: -33.95573607, longitud: -70.65060869 },
-            { comuna: 'San Fernando', promedioIDI: 124.1, region: 'O\'Higgins', latitud: -34.74355128, longitud: -70.60328682 },
-            { comuna: 'Buin', promedioIDI: 107.6, region: 'Metropolitana', latitud: -33.7480621, longitud: -70.73894224 },
-            { comuna: 'Tirúa', promedioIDI: 70.9, region: 'Biobío', latitud: -38.2972006, longitud: -73.39440528 },
-            { comuna: 'San Rosendo', promedioIDI: 118.6, region: 'Biobío', latitud: -37.21322696, longitud: -72.72125814 },
-            { comuna: 'Valdivia', promedioIDI: 103.9, region: 'Los Ríos', latitud: -39.81778636, longitud: -73.17469089 },
-            { comuna: 'Los Lagos', promedioIDI: 118.9, region: 'Los Ríos', latitud: -39.87851128, longitud: -72.55467557 },
-            { comuna: 'Puerto Montt', promedioIDI: 125.6, region: 'Los Lagos', latitud: -41.4889347, longitud: -72.79558132 },
-            { comuna: 'Osorno', promedioIDI: 121.4, region: 'Los Lagos', latitud: -40.61189252, longitud: -73.08674537 },
-            { comuna: 'Curaco de Vélez', promedioIDI: 31.06, region: 'Los Lagos', latitud: -42.42654018, longitud: -73.57868726 },
-            { comuna: 'Coyhaique', promedioIDI: 100.5, region: 'Aysén', latitud: -45.55479538, longitud: -71.99173699 },
-            { comuna: 'Aisén', promedioIDI: 112.2, region: 'Aysén', latitud: -45.98330681, longitud: -73.76500375 },
-            { comuna: 'Punta Arenas', promedioIDI: 61.2, region: 'Magallanes', latitud: -53.64679025, longitud: -72.02544615 },
-            { comuna: 'Natales', promedioIDI: 92.7, region: 'Magallanes', latitud: -50.64757981, longitud: -73.98345755 },
-            { comuna: 'Río Verde', promedioIDI: 0.0, region: 'Magallanes', latitud: -52.84400729, longitud: -72.45736003 },
-            { comuna: 'Timaukel', promedioIDI: 0.0, region: 'Magallanes', latitud: -54.2016999, longitud: -69.53433391 },
-            { comuna: 'Torres del Paine', promedioIDI: 0.0, region: 'Magallanes', latitud: -51.04029829, longitud: -72.81377694 },
-            { comuna: 'Primavera', promedioIDI: 35.35, region: 'Magallanes', latitud: -52.81804573, longitud: -69.32968278 },
-            { comuna: 'Chillán', promedioIDI: 79.7, region: 'Ñuble', latitud: -36.61749166, longitud: -72.12872443 },
-            { comuna: 'Bulnes', promedioIDI: 113.5, region: 'Ñuble', latitud: -36.79040304, longitud: -72.29002158 },
-            { comuna: 'El Bosque', promedioIDI: 140.2, region: 'Metropolitana', latitud: -33.56286601, longitud: -70.67630674 },
-            { comuna: 'La Florida', promedioIDI: 127.5, region: 'Metropolitana', latitud: -33.52841411, longitud: -70.53997412 },
-            { comuna: 'Las Condes', promedioIDI: 36.2, region: 'Metropolitana', latitud: -33.42124917, longitud: -70.5013174 },
-            { comuna: 'Viña del Mar', promedioIDI: 87.2, region: 'Valparaíso', latitud: -33.0288003, longitud: -71.51543122 },
-            { comuna: 'La Serena', promedioIDI: 120.4, region: 'Coquimbo', latitud: -29.7891138, longitud: -71.06082086 },
-            { comuna: 'Coquimbo', promedioIDI: 107.0, region: 'Coquimbo', latitud: -30.22741756, longitud: -71.3589872 },
-            { comuna: 'Ovalle', promedioIDI: 81.7, region: 'Coquimbo', latitud: -30.67301055, longitud: -71.40530543 },
-            { comuna: 'Rancagua', promedioIDI: 116.8, region: 'O\'Higgins', latitud: -34.12576152, longitud: -70.81674787 },
-            { comuna: 'Talca', promedioIDI: 102.4, region: 'Maule', latitud: -35.42782274, longitud: -71.6021976 },
-            { comuna: 'Linares', promedioIDI: 87.7, region: 'Maule', latitud: -35.9582748, longitud: -71.33256714 },
-            { comuna: 'Empedrado', promedioIDI: 42.1, region: 'Maule', latitud: -35.61352, longitud: -72.28438652 },
-            { comuna: 'Pencahue', promedioIDI: 92.4, region: 'Maule', latitud: -35.32752472, longitud: -71.81617382 },
-            { comuna: 'Temuco', promedioIDI: 93.8, region: 'La Araucanía', latitud: -38.67326298, longitud: -72.66776719 },
-            { comuna: 'Padre Las Casas', promedioIDI: 69.1, region: 'La Araucanía', latitud: -38.7917117, longitud: -72.57884119 },
-            { comuna: 'La Unión', promedioIDI: 95.3, region: 'Los Ríos', latitud: -40.2017945, longitud: -73.22232108 },
-            { comuna: 'Sierra Gorda', promedioIDI: 22.8, region: 'Antofagasta', latitud: -23.25641436, longitud: -69.3055671 },
-            { comuna: 'Río Hurtado', promedioIDI: 53.8, region: 'Coquimbo', latitud: -30.43067949, longitud: -70.6537392 }
-        ];
-    
-        const unique_regions_for_js = [
-            'Antofagasta', 'Araucanía', 'Arica y Parinacota', 'Atacama', 'Aysén',
-            'Biobío', 'Coquimbo', 'Los Lagos', 'Los Ríos', 'Magallanes',
-            'Maule', 'Metropolitana', 'Ñuble', 'O\'Higgins', 'Tarapacá', 'Valparaíso'
-        ].sort();
+        
+        const unique_regions_for_js = [...new Set(merged_commune_data_for_js.map(x => x.region))].sort();
 
         const wrapLabel = (label, maxWidth) => {
             if (label.length <= maxWidth) {
@@ -707,15 +604,18 @@
         });
 
         // Regional data
+        /*
         const regionalData = [
             { region: 'Tarapacá', anio: 2015, indice: 139.4 }, { region: 'Tarapacá', anio: 2016, indice: 131.2 }, { region: 'Tarapacá', anio: 2017, indice: 117.3 }, { region: 'Tarapacá', anio: 2018, indice: 113.3 }, { region: 'Tarapacá', anio: 2019, indice: 118.6 }, { region: 'Tarapacá', anio: 2020, indice: 104.9 }, { region: 'Tarapacá', anio: 2021, indice: 148.4 }, { region: 'Tarapacá', anio: 2022, indice: 238.5 }, { region: 'Tarapacá', anio: 2023, indice: 170.3 }, { region: 'Tarapacá', anio: 2024, indice: 144.7 },
             { region: 'Metropolitana', anio: 2015, indice: 128.6 }, { region: 'Metropolitana', anio: 2016, indice: 121.0 }, { region: 'Metropolitana', anio: 2017, indice: 130.9 }, { region: 'Metropolitana', anio: 2018, indice: 140.4 }, { region: 'Metropolitana', anio: 2019, indice: 149.8 }, { region: 'Metropolitana', anio: 2020, indice: 125.8 }, { region: 'Metropolitana', anio: 2021, indice: 103.8 }, { region: 'Metropolitana', anio: 2022, indice: 138.6 }, { region: 'Metropolitana', anio: 2023, indice: 140.6 }, { region: 'Metropolitana', anio: 2024, indice: 143.9 },
             { region: 'Magallanes', anio: 2015, indice: 51.7 }, { region: 'Magallanes', anio: 2016, indice: 55.6 }, { region: 'Magallanes', anio: 2017, indice: 54.8 }, { region: 'Magallanes', anio: 2018, indice: 53.8 }, { region: 'Magallanes', anio: 2019, indice: 58.0 }, { region: 'Magallanes', anio: 2020, indice: 48.4 }, { region: 'Magallanes', anio: 2021, indice: 58.5 }, { region: 'Magallanes', anio: 2022, indice: 70.6 }, { region: 'Magallanes', anio: 2023, indice: 64.7 }, { region: 'Magallanes', anio: 2024, indice: 66.1 },
             { region: 'Valparaíso', anio: 2015, indice: 90.6 }, { region: 'Valparaíso', anio: 2016, indice: 89.7 }, { region: 'Valparaíso', anio: 2017, indice: 86.1 }, { region: 'Valparaíso', anio: 2018, indice: 87.3 }, { region: 'Valparaíso', anio: 2019, indice: 90.4 }, { region: 'Valparaíso', anio: 2020, indice: 79.5 }, { region: 'Valparaíso', anio: 2021, indice: 79.9 }, { region: 'Valparaíso', anio: 2022, indice: 104.7 }, { region: 'Valparaíso', anio: 2023, indice: 105.2 }, { region: 'Valparaíso', anio: 2024, indice: 107.1 }
         ];
+        */
 
         const anios = [...new Set(regionalData.map(d => d.anio))].sort();
-        const regionesTendencia = ['Tarapacá', 'Metropolitana', 'Valparaíso', 'Magallanes'];
+        //const regionesTendencia = ['Tarapacá', 'Metropolitana', 'Valparaíso', 'Magallanes'];
+        const regionesTendencia = [...new Set(regionalData.map(x => x.region))].sort();
         const datasetsTendencia = regionesTendencia.map((region, index) => {
             return {
                 label: region,
