@@ -469,11 +469,15 @@
             <p class="mt-2">Esta es una visualización de datos generada para fines informativos. Última actualización: Agosto 2024</p>
         </footer>
     </div>
+    
+    <script src="comunas.js"></script>
 
     <script>
         // Data generated from Python script (simulated due to environment limitations)
         // In a real application, this data would be loaded dynamically from CSVs.
-        const merged_commune_data_for_js = [
+        //console.log(merged_commune_data_for_js.slice(0, 10))
+        //merged_commune_data_for_js = merged_commune_data_for_js.slice(0, 10);
+        const merged_commune_data_for_js2 = [
             { comuna: 'Colchane', promedioIDI: 254.23, region: 'Tarapacá', latitud: -19.35302347, longitud: -68.84421888 },
             { comuna: 'Alto Hospicio', promedioIDI: 188.81, region: 'Tarapacá', latitud: -20.18994645, longitud: -70.01096214 },
             { comuna: 'Ollagüe', promedioIDI: 198.24, region: 'Antofagasta', latitud: -21.45824065, longitud: -68.31325799 },
@@ -569,7 +573,7 @@
             { comuna: 'Sierra Gorda', promedioIDI: 22.8, region: 'Antofagasta', latitud: -23.25641436, longitud: -69.3055671 },
             { comuna: 'Río Hurtado', promedioIDI: 53.8, region: 'Coquimbo', latitud: -30.43067949, longitud: -70.6537392 }
         ];
-
+    
         const unique_regions_for_js = [
             'Antofagasta', 'Araucanía', 'Arica y Parinacota', 'Atacama', 'Aysén',
             'Biobío', 'Coquimbo', 'Los Lagos', 'Los Ríos', 'Magallanes',
