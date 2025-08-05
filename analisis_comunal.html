@@ -461,7 +461,7 @@
             class="chart-container rounded-xl overflow-hidden"
             style="height: 600px; max-height: 70vh"
           >
-          <div id="idiMap" class="w-full h-full"></div>
+          <div id="idiMap2" class="w-full h-full"></div>
           </div>
           <!--
           <div class="rounded-xl overflow-hidden" style="height: 600px;">
@@ -658,8 +658,80 @@
 
     <script src="comunas.js"></script>
     <script src="regiones.js"></script>
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
     <script>
+  // Coordenadas centradas en Chile
+  const map = L.map("idiMap2").setView([-30.5, -71], 5);
+
+  // Fondo base
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap contributors",
+  }).addTo(map);
+
+  // Escala de colores (puedes ajustar los valores y colores según el IDI)
+  function getColor(d) {
+    return d > 15
+      ? "#800026"
+      : d > 12
+      ? "#BD0026"
+      : d > 10
+      ? "#E31A1C"
+      : d > 8
+      ? "#FC4E2A"
+      : d > 6
+      ? "#FD8D3C"
+      : d > 4
+      ? "#FEB24C"
+      : d > 2
+      ? "#FED976"
+      : "#FFEDA0";
+  }
+
+  function style(feature) {
+    return {
+      fillColor: getColor(feature.properties.idi_promedio || 0),
+      weight: 1,
+      opacity: 1,
+      color: "white",
+      dashArray: "3",
+      fillOpacity: 0.7,
+    };
+  }
+
+  // Cargar GeoJSON
+  fetch("Comunas_simpli_GeoJson_Chile (1).json")
+    .then((res) => res.json())
+    .then((geojsonData) => {
+      // Si no tienes los valores IDI directamente en el GeoJSON, deberás unirlos aquí
+      L.geoJson(geojsonData, {
+        style: style,
+        onEachFeature: function (feature, layer) {
+          const props = feature.properties;
+          layer.bindPopup(
+            `<strong>${props.Nom_com}</strong><br>IDI promedio: ${
+              props.idi_promedio ?? "N/A"
+            }`
+          );
+        },
+      }).addTo(map);
+    })
+    .catch((err) => console.error("Error cargando el GeoJSON:", err));
+</script>
+
+
+
+    <script>
+
+
+
+
+
+
       const regionCenters = {
         "Tarapacá": { lat: -20.2, lon: -69.3, zoom: 6 },
         "Metropolitana": { lat: -33.4, lon: -70.6, zoom: 7 },
