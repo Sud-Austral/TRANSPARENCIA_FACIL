@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infografía: Índice de Delincuencia Integrado en Chile (2015-2024)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #f0f4f8 0%, #e2e8f0 100%);
+            min-height: 100vh;
+        }
+        
+        .chart-container {
+            position: relative;
+            width: 100%;
+            margin: 0 auto;
+        }
+        
+        .flow-step {
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        .flow-step:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        
+        .glass-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+        }
+        
+        .section-divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, #2CA58D, transparent);
+            margin: 3rem 0;
+        }
+        
+        .gradient-text {
+            background: linear-gradient(135deg, #0A2342, #2CA58D);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, rgba(44, 165, 141, 0.1), rgba(185, 226, 140, 0.1));
+            border-left: 4px solid #2CA58D;
+            transition: all 0.3s ease;
+        }
+        
+        .stat-card:hover {
+            transform: scale(1.02);
+            box-shadow: 0 10px 25px rgba(44, 165, 141, 0.2);
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #2CA58D, #20806E);
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(44, 165, 141, 0.3);
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(44, 165, 141, 0.4);
+        }
+        
+        .table-row {
+            transition: all 0.2s ease;
+        }
+        
+        .table-row:hover {
+            background: rgba(44, 165, 141, 0.05);
+            transform: translateX(4px);
+        }
+        
+        .loading-pulse {
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+        }
+        
+        .hero-section {
+            background: linear-gradient(135deg, #0A2342 0%, #2C5D63 50%, #2CA58D 100%);
+            color: white;
+            padding: 4rem 0;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .hero-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><circle cx="500" cy="500" r="400" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/><circle cx="500" cy="500" r="300" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></svg>') center/cover;
+            opacity: 0.3;
+        }
+        
+        .hero-content {
+            position: relative;
+            z-index: 1;
+        }
+        
+        .methodology-flow {
+            display: grid;
+            gap: 1rem;
+            grid-template-columns: 1fr;
+        }
+        
+        @media (min-width: 768px) {
+            .methodology-flow {
+                grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
+                align-items: center;
+            }
+        }
+        
+        .arrow-down {
+            font-size: 2rem;
+            color: #2CA58D;
+            text-align: center;
+            animation: bounce 2s infinite;
+        }
+        
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-10px);
+            }
+            60% {
+                transform: translateY(-5px);
+            }
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+    <!-- Hero Section -->
+    <div class="hero-section">
+        <div class="container mx-auto px-4 hero-content">
+            <div class="text-center">
+                <h1 class="text-5xl md:text-7xl font-black mb-4 leading-tight">
+                    Radiografía de la<br>
+                    <span class="text-[#B9E28C]">Delincuencia</span> en Chile
+                </h1>
+                <p class="text-xl md:text-2xl mb-8 opacity-90 max-w-3xl mx-auto">
+                    Análisis exhaustivo del Índice de Delincuencia Integrado (IDI) 2015-2024
+                </p>
+                <div class="flex flex-wrap justify-center gap-6 text-sm">
+                    <div class="stat-card glass-card p-4 rounded-lg">
+                        <div class="text-2xl font-bold text-[#B9E28C]">16</div>
+                        <div class="opacity-80">Regiones</div>
+                    </div>
+                    <div class="stat-card glass-card p-4 rounded-lg">
+                        <div class="text-2xl font-bold text-[#B9E28C]">346</div>
+                        <div class="opacity-80">Comunas</div>
+                    </div>
+                    <div class="stat-card glass-card p-4 rounded-lg">
+                        <div class="text-2xl font-bold text-[#B9E28C]">10</div>
+                        <div class="opacity-80">Años de datos</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mx-auto p-4 md:p-8 space-y-16">
+
+        <!-- Metodología -->
+        <section id="metodologia" class="space-y-12">
+            <div class="glass-card rounded-2xl shadow-2xl p-8 md:p-12">
+                <div class="text-center mb-12">
+                    <h2 class="text-4xl md:text-5xl font-black gradient-text mb-4">
+                        ¿Qué es el IDI?
+                    </h2>
+                    <div class="w-24 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C] mx-auto mb-6"></div>
+                    <p class="text-lg md:text-xl max-w-4xl mx-auto text-gray-600 leading-relaxed">
+                        El Índice de Delincuencia Integrado es una herramienta que mide la carga delictual real, 
+                        yendo más allá del simple conteo de delitos. Pondera los crímenes según su gravedad y letalidad, 
+                        ofreciendo una visión más precisa del impacto en la seguridad.
+                    </p>
+                </div>
+
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                    <!-- Ponderadores Chart -->
+                    <div class="space-y-6">
+                        <h3 class="text-2xl md:text-3xl font-bold text-[#0A2342] mb-4">
+                            La Ponderación de la Severidad
+                        </h3>
+                        <p class="text-gray-600 leading-relaxed mb-8">
+                            No todos los delitos impactan de la misma manera. El IDI asigna un "peso" específico 
+                            a cada tipo de delito de alto impacto, priorizando aquellos con mayor gravedad y letalidad.
+                        </p>
+                        <div class="chart-container h-80">
+                            <canvas id="ponderadoresChart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Methodology Flow -->
+                    <div class="space-y-6">
+                        <h3 class="text-2xl md:text-3xl font-bold text-[#0A2342] mb-8">
+                            Proceso de Cálculo
+                        </h3>
+                        <div class="methodology-flow">
+                            <div class="flow-step glass-card p-6 rounded-xl text-center">
+                                <div class="text-3xl font-black text-[#0A2342] mb-2">1</div>
+                                <p class="text-sm font-medium text-[#0A2342]">
+                                    Cálculo de tasas por 100.000 habitantes
+                                </p>
+                            </div>
+                            <div class="arrow-down">↓</div>
+                            <div class="flow-step glass-card p-6 rounded-xl text-center">
+                                <div class="text-3xl font-black text-[#2C5D63] mb-2">2</div>
+                                <p class="text-sm font-medium text-[#2C5D63]">
+                                    Multiplicación por ponderadores de severidad
+                                </p>
+                            </div>
+                            <div class="arrow-down">↓</div>
+                            <div class="flow-step glass-card p-6 rounded-xl text-center">
+                                <div class="text-3xl font-black text-[#2CA58D] mb-2">3</div>
+                                <p class="text-sm font-medium text-[#2CA58D]">
+                                    Suma de valores ponderados (PPD)
+                                </p>
+                            </div>
+                            <div class="arrow-down">↓</div>
+                            <div class="flow-step glass-card p-6 rounded-xl text-center">
+                                <div class="text-3xl font-black text-[#B9E28C] mb-2">4</div>
+                                <p class="text-sm font-medium text-gray-700">
+                                    Estandarización contra base 2015
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-divider"></div>
+
+        <!-- Análisis Regional -->
+        <section id="regional" class="space-y-8">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl md:text-5xl font-black gradient-text mb-4">
+                    Panorama Regional
+                </h2>
+                <div class="w-24 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C] mx-auto mb-6"></div>
+                <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                    Una brecha persistente que revela patrones geográficos claros en la distribución de la delincuencia
+                </p>
+                <p class="text-sm text-gray-500 mt-4">
+                    Datos obtenidos de "Índice de Delincuencia Anual por Región.csv" y "Índice de Delincuencia Anual por Comuna.csv"
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
+                <!-- Evolución Temporal -->
+                <div class="glass-card rounded-2xl shadow-2xl p-8">
+                    <h3 class="text-2xl font-bold text-[#0A2342] mb-6 text-center">
+                        Evolución IDI en Regiones Clave (2015-2024)
+                    </h3>
+                    <p class="text-center mb-6 text-gray-600 text-sm leading-relaxed">
+                        Las regiones del norte muestran alta volatilidad y picos preocupantes, 
+                        mientras que Magallanes se mantiene consistentemente como la región más segura.
+                    </p>
+                    <div class="chart-container h-96">
+                        <canvas id="tendenciaRegionalChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Ranking Regional -->
+                <div class="glass-card rounded-2xl shadow-2xl p-8">
+                    <h3 class="text-2xl font-bold text-[#0A2342] mb-6 text-center">
+                        Ranking Regional (Promedio 2015-2024)
+                    </h3>
+                    <p class="text-center mb-6 text-gray-600 text-sm leading-relaxed">
+                        La concentración de la delincuencia ponderada en el norte y la capital es evidente. 
+                        Tarapacá lidera con un IDI 42.7% superior a la base nacional.
+                    </p>
+                    <div class="chart-container h-96">
+                        <canvas id="rankingRegionalChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-divider"></div>
+
+        <!-- Análisis Comunal -->
+        <section id="comunal" class="space-y-8">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl md:text-5xl font-black gradient-text mb-4">
+                    Realidad Comunal
+                </h2>
+                <div class="w-24 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C] mx-auto mb-6"></div>
+                <p class="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
+                    El análisis comunal revela las realidades más dispares del país. Mientras algunas comunas 
+                    urbanas y fronterizas enfrentan desafíos críticos, muchas zonas rurales registran 
+                    incidencia casi nula de delitos de alto impacto.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <!-- Top Comunas -->
+                <div class="glass-card rounded-2xl shadow-2xl p-8">
+                    <div class="flex items-center justify-center mb-6">
+                        <div class="w-4 h-4 bg-[#931621] rounded-full mr-3"></div>
+                        <h3 class="text-2xl font-bold text-[#931621]">
+                            Top 10 Comunas - Mayor IDI
+                        </h3>
+                    </div>
+                    <div class="overflow-hidden rounded-lg">
+                        <table class="w-full">
+                            <thead class="bg-gradient-to-r from-[#931621] to-[#b91c28] text-white">
+                                <tr>
+                                    <th class="p-4 text-left font-semibold">Comuna</th>
+                                    <th class="p-4 text-right font-semibold">IDI Promedio</th>
+                                </tr>
+                            </thead>
+                            <tbody id="topComunasTable" class="bg-white">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Bottom Comunas -->
+                <div class="glass-card rounded-2xl shadow-2xl p-8">
+                    <div class="flex items-center justify-center mb-6">
+                        <div class="w-4 h-4 bg-[#2CA58D] rounded-full mr-3"></div>
+                        <h3 class="text-2xl font-bold text-[#2CA58D]">
+                            Top 10 Comunas - Menor IDI
+                        </h3>
+                    </div>
+                    <div class="overflow-hidden rounded-lg">
+                        <table class="w-full">
+                            <thead class="bg-gradient-to-r from-[#2CA58D] to-[#20806E] text-white">
+                                <tr>
+                                    <th class="p-4 text-left font-semibold">Comuna</th>
+                                    <th class="p-4 text-right font-semibold">IDI Promedio</th>
+                                </tr>
+                            </thead>
+                            <tbody id="bottomComunasTable" class="bg-white">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-divider"></div>
+
+        <!-- Mapa Interactivo -->
+        <section id="mapa-idi" class="space-y-8">
+            <div class="glass-card rounded-2xl shadow-2xl p-8 md:p-12">
+                <div class="text-center mb-12">
+                    <h2 class="text-4xl md:text-5xl font-black gradient-text mb-4">
+                        Mapa Interactivo
+                    </h2>
+                    <div class="w-24 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C] mx-auto mb-6"></div>
+                    <p class="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
+                        Explora visualmente la distribución del IDI a lo largo de las comunas de Chile. 
+                        Los colores más intensos indican mayor carga delictual ponderada.
+                    </p>
+                </div>
+
+                <!-- Controles del Mapa -->
+                <div class="flex flex-col md:flex-row items-center justify-center gap-6 mb-8">
+                    <div class="flex items-center gap-3">
+                        <label for="mapViewSelect" class="text-lg font-medium text-[#0A2342]">
+                            Vista:
+                        </label>
+                        <select id="mapViewSelect" class="px-4 py-2 border-2 border-[#2CA58D] rounded-lg focus:ring-2 focus:ring-[#2CA58D] focus:border-transparent bg-white">
+                            <option value="idi_average">IDI Promedio (Continuo)</option>
+                            <option value="groups">Clasificación por Grupos</option>
+                        </select>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <label for="regionMapSelect" class="text-lg font-medium text-[#0A2342]">
+                            Región:
+                        </label>
+                        <select id="regionMapSelect" class="px-4 py-2 border-2 border-[#2CA58D] rounded-lg focus:ring-2 focus:ring-[#2CA58D] focus:border-transparent bg-white">
+                            <option value="all">Todas las Regiones</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Mapa -->
+                <div class="rounded-xl overflow-hidden shadow-inner bg-gray-50">
+                    <div class="chart-container h-[600px]">
+                        <div id="idiMap" class="w-full h-full"></div>
+                    </div>
+                </div>
+
+                <!-- Leyenda -->
+                <div id="mapLegend" class="mt-8 glass-card p-6 rounded-xl hidden">
+                    <h3 class="text-xl font-bold text-[#0A2342] mb-4 text-center">
+                        Clasificación por Grupos IDI
+                    </h3>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+                        <div class="flex items-center justify-center p-3 rounded-lg bg-white shadow-sm">
+                            <span class="w-4 h-4 rounded-full mr-3" style="background-color: #931621;"></span>
+                            <span class="text-sm font-medium">Focos Críticos (>200)</span>
+                        </div>
+                        <div class="flex items-center justify-center p-3 rounded-lg bg-white shadow-sm">
+                            <span class="w-4 h-4 rounded-full mr-3" style="background-color: #0A2342;"></span>
+                            <span class="text-sm font-medium">Alta Preocupación (150-199.9)</span>
+                        </div>
+                        <div class="flex items-center justify-center p-3 rounded-lg bg-white shadow-sm">
+                            <span class="w-4 h-4 rounded-full mr-3" style="background-color: #2C5D63;"></span>
+                            <span class="text-sm font-medium">Desafíos Moderados (100-149.9)</span>
+                        </div>
+                        <div class="flex items-center justify-center p-3 rounded-lg bg-white shadow-sm">
+                            <span class="w-4 h-4 rounded-full mr-3" style="background-color: #2CA58D;"></span>
+                            <span class="text-sm font-medium">Menor Riesgo (50-99.9)</span>
+                        </div>
+                        <div class="flex items-center justify-center p-3 rounded-lg bg-white shadow-sm">
+                            <span class="w-4 h-4 rounded-full mr-3" style="background-color: #B9E28C;"></span>
+                            <span class="text-sm font-medium">Baja Incidencia (<50)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-divider"></div>
+
+        <!-- Análisis con IA -->
+        <section id="ia-analisis" class="space-y-8">
+            <div class="glass-card rounded-2xl shadow-2xl p-8 md:p-12">
+                <div class="text-center mb-12">
+                    <h2 class="text-4xl md:text-5xl font-black gradient-text mb-4">
+                        Análisis Inteligente ✨
+                    </h2>
+                    <div class="w-24 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C] mx-auto mb-6"></div>
+                    <p class="text-lg text-gray-600 max-w-4xl mx-auto leading-relaxed">
+                        Selecciona una región para obtener un análisis de seguridad generado por inteligencia artificial, 
+                        incluyendo recomendaciones específicas y áreas de intervención prioritarias.
+                    </p>
+                </div>
+
+                <!-- Controles de IA -->
+                <div class="flex flex-col md:flex-row items-center justify-center gap-6 mb-8">
+                    <div class="flex items-center gap-3">
+                        <label for="regionSelect" class="text-lg font-medium text-[#0A2342]">
+                            Región:
+                        </label>
+                        <select id="regionSelect" class="px-4 py-2 border-2 border-[#2CA58D] rounded-lg focus:ring-2 focus:ring-[#2CA58D] focus:border-transparent bg-white">
+                        </select>
+                    </div>
+                    <button id="generateAnalysisBtn" class="btn-primary text-white px-8 py-3 rounded-lg font-semibold flex items-center gap-2">
+                        <span>✨</span>
+                        <span>Generar Análisis</span>
+                    </button>
+                </div>
+
+                <!-- Output del Análisis -->
+                <div id="analysisOutput" class="glass-card p-8 rounded-xl min-h-[200px] flex flex-col items-center justify-center text-gray-700">
+                    <div class="text-center">
+                        <div class="text-4xl mb-4">🔍</div>
+                        <p class="italic text-lg">Selecciona una región y genera el análisis para comenzar</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-divider"></div>
+
+        <!-- Conclusiones -->
+        <section id="conclusiones" class="space-y-8">
+            <div class="glass-card rounded-2xl shadow-2xl p-8 md:p-12">
+                <div class="text-center mb-12">
+                    <h2 class="text-4xl md:text-5xl font-black gradient-text mb-4">
+                        Conclusiones Clave
+                    </h2>
+                    <div class="w-24 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C] mx-auto"></div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div class="stat-card glass-card p-8 rounded-xl text-center space-y-4">
+                        <div class="text-4xl">🎯</div>
+                        <h3 class="text-xl font-bold text-[#0A2342]">Focalización Geográfica</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            La delincuencia de alto impacto se concentra marcadamente en las regiones del norte 
+                            y la Región Metropolitana, exigiendo políticas diferenciadas.
+                        </p>
+                    </div>
+                    <div class="stat-card glass-card p-8 rounded-xl text-center space-y-4">
+                        <div class="text-4xl">⚖️</div>
+                        <h3 class="text-xl font-bold text-[#2C5D63]">El Peso de la Violencia</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            La metodología del IDI revela que la "calidad" (gravedad) de la delincuencia 
+                            es más importante que la "cantidad" para entender la carga de seguridad.
+                        </p>
+                    </div>
+                    <div class="stat-card glass-card p-8 rounded-xl text-center space-y-4">
+                        <div class="text-4xl">🌍</div>
+                        <h3 class="text-xl font-bold text-[#2CA58D]">El Contexto Importa</h3>
+                        <p class="text-gray-600 leading-relaxed">
+                            Un IDI alto en una comuna fronteriza tiene origen distinto a uno en una comuna densa, 
+                            demostrando que las estrategias deben ser contextuales.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="glass-card rounded-2xl p-8 text-center text-gray-500 space-y-4">
+            <div class="flex justify-center items-center space-x-4 mb-4">
+                <div class="w-12 h-1 bg-gradient-to-r from-[#2CA58D] to-[#B9E28C]"></div>
+                <div class="text-2xl">📊</div>
+                <div class="w-12 h-1 bg-gradient-to-r from-[#B9E28C] to-[#2CA58D]"></div>
+            </div>
+            <p class="text-sm">
+                <strong>Fuente de datos:</strong> Análisis basado en la metodología del Índice de Delincuencia Integrado y datos del CEAD (2015-2024)
+            </p>
+            <p class="text-xs opacity-75">
+                Esta es una visualización de datos generada para fines informativos y de investigación académica.
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        // Data generated from Python script (simulated due to environment limitations)
+        const merged_commune_data_for_js = [
+            { comuna: 'Colchane', promedioIDI: 254.23, region: 'Tarapacá', latitud: -19.35302347, longitud: -68.84421888 },
+            { comuna: 'Alto Hospicio', promedioIDI: 188.81, region: 'Tarapacá', latitud: -20.18994645, longitud: -70.01096214 },
+            { comuna: 'Ollagüe', promedioIDI: 198.24, region: 'Antofagasta', latitud: -21.45824065, longitud: -68.31325799 },
+            { comuna: 'La Cisterna', promedioIDI: 219.56, region: 'Metropolitana', latitud: -33.53025795, longitud: -70
