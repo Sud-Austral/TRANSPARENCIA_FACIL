@@ -559,7 +559,7 @@
         document.getElementById("regionSelect").appendChild(option);
       });
       
-      fetch('Comunas_simpli_GeoJson_Chile (1).json')
+      fetch('https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/comunas.geojson')
         .then(response => { if (!response.ok) { throw new Error('Network response was not ok'); } return response.json(); })
         .then(geojson => {
             geojson.features.forEach(feature => {
