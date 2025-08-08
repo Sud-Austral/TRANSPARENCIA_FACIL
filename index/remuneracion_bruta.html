@@ -767,7 +767,7 @@
         });
 
         const promedioGeneral =
-          totalCount > 0 ? (totalSum / totalCount).toFixed(1) : "-";
+          totalCount > 0 ? (totalSum / totalCount).toFixed(0) : "-";
         document.getElementById("promedio-general").textContent =
           promedioGeneral;
       }
