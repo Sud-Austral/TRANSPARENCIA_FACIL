@@ -471,81 +471,55 @@
       </div>
     </header>
 
-    <nav
-      style="
-        background: var(--white);
-        box-shadow: var(--shadow-lg);
-        padding: 1rem 0;
-      "
-    >
-      <div
-        class="container"
-        style="
-          display: flex;
-          justify-content: center;
-          gap: 2rem;
-          flex-wrap: wrap;
-        "
-      >
-        <a
-          href="../inicio.html"
-          style="
-            text-decoration: none;
-            background: var(--accent-color);
-            color: var(--white);
-            padding: 0.6rem 1.2rem;
-            border-radius: 8px;
-            font-weight: 600;
-            transition: background 0.3s ease;
-          "
-        >
-          Ver Pagos
-        </a>
-        <a
-          href="../remuneracion_bruta.html"
-          style="
-            text-decoration: none;
-            background: var(--secondary-color);
-            color: var(--white);
-            padding: 0.6rem 1.2rem;
-            border-radius: 8px;
-            font-weight: 600;
-            transition: background 0.3s ease;
-          "
-        >
-          Remuneración Bruta
-        </a>
-        <a
-          href="../rutUnico.html"
-          style="
-            text-decoration: none;
-            background: var(--primary-color);
-            color: var(--white);
-            padding: 0.6rem 1.2rem;
-            border-radius: 8px;
-            font-weight: 600;
-            transition: background 0.3s ease;
-          "
-        >
-          Personas
-        </a>
-        <a id="organismoDetalleBTN"
-          href="../registro/registro1.html?organismo=AE013"
-          style="
-            text-decoration: none;
-            background: var(--primary-color);
-            color: var(--white);
-            padding: 0.6rem 1.2rem;
-            border-radius: 8px;
-            font-weight: 600;
-            transition: background 0.3s ease;
-            display: none;
-          "
-        >
-          Ver Detalle Pagos
-        </a>
+     <!-- Barra de navegación -->
+    <nav class="main-nav">
+      <div class="nav-container">
+        <a href="../inicio.html" class="nav-item primary">Ver Pagos</a>
+        <a href="../remuneracion_bruta.html" class="nav-item primary">Remuneración Bruta</a>
+        <a href="../rutUnico.html" class="nav-item accent">Personas</a>
+        <a href="../landing_transparencia.html" class="nav-item secondary">Inicio</a>
+        <!-- Ejemplo para más páginas -->
+        <!-- <a href="otra.html" class="nav-item secondary">Otra Página</a> -->
       </div>
     </nav>
+
+    <style>
+      .main-nav {
+        background: var(--white);
+        box-shadow: var(--shadow-lg);
+        padding: 0.8rem 0;
+        overflow-x: auto; /* Evita que se corte en pantallas pequeñas */
+      }
+
+      .nav-container {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        flex-wrap: wrap;
+        padding: 0 1rem;
+      }
+
+      .nav-item {
+        text-decoration: none;
+        color: var(--white);
+        padding: 0.6rem 1.2rem;
+        border-radius: 8px;
+        font-weight: 600;
+        white-space: nowrap; /* Evita cortes de texto */
+        transition: background 0.3s ease, transform 0.2s ease;
+      }
+
+      .nav-item.accent { background: var(--accent-color); }
+      .nav-item.secondary { background: var(--secondary-color); }
+      .nav-item.primary { background: var(--primary-color); }
+
+      .nav-item:hover {
+        transform: translateY(-5px);
+        filter: brightness(1.55);
+      }
+    </style>
+
+    
 
     <div class="stats-bar">
       <div class="stat-item">
