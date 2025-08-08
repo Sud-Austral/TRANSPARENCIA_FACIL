@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Arauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":596,
   "Febrero_2024":555,
   "Marzo_2024":546,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":289,
   "Febrero_2024":350,
   "Marzo_2024":317,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Nacional Forestal (CONAF)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":9487,
   "Febrero_2024":9443,
   "Marzo_2024":9271,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Nacional Forestal (CONAF)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":4,
   "Febrero_2024":5,
   "Marzo_2024":5,

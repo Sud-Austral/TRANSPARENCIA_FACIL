@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Colina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1184,
   "Febrero_2024":1120,
   "Marzo_2024":772,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Colina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":298,
   "Febrero_2024":279,
   "Marzo_2024":296,

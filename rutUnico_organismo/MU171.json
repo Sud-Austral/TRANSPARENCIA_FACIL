@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Mejillones",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":266,
   "Febrero_2024":253,
   "Marzo_2024":276,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":118,
   "Febrero_2024":119,
   "Marzo_2024":125,

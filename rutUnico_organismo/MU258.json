@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quintero",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":609,
   "Febrero_2024":610,
   "Marzo_2024":615,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quintero",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":83,
   "Febrero_2024":84,
   "Marzo_2024":87,

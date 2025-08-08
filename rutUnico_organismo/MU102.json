@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Hijuelas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":229,
   "Febrero_2024":217,
   "Marzo_2024":230,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hijuelas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":53,
   "Febrero_2024":116,
   "Marzo_2024":112,

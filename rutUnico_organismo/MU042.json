@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chillán",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1356,
   "Febrero_2024":1251,
   "Marzo_2024":1363,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chillán",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1008,
   "Febrero_2024":1394,
   "Marzo_2024":1358,

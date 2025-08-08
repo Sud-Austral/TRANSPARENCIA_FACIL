@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cunco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":227,
   "Febrero_2024":215,
   "Marzo_2024":51,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":139,
   "Febrero_2024":176,
   "Marzo_2024":174,

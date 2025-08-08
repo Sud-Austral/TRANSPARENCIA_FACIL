@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":218,
   "Febrero_2024":218,
   "Marzo_2024":222,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":54,
   "Febrero_2024":64,
   "Marzo_2024":73,

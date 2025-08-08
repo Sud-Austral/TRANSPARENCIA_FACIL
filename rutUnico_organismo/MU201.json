@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Panquehue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":148,
   "Febrero_2024":146,
   "Marzo_2024":162,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Panquehue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":63,
   "Febrero_2024":65,
   "Marzo_2024":90,

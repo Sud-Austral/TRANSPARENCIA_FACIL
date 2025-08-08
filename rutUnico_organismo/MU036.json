@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chaitén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":138,
   "Febrero_2024":135,
   "Marzo_2024":145,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":82,
   "Febrero_2024":103,
   "Marzo_2024":97,

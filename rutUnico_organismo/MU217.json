@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pica",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":349,
   "Febrero_2024":347,
   "Marzo_2024":363,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":250,
   "Febrero_2024":245,
   "Marzo_2024":255,

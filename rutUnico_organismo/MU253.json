@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quillota",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":685,
   "Febrero_2024":664,
   "Marzo_2024":652,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":616,
   "Febrero_2024":606,
   "Marzo_2024":623,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":21,
   "Febrero_2024":21,
   "Marzo_2024":21,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":76,
   "Febrero_2024":85,
   "Marzo_2024":90,

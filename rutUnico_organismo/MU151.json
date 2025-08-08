@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":817,
   "Febrero_2024":814,
   "Marzo_2024":847,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":177,
   "Febrero_2024":197,
   "Marzo_2024":226,

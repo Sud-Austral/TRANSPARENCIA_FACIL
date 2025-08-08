@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quinchao",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quinchao",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":73,
   "Febrero_2024":71,
   "Marzo_2024":76,

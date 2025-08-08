@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":161,
   "Febrero_2024":159,
   "Marzo_2024":148,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":104,
   "Febrero_2024":122,
   "Marzo_2024":118,

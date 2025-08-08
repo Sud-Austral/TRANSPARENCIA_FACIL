@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quilicura",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1031,
   "Febrero_2024":1003,
   "Marzo_2024":996,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":933,
   "Febrero_2024":877,
   "Marzo_2024":919,

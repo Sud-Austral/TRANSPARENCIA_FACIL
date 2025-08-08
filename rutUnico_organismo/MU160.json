@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Machalí",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":339,
   "Febrero_2024":335,
   "Marzo_2024":322,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":17,
   "Febrero_2024":0,
   "Marzo_2024":16,

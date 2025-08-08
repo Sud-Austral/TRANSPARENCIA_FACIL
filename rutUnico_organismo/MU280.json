@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Antonio",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":732,
   "Febrero_2024":718,
   "Marzo_2024":704,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":678,
   "Febrero_2024":823,
   "Marzo_2024":872,

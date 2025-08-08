@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":548,
   "Febrero_2024":550,
   "Marzo_2024":553,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":839,
   "Febrero_2024":843,
   "Marzo_2024":0,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":48,
   "Febrero_2024":37,
   "Marzo_2024":76,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":51,
   "Febrero_2024":57,
   "Marzo_2024":73,

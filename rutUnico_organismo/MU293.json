@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":182,
   "Febrero_2024":184,
   "Marzo_2024":194,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":61,
   "Febrero_2024":99,
   "Marzo_2024":84,

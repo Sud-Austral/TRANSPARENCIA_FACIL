@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cartagena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":365,
   "Febrero_2024":351,
   "Marzo_2024":317,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cartagena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":229,
   "Febrero_2024":209,
   "Marzo_2024":242,

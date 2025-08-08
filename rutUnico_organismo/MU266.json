@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rengo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1072,
   "Febrero_2024":1007,
   "Marzo_2024":928,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":225,
   "Febrero_2024":243,
   "Marzo_2024":250,

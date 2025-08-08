@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Universidad de Aysén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":8,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Universidad de Aysén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":51,
   "Febrero_2024":3,
   "Marzo_2024":81,

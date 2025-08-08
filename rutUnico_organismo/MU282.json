@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Carlos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":87,
   "Febrero_2024":90,
   "Marzo_2024":91,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Carlos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":400,
   "Febrero_2024":528,
   "Marzo_2024":543,

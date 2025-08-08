@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Trehuaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":90,
   "Febrero_2024":91,
   "Marzo_2024":2,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Trehuaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":55,
   "Febrero_2024":51,
   "Marzo_2024":51,

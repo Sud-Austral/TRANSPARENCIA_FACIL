@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Felipe",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":424,
   "Febrero_2024":745,
   "Marzo_2024":762,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":313,
   "Febrero_2024":282,
   "Marzo_2024":309,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":588,
   "Febrero_2024":640,
   "Marzo_2024":580,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":733,
   "Febrero_2024":661,
   "Marzo_2024":655,

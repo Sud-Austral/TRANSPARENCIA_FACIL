@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Salamanca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":270,
   "Febrero_2024":259,
   "Marzo_2024":268,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Salamanca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":408,
   "Febrero_2024":453,
   "Marzo_2024":440,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":6,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":51,
   "Febrero_2024":59,
   "Marzo_2024":55,

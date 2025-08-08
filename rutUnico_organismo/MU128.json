@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":213,
   "Febrero_2024":209,
   "Marzo_2024":218,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":117,
   "Febrero_2024":114,
   "Marzo_2024":141,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Petorca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":119,
   "Febrero_2024":120,
   "Marzo_2024":121,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Petorca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":40,
   "Febrero_2024":47,
   "Marzo_2024":48,

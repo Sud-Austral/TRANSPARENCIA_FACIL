@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Quisco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":518,
   "Febrero_2024":508,
   "Marzo_2024":493,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":250,
   "Febrero_2024":333,
   "Marzo_2024":373,

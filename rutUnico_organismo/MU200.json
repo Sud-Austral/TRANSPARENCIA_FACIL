@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":160,
   "Febrero_2024":158,
   "Marzo_2024":157,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":286,
   "Febrero_2024":377,
   "Marzo_2024":280,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Camarones",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":48,
   "Febrero_2024":50,
   "Marzo_2024":55,

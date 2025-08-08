@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Santiago",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1848,
   "Febrero_2024":1802,
   "Marzo_2024":1635,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":398,
   "Febrero_2024":450,
   "Marzo_2024":533,

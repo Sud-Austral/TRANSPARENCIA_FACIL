@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Cultural de Osorno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":25,
   "Febrero_2024":25,
   "Marzo_2024":26,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":22,
   "Febrero_2024":7,
   "Marzo_2024":30,

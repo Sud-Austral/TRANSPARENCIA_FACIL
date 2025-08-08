@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chanco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":386,
   "Febrero_2024":153,
   "Marzo_2024":228,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chanco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":94,
   "Febrero_2024":94,
   "Marzo_2024":96,

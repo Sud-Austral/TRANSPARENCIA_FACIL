@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":87,
   "Febrero_2024":224,
   "Marzo_2024":185,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":122,
   "Febrero_2024":130,
   "Marzo_2024":101,

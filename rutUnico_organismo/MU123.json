@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Ligua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":453,
   "Febrero_2024":453,
   "Marzo_2024":453,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":254,
   "Febrero_2024":254,
   "Marzo_2024":269,

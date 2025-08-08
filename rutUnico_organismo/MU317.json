@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Teodoro Schmidt",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Teodoro Schmidt",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":5,
   "Febrero_2024":15,
   "Marzo_2024":139,

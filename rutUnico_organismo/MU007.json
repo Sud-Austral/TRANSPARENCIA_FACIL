@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Andacollo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":168,
   "Febrero_2024":169,
   "Marzo_2024":176,

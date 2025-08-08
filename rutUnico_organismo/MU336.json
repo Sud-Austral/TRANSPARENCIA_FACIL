@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Vilcún",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":247,
   "Febrero_2024":246,
   "Marzo_2024":274,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vilcún",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":81,
   "Febrero_2024":101,
   "Marzo_2024":146,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Granja",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":24,
   "Febrero_2024":24,
   "Marzo_2024":24,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Granja",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1053,
   "Febrero_2024":1024,
   "Marzo_2024":1051,

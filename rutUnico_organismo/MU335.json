@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Vicuña",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":372,
   "Febrero_2024":341,
   "Marzo_2024":339,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vicuña",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":298,
   "Febrero_2024":316,
   "Marzo_2024":312,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Galvarino",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":271,
   "Febrero_2024":271,
   "Marzo_2024":261,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":169,
   "Febrero_2024":170,
   "Marzo_2024":163,

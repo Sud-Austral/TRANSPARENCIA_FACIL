@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Pintana",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":773,
   "Febrero_2024":710,
   "Marzo_2024":671,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Pintana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":768,
   "Febrero_2024":784,
   "Marzo_2024":840,

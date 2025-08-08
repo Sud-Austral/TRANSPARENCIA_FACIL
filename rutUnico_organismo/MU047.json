@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cisnes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":9,
   "Febrero_2024":14,
   "Marzo_2024":14,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":222,
   "Febrero_2024":269,
   "Marzo_2024":253,

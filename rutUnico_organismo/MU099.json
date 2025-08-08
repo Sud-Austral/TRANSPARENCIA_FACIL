@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Gorbea",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":250,
   "Febrero_2024":265,
   "Marzo_2024":254,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":165,
   "Febrero_2024":166,
   "Marzo_2024":146,

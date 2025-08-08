@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ránquil",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":118,
   "Febrero_2024":117,
   "Marzo_2024":129,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ránquil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":34,
   "Febrero_2024":73,
   "Marzo_2024":63,

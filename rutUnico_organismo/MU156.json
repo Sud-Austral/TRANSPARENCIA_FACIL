@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":198,
   "Febrero_2024":189,
   "Marzo_2024":183,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":159,
   "Febrero_2024":222,
   "Marzo_2024":190,

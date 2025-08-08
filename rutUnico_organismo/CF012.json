@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región de Arica y Parinacota",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":54,
   "Febrero_2024":54,
   "Marzo_2024":55,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Arica y Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3,
   "Febrero_2024":6,
   "Marzo_2024":13,

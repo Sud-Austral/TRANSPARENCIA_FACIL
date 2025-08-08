@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Casablanca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":326,
   "Febrero_2024":320,
   "Marzo_2024":321,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":124,
   "Febrero_2024":73,
   "Marzo_2024":218,

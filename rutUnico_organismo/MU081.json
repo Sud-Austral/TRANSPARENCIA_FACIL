@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Doñihue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":111,
   "Febrero_2024":281,
   "Marzo_2024":262,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Doñihue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":99,
   "Febrero_2024":137,
   "Marzo_2024":145,

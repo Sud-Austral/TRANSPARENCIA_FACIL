@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":320,
   "Febrero_2024":298,
   "Marzo_2024":258,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":28,
   "Febrero_2024":187,
   "Marzo_2024":176,

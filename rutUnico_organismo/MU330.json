@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Valdivia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":135,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Valdivia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":206,
   "Marzo_2024":219,

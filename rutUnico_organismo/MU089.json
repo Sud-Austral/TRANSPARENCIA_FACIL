@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Estación Central",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":815,
   "Febrero_2024":821,
   "Marzo_2024":839,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":501,
   "Febrero_2024":554,
   "Marzo_2024":637,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":61,
   "Febrero_2024":61,
   "Marzo_2024":63,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":243,
   "Febrero_2024":244,
   "Marzo_2024":266,

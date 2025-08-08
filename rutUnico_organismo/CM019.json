@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":822,
   "Marzo_2024":933,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":242,
   "Febrero_2024":256,
   "Marzo_2024":274,

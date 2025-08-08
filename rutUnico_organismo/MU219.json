@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":506,
   "Febrero_2024":494,
   "Marzo_2024":278,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":130,
   "Febrero_2024":205,
   "Marzo_2024":205,

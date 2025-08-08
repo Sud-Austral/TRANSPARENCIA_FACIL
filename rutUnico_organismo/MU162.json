@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Máfil",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":84,
   "Febrero_2024":84,
   "Marzo_2024":79,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Máfil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":89,
   "Febrero_2024":119,
   "Marzo_2024":124,

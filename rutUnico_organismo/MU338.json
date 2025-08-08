@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":4,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":203,
   "Febrero_2024":218,
   "Marzo_2024":181,

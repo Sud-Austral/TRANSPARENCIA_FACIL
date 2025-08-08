@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":29,
   "Febrero_2024":28,
   "Marzo_2024":28,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":216,
   "Febrero_2024":220,
   "Marzo_2024":213,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tucapel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":234,
   "Febrero_2024":239,
   "Marzo_2024":253,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tucapel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":81,
   "Febrero_2024":104,
   "Marzo_2024":112,

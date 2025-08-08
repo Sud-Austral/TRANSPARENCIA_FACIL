@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Castro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":481,
   "Febrero_2024":478,
   "Marzo_2024":532,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Castro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":58,
   "Febrero_2024":64,
   "Marzo_2024":80,

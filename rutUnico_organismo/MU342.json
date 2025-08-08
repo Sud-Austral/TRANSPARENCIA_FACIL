@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":252,
   "Febrero_2024":228,
   "Marzo_2024":7,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":35,
   "Febrero_2024":35,
   "Marzo_2024":152,

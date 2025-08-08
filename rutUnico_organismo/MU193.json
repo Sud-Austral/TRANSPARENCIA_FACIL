@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":29,
   "Febrero_2024":29,
   "Marzo_2024":28,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":150,
   "Febrero_2024":229,
   "Marzo_2024":98,

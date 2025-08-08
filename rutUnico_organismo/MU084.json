@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Monte",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":859,
   "Febrero_2024":849,
   "Marzo_2024":822,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Monte",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":139,
   "Febrero_2024":64,
   "Marzo_2024":147,

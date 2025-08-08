@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coinco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":88,
   "Febrero_2024":87,
   "Marzo_2024":84,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coinco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":49,
   "Febrero_2024":55,
   "Marzo_2024":61,

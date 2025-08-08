@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curacautín",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":283,
   "Febrero_2024":281,
   "Marzo_2024":276,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":257,
   "Febrero_2024":274,
   "Marzo_2024":298,

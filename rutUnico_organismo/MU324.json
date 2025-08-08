@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tome",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1357,
   "Febrero_2024":1342,
   "Marzo_2024":1278,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":278,
   "Febrero_2024":314,
   "Marzo_2024":284,

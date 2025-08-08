@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":50,
   "Febrero_2024":51,
   "Marzo_2024":38,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":64,
   "Febrero_2024":73,
   "Marzo_2024":85,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Loncoche",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":252,
   "Febrero_2024":253,
   "Marzo_2024":251,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":138,
   "Febrero_2024":188,
   "Marzo_2024":186,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Renaico",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":151,
   "Febrero_2024":146,
   "Marzo_2024":142,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":253,
   "Febrero_2024":149,
   "Marzo_2024":226,

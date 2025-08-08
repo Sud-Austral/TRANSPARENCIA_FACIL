@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":4,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":34,
   "Febrero_2024":138,
   "Marzo_2024":158,

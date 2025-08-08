@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región de los Lagos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":32,
   "Febrero_2024":30,
   "Marzo_2024":38,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":10,
   "Febrero_2024":9,
   "Marzo_2024":10,

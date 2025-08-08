@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rancagua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":15,
   "Febrero_2024":15,
   "Marzo_2024":15,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":454,
   "Febrero_2024":488,
   "Marzo_2024":484,

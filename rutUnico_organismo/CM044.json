@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Puente Alto",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1966,
   "Febrero_2024":1981,
   "Marzo_2024":1947,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Puente Alto",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1193,
   "Febrero_2024":1193,
   "Marzo_2024":1227,

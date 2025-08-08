@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Purranque",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":112,
   "Febrero_2024":114,
   "Marzo_2024":111,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Purranque",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":107,
   "Febrero_2024":98,
   "Marzo_2024":95,

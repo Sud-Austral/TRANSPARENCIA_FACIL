@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deportes de La Ilustre Municipalidad de Teno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deportes de La Ilustre Municipalidad de Teno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":5,
   "Febrero_2024":7,
   "Marzo_2024":22,

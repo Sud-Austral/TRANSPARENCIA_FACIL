@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quilaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":67,
   "Febrero_2024":66,
   "Marzo_2024":69,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":46,
   "Febrero_2024":43,
   "Marzo_2024":45,

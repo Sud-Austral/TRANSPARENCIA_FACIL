@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":60,
   "Febrero_2024":60,
   "Marzo_2024":66,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":130,
   "Febrero_2024":157,
   "Marzo_2024":151,

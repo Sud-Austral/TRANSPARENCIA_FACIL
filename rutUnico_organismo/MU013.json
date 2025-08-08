@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Aysén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":13,
   "Febrero_2024":13,
   "Marzo_2024":13,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Aysén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":201,
   "Febrero_2024":224,
   "Marzo_2024":235,

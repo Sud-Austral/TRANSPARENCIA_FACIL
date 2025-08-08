@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Mostazal",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":336,
   "Febrero_2024":335,
   "Marzo_2024":234,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":27,
   "Febrero_2024":171,
   "Marzo_2024":194,

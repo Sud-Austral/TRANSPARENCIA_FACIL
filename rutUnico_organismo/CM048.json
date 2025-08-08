@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Renca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":810,
   "Febrero_2024":766,
   "Marzo_2024":756,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Renca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":10,
   "Febrero_2024":91,
   "Marzo_2024":90,

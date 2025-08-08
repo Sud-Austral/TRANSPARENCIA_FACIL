@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Laja",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":336,
   "Febrero_2024":320,
   "Marzo_2024":327,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Laja",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":131,
   "Febrero_2024":136,
   "Marzo_2024":143,

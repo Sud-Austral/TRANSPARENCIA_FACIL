@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":7,
   "Febrero_2024":7,
   "Marzo_2024":3,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":5,
   "Febrero_2024":44,
   "Marzo_2024":49,

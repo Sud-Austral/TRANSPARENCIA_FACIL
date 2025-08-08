@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Collipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":452,
   "Febrero_2024":424,
   "Marzo_2024":419,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Collipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":264,
   "Febrero_2024":266,
   "Marzo_2024":236,

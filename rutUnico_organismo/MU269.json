@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rinconada",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":78,
   "Febrero_2024":78,
   "Marzo_2024":125,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":55,
   "Febrero_2024":56,
   "Marzo_2024":71,

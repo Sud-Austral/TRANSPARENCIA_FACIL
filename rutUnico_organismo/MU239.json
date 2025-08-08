@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":40,
   "Febrero_2024":41,
   "Marzo_2024":42,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":23,
   "Febrero_2024":39,
   "Marzo_2024":29,

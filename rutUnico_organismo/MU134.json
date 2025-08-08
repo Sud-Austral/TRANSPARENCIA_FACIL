@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":402,
   "Febrero_2024":341,
   "Marzo_2024":398,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":132,
   "Febrero_2024":191,
   "Marzo_2024":195,

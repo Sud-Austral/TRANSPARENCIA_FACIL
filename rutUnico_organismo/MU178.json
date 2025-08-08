@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":412,
   "Febrero_2024":382,
   "Marzo_2024":397,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":68,
   "Febrero_2024":87,
   "Marzo_2024":102,

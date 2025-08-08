@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deporte de Estación Central Cormudep",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":40,
   "Febrero_2024":40,
   "Marzo_2024":42,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación de Deporte de Estación Central Cormudep",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":66,
   "Febrero_2024":37,
   "Marzo_2024":58,

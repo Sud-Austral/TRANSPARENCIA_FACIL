@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Cultural de Nacimiento",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":10,
   "Febrero_2024":11,
   "Marzo_2024":10,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Nacimiento",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1,
   "Marzo_2024":0,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pemuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":20,
   "Febrero_2024":20,
   "Marzo_2024":20,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pemuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":20,
   "Febrero_2024":32,
   "Marzo_2024":34,

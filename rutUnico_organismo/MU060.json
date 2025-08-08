@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":244,
   "Febrero_2024":347,
   "Marzo_2024":364,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":167,
   "Febrero_2024":208,
   "Marzo_2024":209,

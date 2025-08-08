@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Retiro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":427,
   "Febrero_2024":408,
   "Marzo_2024":429,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":29,
   "Febrero_2024":28,
   "Marzo_2024":23,

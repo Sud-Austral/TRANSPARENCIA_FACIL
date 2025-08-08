@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Quinta Normal",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":558,
   "Febrero_2024":643,
   "Marzo_2024":672,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Quinta Normal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":4,
   "Febrero_2024":209,
   "Marzo_2024":180,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Ramón",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":501,
   "Febrero_2024":491,
   "Marzo_2024":446,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":455,
   "Febrero_2024":669,
   "Marzo_2024":652,

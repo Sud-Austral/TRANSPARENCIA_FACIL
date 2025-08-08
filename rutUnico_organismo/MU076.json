@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":81,
   "Febrero_2024":104,
   "Marzo_2024":124,

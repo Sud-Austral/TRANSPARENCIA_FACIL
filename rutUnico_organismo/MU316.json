@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Teno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":427,
   "Febrero_2024":406,
   "Marzo_2024":399,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Teno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":59,
   "Febrero_2024":61,
   "Marzo_2024":61,

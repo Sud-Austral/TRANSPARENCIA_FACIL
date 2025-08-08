@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":288,
   "Febrero_2024":287,
   "Marzo_2024":282,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":63,
   "Febrero_2024":175,
   "Marzo_2024":157,

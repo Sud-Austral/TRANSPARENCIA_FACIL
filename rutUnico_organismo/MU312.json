@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Talca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2352,
   "Febrero_2024":1938,
   "Marzo_2024":1914,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1893,
   "Febrero_2024":1996,
   "Marzo_2024":2047,

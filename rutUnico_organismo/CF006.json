@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Centro de Formación Técnica Estatal Región de Coquimbo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":50,
   "Febrero_2024":49,
   "Marzo_2024":48,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Centro de Formación Técnica Estatal Región de Coquimbo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":108,
   "Febrero_2024":12,
   "Marzo_2024":11,

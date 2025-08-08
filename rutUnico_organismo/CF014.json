@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT Estatal de la Región del Biobío",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":16,
   "Febrero_2024":16,
   "Marzo_2024":16,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT Estatal de la Región del Biobío",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":84,
   "Febrero_2024":56,
   "Marzo_2024":123,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":813,
   "Febrero_2024":732,
   "Marzo_2024":721,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":6,
   "Febrero_2024":40,
   "Marzo_2024":29,

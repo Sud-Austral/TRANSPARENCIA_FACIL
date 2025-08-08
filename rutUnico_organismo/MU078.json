@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curicó",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1290,
   "Febrero_2024":1336,
   "Marzo_2024":1362,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":76,
   "Febrero_2024":134,
   "Marzo_2024":193,

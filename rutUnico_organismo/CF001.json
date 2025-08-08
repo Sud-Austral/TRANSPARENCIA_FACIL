@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región de la Araucanía",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":52,
   "Febrero_2024":55,
   "Marzo_2024":68,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de la Araucanía",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":18,
   "Febrero_2024":5,
   "Marzo_2024":14,

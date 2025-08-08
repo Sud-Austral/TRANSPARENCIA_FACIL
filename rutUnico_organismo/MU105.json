@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Hualpén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":449,
   "Febrero_2024":473,
   "Marzo_2024":462,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":86,
   "Febrero_2024":157,
   "Marzo_2024":221,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Futrono",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":239,
   "Febrero_2024":236,
   "Marzo_2024":234,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Futrono",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":127,
   "Febrero_2024":207,
   "Marzo_2024":212,

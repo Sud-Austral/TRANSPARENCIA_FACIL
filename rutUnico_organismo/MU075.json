@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":447,
   "Febrero_2024":438,
   "Marzo_2024":426,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":139,
   "Febrero_2024":212,
   "Marzo_2024":192,

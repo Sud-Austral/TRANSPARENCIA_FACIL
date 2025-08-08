@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Maule",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":6,
   "Febrero_2024":328,
   "Marzo_2024":333,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Maule",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":263,
   "Febrero_2024":268,
   "Marzo_2024":201,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Paillaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":233,
   "Febrero_2024":233,
   "Marzo_2024":233,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":11,
   "Febrero_2024":60,
   "Marzo_2024":53,

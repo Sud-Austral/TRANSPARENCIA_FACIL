@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":108,
   "Febrero_2024":105,
   "Marzo_2024":114,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":725,
   "Febrero_2024":760,
   "Marzo_2024":750,

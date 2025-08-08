@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Antofagasta",
-  "base":"Personal a Contrata",
+  "base":"Contrata",
   "Enero_2024":210,
   "Febrero_2024":209,
   "Marzo_2024":212,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Antofagasta",
-  "base":"Personal a Honorarios",
+  "base":"Honorarios",
   "Enero_2024":220,
   "Febrero_2024":216,
   "Marzo_2024":215,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Antofagasta",
-  "base":"Personal de Planta",
+  "base":"Planta",
   "Enero_2024":389,
   "Febrero_2024":387,
   "Marzo_2024":388,

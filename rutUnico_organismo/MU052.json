@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coelemu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":342,
   "Febrero_2024":310,
   "Marzo_2024":333,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":75,
   "Febrero_2024":110,
   "Marzo_2024":118,

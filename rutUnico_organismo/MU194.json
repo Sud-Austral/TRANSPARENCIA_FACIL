@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":389,
   "Febrero_2024":356,
   "Marzo_2024":382,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":476,
   "Febrero_2024":507,
   "Marzo_2024":531,

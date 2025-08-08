@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Paredones",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":103,
   "Febrero_2024":100,
   "Marzo_2024":97,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1,
   "Febrero_2024":10,
   "Marzo_2024":20,

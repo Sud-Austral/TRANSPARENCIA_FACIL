@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Empedrado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":145,
   "Febrero_2024":144,
   "Marzo_2024":152,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":12,
   "Febrero_2024":20,
   "Marzo_2024":24,
