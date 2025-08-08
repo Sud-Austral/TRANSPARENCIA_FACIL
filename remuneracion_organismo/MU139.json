@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Limache",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1007821,
   "Febrero_2024":835221,
   "Marzo_2024":723285,
@@ -17,8 +17,9 @@
   "Enero_2025":767815,
   "Febrero_2025":1065950,
   "Marzo_2025":765456,
-  "Abril_2025":889359,
-  "Mayo_2025":811923
+  "Abril_2025":889710,
+  "Mayo_2025":806976,
+  "Junio_2025":798798
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
@@ -39,11 +40,12 @@
   "Febrero_2025":1349479,
   "Marzo_2025":1368812,
   "Abril_2025":1596930,
-  "Mayo_2025":1420654
+  "Mayo_2025":1420654,
+  "Junio_2025":1548479
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":596425,
   "Febrero_2024":653523,
   "Marzo_2024":604516,
@@ -58,9 +60,10 @@
   "Diciembre_2024":578309,
   "Enero_2025":720952,
   "Febrero_2025":762958,
-  "Marzo_2025":677875,
-  "Abril_2025":621858,
-  "Mayo_2025":667540
+  "Marzo_2025":675347,
+  "Abril_2025":618765,
+  "Mayo_2025":664316,
+  "Junio_2025":612445
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
@@ -81,6 +84,7 @@
   "Febrero_2025":2187047,
   "Marzo_2025":2079576,
   "Abril_2025":2171509,
-  "Mayo_2025":2377027
+  "Mayo_2025":2377027,
+  "Junio_2025":2147364
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":3413645,
   "Marzo_2025":3930364,
   "Abril_2025":4075206,
-  "Mayo_2025":2199335
+  "Mayo_2025":2199335,
+  "Junio_2025":5830052
  },
  {
   "organismo_nombre":"Subsecretaría de Hacienda",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3025825,
   "Febrero_2024":3041232,
   "Marzo_2024":3290803,
@@ -39,7 +40,8 @@
   "Febrero_2025":3287092,
   "Marzo_2025":3250129,
   "Abril_2025":3275003,
-  "Mayo_2025":3220746
+  "Mayo_2025":3220746,
+  "Junio_2025":3175124
  },
  {
   "organismo_nombre":"Subsecretaría de Hacienda",
@@ -60,6 +62,7 @@
   "Febrero_2025":6092994,
   "Marzo_2025":6689137,
   "Abril_2025":6949431,
-  "Mayo_2025":4624919
+  "Mayo_2025":4624919,
+  "Junio_2025":9081954
  }
 ]

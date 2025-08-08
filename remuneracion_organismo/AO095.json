@@ -18,11 +18,12 @@
   "Febrero_2025":1640984,
   "Marzo_2025":1630355,
   "Abril_2025":1715087,
-  "Mayo_2025":1717757
+  "Mayo_2025":1717757,
+  "Junio_2025":1772663
  },
  {
   "organismo_nombre":"Hospital Carlos Van Buren",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2220896,
   "Febrero_2024":2005491,
   "Marzo_2024":2116490,
@@ -39,7 +40,8 @@
   "Febrero_2025":922355,
   "Marzo_2025":1199028,
   "Abril_2025":1405205,
-  "Mayo_2025":1361469
+  "Mayo_2025":1361469,
+  "Junio_2025":1758496
  },
  {
   "organismo_nombre":"Hospital Carlos Van Buren",
@@ -60,6 +62,7 @@
   "Febrero_2025":1910528,
   "Marzo_2025":1947504,
   "Abril_2025":1934024,
-  "Mayo_2025":1923147
+  "Mayo_2025":1923147,
+  "Junio_2025":1981094
  }
 ]

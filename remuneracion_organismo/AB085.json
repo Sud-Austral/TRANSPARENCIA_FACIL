@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3482162,
   "Febrero_2024":3482162,
   "Marzo_2024":6391365,
@@ -17,8 +17,9 @@
   "Enero_2025":3766804,
   "Febrero_2025":3766804,
   "Marzo_2025":6838513,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":3766804,
+  "Mayo_2025":3768178,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
@@ -38,12 +39,13 @@
   "Enero_2025":2524043,
   "Febrero_2025":2429535,
   "Marzo_2025":4396466,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":2432748,
+  "Mayo_2025":2439891,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2679192,
   "Febrero_2024":2869796,
   "Marzo_2024":0,
@@ -59,8 +61,9 @@
   "Enero_2025":2074327,
   "Febrero_2025":2525120,
   "Marzo_2025":2769287,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":2769287,
+  "Mayo_2025":2769287,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
@@ -79,8 +82,9 @@
   "Diciembre_2024":6234753,
   "Enero_2025":3666029,
   "Febrero_2025":3780171,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":5862655,
+  "Abril_2025":3887067,
+  "Mayo_2025":3885349,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pitrufquén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":272,
   "Febrero_2024":267,
   "Marzo_2024":289,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pitrufquén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":122,
   "Febrero_2024":192,
   "Marzo_2024":203,

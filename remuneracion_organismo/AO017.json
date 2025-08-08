@@ -18,11 +18,12 @@
   "Febrero_2025":1868429,
   "Marzo_2025":2479310,
   "Abril_2025":1964248,
-  "Mayo_2025":2038069
+  "Mayo_2025":2038069,
+  "Junio_2025":2484232
  },
  {
   "organismo_nombre":"Servicio de Salud Tarapacá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1336031,
   "Febrero_2024":1289456,
   "Marzo_2024":1282220,
@@ -39,7 +40,8 @@
   "Febrero_2025":1375969,
   "Marzo_2025":1324898,
   "Abril_2025":1319855,
-  "Mayo_2025":1332082
+  "Mayo_2025":1332082,
+  "Junio_2025":1317592
  },
  {
   "organismo_nombre":"Servicio de Salud Tarapacá",
@@ -60,6 +62,7 @@
   "Febrero_2025":1931462,
   "Marzo_2025":3370862,
   "Abril_2025":1939653,
-  "Mayo_2025":1975441
+  "Mayo_2025":1975441,
+  "Junio_2025":3470326
  }
 ]

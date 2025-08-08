@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1256301,
   "Febrero_2024":1201448,
   "Marzo_2024":1117616,
@@ -18,7 +18,8 @@
   "Febrero_2025":1248918,
   "Marzo_2025":1171534,
   "Abril_2025":1137113,
-  "Mayo_2025":0
+  "Mayo_2025":1091558,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1668548,
   "Marzo_2025":1548488,
   "Abril_2025":1713596,
-  "Mayo_2025":0
+  "Mayo_2025":1691074,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":484320,
   "Febrero_2024":472817,
   "Marzo_2024":463642,
@@ -55,12 +57,13 @@
   "Septiembre_2024":432946,
   "Octubre_2024":431162,
   "Noviembre_2024":448949,
-  "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Diciembre_2024":483294,
+  "Enero_2025":518560,
+  "Febrero_2025":473636,
+  "Marzo_2025":480929,
+  "Abril_2025":464568,
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2321948,
   "Marzo_2025":2269085,
   "Abril_2025":2756069,
-  "Mayo_2025":0
+  "Mayo_2025":2407336,
+  "Junio_2025":0
  }
 ]

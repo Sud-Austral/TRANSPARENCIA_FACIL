@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Estrella",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1366568,
   "Febrero_2024":1007314,
   "Marzo_2024":919607,
@@ -18,7 +18,8 @@
   "Febrero_2025":1192614,
   "Marzo_2025":1005697,
   "Abril_2025":1013691,
-  "Mayo_2025":0
+  "Mayo_2025":1048238,
+  "Junio_2025":976740
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
@@ -39,11 +40,12 @@
   "Febrero_2025":1131961,
   "Marzo_2025":1148078,
   "Abril_2025":1312868,
-  "Mayo_2025":1409904
+  "Mayo_2025":1398191,
+  "Junio_2025":1262796
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":531318,
   "Febrero_2024":553415,
   "Marzo_2024":423739,
@@ -60,7 +62,8 @@
   "Febrero_2025":740070,
   "Marzo_2025":725202,
   "Abril_2025":705094,
-  "Mayo_2025":733452
+  "Mayo_2025":729771,
+  "Junio_2025":681162
  },
  {
   "organismo_nombre":"Municipalidad de La Estrella",
@@ -81,6 +84,7 @@
   "Febrero_2025":1774554,
   "Marzo_2025":1787265,
   "Abril_2025":1988064,
-  "Mayo_2025":2203672
+  "Mayo_2025":2217005,
+  "Junio_2025":2014469
  }
 ]

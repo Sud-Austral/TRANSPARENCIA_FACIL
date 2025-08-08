@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1018061,
   "Febrero_2024":966356,
   "Marzo_2024":1392835,
@@ -18,7 +18,8 @@
   "Febrero_2025":1263220,
   "Marzo_2025":1329116,
   "Abril_2025":1318521,
-  "Mayo_2025":1245588
+  "Mayo_2025":1245588,
+  "Junio_2025":1286308
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
@@ -39,11 +40,12 @@
   "Febrero_2025":1795549,
   "Marzo_2025":4839378,
   "Abril_2025":1812181,
-  "Mayo_2025":1807017
+  "Mayo_2025":1807017,
+  "Junio_2025":2367719
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1032969,
   "Febrero_2024":946888,
   "Marzo_2024":1439873,
@@ -60,7 +62,8 @@
   "Febrero_2025":1549933,
   "Marzo_2025":1511590,
   "Abril_2025":1549933,
-  "Mayo_2025":1549933
+  "Mayo_2025":1549933,
+  "Junio_2025":1440381
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
@@ -81,6 +84,7 @@
   "Febrero_2025":2215501,
   "Marzo_2025":6288568,
   "Abril_2025":1946189,
-  "Mayo_2025":1963618
+  "Mayo_2025":1963618,
+  "Junio_2025":2558590
  }
 ]

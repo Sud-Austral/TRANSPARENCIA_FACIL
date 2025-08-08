@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lautaro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":579,
   "Febrero_2024":581,
   "Marzo_2024":582,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":271,
   "Febrero_2024":225,
   "Marzo_2024":310,

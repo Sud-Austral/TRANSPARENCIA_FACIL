@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1042150,
   "Febrero_2024":845219,
   "Marzo_2024":877445,
@@ -18,7 +18,8 @@
   "Febrero_2025":928980,
   "Marzo_2025":941919,
   "Abril_2025":868006,
-  "Mayo_2025":857784
+  "Mayo_2025":857784,
+  "Junio_2025":882703
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
@@ -39,11 +40,12 @@
   "Febrero_2025":1353850,
   "Marzo_2025":1291674,
   "Abril_2025":1396219,
-  "Mayo_2025":1474039
+  "Mayo_2025":1474039,
+  "Junio_2025":1425635
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1243685,
   "Febrero_2024":1170445,
   "Marzo_2024":1044726,
@@ -60,7 +62,8 @@
   "Febrero_2025":1094143,
   "Marzo_2025":1029901,
   "Abril_2025":948256,
-  "Mayo_2025":977913
+  "Mayo_2025":977913,
+  "Junio_2025":1012950
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alegre",
@@ -81,6 +84,7 @@
   "Febrero_2025":1696571,
   "Marzo_2025":1678539,
   "Abril_2025":2000372,
-  "Mayo_2025":2978677
+  "Mayo_2025":1770718,
+  "Junio_2025":2055758
  }
 ]

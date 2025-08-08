@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2600803,
   "Febrero_2024":2600803,
   "Marzo_2024":2600803,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
@@ -39,11 +40,12 @@
   "Febrero_2025":3532824,
   "Marzo_2025":3547004,
   "Abril_2025":3255752,
-  "Mayo_2025":3255659
+  "Mayo_2025":3255659,
+  "Junio_2025":4130843
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1866058,
   "Febrero_2024":2016033,
   "Marzo_2024":2016033,
@@ -60,7 +62,8 @@
   "Febrero_2025":2140520,
   "Marzo_2025":2140520,
   "Abril_2025":2140520,
-  "Mayo_2025":2140520
+  "Mayo_2025":2140520,
+  "Junio_2025":2140520
  },
  {
   "organismo_nombre":"Superintendencia de Salud (SdS)",
@@ -81,6 +84,7 @@
   "Febrero_2025":7938895,
   "Marzo_2025":7951198,
   "Abril_2025":7470698,
-  "Mayo_2025":7260742
+  "Mayo_2025":7260742,
+  "Junio_2025":9087893
  }
 ]

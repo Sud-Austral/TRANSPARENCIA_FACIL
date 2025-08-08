@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Fresia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1726283,
   "Febrero_2024":1637476,
   "Marzo_2024":1622395,
@@ -18,7 +18,8 @@
   "Febrero_2025":1395896,
   "Marzo_2025":1395896,
   "Abril_2025":1395896,
-  "Mayo_2025":1395896
+  "Mayo_2025":1395896,
+  "Junio_2025":1395896
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
@@ -39,11 +40,12 @@
   "Febrero_2025":1051897,
   "Marzo_2025":1071944,
   "Abril_2025":1267718,
-  "Mayo_2025":1378794
+  "Mayo_2025":1378794,
+  "Junio_2025":1227132
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":839186,
   "Febrero_2024":817460,
   "Marzo_2024":632286,
@@ -60,7 +62,8 @@
   "Febrero_2025":745985,
   "Marzo_2025":706490,
   "Abril_2025":881527,
-  "Mayo_2025":820731
+  "Mayo_2025":821392,
+  "Junio_2025":847147
  },
  {
   "organismo_nombre":"Municipalidad de Fresia",
@@ -81,6 +84,7 @@
   "Febrero_2025":1770704,
   "Marzo_2025":1785077,
   "Abril_2025":2190224,
-  "Mayo_2025":2378156
+  "Mayo_2025":2378156,
+  "Junio_2025":2136991
  }
 ]

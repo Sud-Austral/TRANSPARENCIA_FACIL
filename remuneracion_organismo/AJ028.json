@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":876330,
   "Febrero_2024":914103,
   "Marzo_2024":916784,
@@ -18,7 +18,8 @@
   "Febrero_2025":1318215,
   "Marzo_2025":931018,
   "Abril_2025":910956,
-  "Mayo_2025":891677
+  "Mayo_2025":891677,
+  "Junio_2025":917000
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1360963,
   "Enero_2025":1551709,
   "Febrero_2025":1781443,
-  "Marzo_2025":1634874,
+  "Marzo_2025":1809187,
   "Abril_2025":1683115,
-  "Mayo_2025":1657965
+  "Mayo_2025":1657965,
+  "Junio_2025":1865288
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1526666,
   "Febrero_2024":1526666,
   "Marzo_2024":1532500,
@@ -60,7 +62,8 @@
   "Febrero_2025":1268790,
   "Marzo_2025":1138790,
   "Abril_2025":1310512,
-  "Mayo_2025":1237409
+  "Mayo_2025":1237409,
+  "Junio_2025":1139144
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
@@ -79,8 +82,9 @@
   "Diciembre_2024":2161544,
   "Enero_2025":2428065,
   "Febrero_2025":2203435,
-  "Marzo_2025":2226605,
+  "Marzo_2025":2274537,
   "Abril_2025":2258838,
-  "Mayo_2025":2217191
+  "Mayo_2025":2217191,
+  "Junio_2025":2303127
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":2049048,
   "Abril_2025":1846947,
-  "Mayo_2025":1819203
+  "Mayo_2025":1819203,
+  "Junio_2025":2138314
  },
  {
   "organismo_nombre":"Servicio de Salud Valparaíso  San Antonio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1096841,
   "Febrero_2024":1149552,
   "Marzo_2024":1095346,
@@ -39,7 +40,8 @@
   "Febrero_2025":1109379,
   "Marzo_2025":1254313,
   "Abril_2025":1121242,
-  "Mayo_2025":1187742
+  "Mayo_2025":1187742,
+  "Junio_2025":1183232
  },
  {
   "organismo_nombre":"Servicio de Salud Valparaíso  San Antonio",
@@ -60,6 +62,7 @@
   "Febrero_2025":1768730,
   "Marzo_2025":2525264,
   "Abril_2025":1541287,
-  "Mayo_2025":1490362
+  "Mayo_2025":1490362,
+  "Junio_2025":2483304
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio de Salud Arauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2125939,
   "Febrero_2024":2073539,
   "Marzo_2024":2073539,
@@ -18,7 +18,8 @@
   "Febrero_2025":2172181,
   "Marzo_2025":2172181,
   "Abril_2025":2172181,
-  "Mayo_2025":2172181
+  "Mayo_2025":2172181,
+  "Junio_2025":2172181
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1726444,
   "Marzo_2025":1343296,
   "Abril_2025":1395014,
-  "Mayo_2025":1746757
+  "Mayo_2025":1746757,
+  "Junio_2025":1912299
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":978568,
   "Febrero_2024":941826,
   "Marzo_2024":926998,
@@ -60,7 +62,8 @@
   "Febrero_2025":1229903,
   "Marzo_2025":965120,
   "Abril_2025":1122607,
-  "Mayo_2025":1187559
+  "Mayo_2025":1187559,
+  "Junio_2025":1072269
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1574256,
   "Marzo_2025":1825380,
   "Abril_2025":1547606,
-  "Mayo_2025":1555029
+  "Mayo_2025":1555029,
+  "Junio_2025":1944500
  }
 ]

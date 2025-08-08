@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Monte Patria",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":545,
   "Febrero_2024":523,
   "Marzo_2024":536,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Monte Patria",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":313,
   "Febrero_2024":32,
   "Marzo_2024":758,

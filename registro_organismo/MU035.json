@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4,
   "Febrero_2024":2,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1143,
   "Febrero_2024":737,
   "Marzo_2024":789,

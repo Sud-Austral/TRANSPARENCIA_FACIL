@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2302076,
   "Febrero_2024":2302076,
   "Marzo_2024":2302076,
@@ -18,7 +18,8 @@
   "Febrero_2025":2356699,
   "Marzo_2025":2356699,
   "Abril_2025":2356699,
-  "Mayo_2025":2356699
+  "Mayo_2025":2356699,
+  "Junio_2025":2356699
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
@@ -39,11 +40,12 @@
   "Febrero_2025":1776205,
   "Marzo_2025":2127447,
   "Abril_2025":1971291,
-  "Mayo_2025":1953004
+  "Mayo_2025":1953004,
+  "Junio_2025":2286223
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":850834,
   "Febrero_2024":904265,
   "Marzo_2024":900893,
@@ -60,7 +62,8 @@
   "Febrero_2025":971988,
   "Marzo_2025":930159,
   "Abril_2025":937615,
-  "Mayo_2025":917088
+  "Mayo_2025":917088,
+  "Junio_2025":896713
  },
  {
   "organismo_nombre":"Servicio de Salud Ñuble",
@@ -81,6 +84,7 @@
   "Febrero_2025":1676541,
   "Marzo_2025":2812460,
   "Abril_2025":1704485,
-  "Mayo_2025":1690721
+  "Mayo_2025":1690721,
+  "Junio_2025":2847330
  }
 ]

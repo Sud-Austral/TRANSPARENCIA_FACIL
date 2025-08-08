@@ -18,11 +18,12 @@
   "Febrero_2025":3216492,
   "Marzo_2025":3296060,
   "Abril_2025":2608008,
-  "Mayo_2025":2597758
+  "Mayo_2025":2597758,
+  "Junio_2025":4749162
  },
  {
   "organismo_nombre":"Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2390362,
   "Febrero_2024":2460156,
   "Marzo_2024":2238932,
@@ -39,7 +40,8 @@
   "Febrero_2025":2413488,
   "Marzo_2025":2404004,
   "Abril_2025":2515839,
-  "Mayo_2025":2177001
+  "Mayo_2025":2177001,
+  "Junio_2025":2109424
  },
  {
   "organismo_nombre":"Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5165296,
   "Marzo_2025":5240076,
   "Abril_2025":4353353,
-  "Mayo_2025":3985462
+  "Mayo_2025":3985462,
+  "Junio_2025":6636469
  }
 ]

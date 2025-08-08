@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":17,
   "Febrero_2024":14,
   "Marzo_2024":13,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":6,

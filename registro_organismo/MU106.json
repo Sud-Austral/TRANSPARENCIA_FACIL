@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Hualqui",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":16,
   "Febrero_2024":18,
   "Marzo_2024":18,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Hualqui",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":149,
   "Febrero_2024":197,
   "Marzo_2024":210,

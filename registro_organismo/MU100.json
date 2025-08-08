@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Graneros",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":425,
   "Febrero_2024":419,
   "Marzo_2024":402,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":161,
   "Febrero_2024":209,
   "Marzo_2024":179,

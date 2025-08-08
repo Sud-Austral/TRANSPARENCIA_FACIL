@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":46,
   "Febrero_2024":21,
   "Marzo_2024":18,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,

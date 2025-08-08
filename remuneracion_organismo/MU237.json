@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pumanque",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":819864,
   "Febrero_2024":800111,
   "Marzo_2024":790794,
@@ -18,7 +18,8 @@
   "Febrero_2025":848399,
   "Marzo_2025":833257,
   "Abril_2025":845377,
-  "Mayo_2025":794529
+  "Mayo_2025":794529,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
@@ -39,11 +40,12 @@
   "Febrero_2025":1051305,
   "Marzo_2025":990608,
   "Abril_2025":1096936,
-  "Mayo_2025":1027511
+  "Mayo_2025":1027511,
+  "Junio_2025":991872
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":887853,
   "Febrero_2024":896002,
   "Marzo_2024":888035,
@@ -60,7 +62,8 @@
   "Febrero_2025":782209,
   "Marzo_2025":766498,
   "Abril_2025":773629,
-  "Mayo_2025":762316
+  "Mayo_2025":762316,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pumanque",
@@ -81,6 +84,7 @@
   "Febrero_2025":1653915,
   "Marzo_2025":1688638,
   "Abril_2025":1919325,
-  "Mayo_2025":1702115
+  "Mayo_2025":1702115,
+  "Junio_2025":1932541
  }
 ]

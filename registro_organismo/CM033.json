@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3697,
   "Febrero_2024":2432,
   "Marzo_2024":3580,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":506,
   "Febrero_2024":816,
   "Marzo_2024":441,

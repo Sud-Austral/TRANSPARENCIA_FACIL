@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coelemu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1300932,
   "Febrero_2024":739814,
   "Marzo_2024":704886,
@@ -18,7 +18,8 @@
   "Febrero_2025":760168,
   "Marzo_2025":963349,
   "Abril_2025":801968,
-  "Mayo_2025":766549
+  "Mayo_2025":766549,
+  "Junio_2025":754997
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
@@ -39,11 +40,12 @@
   "Febrero_2025":1393781,
   "Marzo_2025":1343170,
   "Abril_2025":1449539,
-  "Mayo_2025":1368099
+  "Mayo_2025":1368099,
+  "Junio_2025":1400966
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":730532,
   "Febrero_2024":876648,
   "Marzo_2024":881313,
@@ -60,7 +62,8 @@
   "Febrero_2025":877155,
   "Marzo_2025":924348,
   "Abril_2025":947030,
-  "Mayo_2025":932210
+  "Mayo_2025":932210,
+  "Junio_2025":968227
  },
  {
   "organismo_nombre":"Municipalidad de Coelemu",
@@ -81,6 +84,7 @@
   "Febrero_2025":2024396,
   "Marzo_2025":2031043,
   "Abril_2025":2121339,
-  "Mayo_2025":1716950
+  "Mayo_2025":2237149,
+  "Junio_2025":2147840
  }
 ]

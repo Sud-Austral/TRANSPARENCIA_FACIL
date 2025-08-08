@@ -18,11 +18,12 @@
   "Febrero_2025":2485848,
   "Marzo_2025":2487900,
   "Abril_2025":1874284,
-  "Mayo_2025":1874284
+  "Mayo_2025":1874284,
+  "Junio_2025":3733164
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de El Loa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1472641,
   "Febrero_2024":1659307,
   "Marzo_2024":1659307,
@@ -39,7 +40,8 @@
   "Febrero_2025":1712800,
   "Marzo_2025":1712800,
   "Abril_2025":1712800,
-  "Mayo_2025":1554294
+  "Mayo_2025":1554294,
+  "Junio_2025":1712800
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de El Loa",
@@ -60,6 +62,7 @@
   "Febrero_2025":2889843,
   "Marzo_2025":2892059,
   "Abril_2025":2390821,
-  "Mayo_2025":2390821
+  "Mayo_2025":2390821,
+  "Junio_2025":3890831
  }
 ]

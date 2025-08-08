@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Cultura de Pichidegua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":795971,
   "Febrero_2024":815428,
   "Marzo_2024":801492,
@@ -18,11 +18,12 @@
   "Febrero_2025":550058,
   "Marzo_2025":589939,
   "Abril_2025":616521,
-  "Mayo_2025":637997
+  "Mayo_2025":637997,
+  "Junio_2025":618770
  },
  {
   "organismo_nombre":"Corporación de Cultura de Pichidegua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":404783,
   "Febrero_2024":404783,
   "Marzo_2024":175850,
@@ -38,7 +39,8 @@
   "Enero_2025":388859,
   "Febrero_2025":408353,
   "Marzo_2025":303893,
-  "Abril_2025":341039,
-  "Mayo_2025":347683
+  "Abril_2025":328508,
+  "Mayo_2025":347683,
+  "Junio_2025":329922
  }
 ]

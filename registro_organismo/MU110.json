@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Illapel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":388,
   "Febrero_2024":513,
   "Marzo_2024":518,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Illapel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":484,
   "Febrero_2024":582,
   "Marzo_2024":742,

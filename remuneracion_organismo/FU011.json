@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Regional de Desarrollo de la Región del Biobío (Desarrolla Biobío)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":3113971,
@@ -18,11 +18,12 @@
   "Febrero_2025":3232301,
   "Marzo_2025":2093375,
   "Abril_2025":2921883,
-  "Mayo_2025":1892741
+  "Mayo_2025":1892741,
+  "Junio_2025":2469948
  },
  {
   "organismo_nombre":"Corporación Regional de Desarrollo de la Región del Biobío (Desarrolla Biobío)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":1159420,
@@ -39,6 +40,7 @@
   "Febrero_2025":1195419,
   "Marzo_2025":1273391,
   "Abril_2025":1273391,
-  "Mayo_2025":1273391
+  "Mayo_2025":1273391,
+  "Junio_2025":1101818
  }
 ]

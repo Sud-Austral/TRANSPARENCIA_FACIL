@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1047221,
   "Febrero_2024":1029473,
   "Marzo_2024":920577,
@@ -18,7 +18,8 @@
   "Febrero_2025":854326,
   "Marzo_2025":1054649,
   "Abril_2025":1209547,
-  "Mayo_2025":1132488
+  "Mayo_2025":1132488,
+  "Junio_2025":1211913
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
@@ -39,11 +40,12 @@
   "Febrero_2025":1615229,
   "Marzo_2025":1622198,
   "Abril_2025":1868841,
-  "Mayo_2025":1589585
+  "Mayo_2025":1587985,
+  "Junio_2025":1938012
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":770289,
   "Febrero_2024":752615,
   "Marzo_2024":740274,
@@ -60,7 +62,8 @@
   "Febrero_2025":845226,
   "Marzo_2025":841963,
   "Abril_2025":846679,
-  "Mayo_2025":794677
+  "Mayo_2025":794677,
+  "Junio_2025":793208
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
@@ -81,6 +84,7 @@
   "Febrero_2025":2009917,
   "Marzo_2025":2054699,
   "Abril_2025":2590848,
-  "Mayo_2025":2005987
+  "Mayo_2025":2005987,
+  "Junio_2025":2663733
  }
 ]

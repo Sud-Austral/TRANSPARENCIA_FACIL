@@ -18,11 +18,12 @@
   "Febrero_2025":2403043,
   "Marzo_2025":2646970,
   "Abril_2025":2430033,
-  "Mayo_2025":0
+  "Mayo_2025":2469287,
+  "Junio_2025":2705801
  },
  {
   "organismo_nombre":"Servicio de Salud Aysén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1516708,
   "Febrero_2024":2563275,
   "Marzo_2024":2534714,
@@ -39,7 +40,8 @@
   "Febrero_2025":4030994,
   "Marzo_2025":3744764,
   "Abril_2025":7093265,
-  "Mayo_2025":0
+  "Mayo_2025":7139839,
+  "Junio_2025":6873049
  },
  {
   "organismo_nombre":"Servicio de Salud Aysén",
@@ -60,6 +62,7 @@
   "Febrero_2025":1866249,
   "Marzo_2025":2277145,
   "Abril_2025":1968602,
-  "Mayo_2025":0
+  "Mayo_2025":1983996,
+  "Junio_2025":2416205
  }
 ]

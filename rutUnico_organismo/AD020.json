@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":41,
   "Febrero_2024":41,
   "Marzo_2024":41,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":51,
   "Febrero_2024":51,
   "Marzo_2024":36,

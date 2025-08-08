@@ -18,11 +18,12 @@
   "Febrero_2025":2159003,
   "Marzo_2025":2148550,
   "Abril_2025":0,
-  "Mayo_2025":2132058
+  "Mayo_2025":2132058,
+  "Junio_2025":2145042
  },
  {
   "organismo_nombre":"Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala (INDESPA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1614012,
   "Febrero_2024":1614012,
   "Marzo_2024":1614012,
@@ -39,7 +40,8 @@
   "Febrero_2025":1715762,
   "Marzo_2025":1715762,
   "Abril_2025":1715762,
-  "Mayo_2025":1715762
+  "Mayo_2025":1715762,
+  "Junio_2025":1719247
  },
  {
   "organismo_nombre":"Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala (INDESPA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6572032,
   "Marzo_2025":6572032,
   "Abril_2025":6572032,
-  "Mayo_2025":6572032
+  "Mayo_2025":6572032,
+  "Junio_2025":6572032
  }
 ]

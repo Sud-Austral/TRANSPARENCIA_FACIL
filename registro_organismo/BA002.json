@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":359,
   "Febrero_2024":359,
   "Marzo_2024":364,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":405,
   "Febrero_2024":534,
   "Marzo_2024":281,

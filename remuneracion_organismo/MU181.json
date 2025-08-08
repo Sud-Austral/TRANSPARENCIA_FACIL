@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1404701,
   "Febrero_2024":1058672,
   "Marzo_2024":952637,
@@ -18,7 +18,8 @@
   "Febrero_2025":1002039,
   "Marzo_2025":1051442,
   "Abril_2025":779523,
-  "Mayo_2025":984802
+  "Mayo_2025":984802,
+  "Junio_2025":1009032
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
@@ -39,11 +40,12 @@
   "Febrero_2025":1085570,
   "Marzo_2025":1167711,
   "Abril_2025":1306144,
-  "Mayo_2025":1381117
+  "Mayo_2025":1381117,
+  "Junio_2025":1349976
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":506153,
   "Febrero_2024":588446,
   "Marzo_2024":570732,
@@ -58,9 +60,10 @@
   "Diciembre_2024":405882,
   "Enero_2025":561796,
   "Febrero_2025":594919,
-  "Marzo_2025":481114,
-  "Abril_2025":446447,
-  "Mayo_2025":0
+  "Marzo_2025":602216,
+  "Abril_2025":556134,
+  "Mayo_2025":555841,
+  "Junio_2025":579934
  },
  {
   "organismo_nombre":"I. Municipalidad de Negrete",
@@ -81,6 +84,7 @@
   "Febrero_2025":1863310,
   "Marzo_2025":1912846,
   "Abril_2025":2361151,
-  "Mayo_2025":2043546
+  "Mayo_2025":2043546,
+  "Junio_2025":2279768
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deporte de Los Andes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1148908,
   "Febrero_2024":1091673,
   "Marzo_2024":1105269,
@@ -18,11 +18,12 @@
   "Febrero_2025":819170,
   "Marzo_2025":859936,
   "Abril_2025":866050,
-  "Mayo_2025":891082
+  "Mayo_2025":891082,
+  "Junio_2025":889586
  },
  {
   "organismo_nombre":"Corporación de Deporte de Los Andes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":466877,
   "Febrero_2024":452687,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":352520,
   "Marzo_2025":280125,
   "Abril_2025":239707,
-  "Mayo_2025":276644
+  "Mayo_2025":276644,
+  "Junio_2025":217244
  }
 ]

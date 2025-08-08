@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Vitacura",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":165,
   "Febrero_2024":164,
   "Marzo_2024":161,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":202,
   "Febrero_2024":208,
   "Marzo_2024":268,

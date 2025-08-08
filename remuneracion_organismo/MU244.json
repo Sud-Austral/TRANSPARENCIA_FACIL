@@ -18,11 +18,12 @@
   "Febrero_2025":1479036,
   "Marzo_2025":1450971,
   "Abril_2025":1464966,
-  "Mayo_2025":1719749
+  "Mayo_2025":1719749,
+  "Junio_2025":1853413
  },
  {
   "organismo_nombre":"Municipalidad de Putre",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":966392,
   "Febrero_2024":959511,
   "Marzo_2024":910432,
@@ -38,8 +39,9 @@
   "Enero_2025":1058197,
   "Febrero_2025":1056935,
   "Marzo_2025":1029174,
-  "Abril_2025":1075420,
-  "Mayo_2025":0
+  "Abril_2025":985644,
+  "Mayo_2025":974888,
+  "Junio_2025":1076066
  },
  {
   "organismo_nombre":"Municipalidad de Putre",
@@ -60,6 +62,7 @@
   "Febrero_2025":1983208,
   "Marzo_2025":2306946,
   "Abril_2025":2234151,
-  "Mayo_2025":2528912
+  "Mayo_2025":2528912,
+  "Junio_2025":2676581
  }
 ]

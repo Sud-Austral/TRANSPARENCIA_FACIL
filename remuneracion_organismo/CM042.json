@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1209462,
   "Febrero_2024":950953,
   "Marzo_2024":874917,
@@ -18,7 +18,8 @@
   "Febrero_2025":1028542,
   "Marzo_2025":890500,
   "Abril_2025":942007,
-  "Mayo_2025":923120
+  "Mayo_2025":923120,
+  "Junio_2025":999708
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
@@ -39,11 +40,12 @@
   "Febrero_2025":1321506,
   "Marzo_2025":1368160,
   "Abril_2025":1483328,
-  "Mayo_2025":1371926
+  "Mayo_2025":1371926,
+  "Junio_2025":1572596
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":780061,
   "Marzo_2024":569835,
@@ -60,7 +62,8 @@
   "Febrero_2025":718120,
   "Marzo_2025":693272,
   "Abril_2025":706123,
-  "Mayo_2025":716957
+  "Mayo_2025":716957,
+  "Junio_2025":675912
  },
  {
   "organismo_nombre":"Corporación Municipal de Melipilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":1877557,
   "Marzo_2025":2155403,
   "Abril_2025":2422125,
-  "Mayo_2025":2097257
+  "Mayo_2025":2097257,
+  "Junio_2025":2480788
  }
 ]

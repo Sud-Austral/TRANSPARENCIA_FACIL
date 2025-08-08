@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Mariquina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1280498,
   "Febrero_2024":973523,
   "Marzo_2024":897716,
@@ -18,7 +18,8 @@
   "Febrero_2025":612820,
   "Marzo_2025":723220,
   "Abril_2025":1315731,
-  "Mayo_2025":1388439
+  "Mayo_2025":1388439,
+  "Junio_2025":1328680
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
@@ -39,11 +40,12 @@
   "Febrero_2025":1193212,
   "Marzo_2025":1213618,
   "Abril_2025":1660157,
-  "Mayo_2025":1303342
+  "Mayo_2025":1303342,
+  "Junio_2025":1526128
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":920325,
   "Febrero_2024":1023364,
   "Marzo_2024":622594,
@@ -60,7 +62,8 @@
   "Febrero_2025":695711,
   "Marzo_2025":646985,
   "Abril_2025":738704,
-  "Mayo_2025":689413
+  "Mayo_2025":689413,
+  "Junio_2025":749412
  },
  {
   "organismo_nombre":"Municipalidad de Mariquina",
@@ -81,6 +84,7 @@
   "Febrero_2025":1700603,
   "Marzo_2025":1801734,
   "Abril_2025":2370430,
-  "Mayo_2025":1799009
+  "Mayo_2025":1804635,
+  "Junio_2025":2436183
  }
 ]

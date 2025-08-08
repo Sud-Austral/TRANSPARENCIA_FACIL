@@ -18,11 +18,12 @@
   "Febrero_2025":2771607,
   "Marzo_2025":1761438,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Puerto Cordillera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1238889,
   "Febrero_2024":896666,
   "Marzo_2024":896666,
@@ -39,7 +40,8 @@
   "Febrero_2025":1515789,
   "Marzo_2025":1515789,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Puerto Cordillera",
@@ -60,6 +62,7 @@
   "Febrero_2025":2427503,
   "Marzo_2025":2427503,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

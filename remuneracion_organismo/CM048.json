@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Renca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1384396,
   "Febrero_2024":1112970,
   "Marzo_2024":1169573,
@@ -18,7 +18,8 @@
   "Febrero_2025":1277464,
   "Marzo_2025":1217898,
   "Abril_2025":1129466,
-  "Mayo_2025":1128233
+  "Mayo_2025":1128233,
+  "Junio_2025":1208224
  },
  {
   "organismo_nombre":"Corporación Municipal de Renca",
@@ -39,11 +40,12 @@
   "Febrero_2025":1502265,
   "Marzo_2025":1472003,
   "Abril_2025":1762956,
-  "Mayo_2025":1474568
+  "Mayo_2025":1474568,
+  "Junio_2025":1773948
  },
  {
   "organismo_nombre":"Corporación Municipal de Renca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1159545,
   "Febrero_2024":1374396,
   "Marzo_2024":1305711,
@@ -60,7 +62,8 @@
   "Febrero_2025":1377406,
   "Marzo_2025":1208296,
   "Abril_2025":1298601,
-  "Mayo_2025":1195923
+  "Mayo_2025":1195923,
+  "Junio_2025":1254387
  },
  {
   "organismo_nombre":"Corporación Municipal de Renca",
@@ -81,6 +84,7 @@
   "Febrero_2025":1924916,
   "Marzo_2025":1990302,
   "Abril_2025":2389919,
-  "Mayo_2025":1908704
+  "Mayo_2025":1908704,
+  "Junio_2025":2422747
  }
 ]

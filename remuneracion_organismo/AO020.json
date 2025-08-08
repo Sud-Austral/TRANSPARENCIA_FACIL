@@ -18,11 +18,12 @@
   "Febrero_2025":1747106,
   "Marzo_2025":1794283,
   "Abril_2025":1904368,
-  "Mayo_2025":1886902
+  "Mayo_2025":1886902,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Coquimbo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1569975,
   "Febrero_2024":1689476,
   "Marzo_2024":1804260,
@@ -39,7 +40,8 @@
   "Febrero_2025":1685777,
   "Marzo_2025":1652967,
   "Abril_2025":1672383,
-  "Mayo_2025":1445748
+  "Mayo_2025":1445748,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Coquimbo",
@@ -60,6 +62,7 @@
   "Febrero_2025":1661014,
   "Marzo_2025":1684823,
   "Abril_2025":1677349,
-  "Mayo_2025":1691011
+  "Mayo_2025":1691011,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Gregorio",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":146993,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de San Gregorio",
@@ -39,11 +40,12 @@
   "Febrero_2025":1413061,
   "Marzo_2025":2030812,
   "Abril_2025":1490180,
-  "Mayo_2025":1821655
+  "Mayo_2025":1821655,
+  "Junio_2025":2149742
  },
  {
   "organismo_nombre":"Municipalidad de San Gregorio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":764905,
   "Febrero_2024":748638,
   "Marzo_2024":921756,
@@ -60,7 +62,8 @@
   "Febrero_2025":714933,
   "Marzo_2025":667034,
   "Abril_2025":665251,
-  "Mayo_2025":732701
+  "Mayo_2025":732701,
+  "Junio_2025":654827
  },
  {
   "organismo_nombre":"Municipalidad de San Gregorio",
@@ -81,6 +84,7 @@
   "Febrero_2025":2552055,
   "Marzo_2025":3293965,
   "Abril_2025":2736480,
-  "Mayo_2025":3707549
+  "Mayo_2025":3707549,
+  "Junio_2025":3357644
  }
 ]

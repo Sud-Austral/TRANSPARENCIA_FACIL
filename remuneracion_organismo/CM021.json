@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Educación y Salud de Las Condes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1688786,
   "Febrero_2024":1612554,
   "Marzo_2024":1738168,
@@ -18,7 +18,8 @@
   "Febrero_2025":1649639,
   "Marzo_2025":1871596,
   "Abril_2025":1592233,
-  "Mayo_2025":0
+  "Mayo_2025":1551944,
+  "Junio_2025":1713446
  },
  {
   "organismo_nombre":"Corporación de Educación y Salud de Las Condes",
@@ -39,11 +40,12 @@
   "Febrero_2025":1734713,
   "Marzo_2025":2354793,
   "Abril_2025":1854148,
-  "Mayo_2025":0
+  "Mayo_2025":1715172,
+  "Junio_2025":1927857
  },
  {
   "organismo_nombre":"Corporación de Educación y Salud de Las Condes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":345662,
   "Febrero_2024":507740,
   "Marzo_2024":452165,
@@ -60,7 +62,8 @@
   "Febrero_2025":468902,
   "Marzo_2025":397216,
   "Abril_2025":494732,
-  "Mayo_2025":0
+  "Mayo_2025":462326,
+  "Junio_2025":479962
  },
  {
   "organismo_nombre":"Corporación de Educación y Salud de Las Condes",
@@ -81,6 +84,7 @@
   "Febrero_2025":2377341,
   "Marzo_2025":3645725,
   "Abril_2025":2732508,
-  "Mayo_2025":0
+  "Mayo_2025":2371236,
+  "Junio_2025":2878463
  }
 ]

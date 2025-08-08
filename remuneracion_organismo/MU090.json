@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Florida",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":683882,
   "Febrero_2024":683882,
   "Marzo_2024":683882,
@@ -18,11 +18,12 @@
   "Febrero_2025":712850,
   "Marzo_2025":712850,
   "Abril_2025":712850,
-  "Mayo_2025":712850
+  "Mayo_2025":712850,
+  "Junio_2025":717412
  },
  {
   "organismo_nombre":"Municipalidad de Florida",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":882100,
   "Febrero_2024":886576,
   "Marzo_2024":897615,
@@ -39,6 +40,7 @@
   "Febrero_2025":800105,
   "Marzo_2025":797972,
   "Abril_2025":607075,
-  "Mayo_2025":0
+  "Mayo_2025":603810,
+  "Junio_2025":633584
  }
 ]

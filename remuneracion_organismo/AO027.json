@@ -18,11 +18,12 @@
   "Febrero_2025":1691868,
   "Marzo_2025":1942658,
   "Abril_2025":1781608,
-  "Mayo_2025":1776044
+  "Mayo_2025":1776044,
+  "Junio_2025":2013340
  },
  {
   "organismo_nombre":"Servicio de Salud Concepción",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":902502,
   "Febrero_2024":909764,
   "Marzo_2024":797655,
@@ -39,7 +40,8 @@
   "Febrero_2025":1687350,
   "Marzo_2025":3310344,
   "Abril_2025":2985010,
-  "Mayo_2025":3129892
+  "Mayo_2025":3129892,
+  "Junio_2025":3077143
  },
  {
   "organismo_nombre":"Servicio de Salud Concepción",
@@ -60,6 +62,7 @@
   "Febrero_2025":1751516,
   "Marzo_2025":2301586,
   "Abril_2025":1767643,
-  "Mayo_2025":1704978
+  "Mayo_2025":1704978,
+  "Junio_2025":2376709
  }
 ]

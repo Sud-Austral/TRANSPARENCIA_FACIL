@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Desarrollo de Magallanes y de la Antártica chilena.",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2261139,
   "Febrero_2024":2194095,
   "Marzo_2024":2078034,
@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":2319145,
   "Abril_2025":2795441,
-  "Mayo_2025":2062236
+  "Mayo_2025":2062236,
+  "Junio_2025":1921403
  },
  {
   "organismo_nombre":"Corporación de Desarrollo de Magallanes y de la Antártica chilena.",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":8,
   "Febrero_2024":8,
   "Marzo_2024":7,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1,
   "Marzo_2024":1,

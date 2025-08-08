@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Papudo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":165,
   "Febrero_2024":165,
   "Marzo_2024":123,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Papudo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":165,
   "Febrero_2024":186,
   "Marzo_2024":144,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lebu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":600,
   "Febrero_2024":598,
   "Marzo_2024":578,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":338,
   "Febrero_2024":337,
   "Marzo_2024":353,

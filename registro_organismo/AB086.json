@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":6,
   "Febrero_2024":6,
   "Marzo_2024":5,

@@ -18,11 +18,12 @@
   "Febrero_2025":1452053,
   "Marzo_2025":1517935,
   "Abril_2025":1481172,
-  "Mayo_2025":1485838
+  "Mayo_2025":1485838,
+  "Junio_2025":1583172
  },
  {
   "organismo_nombre":"Servicio de Salud Viña del Mar  Quillota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":568917,
   "Febrero_2024":640394,
   "Marzo_2024":809004,
@@ -39,7 +40,8 @@
   "Febrero_2025":856191,
   "Marzo_2025":899937,
   "Abril_2025":1145860,
-  "Mayo_2025":1100632
+  "Mayo_2025":1100632,
+  "Junio_2025":1552875
  },
  {
   "organismo_nombre":"Servicio de Salud Viña del Mar  Quillota",
@@ -60,6 +62,7 @@
   "Febrero_2025":1608206,
   "Marzo_2025":1988296,
   "Abril_2025":1620402,
-  "Mayo_2025":1624268
+  "Mayo_2025":1624268,
+  "Junio_2025":2007792
  }
 ]

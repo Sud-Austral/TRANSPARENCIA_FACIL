@@ -18,11 +18,12 @@
   "Febrero_2025":1818840,
   "Marzo_2025":1898820,
   "Abril_2025":1865020,
-  "Mayo_2025":1867755
+  "Mayo_2025":1867755,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Regional Copiapó San José del Carmen",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":713603,
   "Febrero_2024":1549700,
   "Marzo_2024":1170851,
@@ -39,7 +40,8 @@
   "Febrero_2025":972000,
   "Marzo_2025":1050947,
   "Abril_2025":814539,
-  "Mayo_2025":1316429
+  "Mayo_2025":1316429,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Regional Copiapó San José del Carmen",
@@ -60,6 +62,7 @@
   "Febrero_2025":1856028,
   "Marzo_2025":2172699,
   "Abril_2025":2015786,
-  "Mayo_2025":1973222
+  "Mayo_2025":1973222,
+  "Junio_2025":0
  }
 ]

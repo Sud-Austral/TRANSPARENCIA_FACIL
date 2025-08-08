@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"I. Municipalidad de Macul",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1773876,
   "Febrero_2024":1773876,
   "Marzo_2024":1773876,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1849018,
   "Abril_2025":1849018,
-  "Mayo_2025":1849018
+  "Mayo_2025":1849018,
+  "Junio_2025":1849018
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
@@ -39,11 +40,12 @@
   "Febrero_2025":1705904,
   "Marzo_2025":1689891,
   "Abril_2025":1677127,
-  "Mayo_2025":1641109
+  "Mayo_2025":1641109,
+  "Junio_2025":1711699
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":837165,
   "Febrero_2024":941412,
   "Marzo_2024":895257,
@@ -60,7 +62,8 @@
   "Febrero_2025":932513,
   "Marzo_2025":904650,
   "Abril_2025":870816,
-  "Mayo_2025":871690
+  "Mayo_2025":871690,
+  "Junio_2025":867481
  },
  {
   "organismo_nombre":"I. Municipalidad de Macul",
@@ -81,6 +84,7 @@
   "Febrero_2025":1628067,
   "Marzo_2025":1621550,
   "Abril_2025":1640343,
-  "Mayo_2025":1635159
+  "Mayo_2025":1635159,
+  "Junio_2025":1689172
  }
 ]

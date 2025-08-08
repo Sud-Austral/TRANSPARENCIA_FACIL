@@ -18,11 +18,12 @@
   "Febrero_2025":1836176,
   "Marzo_2025":3371756,
   "Abril_2025":1809204,
-  "Mayo_2025":1808675
+  "Mayo_2025":1808675,
+  "Junio_2025":3442967
  },
  {
   "organismo_nombre":"Subsecretaría de Obras Públicas (MOP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2593402,
   "Febrero_2024":2430765,
   "Marzo_2024":2602235,
@@ -39,7 +40,8 @@
   "Febrero_2025":2431374,
   "Marzo_2025":2653523,
   "Abril_2025":2502796,
-  "Mayo_2025":2455800
+  "Mayo_2025":2455800,
+  "Junio_2025":2413235
  },
  {
   "organismo_nombre":"Subsecretaría de Obras Públicas (MOP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3196597,
   "Marzo_2025":5353923,
   "Abril_2025":3507398,
-  "Mayo_2025":3419296
+  "Mayo_2025":3419296,
+  "Junio_2025":5746792
  }
 ]

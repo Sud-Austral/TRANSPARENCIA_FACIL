@@ -18,11 +18,12 @@
   "Febrero_2025":2054721,
   "Marzo_2025":2189900,
   "Abril_2025":2112120,
-  "Mayo_2025":2076369
+  "Mayo_2025":2076369,
+  "Junio_2025":2228885
  },
  {
   "organismo_nombre":"Hospital Luis Tisné",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":740777,
   "Febrero_2024":316777,
   "Marzo_2024":772222,
@@ -39,7 +40,8 @@
   "Febrero_2025":660158,
   "Marzo_2025":691587,
   "Abril_2025":854844,
-  "Mayo_2025":639606
+  "Mayo_2025":639606,
+  "Junio_2025":886785
  },
  {
   "organismo_nombre":"Hospital Luis Tisné",
@@ -60,6 +62,7 @@
   "Febrero_2025":1846335,
   "Marzo_2025":2191605,
   "Abril_2025":1946577,
-  "Mayo_2025":1946661
+  "Mayo_2025":1946661,
+  "Junio_2025":2225596
  }
 ]

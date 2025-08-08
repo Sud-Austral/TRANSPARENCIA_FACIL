@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1526132,
   "Febrero_2024":1521900,
   "Marzo_2024":1785294,
@@ -18,7 +18,8 @@
   "Febrero_2025":1523575,
   "Marzo_2025":1819577,
   "Abril_2025":1248818,
-  "Mayo_2025":1236065
+  "Mayo_2025":1236065,
+  "Junio_2025":1681098
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1332255,
   "Marzo_2025":1372127,
   "Abril_2025":1299397,
-  "Mayo_2025":1279040
+  "Mayo_2025":1279040,
+  "Junio_2025":1420813
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":999510,
   "Febrero_2024":0,
   "Marzo_2024":537580,
@@ -60,7 +62,8 @@
   "Febrero_2025":716054,
   "Marzo_2025":705664,
   "Abril_2025":603804,
-  "Mayo_2025":610669
+  "Mayo_2025":610669,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2228196,
   "Marzo_2025":2412892,
   "Abril_2025":2137364,
-  "Mayo_2025":2209112
+  "Mayo_2025":2209044,
+  "Junio_2025":2438093
  }
 ]

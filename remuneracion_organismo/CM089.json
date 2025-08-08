@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal del Arte y la Cultura de Talagante",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":826930,
   "Febrero_2024":658660,
   "Marzo_2024":735450,
@@ -14,15 +14,16 @@
   "Octubre_2024":846798,
   "Noviembre_2024":898121,
   "Diciembre_2024":981210,
-  "Enero_2025":1056727,
-  "Febrero_2025":944794,
+  "Enero_2025":1120186,
+  "Febrero_2025":898785,
   "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":956490,
+  "Mayo_2025":960117,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal del Arte y la Cultura de Talagante",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":473743,
   "Febrero_2024":323771,
   "Marzo_2024":342526,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

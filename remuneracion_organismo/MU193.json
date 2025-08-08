@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1026760,
   "Febrero_2024":820506,
   "Marzo_2024":833211,
@@ -18,7 +18,8 @@
   "Febrero_2025":864512,
   "Marzo_2025":884318,
   "Abril_2025":850622,
-  "Mayo_2025":755550
+  "Mayo_2025":859401,
+  "Junio_2025":831980
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
@@ -39,11 +40,12 @@
   "Febrero_2025":1156371,
   "Marzo_2025":1165354,
   "Abril_2025":1323668,
-  "Mayo_2025":1444789
+  "Mayo_2025":1249987,
+  "Junio_2025":1411667
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":818469,
   "Febrero_2024":887893,
   "Marzo_2024":919945,
@@ -60,7 +62,8 @@
   "Febrero_2025":949330,
   "Marzo_2025":890113,
   "Abril_2025":851522,
-  "Mayo_2025":918408
+  "Mayo_2025":918408,
+  "Junio_2025":766732
  },
  {
   "organismo_nombre":"Municipalidad de Padre Hurtado",
@@ -81,6 +84,7 @@
   "Febrero_2025":1634169,
   "Marzo_2025":1639362,
   "Abril_2025":1909348,
-  "Mayo_2025":1627956
+  "Mayo_2025":1763712,
+  "Junio_2025":2057382
  }
 ]

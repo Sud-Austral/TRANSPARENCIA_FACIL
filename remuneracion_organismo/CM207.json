@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Desarrollo Social de la Municipalidad de Independencia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":982628,
   "Febrero_2024":987933,
   "Marzo_2024":987933,
@@ -17,12 +17,13 @@
   "Enero_2025":1070402,
   "Febrero_2025":1053877,
   "Marzo_2025":1026293,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1017307,
+  "Mayo_2025":1166455,
+  "Junio_2025":1138611
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de la Municipalidad de Independencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":485351,
   "Febrero_2024":598220,
   "Marzo_2024":634907,
@@ -39,6 +40,7 @@
   "Febrero_2025":646556,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

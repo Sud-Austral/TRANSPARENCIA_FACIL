@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región de Valparaíso",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":117,
   "Febrero_2024":118,
   "Marzo_2024":119,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":48,
   "Febrero_2024":22,
   "Marzo_2024":73,

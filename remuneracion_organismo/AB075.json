@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":5234307,
   "Febrero_2024":5234307,
   "Marzo_2024":5234307,
@@ -18,7 +18,8 @@
   "Febrero_2025":5443700,
   "Marzo_2025":5443700,
   "Abril_2025":5443700,
-  "Mayo_2025":5443700
+  "Mayo_2025":5443700,
+  "Junio_2025":5443700
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2111051,
   "Marzo_2025":2023715,
   "Abril_2025":2439142,
-  "Mayo_2025":2421105
+  "Mayo_2025":2421105,
+  "Junio_2025":2382622
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1566456,
   "Febrero_2024":1283272,
   "Marzo_2024":1210314,
@@ -60,12 +62,13 @@
   "Febrero_2025":1516915,
   "Marzo_2025":1731030,
   "Abril_2025":1534609,
-  "Mayo_2025":1375093
+  "Mayo_2025":1375093,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de Arica y Parinacota (GORE)",
   "base":"Planta",
-  "Enero_2024":4248896,
+  "Enero_2024":4691699,
   "Febrero_2024":4691699,
   "Marzo_2024":4686101,
   "Abril_2024":4686101,
@@ -81,6 +84,7 @@
   "Febrero_2025":4461512,
   "Marzo_2025":4287181,
   "Abril_2025":4231517,
-  "Mayo_2025":4505901
+  "Mayo_2025":4505901,
+  "Junio_2025":4505901
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Maule",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":856727,
   "Febrero_2024":1018584,
   "Marzo_2024":912083,
@@ -18,7 +18,8 @@
   "Febrero_2025":1084660,
   "Marzo_2025":977964,
   "Abril_2025":1058516,
-  "Mayo_2025":0
+  "Mayo_2025":991630,
+  "Junio_2025":1014040
  },
  {
   "organismo_nombre":"Municipalidad de Maule",
@@ -39,11 +40,12 @@
   "Febrero_2025":1256970,
   "Marzo_2025":1337385,
   "Abril_2025":1530225,
-  "Mayo_2025":0
+  "Mayo_2025":1516292,
+  "Junio_2025":1589235
  },
  {
   "organismo_nombre":"Municipalidad de Maule",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":614007,
   "Febrero_2024":666641,
   "Marzo_2024":604050,
@@ -59,8 +61,9 @@
   "Enero_2025":2472743,
   "Febrero_2025":683941,
   "Marzo_2025":696537,
-  "Abril_2025":684775,
-  "Mayo_2025":0
+  "Abril_2025":684214,
+  "Mayo_2025":697011,
+  "Junio_2025":689771
  },
  {
   "organismo_nombre":"Municipalidad de Maule",
@@ -81,6 +84,7 @@
   "Febrero_2025":1816096,
   "Marzo_2025":1884595,
   "Abril_2025":2238778,
-  "Mayo_2025":0
+  "Mayo_2025":1946113,
+  "Junio_2025":2283307
  }
 ]

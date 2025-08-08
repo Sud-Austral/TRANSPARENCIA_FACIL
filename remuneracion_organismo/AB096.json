@@ -18,11 +18,12 @@
   "Febrero_2025":2640019,
   "Marzo_2025":2640667,
   "Abril_2025":1983146,
-  "Mayo_2025":1983146
+  "Mayo_2025":1983146,
+  "Junio_2025":3744112
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Punilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":556650,
   "Febrero_2024":900732,
   "Marzo_2024":859932,
@@ -39,7 +40,8 @@
   "Febrero_2025":1505513,
   "Marzo_2025":1505513,
   "Abril_2025":1039342,
-  "Mayo_2025":601837
+  "Mayo_2025":601837,
+  "Junio_2025":668624
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Punilla",
@@ -60,6 +62,7 @@
   "Febrero_2025":4010851,
   "Marzo_2025":4015281,
   "Abril_2025":3510999,
-  "Mayo_2025":3510999
+  "Mayo_2025":3510999,
+  "Junio_2025":5039138
  }
 ]

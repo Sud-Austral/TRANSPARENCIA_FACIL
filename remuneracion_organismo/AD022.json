@@ -18,11 +18,12 @@
   "Febrero_2025":2936545,
   "Marzo_2025":4250945,
   "Abril_2025":2327947,
-  "Mayo_2025":2318364
+  "Mayo_2025":2318364,
+  "Junio_2025":4305374
  },
  {
   "organismo_nombre":"Subsecretaría para las Fuerzas Armadas (SSFFAA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2954575,
   "Febrero_2024":2900934,
   "Marzo_2024":2865896,
@@ -39,7 +40,8 @@
   "Febrero_2025":2672601,
   "Marzo_2025":2447535,
   "Abril_2025":2595854,
-  "Mayo_2025":2078835
+  "Mayo_2025":2149320,
+  "Junio_2025":2241431
  },
  {
   "organismo_nombre":"Subsecretaría para las Fuerzas Armadas (SSFFAA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3561660,
   "Marzo_2025":4557434,
   "Abril_2025":2967339,
-  "Mayo_2025":2951207
+  "Mayo_2025":3005942,
+  "Junio_2025":4578941
  }
 ]

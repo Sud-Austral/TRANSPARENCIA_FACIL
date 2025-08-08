@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Laguna Blanca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2088441,
   "Febrero_2024":1985872,
   "Marzo_2024":2088441,
@@ -18,7 +18,8 @@
   "Febrero_2025":2194077,
   "Marzo_2025":2862579,
   "Abril_2025":2194077,
-  "Mayo_2025":0
+  "Mayo_2025":1761995,
+  "Junio_2025":2973085
  },
  {
   "organismo_nombre":"Municipalidad de Laguna Blanca",
@@ -38,12 +39,13 @@
   "Enero_2025":1500306,
   "Febrero_2025":1426051,
   "Marzo_2025":1970698,
-  "Abril_2025":1536347,
-  "Mayo_2025":1415679
+  "Abril_2025":1576209,
+  "Mayo_2025":1861300,
+  "Junio_2025":2268243
  },
  {
   "organismo_nombre":"Municipalidad de Laguna Blanca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":588218,
   "Febrero_2024":803726,
   "Marzo_2024":828296,
@@ -60,7 +62,8 @@
   "Febrero_2025":1005363,
   "Marzo_2025":1079396,
   "Abril_2025":849064,
-  "Mayo_2025":1012343
+  "Mayo_2025":1012343,
+  "Junio_2025":871365
  },
  {
   "organismo_nombre":"Municipalidad de Laguna Blanca",
@@ -81,6 +84,7 @@
   "Febrero_2025":2222794,
   "Marzo_2025":2763802,
   "Abril_2025":2376003,
-  "Mayo_2025":0
+  "Mayo_2025":2259707,
+  "Junio_2025":2471529
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2290421,
   "Marzo_2025":4094624,
   "Abril_2025":2249538,
-  "Mayo_2025":2237034
+  "Mayo_2025":2237034,
+  "Junio_2025":4158058
  },
  {
   "organismo_nombre":"Dirección de Obras Portuarias (DOP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1634209,
   "Febrero_2024":1634209,
   "Marzo_2024":1634209,
@@ -39,7 +40,8 @@
   "Febrero_2025":2595273,
   "Marzo_2025":2595273,
   "Abril_2025":2595273,
-  "Mayo_2025":2595273
+  "Mayo_2025":2595273,
+  "Junio_2025":2595273
  },
  {
   "organismo_nombre":"Dirección de Obras Portuarias (DOP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3945082,
   "Marzo_2025":6853903,
   "Abril_2025":3931508,
-  "Mayo_2025":4028334
+  "Mayo_2025":4028334,
+  "Junio_2025":6780701
  }
 ]

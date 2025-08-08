@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quilicura",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1003738,
   "Febrero_2024":992959,
   "Marzo_2024":1002835,
@@ -18,7 +18,8 @@
   "Febrero_2025":1280604,
   "Marzo_2025":1384256,
   "Abril_2025":1399561,
-  "Mayo_2025":1431318
+  "Mayo_2025":1408145,
+  "Junio_2025":1440918
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
@@ -39,11 +40,12 @@
   "Febrero_2025":1649849,
   "Marzo_2025":1666952,
   "Abril_2025":1995732,
-  "Mayo_2025":1677032
+  "Mayo_2025":1677032,
+  "Junio_2025":2011297
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":831041,
   "Febrero_2024":934510,
   "Marzo_2024":940778,
@@ -60,7 +62,8 @@
   "Febrero_2025":941645,
   "Marzo_2025":1020729,
   "Abril_2025":1017660,
-  "Mayo_2025":952010
+  "Mayo_2025":952010,
+  "Junio_2025":972504
  },
  {
   "organismo_nombre":"Municipalidad de Quilicura",
@@ -81,6 +84,7 @@
   "Febrero_2025":2052834,
   "Marzo_2025":2057444,
   "Abril_2025":2584746,
-  "Mayo_2025":0
+  "Mayo_2025":2012707,
+  "Junio_2025":2645751
  }
 ]

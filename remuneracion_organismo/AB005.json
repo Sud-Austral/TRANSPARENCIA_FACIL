@@ -18,11 +18,12 @@
   "Febrero_2025":2527908,
   "Marzo_2025":3236845,
   "Abril_2025":2535904,
-  "Mayo_2025":2536256
+  "Mayo_2025":2536256,
+  "Junio_2025":4607910
  },
  {
   "organismo_nombre":"Servicio de Gobierno Interior",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1539331,
   "Febrero_2024":1522009,
   "Marzo_2024":1569964,
@@ -39,6 +40,7 @@
   "Febrero_2025":2400815,
   "Marzo_2025":2231253,
   "Abril_2025":2587929,
-  "Mayo_2025":2576211
+  "Mayo_2025":2576211,
+  "Junio_2025":2632474
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deportes y Recreación de San Javier Loncomilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":550603,
   "Febrero_2024":635036,
   "Marzo_2024":616588,
@@ -18,11 +18,12 @@
   "Febrero_2025":610680,
   "Marzo_2025":601246,
   "Abril_2025":612880,
-  "Mayo_2025":505740
+  "Mayo_2025":505740,
+  "Junio_2025":464438
  },
  {
   "organismo_nombre":"Corporación de Deportes y Recreación de San Javier Loncomilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":272611,
   "Febrero_2024":305131,
   "Marzo_2024":289254,
@@ -39,6 +40,7 @@
   "Febrero_2025":286625,
   "Marzo_2025":258086,
   "Abril_2025":323365,
-  "Mayo_2025":292467
+  "Mayo_2025":292467,
+  "Junio_2025":327230
  }
 ]

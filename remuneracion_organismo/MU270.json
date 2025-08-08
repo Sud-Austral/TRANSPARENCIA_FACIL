@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1230433,
   "Febrero_2024":961583,
   "Marzo_2024":791187,
@@ -18,7 +18,8 @@
   "Febrero_2025":987944,
   "Marzo_2025":887880,
   "Abril_2025":884504,
-  "Mayo_2025":840003
+  "Mayo_2025":840003,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
@@ -39,11 +40,12 @@
   "Febrero_2025":1318096,
   "Marzo_2025":1309343,
   "Abril_2025":1395956,
-  "Mayo_2025":0
+  "Mayo_2025":1459373,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":634020,
   "Febrero_2024":768897,
   "Marzo_2024":988633,
@@ -59,8 +61,9 @@
   "Enero_2025":563042,
   "Febrero_2025":936540,
   "Marzo_2025":1004407,
-  "Abril_2025":509146,
-  "Mayo_2025":0
+  "Abril_2025":897613,
+  "Mayo_2025":914279,
+  "Junio_2025":847329
  },
  {
   "organismo_nombre":"Municipalidad de Rio Bueno",
@@ -81,6 +84,7 @@
   "Febrero_2025":2116481,
   "Marzo_2025":2128533,
   "Abril_2025":2403657,
-  "Mayo_2025":0
+  "Mayo_2025":2267722,
+  "Junio_2025":0
  }
 ]

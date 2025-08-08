@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1266878,
   "Febrero_2024":895761,
   "Marzo_2024":773701,
@@ -18,7 +18,8 @@
   "Febrero_2025":989871,
   "Marzo_2025":882206,
   "Abril_2025":869054,
-  "Mayo_2025":380281
+  "Mayo_2025":380281,
+  "Junio_2025":346705
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
@@ -39,11 +40,12 @@
   "Febrero_2025":1348720,
   "Marzo_2025":1440275,
   "Abril_2025":1464790,
-  "Mayo_2025":1514028
+  "Mayo_2025":1508404,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":682761,
   "Febrero_2024":575746,
   "Marzo_2024":572843,
@@ -60,7 +62,8 @@
   "Febrero_2025":640678,
   "Marzo_2025":652029,
   "Abril_2025":691487,
-  "Mayo_2025":616000
+  "Mayo_2025":652801,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Alto Biobío",
@@ -81,6 +84,7 @@
   "Febrero_2025":1654538,
   "Marzo_2025":2171713,
   "Abril_2025":2399390,
-  "Mayo_2025":0
+  "Mayo_2025":2066120,
+  "Junio_2025":0
  }
 ]

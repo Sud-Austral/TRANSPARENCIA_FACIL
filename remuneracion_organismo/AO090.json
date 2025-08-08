@@ -18,11 +18,12 @@
   "Febrero_2025":1214459,
   "Marzo_2025":815928,
   "Abril_2025":1107311,
-  "Mayo_2025":1342422
+  "Mayo_2025":1342422,
+  "Junio_2025":882380
  },
  {
   "organismo_nombre":"Hospital de Puerto Montt",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":633094,
   "Febrero_2024":688046,
   "Marzo_2024":704545,
@@ -39,7 +40,8 @@
   "Febrero_2025":771653,
   "Marzo_2025":736426,
   "Abril_2025":721941,
-  "Mayo_2025":773787
+  "Mayo_2025":773787,
+  "Junio_2025":756740
  },
  {
   "organismo_nombre":"Hospital de Puerto Montt",
@@ -60,6 +62,7 @@
   "Febrero_2025":2254309,
   "Marzo_2025":1014842,
   "Abril_2025":1612759,
-  "Mayo_2025":2395329
+  "Mayo_2025":2395329,
+  "Junio_2025":1028132
  }
 ]

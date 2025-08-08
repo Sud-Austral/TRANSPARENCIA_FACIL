@@ -18,11 +18,12 @@
   "Febrero_2025":1687723,
   "Marzo_2025":2059502,
   "Abril_2025":1756472,
-  "Mayo_2025":1761859
+  "Mayo_2025":1761859,
+  "Junio_2025":2163799
  },
  {
   "organismo_nombre":"Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":324000,
   "Febrero_2024":664987,
   "Marzo_2024":905493,
@@ -39,7 +40,8 @@
   "Febrero_2025":664987,
   "Marzo_2025":664987,
   "Abril_2025":664987,
-  "Mayo_2025":664987
+  "Mayo_2025":664987,
+  "Junio_2025":664987
  },
  {
   "organismo_nombre":"Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza",
@@ -60,6 +62,7 @@
   "Febrero_2025":1615604,
   "Marzo_2025":2478753,
   "Abril_2025":1766792,
-  "Mayo_2025":1794376
+  "Mayo_2025":1794376,
+  "Junio_2025":2624741
  }
 ]

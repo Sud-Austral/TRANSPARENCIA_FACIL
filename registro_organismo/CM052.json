@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":543,
   "Febrero_2024":529,
   "Marzo_2024":486,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":17,
   "Febrero_2024":29,
   "Marzo_2024":22,

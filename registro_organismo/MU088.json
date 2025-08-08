@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ercilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":169,
   "Febrero_2024":171,
   "Marzo_2024":170,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":188,
   "Febrero_2024":190,
   "Marzo_2024":210,

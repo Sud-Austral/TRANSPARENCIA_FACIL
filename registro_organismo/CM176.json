@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Padre Hurtado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3,
   "Febrero_2024":6,
   "Marzo_2024":6,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Padre Hurtado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":31,
   "Febrero_2024":35,
   "Marzo_2024":16,

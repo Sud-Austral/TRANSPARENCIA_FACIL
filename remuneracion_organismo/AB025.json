@@ -17,12 +17,13 @@
   "Enero_2025":2780599,
   "Febrero_2025":2841162,
   "Marzo_2025":2842658,
-  "Abril_2025":2279843,
-  "Mayo_2025":2178934
+  "Abril_2025":2178934,
+  "Mayo_2025":2178934,
+  "Junio_2025":4190224
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tamarugal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1261800,
   "Febrero_2024":1242813,
   "Marzo_2024":1161469,
@@ -39,7 +40,8 @@
   "Febrero_2025":1418591,
   "Marzo_2025":1312317,
   "Abril_2025":1451664,
-  "Mayo_2025":1354238
+  "Mayo_2025":1354238,
+  "Junio_2025":1422155
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tamarugal",
@@ -60,6 +62,7 @@
   "Febrero_2025":6234024,
   "Marzo_2025":6229025,
   "Abril_2025":5427522,
-  "Mayo_2025":5427522
+  "Mayo_2025":5427522,
+  "Junio_2025":7838008
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2468936,
   "Marzo_2025":2469987,
   "Abril_2025":1859366,
-  "Mayo_2025":1859849
+  "Mayo_2025":1859849,
+  "Junio_2025":3550067
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Maule",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1424628,
   "Febrero_2024":1250363,
   "Marzo_2024":1175957,
@@ -39,7 +40,8 @@
   "Febrero_2025":1258528,
   "Marzo_2025":1259762,
   "Abril_2025":1258248,
-  "Mayo_2025":1284624
+  "Mayo_2025":1284624,
+  "Junio_2025":1291849
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Maule",
@@ -60,6 +62,7 @@
   "Febrero_2025":4713356,
   "Marzo_2025":4713356,
   "Abril_2025":4016522,
-  "Mayo_2025":4016522
+  "Mayo_2025":4016522,
+  "Junio_2025":6100843
  }
 ]

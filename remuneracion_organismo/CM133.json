@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deportes y Recreación de Peñalolén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":827586,
   "Febrero_2024":820418,
   "Marzo_2024":819276,
@@ -14,15 +14,16 @@
   "Octubre_2024":846012,
   "Noviembre_2024":834484,
   "Diciembre_2024":1171572,
-  "Enero_2025":887055,
-  "Febrero_2025":830289,
-  "Marzo_2025":842995,
-  "Abril_2025":796401,
-  "Mayo_2025":840976
+  "Enero_2025":0,
+  "Febrero_2025":834874,
+  "Marzo_2025":843850,
+  "Abril_2025":790871,
+  "Mayo_2025":840976,
+  "Junio_2025":935914
  },
  {
   "organismo_nombre":"Corporación de Deportes y Recreación de Peñalolén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":363267,
   "Febrero_2024":432012,
   "Marzo_2024":182255,
@@ -39,6 +40,7 @@
   "Febrero_2025":484260,
   "Marzo_2025":238257,
   "Abril_2025":322177,
-  "Mayo_2025":329412
+  "Mayo_2025":329412,
+  "Junio_2025":323420
  }
 ]

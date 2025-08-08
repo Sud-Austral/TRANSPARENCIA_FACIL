@@ -18,11 +18,12 @@
   "Febrero_2025":1714845,
   "Marzo_2025":2197741,
   "Abril_2025":1715727,
-  "Mayo_2025":1714310
+  "Mayo_2025":1714310,
+  "Junio_2025":2203702
  },
  {
   "organismo_nombre":"Universidad de Magallanes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":854457,
   "Febrero_2024":1052218,
   "Marzo_2024":1218791,
@@ -39,7 +40,8 @@
   "Febrero_2025":1006692,
   "Marzo_2025":1120221,
   "Abril_2025":913120,
-  "Mayo_2025":817058
+  "Mayo_2025":817058,
+  "Junio_2025":780851
  },
  {
   "organismo_nombre":"Universidad de Magallanes",
@@ -60,6 +62,7 @@
   "Febrero_2025":3342638,
   "Marzo_2025":3795545,
   "Abril_2025":3368081,
-  "Mayo_2025":3365824
+  "Mayo_2025":3365824,
+  "Junio_2025":3814637
  }
 ]

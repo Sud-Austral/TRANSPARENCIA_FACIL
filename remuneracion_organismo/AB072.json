@@ -18,11 +18,12 @@
   "Febrero_2025":2182855,
   "Marzo_2025":2469770,
   "Abril_2025":1898696,
-  "Mayo_2025":0
+  "Mayo_2025":1898696,
+  "Junio_2025":3630832
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Talagante",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1057949,
   "Febrero_2024":1057949,
   "Marzo_2024":1057949,
@@ -39,7 +40,8 @@
   "Febrero_2025":1266192,
   "Marzo_2025":1266192,
   "Abril_2025":1266192,
-  "Mayo_2025":0
+  "Mayo_2025":1266192,
+  "Junio_2025":1266192
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Talagante",
@@ -60,6 +62,7 @@
   "Febrero_2025":5068313,
   "Marzo_2025":5413112,
   "Abril_2025":4723515,
-  "Mayo_2025":0
+  "Mayo_2025":4723515,
+  "Junio_2025":6792306
  }
 ]

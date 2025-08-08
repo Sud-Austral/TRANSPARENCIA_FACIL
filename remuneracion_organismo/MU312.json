@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Talca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":695880,
   "Febrero_2024":595010,
   "Marzo_2024":625209,
@@ -18,7 +18,8 @@
   "Febrero_2025":615839,
   "Marzo_2025":726881,
   "Abril_2025":791032,
-  "Mayo_2025":834139
+  "Mayo_2025":834139,
+  "Junio_2025":804633
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
@@ -39,11 +40,12 @@
   "Febrero_2025":1335798,
   "Marzo_2025":1177724,
   "Abril_2025":1205929,
-  "Mayo_2025":1408743
+  "Mayo_2025":1408743,
+  "Junio_2025":1256295
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":694907,
   "Febrero_2024":764628,
   "Marzo_2024":791744,
@@ -60,7 +62,8 @@
   "Febrero_2025":810971,
   "Marzo_2025":813030,
   "Abril_2025":798630,
-  "Mayo_2025":821433
+  "Mayo_2025":821433,
+  "Junio_2025":825834
  },
  {
   "organismo_nombre":"Municipalidad de Talca",
@@ -81,6 +84,7 @@
   "Febrero_2025":1733490,
   "Marzo_2025":1600293,
   "Abril_2025":1530331,
-  "Mayo_2025":1900555
+  "Mayo_2025":1900555,
+  "Junio_2025":1609602
  }
 ]

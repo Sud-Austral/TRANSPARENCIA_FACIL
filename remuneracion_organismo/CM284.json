@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Fomento de Desarrollo comunal y Productivo de la Granja",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1428370,
   "Febrero_2024":1428370,
   "Marzo_2024":1428370,
@@ -18,11 +18,12 @@
   "Febrero_2025":1371568,
   "Marzo_2025":1253711,
   "Abril_2025":1321133,
-  "Mayo_2025":1321133
+  "Mayo_2025":1321133,
+  "Junio_2025":1349421
  },
  {
   "organismo_nombre":"Corporación de Fomento de Desarrollo comunal y Productivo de la Granja",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":894326,
   "Febrero_2024":937978,
   "Marzo_2024":561593,
@@ -39,6 +40,7 @@
   "Febrero_2025":727280,
   "Marzo_2025":403965,
   "Abril_2025":618480,
-  "Mayo_2025":611563
+  "Mayo_2025":611563,
+  "Junio_2025":557474
  }
 ]

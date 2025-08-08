@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1134102,
   "Febrero_2024":805745,
   "Marzo_2024":659815,
@@ -13,12 +13,13 @@
   "Septiembre_2024":715831,
   "Octubre_2024":703978,
   "Noviembre_2024":706340,
-  "Diciembre_2024":1021454,
+  "Diciembre_2024":1015276,
   "Enero_2025":1252395,
-  "Febrero_2025":900405,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":1219212
+  "Febrero_2025":899469,
+  "Marzo_2025":817292,
+  "Abril_2025":815888,
+  "Mayo_2025":758118,
+  "Junio_2025":601464
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1612471,
   "Enero_2025":1375028,
   "Febrero_2025":1153672,
-  "Marzo_2025":1035831,
-  "Abril_2025":1241404,
-  "Mayo_2025":1095224
+  "Marzo_2025":1124948,
+  "Abril_2025":1313825,
+  "Mayo_2025":1188782,
+  "Junio_2025":1653601
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1029537,
   "Febrero_2024":1001638,
   "Marzo_2024":1054081,
@@ -60,7 +62,8 @@
   "Febrero_2025":1005886,
   "Marzo_2025":1018342,
   "Abril_2025":1088303,
-  "Mayo_2025":657952
+  "Mayo_2025":848287,
+  "Junio_2025":572961
  },
  {
   "organismo_nombre":"Municipalidad de San Ignacio",
@@ -79,8 +82,9 @@
   "Diciembre_2024":2172072,
   "Enero_2025":1959918,
   "Febrero_2025":1680337,
-  "Marzo_2025":1461574,
-  "Abril_2025":2193675,
-  "Mayo_2025":1407320
+  "Marzo_2025":1738055,
+  "Abril_2025":2148028,
+  "Mayo_2025":1708215,
+  "Junio_2025":2276679
  }
 ]

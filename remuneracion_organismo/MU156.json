@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1135107,
   "Febrero_2024":895073,
   "Marzo_2024":877856,
@@ -18,7 +18,8 @@
   "Febrero_2025":946841,
   "Marzo_2025":944732,
   "Abril_2025":928485,
-  "Mayo_2025":662663
+  "Mayo_2025":931631,
+  "Junio_2025":961155
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
@@ -39,11 +40,12 @@
   "Febrero_2025":1124320,
   "Marzo_2025":1154449,
   "Abril_2025":1182633,
-  "Mayo_2025":1863820
+  "Mayo_2025":1301947,
+  "Junio_2025":1296379
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":713533,
   "Febrero_2024":667065,
   "Marzo_2024":759329,
@@ -60,7 +62,8 @@
   "Febrero_2025":644465,
   "Marzo_2025":601338,
   "Abril_2025":692315,
-  "Mayo_2025":0
+  "Mayo_2025":759002,
+  "Junio_2025":643109
  },
  {
   "organismo_nombre":"Municipalidad de Los Sauces",
@@ -81,6 +84,7 @@
   "Febrero_2025":1859649,
   "Marzo_2025":1900248,
   "Abril_2025":1921406,
-  "Mayo_2025":2683144
+  "Mayo_2025":2147269,
+  "Junio_2025":2378999
  }
 ]

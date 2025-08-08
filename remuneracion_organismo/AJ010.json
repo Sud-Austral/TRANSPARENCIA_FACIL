@@ -18,11 +18,12 @@
   "Febrero_2025":1210332,
   "Marzo_2025":1242104,
   "Abril_2025":1223987,
-  "Mayo_2025":0
+  "Mayo_2025":1220017,
+  "Junio_2025":1212066
  },
  {
   "organismo_nombre":"Junta Nacional de Jardines Infantiles (JUNJI)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1227625,
   "Febrero_2024":1155821,
   "Marzo_2024":822239,
@@ -39,7 +40,8 @@
   "Febrero_2025":1558306,
   "Marzo_2025":913070,
   "Abril_2025":649424,
-  "Mayo_2025":611238
+  "Mayo_2025":611238,
+  "Junio_2025":603643
  },
  {
   "organismo_nombre":"Junta Nacional de Jardines Infantiles (JUNJI)",
@@ -60,6 +62,7 @@
   "Febrero_2025":1879649,
   "Marzo_2025":1879650,
   "Abril_2025":1877095,
-  "Mayo_2025":1880886
+  "Mayo_2025":1880886,
+  "Junio_2025":1887972
  }
 ]

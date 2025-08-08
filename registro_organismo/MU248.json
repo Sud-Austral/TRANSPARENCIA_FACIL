@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quemchi",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":109,
   "Febrero_2024":102,
   "Marzo_2024":105,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":141,
   "Febrero_2024":157,
   "Marzo_2024":165,

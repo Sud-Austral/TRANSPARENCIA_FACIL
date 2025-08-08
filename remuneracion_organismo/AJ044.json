@@ -18,11 +18,12 @@
   "Febrero_2025":2637479,
   "Marzo_2025":4062619,
   "Abril_2025":2271701,
-  "Mayo_2025":2388390
+  "Mayo_2025":2388390,
+  "Junio_2025":3612562
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Marga Marga (SLEP Marga Marga)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":900000,
   "Abril_2025":1650000,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Marga Marga (SLEP Marga Marga)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4020009,
   "Marzo_2025":6621894,
   "Abril_2025":4321138,
-  "Mayo_2025":4286100
+  "Mayo_2025":4286100,
+  "Junio_2025":6581474
  }
 ]

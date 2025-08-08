@@ -18,11 +18,12 @@
   "Febrero_2025":2294504,
   "Marzo_2025":2294504,
   "Abril_2025":1645481,
-  "Mayo_2025":1709623
+  "Mayo_2025":1709623,
+  "Junio_2025":3172565
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Ñuble",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1299009,
   "Febrero_2024":1324485,
   "Marzo_2024":1181252,
@@ -39,7 +40,8 @@
   "Febrero_2025":1395463,
   "Marzo_2025":1365302,
   "Abril_2025":1485160,
-  "Mayo_2025":1559406
+  "Mayo_2025":1559406,
+  "Junio_2025":1487081
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Ñuble",
@@ -60,6 +62,7 @@
   "Febrero_2025":6014173,
   "Marzo_2025":6016389,
   "Abril_2025":5118416,
-  "Mayo_2025":5118416
+  "Mayo_2025":5118416,
+  "Junio_2025":7830809
  }
 ]

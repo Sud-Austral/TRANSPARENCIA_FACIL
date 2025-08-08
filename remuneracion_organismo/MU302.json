@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":654853,
   "Febrero_2024":738103,
   "Marzo_2024":614579,
@@ -18,7 +18,8 @@
   "Febrero_2025":722805,
   "Marzo_2025":724320,
   "Abril_2025":709415,
-  "Mayo_2025":0
+  "Mayo_2025":647581,
+  "Junio_2025":668802
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
@@ -39,11 +40,12 @@
   "Febrero_2025":867046,
   "Marzo_2025":877736,
   "Abril_2025":951891,
-  "Mayo_2025":0
+  "Mayo_2025":901841,
+  "Junio_2025":914338
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":852172,
   "Febrero_2024":1288930,
   "Marzo_2024":972756,
@@ -60,7 +62,8 @@
   "Febrero_2025":1059718,
   "Marzo_2025":1090421,
   "Abril_2025":0,
-  "Mayo_2025":2300000
+  "Mayo_2025":843804,
+  "Junio_2025":9117112
  },
  {
   "organismo_nombre":"Municipalidad de San Rosendo",
@@ -80,7 +83,8 @@
   "Enero_2025":1971594,
   "Febrero_2025":1961844,
   "Marzo_2025":2091763,
-  "Abril_2025":2323321,
-  "Mayo_2025":0
+  "Abril_2025":2315685,
+  "Mayo_2025":2058920,
+  "Junio_2025":2397064
  }
 ]

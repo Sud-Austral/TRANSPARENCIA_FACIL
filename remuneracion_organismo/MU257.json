@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quinta Normal",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1106142,
   "Febrero_2024":2761491,
   "Marzo_2024":864668,
@@ -18,7 +18,8 @@
   "Febrero_2025":930121,
   "Marzo_2025":881619,
   "Abril_2025":914079,
-  "Mayo_2025":1068650
+  "Mayo_2025":1068650,
+  "Junio_2025":964579
  },
  {
   "organismo_nombre":"Municipalidad de Quinta Normal",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1764330,
   "Enero_2025":1486672,
   "Febrero_2025":1136195,
-  "Marzo_2025":1145891,
+  "Marzo_2025":1143644,
   "Abril_2025":1116928,
-  "Mayo_2025":1816661
+  "Mayo_2025":1816661,
+  "Junio_2025":1190161
  },
  {
   "organismo_nombre":"Municipalidad de Quinta Normal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1120867,
   "Febrero_2024":1121951,
   "Marzo_2024":1052841,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quinta Normal",
@@ -81,6 +84,7 @@
   "Febrero_2025":1836552,
   "Marzo_2025":3037396,
   "Abril_2025":1885587,
-  "Mayo_2025":3231685
+  "Mayo_2025":3231685,
+  "Junio_2025":1895362
  }
 ]

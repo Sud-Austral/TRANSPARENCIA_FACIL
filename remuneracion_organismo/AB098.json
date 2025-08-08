@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3883407,
   "Febrero_2024":3883407,
   "Marzo_2024":6815625,
@@ -18,7 +18,8 @@
   "Febrero_2025":2147520,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2141238,
   "Marzo_2025":3691237,
   "Abril_2025":2156211,
-  "Mayo_2025":2173281
+  "Mayo_2025":2173281,
+  "Junio_2025":3692110
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1489777,
   "Febrero_2024":1489777,
   "Marzo_2024":1545024,
@@ -60,7 +62,8 @@
   "Febrero_2025":1650211,
   "Marzo_2025":1940162,
   "Abril_2025":1940162,
-  "Mayo_2025":2162324
+  "Mayo_2025":2162324,
+  "Junio_2025":2270648
  },
  {
   "organismo_nombre":"Gobierno Regional de Ñuble (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2991517,
   "Marzo_2025":5221385,
   "Abril_2025":2931548,
-  "Mayo_2025":2947770
+  "Mayo_2025":2947770,
+  "Junio_2025":5080497
  }
 ]

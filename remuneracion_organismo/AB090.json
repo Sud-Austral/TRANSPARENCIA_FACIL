@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":1793982,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":3336265
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Marga Marga",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1535321,
   "Febrero_2024":1535321,
   "Marzo_2024":1489527,
@@ -39,7 +40,8 @@
   "Febrero_2025":1409859,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1193123
+  "Mayo_2025":1193123,
+  "Junio_2025":1459779
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Marga Marga",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":3313190,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":4881880
  }
 ]

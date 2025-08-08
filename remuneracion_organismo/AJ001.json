@@ -18,11 +18,12 @@
   "Febrero_2025":2473700,
   "Marzo_2025":3586683,
   "Abril_2025":1912244,
-  "Mayo_2025":1907840
+  "Mayo_2025":1907840,
+  "Junio_2025":3581350
  },
  {
   "organismo_nombre":"Subsecretaría de Educación (MINEDUC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3052381,
   "Febrero_2024":3069133,
   "Marzo_2024":3713698,
@@ -39,7 +40,8 @@
   "Febrero_2025":3182387,
   "Marzo_2025":4044391,
   "Abril_2025":4206220,
-  "Mayo_2025":4208648
+  "Mayo_2025":4208648,
+  "Junio_2025":4184883
  },
  {
   "organismo_nombre":"Subsecretaría de Educación (MINEDUC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":2816747,
   "Marzo_2025":4040356,
   "Abril_2025":2196756,
-  "Mayo_2025":2200051
+  "Mayo_2025":2200051,
+  "Junio_2025":4093897
  }
 ]

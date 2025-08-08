@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Llanquihue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":107,
   "Febrero_2024":107,
   "Marzo_2024":107,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Llanquihue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":53,
   "Febrero_2024":87,
   "Marzo_2024":87,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Desarrollo Social de Buin",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1511260,
   "Febrero_2024":1150444,
   "Marzo_2024":1056237,
@@ -18,7 +18,8 @@
   "Febrero_2025":1250609,
   "Marzo_2025":1120475,
   "Abril_2025":1084401,
-  "Mayo_2025":0
+  "Mayo_2025":1091500,
+  "Junio_2025":1117878
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de Buin",
@@ -39,11 +40,12 @@
   "Febrero_2025":1617125,
   "Marzo_2025":1582867,
   "Abril_2025":1771990,
-  "Mayo_2025":0
+  "Mayo_2025":1604442,
+  "Junio_2025":1842553
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de Buin",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":405881,
   "Febrero_2024":433804,
   "Marzo_2024":527878,
@@ -60,7 +62,8 @@
   "Febrero_2025":591227,
   "Marzo_2025":591700,
   "Abril_2025":536509,
-  "Mayo_2025":0
+  "Mayo_2025":462246,
+  "Junio_2025":404888
  },
  {
   "organismo_nombre":"Corporación de Desarrollo Social de Buin",
@@ -81,6 +84,7 @@
   "Febrero_2025":2028552,
   "Marzo_2025":2118881,
   "Abril_2025":2348696,
-  "Mayo_2025":0
+  "Mayo_2025":2069760,
+  "Junio_2025":2430303
  }
 ]

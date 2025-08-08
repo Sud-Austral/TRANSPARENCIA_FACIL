@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":322,
   "Febrero_2024":315,
   "Marzo_2024":342,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":113,
   "Febrero_2024":139,
   "Marzo_2024":142,

@@ -18,11 +18,12 @@
   "Febrero_2025":1748322,
   "Marzo_2025":2239808,
   "Abril_2025":2234320,
-  "Mayo_2025":2234650
+  "Mayo_2025":2234650,
+  "Junio_2025":3258959
  },
  {
   "organismo_nombre":"SERVIU Región de Los Ríos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1569673,
   "Febrero_2024":1569673,
   "Marzo_2024":1578215,
@@ -39,7 +40,8 @@
   "Febrero_2025":1552094,
   "Marzo_2025":1552094,
   "Abril_2025":1552094,
-  "Mayo_2025":1626745
+  "Mayo_2025":1626745,
+  "Junio_2025":1626745
  },
  {
   "organismo_nombre":"SERVIU Región de Los Ríos",
@@ -60,6 +62,7 @@
   "Febrero_2025":4059534,
   "Marzo_2025":5513491,
   "Abril_2025":5514797,
-  "Mayo_2025":5515618
+  "Mayo_2025":5515618,
+  "Junio_2025":7440750
  }
 ]

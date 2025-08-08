@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Regional de Investigación y Desarrollo Centro de Investigación en Ecosistemas de la Patagonia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1975556,
   "Febrero_2024":1943138,
   "Marzo_2024":2199160,
@@ -18,11 +18,12 @@
   "Febrero_2025":2075341,
   "Marzo_2025":2043759,
   "Abril_2025":2011708,
-  "Mayo_2025":1976894
+  "Mayo_2025":1976894,
+  "Junio_2025":2071039
  },
  {
   "organismo_nombre":"Corporación Regional de Investigación y Desarrollo Centro de Investigación en Ecosistemas de la Patagonia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1104054,
   "Febrero_2024":1069001,
   "Marzo_2024":1172956,
@@ -39,6 +40,7 @@
   "Febrero_2025":973583,
   "Marzo_2025":1022615,
   "Abril_2025":868992,
-  "Mayo_2025":846178
+  "Mayo_2025":846178,
+  "Junio_2025":1108162
  }
 ]

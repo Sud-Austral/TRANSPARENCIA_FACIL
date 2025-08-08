@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1232073,
   "Febrero_2024":860921,
   "Marzo_2024":810248,
@@ -18,7 +18,8 @@
   "Febrero_2025":1001309,
   "Marzo_2025":950856,
   "Abril_2025":984829,
-  "Mayo_2025":952774
+  "Mayo_2025":952774,
+  "Junio_2025":964348
  },
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
@@ -39,11 +40,12 @@
   "Febrero_2025":1273845,
   "Marzo_2025":1235237,
   "Abril_2025":1394357,
-  "Mayo_2025":1338853
+  "Mayo_2025":1338853,
+  "Junio_2025":1346348
  },
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":707349,
   "Febrero_2024":847182,
   "Marzo_2024":784830,
@@ -60,7 +62,8 @@
   "Febrero_2025":898937,
   "Marzo_2025":934866,
   "Abril_2025":849792,
-  "Mayo_2025":795112
+  "Mayo_2025":795112,
+  "Junio_2025":780672
  },
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
@@ -81,6 +84,7 @@
   "Febrero_2025":1775774,
   "Marzo_2025":1796402,
   "Abril_2025":1975905,
-  "Mayo_2025":1942604
+  "Mayo_2025":1942604,
+  "Junio_2025":1957428
  }
 ]

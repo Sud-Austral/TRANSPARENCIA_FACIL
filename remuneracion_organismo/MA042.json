@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Asociación de Municipalidades de la Zona Central y Costa (AMUCC)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1400000,
   "Febrero_2024":1400000,
   "Marzo_2024":1400000,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Asociación de Municipalidades de la Zona Central y Costa (AMUCC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":250000,
   "Febrero_2024":250000,
   "Marzo_2024":500000,

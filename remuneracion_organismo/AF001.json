@@ -18,11 +18,12 @@
   "Febrero_2025":2560789,
   "Marzo_2025":3130781,
   "Abril_2025":3200058,
-  "Mayo_2025":3248720
+  "Mayo_2025":3248720,
+  "Junio_2025":3289016
  },
  {
   "organismo_nombre":"Subsecretaría General de La Presidencia (SEGPRES)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2806032,
   "Febrero_2024":2807388,
   "Marzo_2024":2436986,
@@ -39,7 +40,8 @@
   "Febrero_2025":2269223,
   "Marzo_2025":2525315,
   "Abril_2025":2425839,
-  "Mayo_2025":2521395
+  "Mayo_2025":2521395,
+  "Junio_2025":2166064
  },
  {
   "organismo_nombre":"Subsecretaría General de La Presidencia (SEGPRES)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5071877,
   "Marzo_2025":5619590,
   "Abril_2025":5192321,
-  "Mayo_2025":5650279
+  "Mayo_2025":5650279,
+  "Junio_2025":5820318
  }
 ]

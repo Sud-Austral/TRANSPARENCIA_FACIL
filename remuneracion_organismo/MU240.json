@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":902374,
   "Febrero_2024":902374,
   "Marzo_2024":902374,
@@ -18,7 +18,8 @@
   "Febrero_2025":853592,
   "Marzo_2025":736427,
   "Abril_2025":805073,
-  "Mayo_2025":806923
+  "Mayo_2025":806923,
+  "Junio_2025":830421
  },
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
@@ -39,11 +40,12 @@
   "Febrero_2025":1079051,
   "Marzo_2025":1621920,
   "Abril_2025":1083363,
-  "Mayo_2025":1772882
+  "Mayo_2025":1772882,
+  "Junio_2025":1564355
  },
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1038470,
   "Febrero_2024":838856,
   "Marzo_2024":1102936,
@@ -53,14 +55,15 @@
   "Julio_2024":1270401,
   "Agosto_2024":1180785,
   "Septiembre_2024":1130928,
-  "Octubre_2024":1009957,
+  "Octubre_2024":994125,
   "Noviembre_2024":1188105,
   "Diciembre_2024":1169302,
   "Enero_2025":1151779,
   "Febrero_2025":1304252,
   "Marzo_2025":1333815,
   "Abril_2025":1279441,
-  "Mayo_2025":0
+  "Mayo_2025":1165358,
+  "Junio_2025":16005
  },
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
@@ -81,6 +84,7 @@
   "Febrero_2025":2375106,
   "Marzo_2025":0,
   "Abril_2025":1903587,
-  "Mayo_2025":2865498
+  "Mayo_2025":2865498,
+  "Junio_2025":2393276
  }
 ]

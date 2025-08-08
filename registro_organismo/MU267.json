@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Requínoa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":241,
   "Febrero_2024":231,
   "Marzo_2024":230,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2,
   "Febrero_2024":19,
   "Marzo_2024":22,

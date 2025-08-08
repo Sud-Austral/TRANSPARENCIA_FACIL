@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de San Vicente",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1432319,
   "Febrero_2024":1102882,
   "Marzo_2024":980944,
@@ -18,7 +18,8 @@
   "Febrero_2025":1171931,
   "Marzo_2025":997518,
   "Abril_2025":1096631,
-  "Mayo_2025":1118172
+  "Mayo_2025":1118172,
+  "Junio_2025":1071051
  },
  {
   "organismo_nombre":"Corporación Municipal de San Vicente",
@@ -39,7 +40,8 @@
   "Febrero_2025":1451650,
   "Marzo_2025":1255229,
   "Abril_2025":1407773,
-  "Mayo_2025":1385609
+  "Mayo_2025":1385609,
+  "Junio_2025":1437430
  },
  {
   "organismo_nombre":"Corporación Municipal de San Vicente",
@@ -60,6 +62,7 @@
   "Febrero_2025":2145622,
   "Marzo_2025":2139780,
   "Abril_2025":2230467,
-  "Mayo_2025":2172438
+  "Mayo_2025":2172438,
+  "Junio_2025":2121669
  }
 ]

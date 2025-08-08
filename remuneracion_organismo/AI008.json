@@ -18,11 +18,12 @@
   "Febrero_2025":2095773,
   "Marzo_2025":3836555,
   "Abril_2025":2081388,
-  "Mayo_2025":2097970
+  "Mayo_2025":2097970,
+  "Junio_2025":3914927
  },
  {
   "organismo_nombre":"Subsecretaría de Servicios Sociales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1867552,
   "Febrero_2024":1907160,
   "Marzo_2024":1900636,
@@ -38,8 +39,9 @@
   "Enero_2025":1918493,
   "Febrero_2025":1910473,
   "Marzo_2025":1883208,
-  "Abril_2025":1954921,
-  "Mayo_2025":1902033
+  "Abril_2025":1937439,
+  "Mayo_2025":1772385,
+  "Junio_2025":1749043
  },
  {
   "organismo_nombre":"Subsecretaría de Servicios Sociales",
@@ -60,6 +62,7 @@
   "Febrero_2025":4197429,
   "Marzo_2025":5234339,
   "Abril_2025":3046545,
-  "Mayo_2025":3328468
+  "Mayo_2025":3328468,
+  "Junio_2025":5618432
  }
 ]

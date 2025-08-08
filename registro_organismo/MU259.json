@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quirihue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":245,
   "Febrero_2024":238,
   "Marzo_2024":247,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quirihue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":104,
   "Febrero_2024":150,
   "Marzo_2024":144,

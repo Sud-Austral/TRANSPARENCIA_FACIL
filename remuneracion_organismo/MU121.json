@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Granja",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2246593,
   "Febrero_2024":2110105,
   "Marzo_2024":2096147,
@@ -18,7 +18,8 @@
   "Febrero_2025":2088050,
   "Marzo_2025":2068051,
   "Abril_2025":2024846,
-  "Mayo_2025":2066356
+  "Mayo_2025":2066356,
+  "Junio_2025":2037276
  },
  {
   "organismo_nombre":"Municipalidad de La Granja",
@@ -39,11 +40,12 @@
   "Febrero_2025":1589240,
   "Marzo_2025":1617914,
   "Abril_2025":1949640,
-  "Mayo_2025":1937068
+  "Mayo_2025":1937068,
+  "Junio_2025":1971639
  },
  {
   "organismo_nombre":"Municipalidad de La Granja",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":722220,
   "Febrero_2024":667427,
   "Marzo_2024":658683,
@@ -60,7 +62,8 @@
   "Febrero_2025":694225,
   "Marzo_2025":698045,
   "Abril_2025":712927,
-  "Mayo_2025":689142
+  "Mayo_2025":689142,
+  "Junio_2025":721067
  },
  {
   "organismo_nombre":"Municipalidad de La Granja",
@@ -81,6 +84,7 @@
   "Febrero_2025":1746049,
   "Marzo_2025":1849301,
   "Abril_2025":2342176,
-  "Mayo_2025":2080382
+  "Mayo_2025":2080382,
+  "Junio_2025":2419303
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":3,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":50,
   "Febrero_2024":33,
   "Marzo_2024":53,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Pintana",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1145199,
   "Febrero_2024":872041,
   "Marzo_2024":784632,
@@ -18,7 +18,8 @@
   "Febrero_2025":1058913,
   "Marzo_2025":1002606,
   "Abril_2025":996488,
-  "Mayo_2025":1250709
+  "Mayo_2025":1250709,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de La Pintana",
@@ -39,11 +40,12 @@
   "Febrero_2025":1536574,
   "Marzo_2025":1590645,
   "Abril_2025":1870484,
-  "Mayo_2025":2917594
+  "Mayo_2025":1809296,
+  "Junio_2025":1985583
  },
  {
   "organismo_nombre":"Municipalidad de La Pintana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":883246,
   "Febrero_2024":879088,
   "Marzo_2024":885312,
@@ -60,7 +62,8 @@
   "Febrero_2025":905244,
   "Marzo_2025":904782,
   "Abril_2025":857997,
-  "Mayo_2025":0
+  "Mayo_2025":860645,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de La Pintana",
@@ -77,10 +80,11 @@
   "Octubre_2024":2096719,
   "Noviembre_2024":1922802,
   "Diciembre_2024":2533386,
-  "Enero_2025":2323541,
-  "Febrero_2025":1891469,
+  "Enero_2025":2323877,
+  "Febrero_2025":1894976,
   "Marzo_2025":1976897,
   "Abril_2025":2440490,
-  "Mayo_2025":2789007
+  "Mayo_2025":2218866,
+  "Junio_2025":2539116
  }
 ]

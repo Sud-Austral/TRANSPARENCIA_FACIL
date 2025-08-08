@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Higuera",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":998957,
   "Febrero_2024":953058,
   "Marzo_2024":929456,
@@ -18,7 +18,8 @@
   "Febrero_2025":1015286,
   "Marzo_2025":1011954,
   "Abril_2025":1011954,
-  "Mayo_2025":1021548
+  "Mayo_2025":1021548,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1620420,
   "Enero_2025":1489920,
   "Febrero_2025":1427184,
-  "Marzo_2025":1428907,
+  "Marzo_2025":1422835,
   "Abril_2025":1577834,
-  "Mayo_2025":1504809
+  "Mayo_2025":1504809,
+  "Junio_2025":1024778
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1008848,
   "Febrero_2024":1217345,
   "Marzo_2024":1340245,
@@ -60,7 +62,8 @@
   "Febrero_2025":1430937,
   "Marzo_2025":1116231,
   "Abril_2025":1029686,
-  "Mayo_2025":1011968
+  "Mayo_2025":1011968,
+  "Junio_2025":1198552
  },
  {
   "organismo_nombre":"Municipalidad de La Higuera",
@@ -81,6 +84,7 @@
   "Febrero_2025":1746259,
   "Marzo_2025":1781768,
   "Abril_2025":1987602,
-  "Mayo_2025":1806210
+  "Mayo_2025":1806210,
+  "Junio_2025":1845280
  }
 ]

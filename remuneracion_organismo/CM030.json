@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1566212,
   "Febrero_2024":1283533,
   "Marzo_2024":1329780,
@@ -18,7 +18,8 @@
   "Febrero_2025":1362644,
   "Marzo_2025":1398343,
   "Abril_2025":1402609,
-  "Mayo_2025":1398877
+  "Mayo_2025":1446529,
+  "Junio_2025":1497009
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
@@ -39,11 +40,12 @@
   "Febrero_2025":1537185,
   "Marzo_2025":1536304,
   "Abril_2025":1849634,
-  "Mayo_2025":1529461
+  "Mayo_2025":1529461,
+  "Junio_2025":1870900
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":453828,
   "Febrero_2024":528335,
   "Marzo_2024":482834,
@@ -60,7 +62,8 @@
   "Febrero_2025":489982,
   "Marzo_2025":424406,
   "Abril_2025":443928,
-  "Mayo_2025":441341
+  "Mayo_2025":441341,
+  "Junio_2025":428914
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de San Joaquin",
@@ -81,6 +84,7 @@
   "Febrero_2025":2455323,
   "Marzo_2025":2113543,
   "Abril_2025":2938076,
-  "Mayo_2025":2040556
+  "Mayo_2025":2040556,
+  "Junio_2025":2983816
  }
 ]

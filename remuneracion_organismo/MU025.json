@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Camiña",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1539881,
   "Febrero_2024":1090895,
   "Marzo_2024":1261954,
@@ -14,11 +14,12 @@
   "Octubre_2024":1091704,
   "Noviembre_2024":1118500,
   "Diciembre_2024":1353846,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Enero_2025":1553032,
+  "Febrero_2025":1180634,
+  "Marzo_2025":1394852,
+  "Abril_2025":1114265,
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Camiña",
@@ -35,15 +36,16 @@
   "Octubre_2024":1489429,
   "Noviembre_2024":1455549,
   "Diciembre_2024":1713144,
-  "Enero_2025":1299268,
-  "Febrero_2025":1071906,
-  "Marzo_2025":1501036,
-  "Abril_2025":1530780,
-  "Mayo_2025":1337195
+  "Enero_2025":1631252,
+  "Febrero_2025":1622870,
+  "Marzo_2025":1749722,
+  "Abril_2025":1803329,
+  "Mayo_2025":1659361,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Camiña",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":367949,
   "Febrero_2024":452641,
   "Marzo_2024":464046,
@@ -56,11 +58,12 @@
   "Octubre_2024":572910,
   "Noviembre_2024":743453,
   "Diciembre_2024":594537,
-  "Enero_2025":586087,
-  "Febrero_2025":701344,
-  "Marzo_2025":708867,
-  "Abril_2025":730584,
-  "Mayo_2025":1122615
+  "Enero_2025":343623,
+  "Febrero_2025":521833,
+  "Marzo_2025":434185,
+  "Abril_2025":459664,
+  "Mayo_2025":526926,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Camiña",
@@ -77,10 +80,11 @@
   "Octubre_2024":2287262,
   "Noviembre_2024":2253113,
   "Diciembre_2024":2821474,
-  "Enero_2025":2256268,
-  "Febrero_2025":1220717,
-  "Marzo_2025":1609870,
-  "Abril_2025":1694793,
-  "Mayo_2025":1284020
+  "Enero_2025":2541324,
+  "Febrero_2025":2284237,
+  "Marzo_2025":2426381,
+  "Abril_2025":2486107,
+  "Mayo_2025":2478825,
+  "Junio_2025":0
  }
 ]

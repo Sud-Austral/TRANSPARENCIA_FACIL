@@ -18,11 +18,12 @@
   "Febrero_2025":1684285,
   "Marzo_2025":1688603,
   "Abril_2025":1656650,
-  "Mayo_2025":0
+  "Mayo_2025":1650041,
+  "Junio_2025":1917286
  },
  {
   "organismo_nombre":"Hospital de Tomé",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":615454,
   "Febrero_2024":1081159,
   "Marzo_2024":806465,
@@ -39,7 +40,8 @@
   "Febrero_2025":1127083,
   "Marzo_2025":1022543,
   "Abril_2025":929205,
-  "Mayo_2025":0
+  "Mayo_2025":985895,
+  "Junio_2025":910503
  },
  {
   "organismo_nombre":"Hospital de Tomé",
@@ -60,6 +62,7 @@
   "Febrero_2025":1789741,
   "Marzo_2025":1751215,
   "Abril_2025":1826712,
-  "Mayo_2025":0
+  "Mayo_2025":1806924,
+  "Junio_2025":2867645
  }
 ]

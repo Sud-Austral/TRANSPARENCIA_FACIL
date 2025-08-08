@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Antofagasta",
-  "base":"Personal a Contrata",
+  "base":"Contrata",
   "Enero_2024":1596319,
   "Febrero_2024":1603000,
   "Marzo_2024":2132700,
@@ -18,11 +18,12 @@
   "Febrero_2025":1668851,
   "Marzo_2025":2164864,
   "Abril_2025":1694456,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antofagasta",
-  "base":"Personal de Planta",
+  "base":"Planta",
   "Enero_2024":1783381,
   "Febrero_2024":1805458,
   "Marzo_2024":2331500,
@@ -39,6 +40,7 @@
   "Febrero_2025":1899101,
   "Marzo_2025":2413954,
   "Abril_2025":1988804,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

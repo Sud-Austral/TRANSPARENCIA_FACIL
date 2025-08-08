@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1126349,
   "Febrero_2024":1122796,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1188893,
   "Marzo_2025":1180263,
   "Abril_2025":1164758,
-  "Mayo_2025":1164758
+  "Mayo_2025":1164758,
+  "Junio_2025":1159972
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2009003,
   "Marzo_2025":2011657,
   "Abril_2025":2000636,
-  "Mayo_2025":2020549
+  "Mayo_2025":2020549,
+  "Junio_2025":2012556
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1425961,
   "Febrero_2024":1425961,
   "Marzo_2024":1425961,
@@ -60,7 +62,8 @@
   "Febrero_2025":1517117,
   "Marzo_2025":1601804,
   "Abril_2025":1637109,
-  "Mayo_2025":1905877
+  "Mayo_2025":1905877,
+  "Junio_2025":1870851
  },
  {
   "organismo_nombre":"Dirección General de Crédito Prendario (DICREP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2536368,
   "Marzo_2025":2532948,
   "Abril_2025":2507416,
-  "Mayo_2025":2507416
+  "Mayo_2025":2507416,
+  "Junio_2025":2507416
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":895852,
   "Febrero_2024":878348,
   "Marzo_2024":878426,
@@ -18,7 +18,8 @@
   "Febrero_2025":885227,
   "Marzo_2025":828199,
   "Abril_2025":896737,
-  "Mayo_2025":1052325
+  "Mayo_2025":1052325,
+  "Junio_2025":912064
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
@@ -39,11 +40,12 @@
   "Febrero_2025":1380629,
   "Marzo_2025":2120592,
   "Abril_2025":1404892,
-  "Mayo_2025":1418304
+  "Mayo_2025":1418304,
+  "Junio_2025":2215255
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":812476,
   "Febrero_2024":831999,
   "Marzo_2024":844581,
@@ -60,7 +62,8 @@
   "Febrero_2025":770374,
   "Marzo_2025":763991,
   "Abril_2025":813971,
-  "Mayo_2025":822160
+  "Mayo_2025":822160,
+  "Junio_2025":826517
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Natales",
@@ -81,6 +84,7 @@
   "Febrero_2025":2537163,
   "Marzo_2025":3210174,
   "Abril_2025":2569676,
-  "Mayo_2025":2635719
+  "Mayo_2025":2635719,
+  "Junio_2025":3426674
  }
 ]

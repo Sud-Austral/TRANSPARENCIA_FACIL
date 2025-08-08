@@ -16,13 +16,14 @@
   "Diciembre_2024":1589991,
   "Enero_2025":1181740,
   "Febrero_2025":1092174,
-  "Marzo_2025":1109765,
+  "Marzo_2025":1104423,
   "Abril_2025":1236452,
-  "Mayo_2025":0
+  "Mayo_2025":1536869,
+  "Junio_2025":1286219
  },
  {
   "organismo_nombre":"Municipalidad de Nancagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":765561,
   "Febrero_2024":718394,
   "Marzo_2024":726646,
@@ -36,10 +37,11 @@
   "Noviembre_2024":666212,
   "Diciembre_2024":774321,
   "Enero_2025":868996,
-  "Febrero_2025":826843,
-  "Marzo_2025":716562,
+  "Febrero_2025":817197,
+  "Marzo_2025":863109,
   "Abril_2025":828570,
-  "Mayo_2025":0
+  "Mayo_2025":760435,
+  "Junio_2025":759106
  },
  {
   "organismo_nombre":"Municipalidad de Nancagua",
@@ -60,6 +62,7 @@
   "Febrero_2025":1731153,
   "Marzo_2025":1698643,
   "Abril_2025":2055874,
-  "Mayo_2025":0
+  "Mayo_2025":2285421,
+  "Junio_2025":2178291
  }
 ]

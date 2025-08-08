@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Bosque",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1325181,
   "Febrero_2024":944404,
   "Marzo_2024":851220,
@@ -18,7 +18,8 @@
   "Febrero_2025":899980,
   "Marzo_2025":869539,
   "Abril_2025":891841,
-  "Mayo_2025":889443
+  "Mayo_2025":889443,
+  "Junio_2025":935091
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
@@ -39,11 +40,12 @@
   "Febrero_2025":1451419,
   "Marzo_2025":1429617,
   "Abril_2025":1622140,
-  "Mayo_2025":1628513
+  "Mayo_2025":1628513,
+  "Junio_2025":1687191
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":902114,
   "Febrero_2024":718915,
   "Marzo_2024":778641,
@@ -60,7 +62,8 @@
   "Febrero_2025":947784,
   "Marzo_2025":874205,
   "Abril_2025":897012,
-  "Mayo_2025":858070
+  "Mayo_2025":858070,
+  "Junio_2025":868400
  },
  {
   "organismo_nombre":"Municipalidad de El Bosque",
@@ -81,6 +84,7 @@
   "Febrero_2025":1700423,
   "Marzo_2025":2016126,
   "Abril_2025":2555496,
-  "Mayo_2025":2290785
+  "Mayo_2025":2290785,
+  "Junio_2025":2634059
  }
 ]

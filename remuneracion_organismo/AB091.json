@@ -18,11 +18,12 @@
   "Febrero_2025":2809521,
   "Marzo_2025":2794207,
   "Abril_2025":2791869,
-  "Mayo_2025":2816050
+  "Mayo_2025":2816050,
+  "Junio_2025":2833480
  },
  {
   "organismo_nombre":"Subsecretaría de Prevención del Delito",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2076666,
   "Febrero_2024":2156985,
   "Marzo_2024":2100440,
@@ -39,7 +40,8 @@
   "Febrero_2025":2185737,
   "Marzo_2025":2076549,
   "Abril_2025":2143259,
-  "Mayo_2025":2186865
+  "Mayo_2025":2186865,
+  "Junio_2025":2203092
  },
  {
   "organismo_nombre":"Subsecretaría de Prevención del Delito",
@@ -60,6 +62,7 @@
   "Febrero_2025":7126568,
   "Marzo_2025":6070779,
   "Abril_2025":6861652,
-  "Mayo_2025":7246658
+  "Mayo_2025":7246658,
+  "Junio_2025":7043982
  }
 ]

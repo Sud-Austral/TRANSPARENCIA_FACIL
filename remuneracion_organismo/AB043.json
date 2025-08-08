@@ -18,11 +18,12 @@
   "Febrero_2025":2104019,
   "Marzo_2025":2104462,
   "Abril_2025":1621814,
-  "Mayo_2025":1621814
+  "Mayo_2025":1621814,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Colchagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1335081,
   "Febrero_2024":1335081,
   "Marzo_2024":1335081,
@@ -39,7 +40,8 @@
   "Febrero_2025":1488820,
   "Marzo_2025":1488820,
   "Abril_2025":1488820,
-  "Mayo_2025":1457350
+  "Mayo_2025":1457350,
+  "Junio_2025":1457350
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Colchagua",
@@ -60,6 +62,7 @@
   "Febrero_2025":4680550,
   "Marzo_2025":4682766,
   "Abril_2025":3938506,
-  "Mayo_2025":3938506
+  "Mayo_2025":3938506,
+  "Junio_2025":0
  }
 ]

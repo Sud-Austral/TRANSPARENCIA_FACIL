@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Claro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1374802,
   "Febrero_2024":1103697,
   "Marzo_2024":1048865,
@@ -18,7 +18,8 @@
   "Febrero_2025":1187212,
   "Marzo_2025":1059622,
   "Abril_2025":1017036,
-  "Mayo_2025":1031961
+  "Mayo_2025":1031961,
+  "Junio_2025":1056579
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
@@ -39,28 +40,30 @@
   "Febrero_2025":1335242,
   "Marzo_2025":1291525,
   "Abril_2025":1398696,
-  "Mayo_2025":1526908
+  "Mayo_2025":1526908,
+  "Junio_2025":1374855
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":808167,
   "Febrero_2024":813491,
   "Marzo_2024":769602,
   "Abril_2024":743136,
   "Mayo_2024":765192,
-  "Junio_2024":737055,
+  "Junio_2024":734824,
   "Julio_2024":822981,
   "Agosto_2024":763384,
   "Septiembre_2024":749174,
   "Octubre_2024":727753,
-  "Noviembre_2024":748812,
+  "Noviembre_2024":748811,
   "Diciembre_2024":792933,
   "Enero_2025":682343,
   "Febrero_2025":905239,
   "Marzo_2025":799126,
   "Abril_2025":1046520,
-  "Mayo_2025":590241
+  "Mayo_2025":815358,
+  "Junio_2025":730173
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
@@ -81,6 +84,7 @@
   "Febrero_2025":1870482,
   "Marzo_2025":1857529,
   "Abril_2025":2112502,
-  "Mayo_2025":2018597
+  "Mayo_2025":2018597,
+  "Junio_2025":2100117
  }
 ]

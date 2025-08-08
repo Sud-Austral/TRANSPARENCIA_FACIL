@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lautaro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":879293,
   "Febrero_2024":933682,
   "Marzo_2024":844212,
@@ -18,7 +18,8 @@
   "Febrero_2025":881444,
   "Marzo_2025":1061907,
   "Abril_2025":840876,
-  "Mayo_2025":851332
+  "Mayo_2025":851332,
+  "Junio_2025":894516
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
@@ -39,11 +40,12 @@
   "Febrero_2025":1130461,
   "Marzo_2025":1201810,
   "Abril_2025":1414250,
-  "Mayo_2025":1308238
+  "Mayo_2025":1272336,
+  "Junio_2025":1133797
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":781213,
   "Febrero_2024":807813,
   "Marzo_2024":772492,
@@ -60,7 +62,8 @@
   "Febrero_2025":799154,
   "Marzo_2025":840345,
   "Abril_2025":832975,
-  "Mayo_2025":896055
+  "Mayo_2025":814991,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Lautaro",
@@ -81,6 +84,7 @@
   "Febrero_2025":1909173,
   "Marzo_2025":1917608,
   "Abril_2025":2294789,
-  "Mayo_2025":2079235
+  "Mayo_2025":2079235,
+  "Junio_2025":2153832
  }
 ]

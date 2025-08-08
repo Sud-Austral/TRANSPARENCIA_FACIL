@@ -18,11 +18,12 @@
   "Febrero_2025":2514226,
   "Marzo_2025":2765517,
   "Abril_2025":2781183,
-  "Mayo_2025":2787329
+  "Mayo_2025":2787329,
+  "Junio_2025":2809323
  },
  {
   "organismo_nombre":"Servicio Nacional del Consumidor (SERNAC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1781609,
   "Febrero_2024":1781609,
   "Marzo_2024":1781609,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1563000
+  "Mayo_2025":1563000,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional del Consumidor (SERNAC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":5137763,
   "Abril_2025":5137763,
-  "Mayo_2025":4960555
+  "Mayo_2025":4960555,
+  "Junio_2025":4968132
  }
 ]

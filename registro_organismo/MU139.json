@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Limache",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":512,
   "Febrero_2024":498,
   "Marzo_2024":464,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Limache",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":203,
   "Febrero_2024":222,
   "Marzo_2024":250,

@@ -18,11 +18,12 @@
   "Febrero_2025":2079461,
   "Marzo_2025":2193490,
   "Abril_2025":2183968,
-  "Mayo_2025":2166941
+  "Mayo_2025":2166941,
+  "Junio_2025":2427679
  },
  {
   "organismo_nombre":"Hospital Clínico Magallanes Dr Lautaro Navarro Aravia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1631993,
   "Febrero_2024":1416954,
   "Marzo_2024":1691364,
@@ -39,7 +40,8 @@
   "Febrero_2025":1596612,
   "Marzo_2025":1639367,
   "Abril_2025":1842227,
-  "Mayo_2025":1544063
+  "Mayo_2025":1544063,
+  "Junio_2025":1440885
  },
  {
   "organismo_nombre":"Hospital Clínico Magallanes Dr Lautaro Navarro Aravia",
@@ -60,6 +62,7 @@
   "Febrero_2025":1921338,
   "Marzo_2025":2197059,
   "Abril_2025":1955286,
-  "Mayo_2025":1973994
+  "Mayo_2025":1973994,
+  "Junio_2025":2344062
  }
 ]

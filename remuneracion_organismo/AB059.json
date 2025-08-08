@@ -18,11 +18,12 @@
   "Febrero_2025":2345301,
   "Marzo_2025":3043927,
   "Abril_2025":2345301,
-  "Mayo_2025":2367775
+  "Mayo_2025":2367775,
+  "Junio_2025":4381076
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chiloé",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":854669,
   "Febrero_2024":1219446,
   "Marzo_2024":1159250,
@@ -38,8 +39,9 @@
   "Enero_2025":1239852,
   "Febrero_2025":1034606,
   "Marzo_2025":1251404,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1243572,
+  "Mayo_2025":1237230,
+  "Junio_2025":1227334
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chiloé",
@@ -60,6 +62,7 @@
   "Febrero_2025":5229713,
   "Marzo_2025":5995390,
   "Abril_2025":5229713,
-  "Mayo_2025":5229713
+  "Mayo_2025":5229713,
+  "Junio_2025":7523126
  }
 ]

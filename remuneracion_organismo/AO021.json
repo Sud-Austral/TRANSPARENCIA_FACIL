@@ -18,11 +18,12 @@
   "Febrero_2025":1465176,
   "Marzo_2025":1838726,
   "Abril_2025":1711997,
-  "Mayo_2025":1550248
+  "Mayo_2025":1550248,
+  "Junio_2025":1629578
  },
  {
   "organismo_nombre":"Servicio de Salud Aconcagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":257074,
   "Febrero_2024":245440,
   "Marzo_2024":272637,
@@ -39,7 +40,8 @@
   "Febrero_2025":683080,
   "Marzo_2025":706445,
   "Abril_2025":677890,
-  "Mayo_2025":481552
+  "Mayo_2025":481552,
+  "Junio_2025":466505
  },
  {
   "organismo_nombre":"Servicio de Salud Aconcagua",
@@ -60,6 +62,7 @@
   "Febrero_2025":1653969,
   "Marzo_2025":2829105,
   "Abril_2025":1680867,
-  "Mayo_2025":1725858
+  "Mayo_2025":1725858,
+  "Junio_2025":2065248
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coltauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1207045,
   "Febrero_2024":922602,
   "Marzo_2024":872453,
@@ -18,7 +18,8 @@
   "Febrero_2025":1097696,
   "Marzo_2025":929190,
   "Abril_2025":907319,
-  "Mayo_2025":895153
+  "Mayo_2025":895153,
+  "Junio_2025":934096
  },
  {
   "organismo_nombre":"Municipalidad de Coltauco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1299048,
   "Marzo_2025":1337760,
   "Abril_2025":1511592,
-  "Mayo_2025":1453244
+  "Mayo_2025":1453244,
+  "Junio_2025":1536974
  },
  {
   "organismo_nombre":"Municipalidad de Coltauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":703791,
   "Marzo_2024":807274,
@@ -60,7 +62,8 @@
   "Febrero_2025":969152,
   "Marzo_2025":886785,
   "Abril_2025":921795,
-  "Mayo_2025":952513
+  "Mayo_2025":952513,
+  "Junio_2025":1040219
  },
  {
   "organismo_nombre":"Municipalidad de Coltauco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1922105,
   "Marzo_2025":1984348,
   "Abril_2025":2152068,
-  "Mayo_2025":2173060
+  "Mayo_2025":2173060,
+  "Junio_2025":2173949
  }
 ]

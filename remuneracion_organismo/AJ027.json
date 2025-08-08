@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1252980,
   "Febrero_2024":941311,
   "Marzo_2024":911295,
@@ -18,7 +18,8 @@
   "Febrero_2025":1050911,
   "Marzo_2025":956454,
   "Abril_2025":928494,
-  "Mayo_2025":937621
+  "Mayo_2025":937621,
+  "Junio_2025":948106
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1679940,
   "Marzo_2025":1755487,
   "Abril_2025":1759495,
-  "Mayo_2025":1718730
+  "Mayo_2025":1718730,
+  "Junio_2025":1826944
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1535056,
   "Marzo_2024":1368764,
@@ -60,7 +62,8 @@
   "Febrero_2025":1470112,
   "Marzo_2025":972385,
   "Abril_2025":1027859,
-  "Mayo_2025":1224865
+  "Mayo_2025":1224865,
+  "Junio_2025":1117116
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2308889,
   "Marzo_2025":2377956,
   "Abril_2025":2425855,
-  "Mayo_2025":2368799
+  "Mayo_2025":2368799,
+  "Junio_2025":2405308
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Reina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2439377,
   "Febrero_2024":2439377,
   "Marzo_2024":2439377,
@@ -18,7 +18,8 @@
   "Febrero_2025":2439377,
   "Marzo_2025":2439377,
   "Abril_2025":2439377,
-  "Mayo_2025":2439377
+  "Mayo_2025":2439377,
+  "Junio_2025":2439377
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
@@ -39,11 +40,12 @@
   "Febrero_2025":1473395,
   "Marzo_2025":1425167,
   "Abril_2025":1701654,
-  "Mayo_2025":2663692
+  "Mayo_2025":2663692,
+  "Junio_2025":1626563
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1052526,
   "Febrero_2024":1063111,
   "Marzo_2024":1036011,
@@ -60,7 +62,8 @@
   "Febrero_2025":1307994,
   "Marzo_2025":1140929,
   "Abril_2025":1044236,
-  "Mayo_2025":1001785
+  "Mayo_2025":1017355,
+  "Junio_2025":1005002
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
@@ -81,6 +84,7 @@
   "Febrero_2025":1545026,
   "Marzo_2025":1584372,
   "Abril_2025":1951489,
-  "Mayo_2025":2992474
+  "Mayo_2025":2992474,
+  "Junio_2025":1816011
  }
 ]

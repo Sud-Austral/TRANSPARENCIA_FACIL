@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":899663,
   "Marzo_2025":928578,
   "Abril_2025":869618,
-  "Mayo_2025":864514
+  "Mayo_2025":864514,
+  "Junio_2025":924610
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
@@ -39,11 +40,12 @@
   "Febrero_2025":1646245,
   "Marzo_2025":1565436,
   "Abril_2025":1672810,
-  "Mayo_2025":1593719
+  "Mayo_2025":1593719,
+  "Junio_2025":1784055
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":1440000,
   "Marzo_2025":0,
   "Abril_2025":1500000,
-  "Mayo_2025":1500000
+  "Mayo_2025":1500000,
+  "Junio_2025":1500000
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública  Maule Costa",
@@ -81,6 +84,7 @@
   "Febrero_2025":2099243,
   "Marzo_2025":2115995,
   "Abril_2025":2173921,
-  "Mayo_2025":2105476
+  "Mayo_2025":2105476,
+  "Junio_2025":2216881
  }
 ]

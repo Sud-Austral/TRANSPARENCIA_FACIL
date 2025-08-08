@@ -18,11 +18,12 @@
   "Febrero_2025":2512658,
   "Marzo_2025":3631414,
   "Abril_2025":1947380,
-  "Mayo_2025":1946691
+  "Mayo_2025":1946691,
+  "Junio_2025":3679191
  },
  {
   "organismo_nombre":"Junta Nacional de Auxilio Escolar y Becas (JUNAEB)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1909948,
   "Febrero_2024":1974285,
   "Marzo_2024":1965032,
@@ -39,7 +40,8 @@
   "Febrero_2025":2010547,
   "Marzo_2025":1993344,
   "Abril_2025":1920205,
-  "Mayo_2025":1905866
+  "Mayo_2025":1905866,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Junta Nacional de Auxilio Escolar y Becas (JUNAEB)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5431837,
   "Marzo_2025":7508792,
   "Abril_2025":4419174,
-  "Mayo_2025":4377920
+  "Mayo_2025":4377920,
+  "Junio_2025":7458114
  }
 ]

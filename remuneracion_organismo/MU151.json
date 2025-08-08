@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":672265,
   "Febrero_2024":601245,
   "Marzo_2024":580310,
@@ -16,9 +16,10 @@
   "Diciembre_2024":576368,
   "Enero_2025":711334,
   "Febrero_2025":629553,
-  "Marzo_2025":593900,
+  "Marzo_2025":595598,
   "Abril_2025":596111,
-  "Mayo_2025":581915
+  "Mayo_2025":581915,
+  "Junio_2025":628217
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
@@ -39,11 +40,12 @@
   "Febrero_2025":1291980,
   "Marzo_2025":1228108,
   "Abril_2025":1354609,
-  "Mayo_2025":1421569
+  "Mayo_2025":1421569,
+  "Junio_2025":1379017
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":742398,
   "Febrero_2024":822239,
   "Marzo_2024":760122,
@@ -60,7 +62,8 @@
   "Febrero_2025":812746,
   "Marzo_2025":819335,
   "Abril_2025":764578,
-  "Mayo_2025":684082
+  "Mayo_2025":743292,
+  "Junio_2025":687851
  },
  {
   "organismo_nombre":"Municipalidad de Los Alamos",
@@ -81,6 +84,7 @@
   "Febrero_2025":1803554,
   "Marzo_2025":1825981,
   "Abril_2025":2072921,
-  "Mayo_2025":1819054
+  "Mayo_2025":1819054,
+  "Junio_2025":2055134
  }
 ]

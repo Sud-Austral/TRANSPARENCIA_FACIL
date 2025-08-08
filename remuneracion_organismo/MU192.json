@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ovalle",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1169199,
   "Febrero_2024":796228,
   "Marzo_2024":696567,
@@ -18,7 +18,8 @@
   "Febrero_2025":936717,
   "Marzo_2025":719234,
   "Abril_2025":803563,
-  "Mayo_2025":776932
+  "Mayo_2025":776932,
+  "Junio_2025":773244
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
@@ -39,11 +40,12 @@
   "Febrero_2025":1433058,
   "Marzo_2025":1416492,
   "Abril_2025":1646452,
-  "Mayo_2025":1501565
+  "Mayo_2025":1501565,
+  "Junio_2025":1640368
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":755117,
   "Febrero_2024":726029,
   "Marzo_2024":715097,
@@ -60,7 +62,8 @@
   "Febrero_2025":814736,
   "Marzo_2025":812193,
   "Abril_2025":812802,
-  "Mayo_2025":801513
+  "Mayo_2025":801513,
+  "Junio_2025":783270
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
@@ -81,6 +84,7 @@
   "Febrero_2025":2028777,
   "Marzo_2025":2031330,
   "Abril_2025":2392428,
-  "Mayo_2025":2126582
+  "Mayo_2025":2120971,
+  "Junio_2025":2370570
  }
 ]

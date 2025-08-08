@@ -18,11 +18,12 @@
   "Febrero_2025":1698002,
   "Marzo_2025":2211475,
   "Abril_2025":2214107,
-  "Mayo_2025":2229725
+  "Mayo_2025":2229725,
+  "Junio_2025":2200171
  },
  {
   "organismo_nombre":"SERVIU Región de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":20396910,
   "Febrero_2024":20396910,
   "Marzo_2024":21079445,
@@ -39,7 +40,8 @@
   "Febrero_2025":20025238,
   "Marzo_2025":19877695,
   "Abril_2025":19877695,
-  "Mayo_2025":19487982
+  "Mayo_2025":19487982,
+  "Junio_2025":18656501
  },
  {
   "organismo_nombre":"SERVIU Región de Valparaíso",
@@ -60,6 +62,7 @@
   "Febrero_2025":2433819,
   "Marzo_2025":3075221,
   "Abril_2025":2958596,
-  "Mayo_2025":3004507
+  "Mayo_2025":3004507,
+  "Junio_2025":3043604
  }
 ]

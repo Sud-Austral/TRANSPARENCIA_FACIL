@@ -18,11 +18,12 @@
   "Febrero_2025":1908320,
   "Marzo_2025":3507940,
   "Abril_2025":1899049,
-  "Mayo_2025":1874686
+  "Mayo_2025":1874686,
+  "Junio_2025":3496805
  },
  {
   "organismo_nombre":"Dirección de Contabilidad y Finanzas (DCYF)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3432737,
   "Febrero_2024":3432737,
   "Marzo_2024":3432737,
@@ -39,7 +40,8 @@
   "Febrero_2025":3576912,
   "Marzo_2025":3576912,
   "Abril_2025":3576912,
-  "Mayo_2025":3576912
+  "Mayo_2025":3576912,
+  "Junio_2025":3576912
  },
  {
   "organismo_nombre":"Dirección de Contabilidad y Finanzas (DCYF)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3442398,
   "Marzo_2025":5721443,
   "Abril_2025":3437858,
-  "Mayo_2025":3444084
+  "Mayo_2025":3444084,
+  "Junio_2025":5805928
  }
 ]

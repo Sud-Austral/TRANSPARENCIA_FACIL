@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Fernando",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":719100,
   "Febrero_2024":372069,
   "Marzo_2024":586400,
@@ -18,7 +18,8 @@
   "Febrero_2025":1178583,
   "Marzo_2025":1178583,
   "Abril_2025":1178583,
-  "Mayo_2025":1178583
+  "Mayo_2025":1178583,
+  "Junio_2025":1178583
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
@@ -39,17 +40,18 @@
   "Febrero_2025":1956404,
   "Marzo_2025":1683404,
   "Abril_2025":1786701,
-  "Mayo_2025":2641732
+  "Mayo_2025":2641732,
+  "Junio_2025":1716904
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":884448,
   "Febrero_2024":887413,
   "Marzo_2024":929264,
   "Abril_2024":849588,
   "Mayo_2024":826346,
-  "Junio_2024":802607,
+  "Junio_2024":802302,
   "Julio_2024":803493,
   "Agosto_2024":779403,
   "Septiembre_2024":778919,
@@ -60,7 +62,8 @@
   "Febrero_2025":928089,
   "Marzo_2025":904715,
   "Abril_2025":912501,
-  "Mayo_2025":909562
+  "Mayo_2025":909562,
+  "Junio_2025":899481
  },
  {
   "organismo_nombre":"Municipalidad de San Fernando",
@@ -81,6 +84,7 @@
   "Febrero_2025":2486218,
   "Marzo_2025":2081256,
   "Abril_2025":2326816,
-  "Mayo_2025":3357516
+  "Mayo_2025":3357516,
+  "Junio_2025":2112953
  }
 ]

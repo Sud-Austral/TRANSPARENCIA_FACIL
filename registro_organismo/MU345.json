@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Zapallar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":351,
   "Febrero_2024":270,
   "Marzo_2024":304,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":212,
   "Febrero_2024":230,
   "Marzo_2024":196,

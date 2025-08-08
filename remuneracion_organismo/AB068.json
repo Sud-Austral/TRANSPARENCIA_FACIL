@@ -18,11 +18,12 @@
   "Febrero_2025":2686581,
   "Marzo_2025":2687707,
   "Abril_2025":2068307,
-  "Mayo_2025":2068307
+  "Mayo_2025":2068307,
+  "Junio_2025":3952507
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de La Antártica Chilena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1858626,
   "Febrero_2024":1858626,
   "Marzo_2024":1858626,
@@ -39,7 +40,8 @@
   "Febrero_2025":1936688,
   "Marzo_2025":1936688,
   "Abril_2025":1936688,
-  "Mayo_2025":1936688
+  "Mayo_2025":1936688,
+  "Junio_2025":1936688
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de La Antártica Chilena",
@@ -60,6 +62,7 @@
   "Febrero_2025":4348954,
   "Marzo_2025":4348954,
   "Abril_2025":3702541,
-  "Mayo_2025":3702541
+  "Mayo_2025":3702541,
+  "Junio_2025":5643479
  }
 ]

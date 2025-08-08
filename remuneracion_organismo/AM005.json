@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Arquitectura (DARQ)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":846968,
   "Febrero_2024":846968,
   "Marzo_2024":1094477,
@@ -18,7 +18,8 @@
   "Febrero_2025":921562,
   "Marzo_2025":1750750,
   "Abril_2025":921562,
-  "Mayo_2025":921562
+  "Mayo_2025":921562,
+  "Junio_2025":2016726
  },
  {
   "organismo_nombre":"Dirección de Arquitectura (DARQ)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2369429,
   "Marzo_2025":4307777,
   "Abril_2025":2319401,
-  "Mayo_2025":2350802
+  "Mayo_2025":2350802,
+  "Junio_2025":4276868
  },
  {
   "organismo_nombre":"Dirección de Arquitectura (DARQ)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2724774,
   "Febrero_2024":2795234,
   "Marzo_2024":2384560,
@@ -60,7 +62,8 @@
   "Febrero_2025":5573515,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":2978826
+  "Mayo_2025":2978826,
+  "Junio_2025":3135194
  },
  {
   "organismo_nombre":"Dirección de Arquitectura (DARQ)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3964816,
   "Marzo_2025":6955838,
   "Abril_2025":3959608,
-  "Mayo_2025":3961118
+  "Mayo_2025":3961118,
+  "Junio_2025":7006809
  }
 ]

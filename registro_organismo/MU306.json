@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Santa Juana",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":222,
   "Febrero_2024":215,
   "Marzo_2024":212,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santa Juana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":57,
   "Febrero_2024":89,
   "Marzo_2024":75,

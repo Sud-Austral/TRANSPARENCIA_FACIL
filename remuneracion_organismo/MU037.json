@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chanco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":698263,
   "Febrero_2024":332447,
   "Marzo_2024":657147,
@@ -18,7 +18,8 @@
   "Febrero_2025":321299,
   "Marzo_2025":716815,
   "Abril_2025":781861,
-  "Mayo_2025":748198
+  "Mayo_2025":748198,
+  "Junio_2025":748198
  },
  {
   "organismo_nombre":"Municipalidad de Chanco",
@@ -39,11 +40,12 @@
   "Febrero_2025":999247,
   "Marzo_2025":845772,
   "Abril_2025":1000950,
-  "Mayo_2025":883721
+  "Mayo_2025":883721,
+  "Junio_2025":1053802
  },
  {
   "organismo_nombre":"Municipalidad de Chanco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":793080,
   "Febrero_2024":793080,
   "Marzo_2024":801768,
@@ -60,7 +62,8 @@
   "Febrero_2025":821333,
   "Marzo_2025":1336744,
   "Abril_2025":1344564,
-  "Mayo_2025":1377162
+  "Mayo_2025":1377162,
+  "Junio_2025":1570499
  },
  {
   "organismo_nombre":"Municipalidad de Chanco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1796035,
   "Marzo_2025":1766305,
   "Abril_2025":2139331,
-  "Mayo_2025":1732726
+  "Mayo_2025":1732726,
+  "Junio_2025":2095363
  }
 ]

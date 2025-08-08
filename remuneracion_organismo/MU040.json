@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1141704,
   "Febrero_2024":1186998,
   "Marzo_2024":1048738,
@@ -18,7 +18,8 @@
   "Febrero_2025":1383433,
   "Marzo_2025":1375503,
   "Abril_2025":1379225,
-  "Mayo_2025":1393885
+  "Mayo_2025":1393885,
+  "Junio_2025":1412240
  },
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
@@ -39,11 +40,12 @@
   "Febrero_2025":1239438,
   "Marzo_2025":1218964,
   "Abril_2025":1391311,
-  "Mayo_2025":1437916
+  "Mayo_2025":1437916,
+  "Junio_2025":1441438
  },
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":626600,
   "Febrero_2024":803922,
   "Marzo_2024":610014,
@@ -57,10 +59,11 @@
   "Noviembre_2024":602370,
   "Diciembre_2024":477709,
   "Enero_2025":648129,
-  "Febrero_2025":736166,
-  "Marzo_2025":491454,
-  "Abril_2025":883288,
-  "Mayo_2025":939052
+  "Febrero_2025":736293,
+  "Marzo_2025":493804,
+  "Abril_2025":734679,
+  "Mayo_2025":738808,
+  "Junio_2025":922515
  },
  {
   "organismo_nombre":"Municipalidad de Chiguayante",
@@ -81,6 +84,7 @@
   "Febrero_2025":1820879,
   "Marzo_2025":1829202,
   "Abril_2025":2406870,
-  "Mayo_2025":2275065
+  "Mayo_2025":2275065,
+  "Junio_2025":2457767
  }
 ]

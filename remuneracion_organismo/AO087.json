@@ -18,11 +18,12 @@
   "Febrero_2025":1618672,
   "Marzo_2025":1627384,
   "Abril_2025":1547147,
-  "Mayo_2025":1516106
+  "Mayo_2025":1516106,
+  "Junio_2025":1665010
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios de San Fernando",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":506962,
   "Febrero_2024":3198793,
   "Marzo_2024":4263843,
@@ -39,7 +40,8 @@
   "Febrero_2025":1167501,
   "Marzo_2025":1088424,
   "Abril_2025":1080586,
-  "Mayo_2025":1165831
+  "Mayo_2025":1165831,
+  "Junio_2025":1154265
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios de San Fernando",
@@ -60,6 +62,7 @@
   "Febrero_2025":1602350,
   "Marzo_2025":1718834,
   "Abril_2025":1705972,
-  "Mayo_2025":1411149
+  "Mayo_2025":1411149,
+  "Junio_2025":1793300
  }
 ]

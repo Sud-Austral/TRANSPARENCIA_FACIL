@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación para la Promoción y Desarrollo de la Mujer  (PRODEMU)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1529820,
   "Febrero_2024":1499296,
   "Marzo_2024":1782202,
@@ -18,11 +18,12 @@
   "Febrero_2025":1505751,
   "Marzo_2025":1819158,
   "Abril_2025":1571184,
-  "Mayo_2025":1574306
+  "Mayo_2025":1574306,
+  "Junio_2025":1545602
  },
  {
   "organismo_nombre":"Fundación para la Promoción y Desarrollo de la Mujer  (PRODEMU)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":644491,
   "Febrero_2024":609985,
   "Marzo_2024":556376,
@@ -39,6 +40,7 @@
   "Febrero_2025":700510,
   "Marzo_2025":760667,
   "Abril_2025":275550,
-  "Mayo_2025":263107
+  "Mayo_2025":263107,
+  "Junio_2025":367134
  }
 ]

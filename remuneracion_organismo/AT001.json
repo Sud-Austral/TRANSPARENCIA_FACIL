@@ -18,11 +18,12 @@
   "Febrero_2025":2604474,
   "Marzo_2025":2632382,
   "Abril_2025":2040355,
-  "Mayo_2025":2066764
+  "Mayo_2025":2066764,
+  "Junio_2025":3809980
  },
  {
   "organismo_nombre":"Servicio Nacional de la Mujer y la Equidad de Género (SERNAMEG)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1569180,
   "Febrero_2024":1569180,
   "Marzo_2024":1569180,
@@ -39,7 +40,8 @@
   "Febrero_2025":1454194,
   "Marzo_2025":1454194,
   "Abril_2025":1454194,
-  "Mayo_2025":1454194
+  "Mayo_2025":1454194,
+  "Junio_2025":1454194
  },
  {
   "organismo_nombre":"Servicio Nacional de la Mujer y la Equidad de Género (SERNAMEG)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3576015,
   "Marzo_2025":3598246,
   "Abril_2025":2811517,
-  "Mayo_2025":2822405
+  "Mayo_2025":2822405,
+  "Junio_2025":5152045
  }
 ]

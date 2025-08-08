@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Nogales",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1466413,
   "Febrero_2024":998727,
   "Marzo_2024":1086777,
@@ -18,7 +18,8 @@
   "Febrero_2025":1035023,
   "Marzo_2025":1175884,
   "Abril_2025":1018289,
-  "Mayo_2025":1006569
+  "Mayo_2025":1006569,
+  "Junio_2025":1064675
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
@@ -39,11 +40,12 @@
   "Febrero_2025":1358606,
   "Marzo_2025":1343171,
   "Abril_2025":1501659,
-  "Mayo_2025":1350599
+  "Mayo_2025":1350599,
+  "Junio_2025":1516406
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":757590,
   "Febrero_2024":733164,
   "Marzo_2024":746264,
@@ -60,7 +62,8 @@
   "Febrero_2025":739758,
   "Marzo_2025":903960,
   "Abril_2025":847705,
-  "Mayo_2025":715216
+  "Mayo_2025":715216,
+  "Junio_2025":862919
  },
  {
   "organismo_nombre":"Municipalidad de Nogales",
@@ -81,6 +84,7 @@
   "Febrero_2025":1814839,
   "Marzo_2025":1779249,
   "Abril_2025":2122556,
-  "Mayo_2025":1782710
+  "Mayo_2025":1782710,
+  "Junio_2025":2117804
  }
 ]

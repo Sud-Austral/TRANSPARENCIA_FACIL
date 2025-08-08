@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Canela",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":145,
   "Febrero_2024":145,
   "Marzo_2024":370,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":76,
   "Febrero_2024":73,
   "Marzo_2024":78,

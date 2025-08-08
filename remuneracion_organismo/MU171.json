@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Mejillones",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1253986,
   "Febrero_2024":1075436,
   "Marzo_2024":1304945,
@@ -18,7 +18,8 @@
   "Febrero_2025":1431165,
   "Marzo_2025":1393704,
   "Abril_2025":1196405,
-  "Mayo_2025":1149288
+  "Mayo_2025":1149288,
+  "Junio_2025":1456450
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
@@ -39,11 +40,12 @@
   "Febrero_2025":1314096,
   "Marzo_2025":1360583,
   "Abril_2025":1477461,
-  "Mayo_2025":1521764
+  "Mayo_2025":1518392,
+  "Junio_2025":1443635
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1000043,
   "Febrero_2024":988763,
   "Marzo_2024":1008345,
@@ -60,7 +62,8 @@
   "Febrero_2025":1019824,
   "Marzo_2025":1087040,
   "Abril_2025":992234,
-  "Mayo_2025":986198
+  "Mayo_2025":986198,
+  "Junio_2025":1116985
  },
  {
   "organismo_nombre":"Municipalidad de Mejillones",
@@ -81,6 +84,7 @@
   "Febrero_2025":1620193,
   "Marzo_2025":1630295,
   "Abril_2025":1704366,
-  "Mayo_2025":1391916
+  "Mayo_2025":1756829,
+  "Junio_2025":1386682
  }
 ]

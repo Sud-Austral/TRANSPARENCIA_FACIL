@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chillán",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":808207,
   "Febrero_2024":571474,
   "Marzo_2024":587453,
@@ -18,7 +18,8 @@
   "Febrero_2025":684933,
   "Marzo_2025":585134,
   "Abril_2025":593575,
-  "Mayo_2025":586852
+  "Mayo_2025":586852,
+  "Junio_2025":599075
  },
  {
   "organismo_nombre":"Municipalidad de Chillán",
@@ -39,11 +40,12 @@
   "Febrero_2025":922195,
   "Marzo_2025":1036619,
   "Abril_2025":1087090,
-  "Mayo_2025":1349531
+  "Mayo_2025":1349531,
+  "Junio_2025":1553373
  },
  {
   "organismo_nombre":"Municipalidad de Chillán",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":705689,
   "Febrero_2024":725905,
   "Marzo_2024":701266,
@@ -60,7 +62,8 @@
   "Febrero_2025":788428,
   "Marzo_2025":748478,
   "Abril_2025":754230,
-  "Mayo_2025":0
+  "Mayo_2025":783422,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chillán",
@@ -81,6 +84,7 @@
   "Febrero_2025":1419575,
   "Marzo_2025":1411271,
   "Abril_2025":1764579,
-  "Mayo_2025":1576843
+  "Mayo_2025":1576843,
+  "Junio_2025":1765878
  }
 ]

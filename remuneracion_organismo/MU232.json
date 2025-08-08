@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puente Alto",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":943647,
   "Febrero_2024":932452,
   "Marzo_2024":969619,
@@ -18,7 +18,8 @@
   "Febrero_2025":1041631,
   "Marzo_2025":1001246,
   "Abril_2025":1066411,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puente Alto",
@@ -39,11 +40,12 @@
   "Febrero_2025":0,
   "Marzo_2025":1406687,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puente Alto",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":933226,
   "Marzo_2025":920328,
   "Abril_2025":876513,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puente Alto",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":1901823,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

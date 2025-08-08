@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":14,
   "Febrero_2024":13,
   "Marzo_2024":12,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,

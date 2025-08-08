@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Futrono",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1186063,
   "Febrero_2024":901932,
   "Marzo_2024":812493,
@@ -18,7 +18,8 @@
   "Febrero_2025":951357,
   "Marzo_2025":856723,
   "Abril_2025":847882,
-  "Mayo_2025":819875
+  "Mayo_2025":819875,
+  "Junio_2025":873595
  },
  {
   "organismo_nombre":"Municipalidad de Futrono",
@@ -39,11 +40,12 @@
   "Febrero_2025":1106419,
   "Marzo_2025":1187025,
   "Abril_2025":1228786,
-  "Mayo_2025":1397789
+  "Mayo_2025":1397789,
+  "Junio_2025":1284692
  },
  {
   "organismo_nombre":"Municipalidad de Futrono",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":710253,
   "Febrero_2024":780931,
   "Marzo_2024":751594,
@@ -60,7 +62,8 @@
   "Febrero_2025":776545,
   "Marzo_2025":797628,
   "Abril_2025":776064,
-  "Mayo_2025":761844
+  "Mayo_2025":761844,
+  "Junio_2025":814477
  },
  {
   "organismo_nombre":"Municipalidad de Futrono",
@@ -81,6 +84,7 @@
   "Febrero_2025":1927619,
   "Marzo_2025":1952036,
   "Abril_2025":2299180,
-  "Mayo_2025":2137290
+  "Mayo_2025":2137290,
+  "Junio_2025":2290204
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1677648,
   "Marzo_2025":1702149,
   "Abril_2025":1682030,
-  "Mayo_2025":2674803
+  "Mayo_2025":2674803,
+  "Junio_2025":1822427
  },
  {
   "organismo_nombre":"Hospital Eduardo Pereira de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1064561,
   "Febrero_2024":1121197,
   "Marzo_2024":822081,
@@ -39,7 +40,8 @@
   "Febrero_2025":1028185,
   "Marzo_2025":802341,
   "Abril_2025":1133847,
-  "Mayo_2025":1487061
+  "Mayo_2025":1487061,
+  "Junio_2025":1207663
  },
  {
   "organismo_nombre":"Hospital Eduardo Pereira de Valparaíso",
@@ -60,6 +62,7 @@
   "Febrero_2025":1872088,
   "Marzo_2025":1882209,
   "Abril_2025":1525058,
-  "Mayo_2025":1998053
+  "Mayo_2025":1998053,
+  "Junio_2025":1916568
  }
 ]

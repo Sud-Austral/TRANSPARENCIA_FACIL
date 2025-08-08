@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":495,
   "Febrero_2024":458,
   "Marzo_2024":440,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":134,
   "Febrero_2024":122,
   "Marzo_2024":197,

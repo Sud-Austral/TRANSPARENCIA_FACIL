@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación Cultural Providencia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2000928,
   "Febrero_2024":1806826,
   "Marzo_2024":2178174,
@@ -18,11 +18,12 @@
   "Febrero_2025":2022448,
   "Marzo_2025":2394408,
   "Abril_2025":1940394,
-  "Mayo_2025":1982602
+  "Mayo_2025":1982602,
+  "Junio_2025":2050504
  },
  {
   "organismo_nombre":"Fundación Cultural Providencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":841271,
   "Marzo_2024":841271,
@@ -39,6 +40,7 @@
   "Febrero_2025":841271,
   "Marzo_2025":841271,
   "Abril_2025":0,
-  "Mayo_2025":841271
+  "Mayo_2025":841271,
+  "Junio_2025":920808
  }
 ]

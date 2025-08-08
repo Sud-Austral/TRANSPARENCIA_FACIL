@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Taltal",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1115935,
   "Febrero_2024":810477,
   "Marzo_2024":765844,
@@ -18,7 +18,8 @@
   "Febrero_2025":885403,
   "Marzo_2025":804246,
   "Abril_2025":803541,
-  "Mayo_2025":812689
+  "Mayo_2025":812689,
+  "Junio_2025":855716
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
@@ -39,11 +40,12 @@
   "Febrero_2025":1403405,
   "Marzo_2025":1787256,
   "Abril_2025":1613237,
-  "Mayo_2025":1546101
+  "Mayo_2025":1546101,
+  "Junio_2025":1784585
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1120039,
   "Febrero_2024":967339,
   "Marzo_2024":1116156,
@@ -58,9 +60,10 @@
   "Diciembre_2024":573040,
   "Enero_2025":1457179,
   "Febrero_2025":1292010,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":993815,
+  "Abril_2025":793293,
+  "Mayo_2025":922306,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Taltal",
@@ -81,6 +84,7 @@
   "Febrero_2025":2296816,
   "Marzo_2025":2443420,
   "Abril_2025":2340416,
-  "Mayo_2025":2362569
+  "Mayo_2025":2362569,
+  "Junio_2025":2404627
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Carmen",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1007017,
   "Febrero_2024":919597,
   "Marzo_2024":718798,
@@ -18,7 +18,8 @@
   "Febrero_2025":852574,
   "Marzo_2025":737116,
   "Abril_2025":869475,
-  "Mayo_2025":833486
+  "Mayo_2025":829360,
+  "Junio_2025":887334
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
@@ -39,17 +40,18 @@
   "Febrero_2025":1075020,
   "Marzo_2025":1081338,
   "Abril_2025":1189785,
-  "Mayo_2025":1302901
+  "Mayo_2025":1302901,
+  "Junio_2025":1164282
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":665317,
   "Febrero_2024":717436,
   "Marzo_2024":652181,
   "Abril_2024":673602,
   "Mayo_2024":664789,
-  "Junio_2024":696185,
+  "Junio_2024":692048,
   "Julio_2024":714040,
   "Agosto_2024":667902,
   "Septiembre_2024":648272,
@@ -59,8 +61,9 @@
   "Enero_2025":837435,
   "Febrero_2025":858658,
   "Marzo_2025":902848,
-  "Abril_2025":863820,
-  "Mayo_2025":835050
+  "Abril_2025":871038,
+  "Mayo_2025":835050,
+  "Junio_2025":827836
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
@@ -81,6 +84,7 @@
   "Febrero_2025":2041046,
   "Marzo_2025":2094406,
   "Abril_2025":2215820,
-  "Mayo_2025":2327454
+  "Mayo_2025":2327454,
+  "Junio_2025":2370879
  }
 ]

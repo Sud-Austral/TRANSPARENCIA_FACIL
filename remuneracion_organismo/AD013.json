@@ -18,11 +18,12 @@
   "Febrero_2025":1688738,
   "Marzo_2025":1683574,
   "Abril_2025":1668765,
-  "Mayo_2025":1645063
+  "Mayo_2025":1645063,
+  "Junio_2025":1651976
  },
  {
   "organismo_nombre":"Dirección General de Movilización Nacional (DGMN)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":115942,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Dirección General de Movilización Nacional (DGMN)",
@@ -60,6 +62,7 @@
   "Febrero_2025":2433315,
   "Marzo_2025":2733464,
   "Abril_2025":3490263,
-  "Mayo_2025":2838717
+  "Mayo_2025":2838717,
+  "Junio_2025":2528640
  }
 ]

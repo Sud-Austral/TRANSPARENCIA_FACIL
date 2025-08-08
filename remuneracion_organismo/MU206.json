@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pelarco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":643223,
   "Febrero_2024":635868,
   "Marzo_2024":655973,
@@ -18,7 +18,8 @@
   "Febrero_2025":684399,
   "Marzo_2025":673093,
   "Abril_2025":659638,
-  "Mayo_2025":647016
+  "Mayo_2025":647016,
+  "Junio_2025":668830
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
@@ -28,7 +29,7 @@
   "Marzo_2024":1005062,
   "Abril_2024":1028471,
   "Mayo_2024":920042,
-  "Junio_2024":780822,
+  "Junio_2024":782911,
   "Julio_2024":836385,
   "Agosto_2024":916348,
   "Septiembre_2024":1028791,
@@ -39,11 +40,12 @@
   "Febrero_2025":942024,
   "Marzo_2025":969126,
   "Abril_2025":1018916,
-  "Mayo_2025":1078200
+  "Mayo_2025":1078200,
+  "Junio_2025":1001662
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":853420,
   "Febrero_2024":838292,
   "Marzo_2024":800220,
@@ -60,7 +62,8 @@
   "Febrero_2025":989124,
   "Marzo_2025":965361,
   "Abril_2025":994749,
-  "Mayo_2025":977166
+  "Mayo_2025":977166,
+  "Junio_2025":1010479
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1642094,
   "Marzo_2025":1713159,
   "Abril_2025":1944680,
-  "Mayo_2025":1897008
+  "Mayo_2025":1897008,
+  "Junio_2025":1687964
  }
 ]

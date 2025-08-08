@@ -18,11 +18,12 @@
   "Febrero_2025":3026720,
   "Marzo_2025":3027280,
   "Abril_2025":2364457,
-  "Mayo_2025":0
+  "Mayo_2025":2250338,
+  "Junio_2025":4316035
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1763166,
   "Febrero_2024":1763166,
   "Marzo_2024":2044750,
@@ -39,7 +40,8 @@
   "Febrero_2025":1860074,
   "Marzo_2025":1860074,
   "Abril_2025":1860074,
-  "Mayo_2025":0
+  "Mayo_2025":1637780,
+  "Junio_2025":2164911
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Parinacota",
@@ -60,6 +62,7 @@
   "Febrero_2025":6600850,
   "Marzo_2025":6600851,
   "Abril_2025":5757206,
-  "Mayo_2025":0
+  "Mayo_2025":5757206,
+  "Junio_2025":0
  }
 ]

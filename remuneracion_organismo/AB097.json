@@ -18,11 +18,12 @@
   "Febrero_2025":2022460,
   "Marzo_2025":2597390,
   "Abril_2025":2022460,
-  "Mayo_2025":1908696
+  "Mayo_2025":1908696,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Itata",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1507168,
   "Febrero_2024":1507168,
   "Marzo_2024":1507168,
@@ -39,7 +40,8 @@
   "Febrero_2025":1485030,
   "Marzo_2025":1641450,
   "Abril_2025":1543688,
-  "Mayo_2025":1836976
+  "Mayo_2025":1836976,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Itata",
@@ -60,6 +62,7 @@
   "Febrero_2025":4900028,
   "Marzo_2025":5589625,
   "Abril_2025":4900028,
-  "Mayo_2025":4900028
+  "Mayo_2025":4900028,
+  "Junio_2025":0
  }
 ]

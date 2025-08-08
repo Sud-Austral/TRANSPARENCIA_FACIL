@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chañaral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1215255,
   "Febrero_2024":1248755,
   "Marzo_2024":684721,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1153750,
   "Abril_2025":1160000,
-  "Mayo_2025":1080000
+  "Mayo_2025":1080000,
+  "Junio_2025":600000
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
@@ -28,7 +29,7 @@
   "Marzo_2024":1279002,
   "Abril_2024":1470147,
   "Mayo_2024":1628743,
-  "Junio_2024":1537837,
+  "Junio_2024":1526641,
   "Julio_2024":1712115,
   "Agosto_2024":1210408,
   "Septiembre_2024":1436679,
@@ -39,11 +40,12 @@
   "Febrero_2025":1258599,
   "Marzo_2025":1217975,
   "Abril_2025":1379217,
-  "Mayo_2025":1688248
+  "Mayo_2025":1688248,
+  "Junio_2025":1285567
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":503614,
   "Febrero_2024":511307,
   "Marzo_2024":518399,
@@ -60,7 +62,8 @@
   "Febrero_2025":652273,
   "Marzo_2025":790898,
   "Abril_2025":642942,
-  "Mayo_2025":619677
+  "Mayo_2025":619677,
+  "Junio_2025":607469
  },
  {
   "organismo_nombre":"Municipalidad de Chañaral",
@@ -81,6 +84,7 @@
   "Febrero_2025":1565711,
   "Marzo_2025":1519322,
   "Abril_2025":1730576,
-  "Mayo_2025":2203765
+  "Mayo_2025":2203765,
+  "Junio_2025":1702955
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Navidad",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1153025,
   "Febrero_2024":924425,
   "Marzo_2024":694638,
@@ -18,7 +18,8 @@
   "Febrero_2025":946336,
   "Marzo_2025":833912,
   "Abril_2025":989622,
-  "Mayo_2025":963347
+  "Mayo_2025":963347,
+  "Junio_2025":988866
  },
  {
   "organismo_nombre":"Municipalidad de Navidad",
@@ -39,11 +40,12 @@
   "Febrero_2025":1470816,
   "Marzo_2025":1403184,
   "Abril_2025":1384401,
-  "Mayo_2025":1369458
+  "Mayo_2025":1392410,
+  "Junio_2025":1339140
  },
  {
   "organismo_nombre":"Municipalidad de Navidad",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":821982,
   "Febrero_2024":935902,
   "Marzo_2024":890270,
@@ -59,8 +61,9 @@
   "Enero_2025":989161,
   "Febrero_2025":1006228,
   "Marzo_2025":943822,
-  "Abril_2025":384218,
-  "Mayo_2025":267411
+  "Abril_2025":827976,
+  "Mayo_2025":810529,
+  "Junio_2025":433915
  },
  {
   "organismo_nombre":"Municipalidad de Navidad",
@@ -81,6 +84,7 @@
   "Febrero_2025":1747892,
   "Marzo_2025":1815036,
   "Abril_2025":1982877,
-  "Mayo_2025":1923533
+  "Mayo_2025":1801673,
+  "Junio_2025":1956146
  }
 ]

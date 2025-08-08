@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Carmen",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":349,
   "Febrero_2024":326,
   "Marzo_2024":340,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Carmen",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":129,
   "Febrero_2024":126,
   "Marzo_2024":141,

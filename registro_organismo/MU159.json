@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lumaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":193,
   "Febrero_2024":188,
   "Marzo_2024":191,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":152,
   "Febrero_2024":197,
   "Marzo_2024":178,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quinchao",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2440000,
   "Febrero_2024":1220000,
   "Marzo_2024":1220000,
@@ -18,7 +18,8 @@
   "Febrero_2025":1220000,
   "Marzo_2025":1220000,
   "Abril_2025":1220000,
-  "Mayo_2025":0
+  "Mayo_2025":1220000,
+  "Junio_2025":1220000
  },
  {
   "organismo_nombre":"Municipalidad de Quinchao",
@@ -39,11 +40,12 @@
   "Febrero_2025":1161037,
   "Marzo_2025":1719313,
   "Abril_2025":1176762,
-  "Mayo_2025":0
+  "Mayo_2025":1890663,
+  "Junio_2025":1683659
  },
  {
   "organismo_nombre":"Municipalidad de Quinchao",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1159876,
   "Febrero_2024":1180726,
   "Marzo_2024":1205679,
@@ -60,7 +62,8 @@
   "Febrero_2025":1062623,
   "Marzo_2025":1066390,
   "Abril_2025":1072354,
-  "Mayo_2025":0
+  "Mayo_2025":1150378,
+  "Junio_2025":1105648
  },
  {
   "organismo_nombre":"Municipalidad de Quinchao",
@@ -81,6 +84,7 @@
   "Febrero_2025":2118650,
   "Marzo_2025":2618809,
   "Abril_2025":2090502,
-  "Mayo_2025":0
+  "Mayo_2025":3114607,
+  "Junio_2025":2616395
  }
 ]

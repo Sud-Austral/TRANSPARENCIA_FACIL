@@ -18,11 +18,12 @@
   "Febrero_2025":2318412,
   "Marzo_2025":2320088,
   "Abril_2025":1795030,
-  "Mayo_2025":1795936
+  "Mayo_2025":1795936,
+  "Junio_2025":3387045
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Felipe",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1227788,
   "Febrero_2024":1227788,
   "Marzo_2024":1227788,
@@ -39,7 +40,8 @@
   "Febrero_2025":1324428,
   "Marzo_2025":1324428,
   "Abril_2025":1324428,
-  "Mayo_2025":1320357
+  "Mayo_2025":1320357,
+  "Junio_2025":1083460
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Felipe",
@@ -60,6 +62,7 @@
   "Febrero_2025":4943157,
   "Marzo_2025":4943157,
   "Abril_2025":4168085,
-  "Mayo_2025":4168085
+  "Mayo_2025":4168085,
+  "Junio_2025":6507685
  }
 ]

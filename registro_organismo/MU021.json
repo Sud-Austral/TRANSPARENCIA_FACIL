@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Caldera",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":48,
   "Febrero_2024":49,
   "Marzo_2024":48,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Caldera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":522,
   "Febrero_2024":538,
   "Marzo_2024":540,

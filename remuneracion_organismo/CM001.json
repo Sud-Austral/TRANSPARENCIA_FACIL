@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Ñuñoa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1445856,
   "Febrero_2024":1247443,
   "Marzo_2024":1117782,
@@ -18,7 +18,8 @@
   "Febrero_2025":1261813,
   "Marzo_2025":1112185,
   "Abril_2025":1108617,
-  "Mayo_2025":1085029
+  "Mayo_2025":1085029,
+  "Junio_2025":1149446
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Ñuñoa",
@@ -39,11 +40,12 @@
   "Febrero_2025":1629836,
   "Marzo_2025":1547431,
   "Abril_2025":1758558,
-  "Mayo_2025":1572841
+  "Mayo_2025":1572841,
+  "Junio_2025":1803449
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Ñuñoa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":922311,
   "Febrero_2024":920104,
   "Marzo_2024":994128,
@@ -60,7 +62,8 @@
   "Febrero_2025":981123,
   "Marzo_2025":904467,
   "Abril_2025":1000380,
-  "Mayo_2025":611978
+  "Mayo_2025":611978,
+  "Junio_2025":529595
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Ñuñoa",
@@ -81,6 +84,7 @@
   "Febrero_2025":2123482,
   "Marzo_2025":2156068,
   "Abril_2025":2505811,
-  "Mayo_2025":2083752
+  "Mayo_2025":2083752,
+  "Junio_2025":2589826
  }
 ]

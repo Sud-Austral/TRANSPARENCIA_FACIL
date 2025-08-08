@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1300179,
   "Febrero_2024":957243,
   "Marzo_2024":840981,
@@ -18,7 +18,8 @@
   "Febrero_2025":927028,
   "Marzo_2025":731352,
   "Abril_2025":600838,
-  "Mayo_2025":608111
+  "Mayo_2025":608111,
+  "Junio_2025":614103
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
@@ -39,11 +40,12 @@
   "Febrero_2025":1312313,
   "Marzo_2025":1242556,
   "Abril_2025":1416631,
-  "Mayo_2025":1269264
+  "Mayo_2025":1269264,
+  "Junio_2025":1446252
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":728037,
   "Febrero_2024":793157,
   "Marzo_2024":882643,
@@ -60,7 +62,8 @@
   "Febrero_2025":796904,
   "Marzo_2025":765321,
   "Abril_2025":700891,
-  "Mayo_2025":706777
+  "Mayo_2025":706777,
+  "Junio_2025":699167
  },
  {
   "organismo_nombre":"Municipalidad de Río Hurtado",
@@ -81,6 +84,7 @@
   "Febrero_2025":1974888,
   "Marzo_2025":1989572,
   "Abril_2025":2232170,
-  "Mayo_2025":1961249
+  "Mayo_2025":1961249,
+  "Junio_2025":2238364
  }
 ]

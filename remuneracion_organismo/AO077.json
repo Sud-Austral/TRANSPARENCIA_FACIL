@@ -18,11 +18,12 @@
   "Febrero_2025":1891237,
   "Marzo_2025":0,
   "Abril_2025":1902223,
-  "Mayo_2025":0
+  "Mayo_2025":1906160,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto de Neurocirugía",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":811961,
   "Febrero_2024":762966,
   "Marzo_2024":685294,
@@ -39,7 +40,8 @@
   "Febrero_2025":807375,
   "Marzo_2025":926479,
   "Abril_2025":936982,
-  "Mayo_2025":0
+  "Mayo_2025":936982,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto de Neurocirugía",
@@ -60,6 +62,7 @@
   "Febrero_2025":2196511,
   "Marzo_2025":2548957,
   "Abril_2025":2277283,
-  "Mayo_2025":0
+  "Mayo_2025":2274312,
+  "Junio_2025":0
  }
 ]

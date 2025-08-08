@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2758,
   "Febrero_2024":2765,
   "Marzo_2024":2658,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3,
   "Febrero_2024":2,
   "Marzo_2024":3,

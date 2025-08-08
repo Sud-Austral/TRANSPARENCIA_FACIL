@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tucapel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1404030,
   "Febrero_2024":966249,
   "Marzo_2024":823475,
@@ -18,7 +18,8 @@
   "Febrero_2025":1002222,
   "Marzo_2025":902234,
   "Abril_2025":925333,
-  "Mayo_2025":893879
+  "Mayo_2025":893422,
+  "Junio_2025":887400
  },
  {
   "organismo_nombre":"Municipalidad de Tucapel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1155471,
   "Marzo_2025":1217614,
   "Abril_2025":1288782,
-  "Mayo_2025":1405121
+  "Mayo_2025":1405121,
+  "Junio_2025":1288681
  },
  {
   "organismo_nombre":"Municipalidad de Tucapel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":692663,
   "Febrero_2024":732391,
   "Marzo_2024":643877,
@@ -60,7 +62,8 @@
   "Febrero_2025":700497,
   "Marzo_2025":690783,
   "Abril_2025":696099,
-  "Mayo_2025":5514285
+  "Mayo_2025":5476967,
+  "Junio_2025":702661
  },
  {
   "organismo_nombre":"Municipalidad de Tucapel",
@@ -81,6 +84,7 @@
   "Febrero_2025":1971467,
   "Marzo_2025":2092104,
   "Abril_2025":2319195,
-  "Mayo_2025":2227171
+  "Mayo_2025":2227171,
+  "Junio_2025":2230167
  }
 ]

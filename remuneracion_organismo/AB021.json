@@ -18,11 +18,12 @@
   "Febrero_2025":2753590,
   "Marzo_2025":2707115,
   "Abril_2025":2107267,
-  "Mayo_2025":2081818
+  "Mayo_2025":2081818,
+  "Junio_2025":3880183
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional Metropolitana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1605347,
   "Febrero_2024":2417875,
   "Marzo_2024":1596326,
@@ -39,7 +40,8 @@
   "Febrero_2025":1631532,
   "Marzo_2025":1686769,
   "Abril_2025":1625759,
-  "Mayo_2025":1691376
+  "Mayo_2025":1671718,
+  "Junio_2025":1680588
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional Metropolitana",
@@ -60,6 +62,7 @@
   "Febrero_2025":2529499,
   "Marzo_2025":2529499,
   "Abril_2025":2056948,
-  "Mayo_2025":2056948
+  "Mayo_2025":2056948,
+  "Junio_2025":3488685
  }
 ]

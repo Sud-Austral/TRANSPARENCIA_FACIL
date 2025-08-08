@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1324729,
   "Febrero_2024":977927,
   "Marzo_2024":933850,
@@ -18,7 +18,8 @@
   "Febrero_2025":1212298,
   "Marzo_2025":1014792,
   "Abril_2025":960983,
-  "Mayo_2025":955502
+  "Mayo_2025":955502,
+  "Junio_2025":963610
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
@@ -39,11 +40,12 @@
   "Febrero_2025":1132358,
   "Marzo_2025":1089026,
   "Abril_2025":1229930,
-  "Mayo_2025":1248568
+  "Mayo_2025":1248568,
+  "Junio_2025":1234461
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":891022,
   "Febrero_2024":1041320,
   "Marzo_2024":1012511,
@@ -60,7 +62,8 @@
   "Febrero_2025":964763,
   "Marzo_2025":1031747,
   "Abril_2025":940769,
-  "Mayo_2025":913999
+  "Mayo_2025":913999,
+  "Junio_2025":939090
  },
  {
   "organismo_nombre":"Municipalidad de Padre Las Casas",
@@ -81,6 +84,7 @@
   "Febrero_2025":1837622,
   "Marzo_2025":1806136,
   "Abril_2025":2319409,
-  "Mayo_2025":2145613
+  "Mayo_2025":2145613,
+  "Junio_2025":2339624
  }
 ]

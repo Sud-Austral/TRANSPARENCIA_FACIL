@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Maullín",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":977105,
   "Febrero_2024":955269,
   "Marzo_2024":814965,
@@ -18,7 +18,8 @@
   "Febrero_2025":958445,
   "Marzo_2025":843610,
   "Abril_2025":815372,
-  "Mayo_2025":809685
+  "Mayo_2025":809685,
+  "Junio_2025":840506
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
@@ -39,11 +40,12 @@
   "Febrero_2025":1199783,
   "Marzo_2025":1121692,
   "Abril_2025":1200025,
-  "Mayo_2025":1191843
+  "Mayo_2025":1191843,
+  "Junio_2025":1238306
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":871317,
   "Febrero_2024":844010,
   "Marzo_2024":795305,
@@ -60,7 +62,8 @@
   "Febrero_2025":866492,
   "Marzo_2025":822156,
   "Abril_2025":792287,
-  "Mayo_2025":882172
+  "Mayo_2025":882172,
+  "Junio_2025":826422
  },
  {
   "organismo_nombre":"Municipalidad de Maullín",
@@ -81,6 +84,7 @@
   "Febrero_2025":2065979,
   "Marzo_2025":2039988,
   "Abril_2025":2282442,
-  "Mayo_2025":2116707
+  "Mayo_2025":2116707,
+  "Junio_2025":2403950
  }
 ]

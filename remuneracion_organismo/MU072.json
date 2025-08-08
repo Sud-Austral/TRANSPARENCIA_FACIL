@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curacautín",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":828441,
   "Febrero_2024":784919,
   "Marzo_2024":768469,
@@ -18,7 +18,8 @@
   "Febrero_2025":835664,
   "Marzo_2025":810079,
   "Abril_2025":828086,
-  "Mayo_2025":817156
+  "Mayo_2025":817156,
+  "Junio_2025":849643
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
@@ -39,11 +40,12 @@
   "Febrero_2025":1007816,
   "Marzo_2025":917580,
   "Abril_2025":960111,
-  "Mayo_2025":1004778
+  "Mayo_2025":1014276,
+  "Junio_2025":949876
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":666166,
   "Febrero_2024":662943,
   "Marzo_2024":763710,
@@ -60,7 +62,8 @@
   "Febrero_2025":672324,
   "Marzo_2025":698529,
   "Abril_2025":714850,
-  "Mayo_2025":597574
+  "Mayo_2025":735694,
+  "Junio_2025":728542
  },
  {
   "organismo_nombre":"Municipalidad de Curacautín",
@@ -81,6 +84,7 @@
   "Febrero_2025":1505850,
   "Marzo_2025":1501641,
   "Abril_2025":1575318,
-  "Mayo_2025":1483769
+  "Mayo_2025":1687770,
+  "Junio_2025":1579414
  }
 ]

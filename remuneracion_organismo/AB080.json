@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Valparaíso  (GORE)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4696017,
   "Febrero_2024":4044412,
   "Marzo_2024":4696016,
@@ -18,7 +18,8 @@
   "Febrero_2025":4919418,
   "Marzo_2025":4919418,
   "Abril_2025":4919418,
-  "Mayo_2025":4919418
+  "Mayo_2025":4919418,
+  "Junio_2025":4950896
  },
  {
   "organismo_nombre":"Gobierno Regional de Valparaíso  (GORE)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2740475,
   "Marzo_2025":2726495,
   "Abril_2025":2726495,
-  "Mayo_2025":2726495
+  "Mayo_2025":2726495,
+  "Junio_2025":2782557
  },
  {
   "organismo_nombre":"Gobierno Regional de Valparaíso  (GORE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":12488897,
   "Febrero_2024":12488897,
   "Marzo_2024":12488897,
@@ -60,7 +62,8 @@
   "Febrero_2025":2394596,
   "Marzo_2025":2427621,
   "Abril_2025":2427621,
-  "Mayo_2025":2320618
+  "Mayo_2025":2320618,
+  "Junio_2025":2098501
  },
  {
   "organismo_nombre":"Gobierno Regional de Valparaíso  (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3883307,
   "Marzo_2025":3925038,
   "Abril_2025":3925038,
-  "Mayo_2025":3884605
+  "Mayo_2025":3884605,
+  "Junio_2025":4142846
  }
 ]

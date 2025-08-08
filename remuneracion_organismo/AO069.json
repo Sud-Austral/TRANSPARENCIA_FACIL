@@ -18,11 +18,12 @@
   "Febrero_2025":1813111,
   "Marzo_2025":2212069,
   "Abril_2025":1865957,
-  "Mayo_2025":1902743
+  "Mayo_2025":1902743,
+  "Junio_2025":2346453
  },
  {
   "organismo_nombre":"Hospital de Urgencia Asistencia Pública (HUAP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1043383,
   "Febrero_2024":1062349,
   "Marzo_2024":1055026,
@@ -39,7 +40,8 @@
   "Febrero_2025":1061149,
   "Marzo_2025":1031737,
   "Abril_2025":1009007,
-  "Mayo_2025":1034390
+  "Mayo_2025":1034390,
+  "Junio_2025":1066600
  },
  {
   "organismo_nombre":"Hospital de Urgencia Asistencia Pública (HUAP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":1920515,
   "Marzo_2025":2815516,
   "Abril_2025":2089466,
-  "Mayo_2025":2401468
+  "Mayo_2025":2401468,
+  "Junio_2025":3120217
  }
 ]

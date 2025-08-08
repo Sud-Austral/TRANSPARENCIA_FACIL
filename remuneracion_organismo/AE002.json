@@ -18,11 +18,12 @@
   "Febrero_2025":4776021,
   "Marzo_2025":5458405,
   "Abril_2025":5728509,
-  "Mayo_2025":3027397
+  "Mayo_2025":3027397,
+  "Junio_2025":8232832
  },
  {
   "organismo_nombre":"Dirección de Presupuestos (DIPRES)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":5757499,
   "Febrero_2024":5757499,
   "Marzo_2024":5757499,
@@ -39,7 +40,8 @@
   "Febrero_2025":6210849,
   "Marzo_2025":5990036,
   "Abril_2025":5967154,
-  "Mayo_2025":6242851
+  "Mayo_2025":6242851,
+  "Junio_2025":6294744
  },
  {
   "organismo_nombre":"Dirección de Presupuestos (DIPRES)",
@@ -58,8 +60,9 @@
   "Diciembre_2024":6967434,
   "Enero_2025":7249415,
   "Febrero_2025":7253831,
-  "Marzo_2025":8381067,
-  "Abril_2025":0,
-  "Mayo_2025":4715679
+  "Marzo_2025":8295081,
+  "Abril_2025":8467053,
+  "Mayo_2025":4715679,
+  "Junio_2025":12620119
  }
 ]

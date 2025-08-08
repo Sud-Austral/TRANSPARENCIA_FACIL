@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Graneros",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1228847,
   "Febrero_2024":1020179,
   "Marzo_2024":944847,
@@ -18,7 +18,8 @@
   "Febrero_2025":1092519,
   "Marzo_2025":985202,
   "Abril_2025":1010053,
-  "Mayo_2025":997654
+  "Mayo_2025":997654,
+  "Junio_2025":1021351
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
@@ -39,11 +40,12 @@
   "Febrero_2025":1346424,
   "Marzo_2025":1330089,
   "Abril_2025":1372413,
-  "Mayo_2025":1327631
+  "Mayo_2025":1327631,
+  "Junio_2025":1347521
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":720607,
   "Febrero_2024":736471,
   "Marzo_2024":709920,
@@ -60,7 +62,8 @@
   "Febrero_2025":894433,
   "Marzo_2025":884347,
   "Abril_2025":1001266,
-  "Mayo_2025":912855
+  "Mayo_2025":912855,
+  "Junio_2025":779471
  },
  {
   "organismo_nombre":"Municipalidad de Graneros",
@@ -81,6 +84,7 @@
   "Febrero_2025":2016586,
   "Marzo_2025":2011917,
   "Abril_2025":2024451,
-  "Mayo_2025":2051621
+  "Mayo_2025":2051621,
+  "Junio_2025":2057359
  }
 ]

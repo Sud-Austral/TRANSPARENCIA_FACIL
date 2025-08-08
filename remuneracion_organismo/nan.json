@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Providencia",
-  "base":"CODIGO",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":1960219,
   "Marzo_2024":1919708,
@@ -18,11 +18,12 @@
   "Febrero_2025":1995272,
   "Marzo_2025":2113310,
   "Abril_2025":2072564,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Providencia",
-  "base":"CONTRATA",
+  "base":"Contrata",
   "Enero_2024":1799192,
   "Febrero_2024":1650616,
   "Marzo_2024":1637519,
@@ -39,11 +40,12 @@
   "Febrero_2025":1753074,
   "Marzo_2025":1767382,
   "Abril_2025":1802043,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Providencia",
-  "base":"PLANTA",
+  "base":"Planta",
   "Enero_2024":2594553,
   "Febrero_2024":2567529,
   "Marzo_2024":2493672,
@@ -60,6 +62,7 @@
   "Febrero_2025":2526077,
   "Marzo_2025":2534443,
   "Abril_2025":2546059,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

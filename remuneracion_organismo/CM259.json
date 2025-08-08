@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Tocopilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1250000,
   "Febrero_2024":1025000,
   "Marzo_2024":1133333,
@@ -18,11 +18,12 @@
   "Febrero_2025":1200000,
   "Marzo_2025":1105368,
   "Abril_2025":1105368,
-  "Mayo_2025":1105368
+  "Mayo_2025":1105368,
+  "Junio_2025":1105368
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Tocopilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":432500,
   "Marzo_2025":637500,
   "Abril_2025":733333,
-  "Mayo_2025":0
+  "Mayo_2025":601063,
+  "Junio_2025":677659
  }
 ]

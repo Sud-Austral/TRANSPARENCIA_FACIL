@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":870248,
   "Febrero_2024":870248,
   "Marzo_2024":870248,
@@ -18,7 +18,8 @@
   "Febrero_2025":1248990,
   "Marzo_2025":1248990,
   "Abril_2025":1180344,
-  "Mayo_2025":1238475
+  "Mayo_2025":1238475,
+  "Junio_2025":1267441
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
@@ -39,11 +40,12 @@
   "Febrero_2025":1271049,
   "Marzo_2025":1306039,
   "Abril_2025":1622411,
-  "Mayo_2025":2054108
+  "Mayo_2025":1593502,
+  "Junio_2025":1288387
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":724419,
   "Febrero_2024":650308,
   "Marzo_2024":669237,
@@ -60,7 +62,8 @@
   "Febrero_2025":1157275,
   "Marzo_2025":863457,
   "Abril_2025":855645,
-  "Mayo_2025":1197253
+  "Mayo_2025":947420,
+  "Junio_2025":852492
  },
  {
   "organismo_nombre":"Municipalidad de Los Muermos",
@@ -81,6 +84,7 @@
   "Febrero_2025":1690613,
   "Marzo_2025":1723680,
   "Abril_2025":2260329,
-  "Mayo_2025":3653492
+  "Mayo_2025":1978838,
+  "Junio_2025":2432902
  }
 ]

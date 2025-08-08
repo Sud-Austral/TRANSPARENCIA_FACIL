@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1055709,
   "Febrero_2024":1081253,
   "Marzo_2024":1101354,
@@ -18,7 +18,8 @@
   "Febrero_2025":1112820,
   "Marzo_2025":1138478,
   "Abril_2025":1119417,
-  "Mayo_2025":1126520
+  "Mayo_2025":1126520,
+  "Junio_2025":1118059
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
@@ -39,11 +40,12 @@
   "Febrero_2025":2154363,
   "Marzo_2025":2157576,
   "Abril_2025":2155179,
-  "Mayo_2025":2154451
+  "Mayo_2025":2154451,
+  "Junio_2025":2161048
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1397393,
   "Febrero_2024":1385480,
   "Marzo_2024":1445916,
@@ -60,7 +62,8 @@
   "Febrero_2025":1809870,
   "Marzo_2025":1721911,
   "Abril_2025":1727751,
-  "Mayo_2025":0
+  "Mayo_2025":1674598,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional del Patrimonio Cultural",
@@ -81,6 +84,7 @@
   "Febrero_2025":2738834,
   "Marzo_2025":2750619,
   "Abril_2025":2753053,
-  "Mayo_2025":2740141
+  "Mayo_2025":2740141,
+  "Junio_2025":0
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1913238,
   "Marzo_2025":2133186,
   "Abril_2025":1933045,
-  "Mayo_2025":1931017
+  "Mayo_2025":1931017,
+  "Junio_2025":2039459
  },
  {
   "organismo_nombre":"Hospital del Salvador",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1216087,
   "Marzo_2024":1282841,
@@ -39,7 +40,8 @@
   "Febrero_2025":988284,
   "Marzo_2025":1290713,
   "Abril_2025":1288126,
-  "Mayo_2025":1133031
+  "Mayo_2025":1133031,
+  "Junio_2025":1041704
  },
  {
   "organismo_nombre":"Hospital del Salvador",
@@ -60,6 +62,7 @@
   "Febrero_2025":1689601,
   "Marzo_2025":2306925,
   "Abril_2025":1752124,
-  "Mayo_2025":1734904
+  "Mayo_2025":1734904,
+  "Junio_2025":2057715
  }
 ]

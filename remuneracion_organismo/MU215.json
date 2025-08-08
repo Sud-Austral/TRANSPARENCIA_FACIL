@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Petorca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":788731,
   "Febrero_2024":781554,
   "Marzo_2024":646766,
@@ -18,7 +18,8 @@
   "Febrero_2025":810494,
   "Marzo_2025":739870,
   "Abril_2025":654309,
-  "Mayo_2025":738682
+  "Mayo_2025":738682,
+  "Junio_2025":686495
  },
  {
   "organismo_nombre":"Municipalidad de Petorca",
@@ -39,11 +40,12 @@
   "Febrero_2025":1186644,
   "Marzo_2025":1218012,
   "Abril_2025":1319550,
-  "Mayo_2025":1384141
+  "Mayo_2025":1384141,
+  "Junio_2025":1328472
  },
  {
   "organismo_nombre":"Municipalidad de Petorca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":726328,
   "Febrero_2024":762428,
   "Marzo_2024":715398,
@@ -59,8 +61,9 @@
   "Enero_2025":856447,
   "Febrero_2025":897153,
   "Marzo_2025":859659,
-  "Abril_2025":953364,
-  "Mayo_2025":951115
+  "Abril_2025":956644,
+  "Mayo_2025":882029,
+  "Junio_2025":906065
  },
  {
   "organismo_nombre":"Municipalidad de Petorca",
@@ -81,6 +84,7 @@
   "Febrero_2025":1931100,
   "Marzo_2025":1920734,
   "Abril_2025":2140069,
-  "Mayo_2025":2079367
+  "Mayo_2025":2079367,
+  "Junio_2025":2212598
  }
 ]

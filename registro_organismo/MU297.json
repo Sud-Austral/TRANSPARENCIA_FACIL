@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Pedro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":171,
   "Febrero_2024":171,
   "Marzo_2024":179,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":18,
   "Febrero_2024":98,
   "Marzo_2024":105,

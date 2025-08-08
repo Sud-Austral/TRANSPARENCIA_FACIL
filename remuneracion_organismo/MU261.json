@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ránquil",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":953798,
   "Febrero_2024":909938,
   "Marzo_2024":829756,
@@ -18,7 +18,8 @@
   "Febrero_2025":899614,
   "Marzo_2025":896498,
   "Abril_2025":883985,
-  "Mayo_2025":0
+  "Mayo_2025":893958,
+  "Junio_2025":898286
  },
  {
   "organismo_nombre":"Municipalidad de Ránquil",
@@ -39,11 +40,12 @@
   "Febrero_2025":1275636,
   "Marzo_2025":1186757,
   "Abril_2025":1406008,
-  "Mayo_2025":0
+  "Mayo_2025":1221150,
+  "Junio_2025":1386884
  },
  {
   "organismo_nombre":"Municipalidad de Ránquil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":980617,
   "Febrero_2024":736704,
   "Marzo_2024":848453,
@@ -59,8 +61,9 @@
   "Enero_2025":757563,
   "Febrero_2025":737322,
   "Marzo_2025":876722,
-  "Abril_2025":772400,
-  "Mayo_2025":0
+  "Abril_2025":853203,
+  "Mayo_2025":772576,
+  "Junio_2025":400000
  },
  {
   "organismo_nombre":"Municipalidad de Ránquil",
@@ -81,6 +84,7 @@
   "Febrero_2025":1911409,
   "Marzo_2025":1892244,
   "Abril_2025":2105677,
-  "Mayo_2025":0
+  "Mayo_2025":1906593,
+  "Junio_2025":2163961
  }
 ]

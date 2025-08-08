@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deportes Constitución",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":30929,
   "Febrero_2024":41344,
   "Marzo_2024":53298,
@@ -18,11 +18,12 @@
   "Febrero_2025":1654776,
   "Marzo_2025":1654776,
   "Abril_2025":1654776,
-  "Mayo_2025":0
+  "Mayo_2025":1654776,
+  "Junio_2025":1654776
  },
  {
   "organismo_nombre":"Corporación de Deportes Constitución",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":159139,
   "Marzo_2025":158058,
   "Abril_2025":156976,
-  "Mayo_2025":0
+  "Mayo_2025":156976,
+  "Junio_2025":0
  }
 ]

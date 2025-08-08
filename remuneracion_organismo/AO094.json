@@ -17,12 +17,13 @@
   "Enero_2025":1810365,
   "Febrero_2025":1545325,
   "Marzo_2025":1601107,
-  "Abril_2025":1537708,
-  "Mayo_2025":1606493
+  "Abril_2025":1537500,
+  "Mayo_2025":1606086,
+  "Junio_2025":1687203
  },
  {
   "organismo_nombre":"Hospital Claudio Vicuña de San Antonio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":2076000,
   "Marzo_2024":1737687,
@@ -39,7 +40,8 @@
   "Febrero_2025":1392953,
   "Marzo_2025":1306516,
   "Abril_2025":1161647,
-  "Mayo_2025":0
+  "Mayo_2025":1443473,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Claudio Vicuña de San Antonio",
@@ -60,6 +62,7 @@
   "Febrero_2025":1707282,
   "Marzo_2025":1990528,
   "Abril_2025":1718694,
-  "Mayo_2025":1698516
+  "Mayo_2025":1698516,
+  "Junio_2025":1997305
  }
 ]

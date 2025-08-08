@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1109473,
   "Marzo_2025":890631,
   "Abril_2025":935248,
-  "Mayo_2025":899220
+  "Mayo_2025":899220,
+  "Junio_2025":928279
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1293207,
   "Marzo_2025":1142667,
   "Abril_2025":1283730,
-  "Mayo_2025":1270816
+  "Mayo_2025":1270816,
+  "Junio_2025":1328625
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":3500000,
   "Marzo_2024":1066856,
@@ -60,7 +62,8 @@
   "Febrero_2025":1448573,
   "Marzo_2025":600952,
   "Abril_2025":715021,
-  "Mayo_2025":714523
+  "Mayo_2025":714523,
+  "Junio_2025":744857
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Andalién Costa (SLEP Andalién Costa)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2114385,
   "Marzo_2025":2127806,
   "Abril_2025":2195956,
-  "Mayo_2025":2139674
+  "Mayo_2025":2139674,
+  "Junio_2025":2213353
  }
 ]

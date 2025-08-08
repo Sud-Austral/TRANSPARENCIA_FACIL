@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tortel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":703981,
   "Febrero_2024":740335,
   "Marzo_2024":757086,
@@ -18,7 +18,8 @@
   "Febrero_2025":464119,
   "Marzo_2025":771777,
   "Abril_2025":894978,
-  "Mayo_2025":921142
+  "Mayo_2025":921142,
+  "Junio_2025":875154
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1941982,
   "Marzo_2025":2390786,
   "Abril_2025":2038817,
-  "Mayo_2025":4537549
+  "Mayo_2025":4537549,
+  "Junio_2025":2599471
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":959575,
   "Febrero_2024":987244,
   "Marzo_2024":928481,
@@ -60,7 +62,8 @@
   "Febrero_2025":1012575,
   "Marzo_2025":987092,
   "Abril_2025":1006246,
-  "Mayo_2025":994948
+  "Mayo_2025":994948,
+  "Junio_2025":1007341
  },
  {
   "organismo_nombre":"Municipalidad de Tortel",
@@ -81,6 +84,7 @@
   "Febrero_2025":3534715,
   "Marzo_2025":4093879,
   "Abril_2025":3443253,
-  "Mayo_2025":4849266
+  "Mayo_2025":4849266,
+  "Junio_2025":3855741
  }
 ]

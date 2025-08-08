@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio de Salud Arauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio de Salud Arauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":282,
   "Febrero_2024":277,
   "Marzo_2024":276,

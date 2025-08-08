@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Catemu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":451,
   "Febrero_2024":0,
   "Marzo_2024":228,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Catemu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":4,
   "Febrero_2024":68,
   "Marzo_2024":71,

@@ -18,11 +18,12 @@
   "Febrero_2025":3049736,
   "Marzo_2025":3049352,
   "Abril_2025":3026300,
-  "Mayo_2025":3049254
+  "Mayo_2025":3049254,
+  "Junio_2025":3068591
  },
  {
   "organismo_nombre":"Subsecretaría del Trabajo (MINTRAB)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1953217,
   "Febrero_2024":1967687,
   "Marzo_2024":1930222,
@@ -39,7 +40,8 @@
   "Febrero_2025":1915618,
   "Marzo_2025":1898614,
   "Abril_2025":1900211,
-  "Mayo_2025":1897588
+  "Mayo_2025":1897588,
+  "Junio_2025":1972935
  },
  {
   "organismo_nombre":"Subsecretaría del Trabajo (MINTRAB)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3714245,
   "Marzo_2025":3651105,
   "Abril_2025":3421063,
-  "Mayo_2025":3731306
+  "Mayo_2025":3731306,
+  "Junio_2025":3600787
  }
 ]

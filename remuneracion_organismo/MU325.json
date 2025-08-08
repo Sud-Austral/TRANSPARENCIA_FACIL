@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1728937,
   "Febrero_2024":1956430,
   "Marzo_2024":2202719,
@@ -18,7 +18,8 @@
   "Febrero_2025":2019166,
   "Marzo_2025":2232624,
   "Abril_2025":1914557,
-  "Mayo_2025":1920794
+  "Mayo_2025":1920794,
+  "Junio_2025":2085727
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
@@ -39,11 +40,12 @@
   "Febrero_2025":1619758,
   "Marzo_2025":2306342,
   "Abril_2025":1782545,
-  "Mayo_2025":2230365
+  "Mayo_2025":2230365,
+  "Junio_2025":2324854
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1119250,
   "Febrero_2024":1119250,
   "Marzo_2024":1119250,
@@ -57,10 +59,11 @@
   "Noviembre_2024":0,
   "Diciembre_2024":0,
   "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Febrero_2025":214425,
+  "Marzo_2025":584795,
+  "Abril_2025":584795,
+  "Mayo_2025":584795,
+  "Junio_2025":584795
  },
  {
   "organismo_nombre":"Municipalidad de Torres del Paine",
@@ -81,6 +84,7 @@
   "Febrero_2025":2467643,
   "Marzo_2025":3139774,
   "Abril_2025":2601821,
-  "Mayo_2025":3496552
+  "Mayo_2025":3496552,
+  "Junio_2025":3303412
  }
 ]

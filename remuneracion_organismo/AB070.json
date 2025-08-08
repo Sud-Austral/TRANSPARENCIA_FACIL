@@ -18,11 +18,12 @@
   "Febrero_2025":2416965,
   "Marzo_2025":2465206,
   "Abril_2025":1933163,
-  "Mayo_2025":1933501
+  "Mayo_2025":1933501,
+  "Junio_2025":3674486
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cordillera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1161072,
   "Febrero_2024":1180368,
   "Marzo_2024":1138922,
@@ -39,7 +40,8 @@
   "Febrero_2025":1287784,
   "Marzo_2025":1211918,
   "Abril_2025":1271641,
-  "Mayo_2025":1300149
+  "Mayo_2025":1300149,
+  "Junio_2025":1237687
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cordillera",
@@ -60,6 +62,7 @@
   "Febrero_2025":5391815,
   "Marzo_2025":5391815,
   "Abril_2025":4702218,
-  "Mayo_2025":4702218
+  "Mayo_2025":4702218,
+  "Junio_2025":6771009
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1106520,
   "Marzo_2025":1708959,
   "Abril_2025":1742391,
-  "Mayo_2025":1710059
+  "Mayo_2025":1710059,
+  "Junio_2025":1740774
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
@@ -39,11 +40,12 @@
   "Febrero_2025":1612255,
   "Marzo_2025":1289097,
   "Abril_2025":1385780,
-  "Mayo_2025":1407286
+  "Mayo_2025":1407286,
+  "Junio_2025":1372857
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":278261,
   "Marzo_2024":278261,
@@ -60,7 +62,8 @@
   "Febrero_2025":1205797,
   "Marzo_2025":1205797,
   "Abril_2025":1205797,
-  "Mayo_2025":1875724
+  "Mayo_2025":1875724,
+  "Junio_2025":1815491
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santa Rosa",
@@ -77,10 +80,11 @@
   "Octubre_2024":5676321,
   "Noviembre_2024":5321170,
   "Diciembre_2024":5647334,
-  "Enero_2025":3699827,
+  "Enero_2025":3685060,
   "Febrero_2025":2038466,
   "Marzo_2025":1413136,
   "Abril_2025":1380221,
-  "Mayo_2025":1333061
+  "Mayo_2025":1348531,
+  "Junio_2025":1451993
  }
 ]

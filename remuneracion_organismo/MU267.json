@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Requínoa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1220619,
   "Febrero_2024":943575,
   "Marzo_2024":958723,
@@ -18,7 +18,8 @@
   "Febrero_2025":1314430,
   "Marzo_2025":1098919,
   "Abril_2025":1109080,
-  "Mayo_2025":1071800
+  "Mayo_2025":1071800,
+  "Junio_2025":1043787
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
@@ -39,11 +40,12 @@
   "Febrero_2025":1295303,
   "Marzo_2025":1295648,
   "Abril_2025":1460667,
-  "Mayo_2025":1309968
+  "Mayo_2025":1309968,
+  "Junio_2025":1485442
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":917090,
   "Febrero_2024":793361,
   "Marzo_2024":836754,
@@ -60,7 +62,8 @@
   "Febrero_2025":978970,
   "Marzo_2025":1223737,
   "Abril_2025":1034085,
-  "Mayo_2025":1085795
+  "Mayo_2025":1085795,
+  "Junio_2025":969396
  },
  {
   "organismo_nombre":"Municipalidad de Requínoa",
@@ -81,6 +84,7 @@
   "Febrero_2025":1916934,
   "Marzo_2025":1945634,
   "Abril_2025":2180008,
-  "Mayo_2025":1950931
+  "Mayo_2025":1950931,
+  "Junio_2025":2187362
  }
 ]

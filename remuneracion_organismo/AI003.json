@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Nacional de la Discapacidad (SENADIS)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2153880,
   "Febrero_2024":2178327,
   "Marzo_2024":2843676,
@@ -18,11 +18,12 @@
   "Febrero_2025":3057714,
   "Marzo_2025":3040933,
   "Abril_2025":3024606,
-  "Mayo_2025":2951850
+  "Mayo_2025":2951850,
+  "Junio_2025":3005377
  },
  {
   "organismo_nombre":"Servicio Nacional de la Discapacidad (SENADIS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1699047,
   "Febrero_2024":1699047,
   "Marzo_2024":1699047,
@@ -39,7 +40,8 @@
   "Febrero_2025":793387,
   "Marzo_2025":615890,
   "Abril_2025":1721564,
-  "Mayo_2025":1782944
+  "Mayo_2025":1782944,
+  "Junio_2025":1782944
  },
  {
   "organismo_nombre":"Servicio Nacional de la Discapacidad (SENADIS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5756592,
   "Marzo_2025":5621889,
   "Abril_2025":5493950,
-  "Mayo_2025":5391369
+  "Mayo_2025":5391369,
+  "Junio_2025":5391369
  }
 ]

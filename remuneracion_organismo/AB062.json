@@ -18,11 +18,12 @@
   "Febrero_2025":2836554,
   "Marzo_2025":2838224,
   "Abril_2025":2201890,
-  "Mayo_2025":2201890
+  "Mayo_2025":2201890,
+  "Junio_2025":4130034
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Aysén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1737122,
   "Febrero_2024":1762662,
   "Marzo_2024":1817329,
@@ -39,7 +40,8 @@
   "Febrero_2025":1862157,
   "Marzo_2025":1862157,
   "Abril_2025":1862157,
-  "Mayo_2025":1795908
+  "Mayo_2025":1795908,
+  "Junio_2025":1965393
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Aysén",
@@ -60,6 +62,7 @@
   "Febrero_2025":6941294,
   "Marzo_2025":6941294,
   "Abril_2025":6086889,
-  "Mayo_2025":6086889
+  "Mayo_2025":6086889,
+  "Junio_2025":8642263
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":689293,
   "Febrero_2024":681976,
   "Marzo_2024":733387,
@@ -18,7 +18,8 @@
   "Febrero_2025":843401,
   "Marzo_2025":917200,
   "Abril_2025":845511,
-  "Mayo_2025":850842
+  "Mayo_2025":850842,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
@@ -39,11 +40,12 @@
   "Febrero_2025":1179006,
   "Marzo_2025":1671016,
   "Abril_2025":1136374,
-  "Mayo_2025":1756634
+  "Mayo_2025":1756634,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":769485,
   "Febrero_2024":740538,
   "Marzo_2024":780183,
@@ -60,7 +62,8 @@
   "Febrero_2025":837882,
   "Marzo_2025":852168,
   "Abril_2025":809938,
-  "Mayo_2025":861012
+  "Mayo_2025":861012,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Pozo Almonte",
@@ -81,6 +84,7 @@
   "Febrero_2025":2238018,
   "Marzo_2025":2657012,
   "Abril_2025":2154393,
-  "Mayo_2025":3238738
+  "Mayo_2025":3238738,
+  "Junio_2025":0
  }
 ]

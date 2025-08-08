@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Calbuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1281457,
   "Febrero_2024":975011,
   "Marzo_2024":884857,
@@ -18,7 +18,8 @@
   "Febrero_2025":935520,
   "Marzo_2025":874838,
   "Abril_2025":955067,
-  "Mayo_2025":987686
+  "Mayo_2025":987686,
+  "Junio_2025":1013411
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
@@ -39,17 +40,18 @@
   "Febrero_2025":1304476,
   "Marzo_2025":1248169,
   "Abril_2025":1403804,
-  "Mayo_2025":1387220
+  "Mayo_2025":1387220,
+  "Junio_2025":1415210
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":779533,
   "Febrero_2024":980882,
   "Marzo_2024":1237181,
   "Abril_2024":894964,
   "Mayo_2024":830715,
-  "Junio_2024":851727,
+  "Junio_2024":864000,
   "Julio_2024":812908,
   "Agosto_2024":776517,
   "Septiembre_2024":806796,
@@ -60,7 +62,8 @@
   "Febrero_2025":940997,
   "Marzo_2025":945905,
   "Abril_2025":1036145,
-  "Mayo_2025":936463
+  "Mayo_2025":934097,
+  "Junio_2025":887797
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
@@ -81,6 +84,7 @@
   "Febrero_2025":2045884,
   "Marzo_2025":2068733,
   "Abril_2025":2276843,
-  "Mayo_2025":2218491
+  "Mayo_2025":2217315,
+  "Junio_2025":2339201
  }
 ]

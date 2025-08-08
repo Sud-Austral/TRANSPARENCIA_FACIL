@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1954,
   "Febrero_2024":1925,
   "Marzo_2024":1964,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":48,
   "Febrero_2024":50,
   "Marzo_2024":53,

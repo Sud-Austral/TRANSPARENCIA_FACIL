@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Cruz",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1086387,
   "Febrero_2024":1038332,
   "Marzo_2024":969820,
@@ -18,7 +18,8 @@
   "Febrero_2025":1308359,
   "Marzo_2025":1025697,
   "Abril_2025":1028192,
-  "Mayo_2025":0
+  "Mayo_2025":1011092,
+  "Junio_2025":1041932
  },
  {
   "organismo_nombre":"Municipalidad de La Cruz",
@@ -39,11 +40,12 @@
   "Febrero_2025":1598130,
   "Marzo_2025":1541506,
   "Abril_2025":1741535,
-  "Mayo_2025":1766154
+  "Mayo_2025":1766154,
+  "Junio_2025":1696035
  },
  {
   "organismo_nombre":"Municipalidad de La Cruz",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":777916,
   "Febrero_2024":757933,
   "Marzo_2024":696501,
@@ -60,7 +62,8 @@
   "Febrero_2025":732168,
   "Marzo_2025":754153,
   "Abril_2025":714742,
-  "Mayo_2025":702391
+  "Mayo_2025":702391,
+  "Junio_2025":680814
  },
  {
   "organismo_nombre":"Municipalidad de La Cruz",
@@ -81,6 +84,7 @@
   "Febrero_2025":1972723,
   "Marzo_2025":1996157,
   "Abril_2025":2395090,
-  "Mayo_2025":2378331
+  "Mayo_2025":2378331,
+  "Junio_2025":2433962
  }
 ]

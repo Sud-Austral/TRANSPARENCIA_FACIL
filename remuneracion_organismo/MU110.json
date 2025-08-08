@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Illapel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1382912,
   "Febrero_2024":799795,
   "Marzo_2024":693648,
@@ -18,7 +18,8 @@
   "Febrero_2025":789414,
   "Marzo_2025":719850,
   "Abril_2025":905156,
-  "Mayo_2025":731821
+  "Mayo_2025":731821,
+  "Junio_2025":743854
  },
  {
   "organismo_nombre":"Municipalidad de Illapel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1262377,
   "Marzo_2025":1253672,
   "Abril_2025":1460701,
-  "Mayo_2025":1390417
+  "Mayo_2025":1390417,
+  "Junio_2025":1427397
  },
  {
   "organismo_nombre":"Municipalidad de Illapel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":644964,
   "Febrero_2024":1012959,
   "Marzo_2024":683960,
@@ -60,7 +62,8 @@
   "Febrero_2025":932648,
   "Marzo_2025":777338,
   "Abril_2025":688118,
-  "Mayo_2025":736642
+  "Mayo_2025":736642,
+  "Junio_2025":721673
  },
  {
   "organismo_nombre":"Municipalidad de Illapel",
@@ -81,6 +84,7 @@
   "Febrero_2025":1876748,
   "Marzo_2025":1898510,
   "Abril_2025":2187250,
-  "Mayo_2025":2047772
+  "Mayo_2025":2047772,
+  "Junio_2025":2172298
  }
 ]

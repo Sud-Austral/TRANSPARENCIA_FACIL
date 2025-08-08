@@ -18,11 +18,12 @@
   "Febrero_2025":3253033,
   "Marzo_2025":8462841,
   "Abril_2025":3261781,
-  "Mayo_2025":3270339
+  "Mayo_2025":3270339,
+  "Junio_2025":3285120
  },
  {
   "organismo_nombre":"Subsecretaría de Redes Asistenciales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2035791,
   "Febrero_2024":1414343,
   "Marzo_2024":1345652,
@@ -39,7 +40,8 @@
   "Febrero_2025":2150154,
   "Marzo_2025":1970168,
   "Abril_2025":1929742,
-  "Mayo_2025":1918161
+  "Mayo_2025":1918161,
+  "Junio_2025":1883441
  },
  {
   "organismo_nombre":"Subsecretaría de Redes Asistenciales",
@@ -60,6 +62,7 @@
   "Febrero_2025":5483266,
   "Marzo_2025":9300295,
   "Abril_2025":6212171,
-  "Mayo_2025":6212171
+  "Mayo_2025":6212171,
+  "Junio_2025":5972395
  }
 ]

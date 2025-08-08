@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Gorbea",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1283796,
   "Febrero_2024":899776,
   "Marzo_2024":772174,
@@ -18,7 +18,8 @@
   "Febrero_2025":921317,
   "Marzo_2025":765657,
   "Abril_2025":848455,
-  "Mayo_2025":1755080
+  "Mayo_2025":820888,
+  "Junio_2025":785674
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
@@ -39,11 +40,12 @@
   "Febrero_2025":1200689,
   "Marzo_2025":1219645,
   "Abril_2025":1313423,
-  "Mayo_2025":1826075
+  "Mayo_2025":1427448,
+  "Junio_2025":1285692
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":663322,
   "Febrero_2024":675817,
   "Marzo_2024":669550,
@@ -60,7 +62,8 @@
   "Febrero_2025":656416,
   "Marzo_2025":642566,
   "Abril_2025":599811,
-  "Mayo_2025":695483
+  "Mayo_2025":695483,
+  "Junio_2025":588698
  },
  {
   "organismo_nombre":"Municipalidad de Gorbea",
@@ -81,6 +84,7 @@
   "Febrero_2025":1893870,
   "Marzo_2025":1886374,
   "Abril_2025":2097010,
-  "Mayo_2025":2424329
+  "Mayo_2025":2128449,
+  "Junio_2025":2117125
  }
 ]

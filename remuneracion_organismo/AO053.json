@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud de Magallanes y Antártica Chilena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1528891,
   "Febrero_2024":1363370,
   "Marzo_2024":1585433,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de Magallanes y Antártica Chilena",
@@ -39,11 +40,12 @@
   "Febrero_2025":2375277,
   "Marzo_2025":6319691,
   "Abril_2025":2411678,
-  "Mayo_2025":2373845
+  "Mayo_2025":2373845,
+  "Junio_2025":3541027
  },
  {
   "organismo_nombre":"SEREMI de Salud de Magallanes y Antártica Chilena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":2078127,
   "Marzo_2025":2078127,
   "Abril_2025":2078127,
-  "Mayo_2025":2078127
+  "Mayo_2025":2078127,
+  "Junio_2025":1939585
  },
  {
   "organismo_nombre":"SEREMI de Salud de Magallanes y Antártica Chilena",
@@ -81,6 +84,7 @@
   "Febrero_2025":4694046,
   "Marzo_2025":11280454,
   "Abril_2025":4659368,
-  "Mayo_2025":4659368
+  "Mayo_2025":4659368,
+  "Junio_2025":6151687
  }
 ]

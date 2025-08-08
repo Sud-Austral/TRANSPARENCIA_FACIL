@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región Metropolitana (CFTRM)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1877697,
   "Febrero_2024":1748388,
   "Marzo_2024":1688165,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región Metropolitana (CFTRM)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1043702,
   "Febrero_2024":711162,
   "Marzo_2024":671113,

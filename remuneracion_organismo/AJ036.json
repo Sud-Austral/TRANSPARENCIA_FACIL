@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1228674,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
@@ -39,11 +40,12 @@
   "Febrero_2025":1607614,
   "Marzo_2025":2672975,
   "Abril_2025":2590173,
-  "Mayo_2025":2591834
+  "Mayo_2025":2591834,
+  "Junio_2025":1340322
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":2067500,
   "Marzo_2025":2067500,
   "Abril_2025":2067500,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":824362
  },
  {
   "organismo_nombre":"Servicio Localde Educación Pública Santa Corina",
@@ -81,6 +84,7 @@
   "Febrero_2025":2080476,
   "Marzo_2025":3395133,
   "Abril_2025":3377205,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":2238710
  }
 ]

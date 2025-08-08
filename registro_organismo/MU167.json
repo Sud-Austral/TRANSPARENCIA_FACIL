@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de María Pinto",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":14,
   "Febrero_2024":15,
   "Marzo_2024":14,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de María Pinto",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":62,
   "Febrero_2024":55,
   "Marzo_2024":55,

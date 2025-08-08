@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Calbuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":455,
   "Febrero_2024":427,
   "Marzo_2024":427,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Calbuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":143,
   "Febrero_2024":157,
   "Marzo_2024":187,

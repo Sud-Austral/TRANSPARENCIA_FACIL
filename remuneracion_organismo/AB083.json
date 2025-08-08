@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3027508,
   "Febrero_2024":3151241,
   "Marzo_2024":3151241,
@@ -18,7 +18,8 @@
   "Febrero_2025":3151241,
   "Marzo_2025":5600480,
   "Abril_2025":3151241,
-  "Mayo_2025":3451241
+  "Mayo_2025":3451241,
+  "Junio_2025":5809246
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2050915,
   "Marzo_2025":3820214,
   "Abril_2025":2056376,
-  "Mayo_2025":2045989
+  "Mayo_2025":2045989,
+  "Junio_2025":3878608
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1176000
+  "Mayo_2025":1176000,
+  "Junio_2025":1800000
  },
  {
   "organismo_nombre":"Gobierno Regional del Maule (Gore Maule)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3532257,
   "Marzo_2025":5853210,
   "Abril_2025":3544754,
-  "Mayo_2025":3545309
+  "Mayo_2025":3545309,
+  "Junio_2025":5945448
  }
 ]

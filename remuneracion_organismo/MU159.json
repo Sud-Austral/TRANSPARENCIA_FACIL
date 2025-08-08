@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lumaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":999887,
   "Febrero_2024":926635,
   "Marzo_2024":936346,
@@ -18,7 +18,8 @@
   "Febrero_2025":1080499,
   "Marzo_2025":958411,
   "Abril_2025":993949,
-  "Mayo_2025":936202
+  "Mayo_2025":936202,
+  "Junio_2025":968367
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
@@ -39,17 +40,18 @@
   "Febrero_2025":1212288,
   "Marzo_2025":1143300,
   "Abril_2025":1310297,
-  "Mayo_2025":1254290
+  "Mayo_2025":1421225,
+  "Junio_2025":1449840
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":818940,
   "Febrero_2024":843914,
   "Marzo_2024":1070266,
   "Abril_2024":1014349,
   "Mayo_2024":1473847,
-  "Junio_2024":985675,
+  "Junio_2024":987822,
   "Julio_2024":947626,
   "Agosto_2024":954908,
   "Septiembre_2024":1028427,
@@ -60,7 +62,8 @@
   "Febrero_2025":1239497,
   "Marzo_2025":1182395,
   "Abril_2025":1141226,
-  "Mayo_2025":736743
+  "Mayo_2025":908571,
+  "Junio_2025":723955
  },
  {
   "organismo_nombre":"Municipalidad de Lumaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1855969,
   "Marzo_2025":1844519,
   "Abril_2025":2104710,
-  "Mayo_2025":1883114
+  "Mayo_2025":2138245,
+  "Junio_2025":2184006
  }
 ]

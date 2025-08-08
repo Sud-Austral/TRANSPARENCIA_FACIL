@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Iquique",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":801993,
   "Febrero_2024":839468,
   "Marzo_2024":818225,
@@ -18,7 +18,8 @@
   "Febrero_2025":882352,
   "Marzo_2025":876891,
   "Abril_2025":874842,
-  "Mayo_2025":898521
+  "Mayo_2025":898521,
+  "Junio_2025":878720
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
@@ -39,11 +40,12 @@
   "Febrero_2025":1814425,
   "Marzo_2025":2380475,
   "Abril_2025":1812280,
-  "Mayo_2025":0
+  "Mayo_2025":2870292,
+  "Junio_2025":2339958
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":670000,
   "Febrero_2024":680000,
   "Marzo_2024":523333,
@@ -58,9 +60,10 @@
   "Diciembre_2024":858750,
   "Enero_2025":1236428,
   "Febrero_2025":1236428,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":1050714,
+  "Abril_2025":1179285,
+  "Mayo_2025":1250555,
+  "Junio_2025":1275500
  },
  {
   "organismo_nombre":"Municipalidad de Iquique",
@@ -81,6 +84,7 @@
   "Febrero_2025":2238353,
   "Marzo_2025":2781212,
   "Abril_2025":2268815,
-  "Mayo_2025":3606767
+  "Mayo_2025":3606767,
+  "Junio_2025":2778411
  }
 ]

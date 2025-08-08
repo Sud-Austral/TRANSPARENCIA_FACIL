@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1676120,
   "Febrero_2024":1588958,
   "Marzo_2024":1595120,
@@ -18,7 +18,8 @@
   "Febrero_2025":1973943,
   "Marzo_2025":1950735,
   "Abril_2025":1682352,
-  "Mayo_2025":1830840
+  "Mayo_2025":1830840,
+  "Junio_2025":1730620
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2955093,
   "Marzo_2025":7478505,
   "Abril_2025":2936361,
-  "Mayo_2025":2922926
+  "Mayo_2025":2922926,
+  "Junio_2025":3795788
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2225364,
   "Febrero_2024":2212160,
   "Marzo_2024":2179662,
@@ -60,7 +62,8 @@
   "Febrero_2025":2232076,
   "Marzo_2025":2290614,
   "Abril_2025":2262419,
-  "Mayo_2025":2285987
+  "Mayo_2025":2278978,
+  "Junio_2025":2317257
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3749524,
   "Marzo_2025":7986376,
   "Abril_2025":3915668,
-  "Mayo_2025":3932494
+  "Mayo_2025":3932494,
+  "Junio_2025":4830334
  }
 ]

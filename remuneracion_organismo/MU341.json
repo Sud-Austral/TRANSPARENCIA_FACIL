@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Vitacura",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1323794,
   "Febrero_2024":1275189,
   "Marzo_2024":1473490,
@@ -18,7 +18,8 @@
   "Febrero_2025":1298886,
   "Marzo_2025":1337430,
   "Abril_2025":1311380,
-  "Mayo_2025":1296594
+  "Mayo_2025":1296594,
+  "Junio_2025":1306724
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
@@ -39,11 +40,12 @@
   "Febrero_2025":1474790,
   "Marzo_2025":1479684,
   "Abril_2025":1546526,
-  "Mayo_2025":2077884
+  "Mayo_2025":2077884,
+  "Junio_2025":1564428
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1314427,
   "Febrero_2024":1535051,
   "Marzo_2024":1465348,
@@ -60,7 +62,8 @@
   "Febrero_2025":1463261,
   "Marzo_2025":1434791,
   "Abril_2025":1334748,
-  "Mayo_2025":1363576
+  "Mayo_2025":1363576,
+  "Junio_2025":1247741
  },
  {
   "organismo_nombre":"Municipalidad de Vitacura",
@@ -81,6 +84,7 @@
   "Febrero_2025":2567128,
   "Marzo_2025":2559473,
   "Abril_2025":2631006,
-  "Mayo_2025":3452877
+  "Mayo_2025":3452877,
+  "Junio_2025":2608916
  }
 ]

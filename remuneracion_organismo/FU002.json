@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación Tiempos Nuevos (MIM)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1391641,
   "Febrero_2024":1389253,
   "Marzo_2024":1646753,
@@ -18,11 +18,12 @@
   "Febrero_2025":1598750,
   "Marzo_2025":1698763,
   "Abril_2025":1602797,
-  "Mayo_2025":0
+  "Mayo_2025":1567136,
+  "Junio_2025":1431682
  },
  {
   "organismo_nombre":"Fundación Tiempos Nuevos (MIM)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":182539,
   "Marzo_2024":125000,
@@ -39,6 +40,7 @@
   "Febrero_2025":678002,
   "Marzo_2025":510770,
   "Abril_2025":573694,
-  "Mayo_2025":0
+  "Mayo_2025":78231,
+  "Junio_2025":104308
  }
 ]

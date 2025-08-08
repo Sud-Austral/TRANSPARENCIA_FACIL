@@ -18,11 +18,12 @@
   "Febrero_2025":2570053,
   "Marzo_2025":2570912,
   "Abril_2025":2596809,
-  "Mayo_2025":2598999
+  "Mayo_2025":2598999,
+  "Junio_2025":2620141
  },
  {
   "organismo_nombre":"Instituto de Previsión Social (IPS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1800621,
   "Febrero_2024":1824897,
   "Marzo_2024":1796557,
@@ -39,7 +40,8 @@
   "Febrero_2025":1875970,
   "Marzo_2025":1857885,
   "Abril_2025":1920804,
-  "Mayo_2025":1941728
+  "Mayo_2025":1941728,
+  "Junio_2025":2058478
  },
  {
   "organismo_nombre":"Instituto de Previsión Social (IPS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3950899,
   "Marzo_2025":3730490,
   "Abril_2025":4231955,
-  "Mayo_2025":4301148
+  "Mayo_2025":4301148,
+  "Junio_2025":4123289
  }
 ]

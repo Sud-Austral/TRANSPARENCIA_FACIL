@@ -18,11 +18,12 @@
   "Febrero_2025":2247635,
   "Marzo_2025":2277777,
   "Abril_2025":2283681,
-  "Mayo_2025":1752802
+  "Mayo_2025":1745550,
+  "Junio_2025":3105800
  },
  {
   "organismo_nombre":"Fondo de Solidaridad e Inversión Social (FOSIS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1545417,
   "Febrero_2024":1535975,
   "Marzo_2024":1545417,
@@ -39,7 +40,8 @@
   "Febrero_2025":1553220,
   "Marzo_2025":1558472,
   "Abril_2025":1549383,
-  "Mayo_2025":1602005
+  "Mayo_2025":1602005,
+  "Junio_2025":1611468
  },
  {
   "organismo_nombre":"Fondo de Solidaridad e Inversión Social (FOSIS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4153029,
   "Marzo_2025":4201557,
   "Abril_2025":3983071,
-  "Mayo_2025":3211048
+  "Mayo_2025":3211048,
+  "Junio_2025":5631535
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2738529,
   "Marzo_2025":2712289,
   "Abril_2025":2564043,
-  "Mayo_2025":0
+  "Mayo_2025":2734079,
+  "Junio_2025":2762074
  },
  {
   "organismo_nombre":"Servicio Médico Legal (SML)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1894974,
   "Febrero_2024":1756260,
   "Marzo_2024":1708134,
@@ -38,8 +39,9 @@
   "Enero_2025":1865682,
   "Febrero_2025":1865682,
   "Marzo_2025":1847484,
-  "Abril_2025":1866624,
-  "Mayo_2025":0
+  "Abril_2025":1857548,
+  "Mayo_2025":1836364,
+  "Junio_2025":1838430
  },
  {
   "organismo_nombre":"Servicio Médico Legal (SML)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6426877,
   "Marzo_2025":6373218,
   "Abril_2025":6017346,
-  "Mayo_2025":0
+  "Mayo_2025":6378879,
+  "Junio_2025":6430784
  }
 ]

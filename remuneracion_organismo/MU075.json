@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":603458,
   "Febrero_2024":599211,
   "Marzo_2024":694080,
@@ -16,9 +16,10 @@
   "Diciembre_2024":3001564,
   "Enero_2025":3128710,
   "Febrero_2025":3128710,
-  "Marzo_2025":3128710,
+  "Marzo_2025":1205452,
   "Abril_2025":1243672,
-  "Mayo_2025":3128710
+  "Mayo_2025":792415,
+  "Junio_2025":847150
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1252675,
   "Enero_2025":1199579,
   "Febrero_2025":964825,
-  "Marzo_2025":1009966,
+  "Marzo_2025":1023867,
   "Abril_2025":1340521,
-  "Mayo_2025":1301139
+  "Mayo_2025":1402745,
+  "Junio_2025":1379194
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":892546,
   "Febrero_2024":847033,
   "Marzo_2024":818768,
@@ -58,9 +60,10 @@
   "Diciembre_2024":649637,
   "Enero_2025":909723,
   "Febrero_2025":448961,
-  "Marzo_2025":869049,
+  "Marzo_2025":842968,
   "Abril_2025":662685,
-  "Mayo_2025":769159
+  "Mayo_2025":753202,
+  "Junio_2025":718164
  },
  {
   "organismo_nombre":"Municipalidad de Curanilahue",
@@ -81,6 +84,7 @@
   "Febrero_2025":1641385,
   "Marzo_2025":2038470,
   "Abril_2025":2179516,
-  "Mayo_2025":2198385
+  "Mayo_2025":2199709,
+  "Junio_2025":2361925
  }
 ]

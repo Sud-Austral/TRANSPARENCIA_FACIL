@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cochamó",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":80,
   "Febrero_2024":68,
   "Marzo_2024":75,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cochamó",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":96,
   "Febrero_2024":102,
   "Marzo_2024":107,

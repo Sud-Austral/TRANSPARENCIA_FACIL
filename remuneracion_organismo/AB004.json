@@ -18,11 +18,12 @@
   "Febrero_2025":1957702,
   "Marzo_2025":3511215,
   "Abril_2025":1937164,
-  "Mayo_2025":1946937
+  "Mayo_2025":1946937,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional de Prevención y Respuesta ante Desastres (SENAPRED) ex ONEMI",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1298045,
   "Febrero_2024":1522557,
   "Marzo_2024":1522557,
@@ -39,7 +40,8 @@
   "Febrero_2025":1573842,
   "Marzo_2025":1524859,
   "Abril_2025":1357947,
-  "Mayo_2025":1262578
+  "Mayo_2025":1262578,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional de Prevención y Respuesta ante Desastres (SENAPRED) ex ONEMI",
@@ -60,6 +62,7 @@
   "Febrero_2025":4862735,
   "Marzo_2025":8173107,
   "Abril_2025":4980903,
-  "Mayo_2025":4753560
+  "Mayo_2025":4753560,
+  "Junio_2025":0
  }
 ]

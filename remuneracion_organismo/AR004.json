@@ -18,11 +18,12 @@
   "Febrero_2025":2661615,
   "Marzo_2025":3030001,
   "Abril_2025":2931155,
-  "Mayo_2025":2746089
+  "Mayo_2025":2746089,
+  "Junio_2025":2763425
  },
  {
   "organismo_nombre":"Instituto de Desarrollo Agropecuario (INDAP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":18850314,
   "Febrero_2024":1874347,
   "Marzo_2024":1876352,
@@ -39,7 +40,8 @@
   "Febrero_2025":2126208,
   "Marzo_2025":2070661,
   "Abril_2025":2059524,
-  "Mayo_2025":2116348
+  "Mayo_2025":2116348,
+  "Junio_2025":2062440
  },
  {
   "organismo_nombre":"Instituto de Desarrollo Agropecuario (INDAP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3732196,
   "Marzo_2025":3211051,
   "Abril_2025":3144598,
-  "Mayo_2025":4022919
+  "Mayo_2025":4022919,
+  "Junio_2025":4025138
  }
 ]

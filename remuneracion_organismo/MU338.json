@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1506907,
   "Febrero_2024":1083201,
   "Marzo_2024":998319,
@@ -18,7 +18,8 @@
   "Febrero_2025":882862,
   "Marzo_2025":1003398,
   "Abril_2025":1159154,
-  "Mayo_2025":1255712
+  "Mayo_2025":1255712,
+  "Junio_2025":1202664
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
@@ -39,11 +40,12 @@
   "Febrero_2025":1044204,
   "Marzo_2025":1047082,
   "Abril_2025":1033684,
-  "Mayo_2025":1033143
+  "Mayo_2025":1033143,
+  "Junio_2025":1063006
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":739956,
   "Febrero_2024":690354,
   "Marzo_2024":704583,
@@ -60,7 +62,8 @@
   "Febrero_2025":763166,
   "Marzo_2025":703525,
   "Abril_2025":628444,
-  "Mayo_2025":654779
+  "Mayo_2025":654779,
+  "Junio_2025":645225
  },
  {
   "organismo_nombre":"Municipalidad de Villa Alemana",
@@ -81,6 +84,7 @@
   "Febrero_2025":1621699,
   "Marzo_2025":1607436,
   "Abril_2025":1913436,
-  "Mayo_2025":0
+  "Mayo_2025":1647665,
+  "Junio_2025":1665243
  }
 ]

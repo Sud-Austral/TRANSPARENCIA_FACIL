@@ -17,15 +17,16 @@
   "Enero_2025":2247452,
   "Febrero_2025":2312794,
   "Marzo_2025":2313312,
-  "Abril_2025":1797867,
-  "Mayo_2025":1810010
+  "Abril_2025":1847042,
+  "Mayo_2025":1810010,
+  "Junio_2025":3330942
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Limarí",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1517200,
   "Febrero_2024":1517200,
-  "Marzo_2024":800000,
+  "Marzo_2024":1517200,
   "Abril_2024":1517200,
   "Mayo_2024":1517200,
   "Junio_2024":800000,
@@ -34,12 +35,13 @@
   "Septiembre_2024":1650000,
   "Octubre_2024":1650000,
   "Noviembre_2024":1378000,
-  "Diciembre_2024":1493600,
-  "Enero_2025":978071,
+  "Diciembre_2024":1260125,
+  "Enero_2025":970852,
   "Febrero_2025":1191185,
   "Marzo_2025":1345944,
   "Abril_2025":1103204,
-  "Mayo_2025":1379047
+  "Mayo_2025":1085113,
+  "Junio_2025":1355155
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Limarí",
@@ -60,6 +62,7 @@
   "Febrero_2025":5589625,
   "Marzo_2025":5589625,
   "Abril_2025":4900028,
-  "Mayo_2025":4900028
+  "Mayo_2025":4900028,
+  "Junio_2025":6968819
  }
 ]

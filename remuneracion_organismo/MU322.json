@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1588265,
   "Febrero_2024":972862,
   "Marzo_2024":840074,
@@ -18,7 +18,8 @@
   "Febrero_2025":937560,
   "Marzo_2025":0,
   "Abril_2025":959499,
-  "Mayo_2025":959499
+  "Mayo_2025":959499,
+  "Junio_2025":959499
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
@@ -39,17 +40,18 @@
   "Febrero_2025":1153316,
   "Marzo_2025":1706323,
   "Abril_2025":1162271,
-  "Mayo_2025":1912960
+  "Mayo_2025":1912960,
+  "Junio_2025":1675953
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":725873,
   "Febrero_2024":800593,
   "Marzo_2024":762375,
   "Abril_2024":765875,
   "Mayo_2024":779885,
-  "Junio_2024":649225,
+  "Junio_2024":648730,
   "Julio_2024":858015,
   "Agosto_2024":687751,
   "Septiembre_2024":694313,
@@ -60,7 +62,8 @@
   "Febrero_2025":987922,
   "Marzo_2025":936863,
   "Abril_2025":939084,
-  "Mayo_2025":939090
+  "Mayo_2025":939090,
+  "Junio_2025":942254
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":2114263,
   "Marzo_2025":2544766,
   "Abril_2025":2074352,
-  "Mayo_2025":3335922
+  "Mayo_2025":3335922,
+  "Junio_2025":2625934
  }
 ]

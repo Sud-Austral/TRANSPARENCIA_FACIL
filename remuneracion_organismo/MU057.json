@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Colina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":882869,
   "Febrero_2024":841337,
   "Marzo_2024":753654,
@@ -18,7 +18,8 @@
   "Febrero_2025":886188,
   "Marzo_2025":882637,
   "Abril_2025":843893,
-  "Mayo_2025":823460
+  "Mayo_2025":823460,
+  "Junio_2025":894393
  },
  {
   "organismo_nombre":"Municipalidad de Colina",
@@ -39,11 +40,12 @@
   "Febrero_2025":1151395,
   "Marzo_2025":1316870,
   "Abril_2025":1147454,
-  "Mayo_2025":1152993
+  "Mayo_2025":1152993,
+  "Junio_2025":1158067
  },
  {
   "organismo_nombre":"Municipalidad de Colina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":859614,
   "Febrero_2024":873227,
   "Marzo_2024":875278,
@@ -58,9 +60,10 @@
   "Diciembre_2024":863715,
   "Enero_2025":913234,
   "Febrero_2025":925432,
-  "Marzo_2025":910051,
-  "Abril_2025":908272,
-  "Mayo_2025":906019
+  "Marzo_2025":910374,
+  "Abril_2025":908584,
+  "Mayo_2025":903707,
+  "Junio_2025":901680
  },
  {
   "organismo_nombre":"Municipalidad de Colina",
@@ -81,6 +84,7 @@
   "Febrero_2025":1900395,
   "Marzo_2025":1919375,
   "Abril_2025":1869151,
-  "Mayo_2025":1882365
+  "Mayo_2025":1882365,
+  "Junio_2025":1879753
  }
 ]

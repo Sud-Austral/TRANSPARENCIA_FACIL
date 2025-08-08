@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Monte",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1051914,
   "Febrero_2024":870379,
   "Marzo_2024":875337,
@@ -17,8 +17,9 @@
   "Enero_2025":931984,
   "Febrero_2025":942013,
   "Marzo_2025":911498,
-  "Abril_2025":930454,
-  "Mayo_2025":869282
+  "Abril_2025":910965,
+  "Mayo_2025":915567,
+  "Junio_2025":947826
  },
  {
   "organismo_nombre":"Municipalidad de El Monte",
@@ -39,28 +40,30 @@
   "Febrero_2025":1173520,
   "Marzo_2025":1166099,
   "Abril_2025":1323611,
-  "Mayo_2025":1140297
+  "Mayo_2025":1140297,
+  "Junio_2025":1321805
  },
  {
   "organismo_nombre":"Municipalidad de El Monte",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":322970,
   "Febrero_2024":686509,
   "Marzo_2024":484193,
-  "Abril_2024":523657,
-  "Mayo_2024":603274,
-  "Junio_2024":416893,
-  "Julio_2024":421631,
+  "Abril_2024":543077,
+  "Mayo_2024":617344,
+  "Junio_2024":426521,
+  "Julio_2024":430912,
   "Agosto_2024":398748,
   "Septiembre_2024":479960,
   "Octubre_2024":433475,
-  "Noviembre_2024":494772,
-  "Diciembre_2024":571033,
+  "Noviembre_2024":502275,
+  "Diciembre_2024":590983,
   "Enero_2025":380688,
   "Febrero_2025":814434,
   "Marzo_2025":959257,
   "Abril_2025":658632,
-  "Mayo_2025":436016
+  "Mayo_2025":436016,
+  "Junio_2025":567017
  },
  {
   "organismo_nombre":"Municipalidad de El Monte",
@@ -81,6 +84,7 @@
   "Febrero_2025":1669482,
   "Marzo_2025":1686396,
   "Abril_2025":2066464,
-  "Mayo_2025":1963558
+  "Mayo_2025":1963558,
+  "Junio_2025":2124560
  }
 ]

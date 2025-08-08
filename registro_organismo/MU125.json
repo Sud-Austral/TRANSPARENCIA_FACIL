@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Reina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Reina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":175,
   "Febrero_2024":180,
   "Marzo_2024":186,

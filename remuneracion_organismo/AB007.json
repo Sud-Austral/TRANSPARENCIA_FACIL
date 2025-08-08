@@ -18,11 +18,12 @@
   "Febrero_2025":2751941,
   "Marzo_2025":2753242,
   "Abril_2025":2134967,
-  "Mayo_2025":2140829
+  "Mayo_2025":2140829,
+  "Junio_2025":4143103
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Arica y Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1289524,
   "Febrero_2024":1287867,
   "Marzo_2024":1407334,
@@ -39,7 +40,8 @@
   "Febrero_2025":1297955,
   "Marzo_2025":1266905,
   "Abril_2025":1296738,
-  "Mayo_2025":0
+  "Mayo_2025":1264493,
+  "Junio_2025":1282775
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Arica y Parinacota",
@@ -60,6 +62,7 @@
   "Febrero_2025":3711489,
   "Marzo_2025":3713706,
   "Abril_2025":4383254,
-  "Mayo_2025":4383254
+  "Mayo_2025":4383254,
+  "Junio_2025":7261246
  }
 ]

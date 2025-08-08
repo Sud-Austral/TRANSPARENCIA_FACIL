@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1334809,
   "Febrero_2024":930506,
   "Marzo_2024":804083,
@@ -18,7 +18,8 @@
   "Febrero_2025":1022780,
   "Marzo_2025":870898,
   "Abril_2025":901837,
-  "Mayo_2025":883635
+  "Mayo_2025":883635,
+  "Junio_2025":859008
  },
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1225817,
   "Marzo_2025":1209568,
   "Abril_2025":1413001,
-  "Mayo_2025":1220195
+  "Mayo_2025":1220195,
+  "Junio_2025":1303445
  },
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":955271,
   "Febrero_2024":863031,
   "Marzo_2024":875126,
@@ -60,7 +62,8 @@
   "Febrero_2025":1289913,
   "Marzo_2025":1072197,
   "Abril_2025":1032904,
-  "Mayo_2025":843811
+  "Mayo_2025":843811,
+  "Junio_2025":1022081
  },
  {
   "organismo_nombre":"Municipalidad de Lago Ranco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1705921,
   "Marzo_2025":1765446,
   "Abril_2025":2041774,
-  "Mayo_2025":1716201
+  "Mayo_2025":1716201,
+  "Junio_2025":2032949
  }
 ]

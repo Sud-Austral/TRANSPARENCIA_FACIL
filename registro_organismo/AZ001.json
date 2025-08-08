@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Comisión Nacional de Acreditación (CNA)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":92,
   "Febrero_2024":91,
   "Marzo_2024":92,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Comisión Nacional de Acreditación (CNA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":360,
   "Febrero_2024":3,
   "Marzo_2024":7,

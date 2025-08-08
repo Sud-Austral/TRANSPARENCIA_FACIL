@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Romeral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1071964,
   "Febrero_2024":702052,
   "Marzo_2024":650877,
@@ -18,7 +18,8 @@
   "Febrero_2025":650414,
   "Marzo_2025":624298,
   "Abril_2025":672010,
-  "Mayo_2025":659228
+  "Mayo_2025":659228,
+  "Junio_2025":659966
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
@@ -39,11 +40,12 @@
   "Febrero_2025":1206726,
   "Marzo_2025":1315117,
   "Abril_2025":1362580,
-  "Mayo_2025":1211407
+  "Mayo_2025":1211407,
+  "Junio_2025":1391834
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":807243,
   "Febrero_2024":894199,
   "Marzo_2024":875784,
@@ -60,7 +62,8 @@
   "Febrero_2025":899662,
   "Marzo_2025":966872,
   "Abril_2025":960047,
-  "Mayo_2025":815329
+  "Mayo_2025":815329,
+  "Junio_2025":810426
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
@@ -81,6 +84,7 @@
   "Febrero_2025":1845147,
   "Marzo_2025":2101554,
   "Abril_2025":2168388,
-  "Mayo_2025":1827730
+  "Mayo_2025":1827730,
+  "Junio_2025":2154582
  }
 ]

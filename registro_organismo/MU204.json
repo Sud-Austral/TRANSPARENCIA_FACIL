@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Parral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":561,
   "Febrero_2024":562,
   "Marzo_2024":550,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":140,
   "Febrero_2024":186,
   "Marzo_2024":197,

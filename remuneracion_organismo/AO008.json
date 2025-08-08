@@ -7,7 +7,7 @@
   "Marzo_2024":2688700,
   "Abril_2024":2202388,
   "Mayo_2024":2206901,
-  "Junio_2024":2759344,
+  "Junio_2024":2760811,
   "Julio_2024":2306279,
   "Agosto_2024":2142129,
   "Septiembre_2024":2745631,
@@ -18,11 +18,12 @@
   "Febrero_2025":2233531,
   "Marzo_2025":2872611,
   "Abril_2025":2289570,
-  "Mayo_2025":2407795
+  "Mayo_2025":2407795,
+  "Junio_2025":2979773
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Norte",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1504319,
   "Febrero_2024":1279986,
   "Marzo_2024":1428118,
@@ -39,7 +40,8 @@
   "Febrero_2025":1136906,
   "Marzo_2025":1159306,
   "Abril_2025":1378480,
-  "Mayo_2025":1384735
+  "Mayo_2025":1384735,
+  "Junio_2025":1311087
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Norte",
@@ -60,6 +62,7 @@
   "Febrero_2025":2363368,
   "Marzo_2025":3327639,
   "Abril_2025":2274955,
-  "Mayo_2025":2241903
+  "Mayo_2025":2241903,
+  "Junio_2025":3157266
  }
 ]

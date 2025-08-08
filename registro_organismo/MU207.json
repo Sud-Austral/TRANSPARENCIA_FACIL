@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":531,
   "Febrero_2024":549,
   "Marzo_2024":320,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":61,
   "Marzo_2024":55,

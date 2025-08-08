@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Alhué",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":870922,
   "Febrero_2024":866875,
   "Marzo_2024":846568,
@@ -18,7 +18,8 @@
   "Febrero_2025":956449,
   "Marzo_2025":904028,
   "Abril_2025":909622,
-  "Mayo_2025":906681
+  "Mayo_2025":906681,
+  "Junio_2025":908872
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
@@ -39,11 +40,12 @@
   "Febrero_2025":1412857,
   "Marzo_2025":1422547,
   "Abril_2025":1522643,
-  "Mayo_2025":1524546
+  "Mayo_2025":1524546,
+  "Junio_2025":1504254
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":823548,
   "Febrero_2024":871582,
   "Marzo_2024":868076,
@@ -56,11 +58,12 @@
   "Octubre_2024":890932,
   "Noviembre_2024":884781,
   "Diciembre_2024":904435,
-  "Enero_2025":889974,
+  "Enero_2025":892150,
   "Febrero_2025":899655,
   "Marzo_2025":909255,
-  "Abril_2025":880012,
-  "Mayo_2025":915383
+  "Abril_2025":887133,
+  "Mayo_2025":932766,
+  "Junio_2025":886319
  },
  {
   "organismo_nombre":"Municipalidad de Alhué",
@@ -81,6 +84,7 @@
   "Febrero_2025":1859834,
   "Marzo_2025":1872930,
   "Abril_2025":2152565,
-  "Mayo_2025":2019625
+  "Mayo_2025":2019625,
+  "Junio_2025":2216323
  }
 ]

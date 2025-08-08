@@ -18,11 +18,12 @@
   "Febrero_2025":1967122,
   "Marzo_2025":2196730,
   "Abril_2025":1958348,
-  "Mayo_2025":1999663
+  "Mayo_2025":1999663,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de Victoria",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1489502,
   "Febrero_2024":1975680,
   "Marzo_2024":1928348,
@@ -39,7 +40,8 @@
   "Febrero_2025":1505143,
   "Marzo_2025":1557379,
   "Abril_2025":1501219,
-  "Mayo_2025":1581001
+  "Mayo_2025":1581001,
+  "Junio_2025":1584058
  },
  {
   "organismo_nombre":"Hospital de Victoria",
@@ -60,6 +62,7 @@
   "Febrero_2025":1726936,
   "Marzo_2025":2719486,
   "Abril_2025":1681156,
-  "Mayo_2025":1673656
+  "Mayo_2025":1673656,
+  "Junio_2025":0
  }
 ]

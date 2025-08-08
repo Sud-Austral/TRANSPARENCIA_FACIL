@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":847170,
   "Febrero_2024":722482,
   "Marzo_2024":687090,
@@ -14,11 +14,12 @@
   "Octubre_2024":740798,
   "Noviembre_2024":780385,
   "Diciembre_2024":745815,
-  "Enero_2025":937208,
-  "Febrero_2025":817503,
+  "Enero_2025":879808,
+  "Febrero_2025":932357,
   "Marzo_2025":783172,
   "Abril_2025":683386,
-  "Mayo_2025":765005
+  "Mayo_2025":765005,
+  "Junio_2025":791569
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
@@ -36,14 +37,15 @@
   "Noviembre_2024":1277661,
   "Diciembre_2024":1442623,
   "Enero_2025":1422601,
-  "Febrero_2025":1282658,
+  "Febrero_2025":1351717,
   "Marzo_2025":1255962,
   "Abril_2025":1495684,
-  "Mayo_2025":1469563
+  "Mayo_2025":1469563,
+  "Junio_2025":1466947
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1035469,
   "Febrero_2024":1118099,
   "Marzo_2024":896504,
@@ -60,7 +62,8 @@
   "Febrero_2025":987726,
   "Marzo_2025":1484808,
   "Abril_2025":1129739,
-  "Mayo_2025":1179045
+  "Mayo_2025":1179045,
+  "Junio_2025":1003918
  },
  {
   "organismo_nombre":"Municipalidad de San Juan de la Costa",
@@ -81,6 +84,7 @@
   "Febrero_2025":1865387,
   "Marzo_2025":2022903,
   "Abril_2025":2419925,
-  "Mayo_2025":2226035
+  "Mayo_2025":2226035,
+  "Junio_2025":2439997
  }
 ]

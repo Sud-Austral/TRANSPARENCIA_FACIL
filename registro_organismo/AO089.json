@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Hospital de Osorno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Hospital de Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":410,
   "Febrero_2024":284,
   "Marzo_2024":258,

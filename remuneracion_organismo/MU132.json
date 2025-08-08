@@ -18,11 +18,12 @@
   "Febrero_2025":960922,
   "Marzo_2025":997165,
   "Abril_2025":941578,
-  "Mayo_2025":958014
+  "Mayo_2025":958014,
+  "Junio_2025":972087
  },
  {
   "organismo_nombre":"Municipalidad de Lampa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":740622,
   "Febrero_2024":911427,
   "Marzo_2024":804843,
@@ -39,7 +40,8 @@
   "Febrero_2025":900876,
   "Marzo_2025":900877,
   "Abril_2025":874255,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Lampa",
@@ -60,6 +62,7 @@
   "Febrero_2025":2173618,
   "Marzo_2025":2146582,
   "Abril_2025":2221402,
-  "Mayo_2025":2219994
+  "Mayo_2025":2219994,
+  "Junio_2025":2228800
  }
 ]

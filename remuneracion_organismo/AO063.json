@@ -18,11 +18,12 @@
   "Febrero_2025":1480645,
   "Marzo_2025":1477141,
   "Abril_2025":1650673,
-  "Mayo_2025":0
+  "Mayo_2025":1598924,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de Lota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1501012,
   "Febrero_2024":1473343,
   "Marzo_2024":1393448,
@@ -39,7 +40,8 @@
   "Febrero_2025":2909336,
   "Marzo_2025":1081730,
   "Abril_2025":1137222,
-  "Mayo_2025":0
+  "Mayo_2025":1107525,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de Lota",
@@ -60,6 +62,7 @@
   "Febrero_2025":1804493,
   "Marzo_2025":1846253,
   "Abril_2025":1857126,
-  "Mayo_2025":0
+  "Mayo_2025":1796677,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":235,
   "Febrero_2024":237,
   "Marzo_2024":246,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":165,
   "Febrero_2024":185,
   "Marzo_2024":195,

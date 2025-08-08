@@ -18,11 +18,12 @@
   "Febrero_2025":1940538,
   "Marzo_2025":2432108,
   "Abril_2025":1905021,
-  "Mayo_2025":1881523
+  "Mayo_2025":1881523,
+  "Junio_2025":2415482
  },
  {
   "organismo_nombre":"Instituto Nacional del Tórax",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1359400,
   "Febrero_2024":1356100,
   "Marzo_2024":936500,
@@ -39,7 +40,8 @@
   "Febrero_2025":774643,
   "Marzo_2025":871756,
   "Abril_2025":796650,
-  "Mayo_2025":871756
+  "Mayo_2025":868645,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto Nacional del Tórax",
@@ -60,6 +62,7 @@
   "Febrero_2025":1846032,
   "Marzo_2025":2727045,
   "Abril_2025":2015533,
-  "Mayo_2025":1877702
+  "Mayo_2025":1877702,
+  "Junio_2025":2721138
  }
 ]

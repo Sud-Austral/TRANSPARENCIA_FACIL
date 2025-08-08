@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Olmué",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":909386,
   "Febrero_2024":890459,
   "Marzo_2024":878937,
@@ -18,7 +18,8 @@
   "Febrero_2025":641150,
   "Marzo_2025":912677,
   "Abril_2025":926402,
-  "Mayo_2025":884457
+  "Mayo_2025":884457,
+  "Junio_2025":896970
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
@@ -39,11 +40,12 @@
   "Febrero_2025":1371599,
   "Marzo_2025":1300692,
   "Abril_2025":1463617,
-  "Mayo_2025":1493665
+  "Mayo_2025":1493665,
+  "Junio_2025":1417527
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":563869,
   "Febrero_2024":712270,
   "Marzo_2024":705590,
@@ -59,8 +61,9 @@
   "Enero_2025":743425,
   "Febrero_2025":565545,
   "Marzo_2025":757206,
-  "Abril_2025":736976,
-  "Mayo_2025":0
+  "Abril_2025":735369,
+  "Mayo_2025":720033,
+  "Junio_2025":789048
  },
  {
   "organismo_nombre":"Municipalidad de Olmué",
@@ -81,6 +84,7 @@
   "Febrero_2025":1985292,
   "Marzo_2025":2115213,
   "Abril_2025":2379869,
-  "Mayo_2025":2288501
+  "Mayo_2025":2288501,
+  "Junio_2025":2180538
  }
 ]

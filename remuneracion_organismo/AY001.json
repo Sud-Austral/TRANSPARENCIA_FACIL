@@ -18,11 +18,12 @@
   "Febrero_2025":3044210,
   "Marzo_2025":3059732,
   "Abril_2025":2826619,
-  "Mayo_2025":2805192
+  "Mayo_2025":2805192,
+  "Junio_2025":3533392
  },
  {
   "organismo_nombre":"Instituto Nacional de Propiedad Industrial (INAPI)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3719543,
   "Febrero_2024":3719543,
   "Marzo_2024":3082420,
@@ -39,7 +40,8 @@
   "Febrero_2025":3457084,
   "Marzo_2025":3409881,
   "Abril_2025":3001612,
-  "Mayo_2025":3048997
+  "Mayo_2025":3048997,
+  "Junio_2025":2925276
  },
  {
   "organismo_nombre":"Instituto Nacional de Propiedad Industrial (INAPI)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3810726,
   "Marzo_2025":3783355,
   "Abril_2025":3531830,
-  "Mayo_2025":3531830
+  "Mayo_2025":3531830,
+  "Junio_2025":4329934
  }
 ]

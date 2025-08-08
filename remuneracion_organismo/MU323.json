@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Toltén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1284976,
   "Febrero_2024":1284976,
   "Marzo_2024":1284976,
@@ -18,7 +18,8 @@
   "Febrero_2025":1338945,
   "Marzo_2025":1338945,
   "Abril_2025":1338945,
-  "Mayo_2025":1338945
+  "Mayo_2025":1338945,
+  "Junio_2025":1338945
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1205108,
   "Marzo_2025":1129463,
   "Abril_2025":1334770,
-  "Mayo_2025":1585090
+  "Mayo_2025":1585090,
+  "Junio_2025":1295125
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":462228,
   "Febrero_2024":1381603,
   "Marzo_2024":1263177,
@@ -60,7 +62,8 @@
   "Febrero_2025":668767,
   "Marzo_2025":1264362,
   "Abril_2025":1183405,
-  "Mayo_2025":1167641
+  "Mayo_2025":1167641,
+  "Junio_2025":1185252
  },
  {
   "organismo_nombre":"Municipalidad de Toltén",
@@ -81,6 +84,7 @@
   "Febrero_2025":1889626,
   "Marzo_2025":1862609,
   "Abril_2025":2323687,
-  "Mayo_2025":2501344
+  "Mayo_2025":2501344,
+  "Junio_2025":2337071
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quemchi",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1339719,
   "Febrero_2024":1349477,
   "Marzo_2024":927146,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
@@ -39,11 +40,12 @@
   "Febrero_2025":1000083,
   "Marzo_2025":1304512,
   "Abril_2025":1255674,
-  "Mayo_2025":1224521
+  "Mayo_2025":1224521,
+  "Junio_2025":1542707
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":663581,
   "Febrero_2024":788190,
   "Marzo_2024":750154,
@@ -60,7 +62,8 @@
   "Febrero_2025":844537,
   "Marzo_2025":834850,
   "Abril_2025":822916,
-  "Mayo_2025":829806
+  "Mayo_2025":834133,
+  "Junio_2025":822075
  },
  {
   "organismo_nombre":"Municipalidad de Quemchi",
@@ -81,6 +84,7 @@
   "Febrero_2025":1665584,
   "Marzo_2025":2072461,
   "Abril_2025":2142775,
-  "Mayo_2025":2018715
+  "Mayo_2025":2018715,
+  "Junio_2025":2531394
  }
 ]

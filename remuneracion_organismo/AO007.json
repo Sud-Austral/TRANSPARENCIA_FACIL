@@ -18,11 +18,12 @@
   "Febrero_2025":1857021,
   "Marzo_2025":1873745,
   "Abril_2025":1893015,
-  "Mayo_2025":1867947
+  "Mayo_2025":1867947,
+  "Junio_2025":1939273
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Central",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1058190,
   "Febrero_2024":1220664,
   "Marzo_2024":1179738,
@@ -39,7 +40,8 @@
   "Febrero_2025":748512,
   "Marzo_2025":764440,
   "Abril_2025":702796,
-  "Mayo_2025":700426
+  "Mayo_2025":700426,
+  "Junio_2025":656538
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Central",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":2016988,
   "Abril_2025":1784815,
-  "Mayo_2025":1749182
+  "Mayo_2025":1749182,
+  "Junio_2025":2007294
  }
 ]

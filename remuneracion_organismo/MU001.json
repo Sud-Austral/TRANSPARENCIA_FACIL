@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":813705,
   "Febrero_2024":933184,
   "Marzo_2024":863958,
@@ -18,7 +18,8 @@
   "Febrero_2025":1216952,
   "Marzo_2025":821575,
   "Abril_2025":901750,
-  "Mayo_2025":1775000
+  "Mayo_2025":949777,
+  "Junio_2025":951772
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
@@ -39,16 +40,17 @@
   "Febrero_2025":1455318,
   "Marzo_2025":1386135,
   "Abril_2025":1435334,
-  "Mayo_2025":2100692
+  "Mayo_2025":1848505,
+  "Junio_2025":1475668
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
-  "base":"Contratohonorarios",
-  "Enero_2024":1013676,
+  "base":"Honorarios",
+  "Enero_2024":1049423,
   "Febrero_2024":1004310,
   "Marzo_2024":1028969,
   "Abril_2024":1045319,
-  "Mayo_2024":777617,
+  "Mayo_2024":810571,
   "Junio_2024":778773,
   "Julio_2024":713621,
   "Agosto_2024":704571,
@@ -56,11 +58,12 @@
   "Octubre_2024":770160,
   "Noviembre_2024":818835,
   "Diciembre_2024":879685,
-  "Enero_2025":950182,
-  "Febrero_2025":980232,
-  "Marzo_2025":1043068,
-  "Abril_2025":804406,
-  "Mayo_2025":0
+  "Enero_2025":958787,
+  "Febrero_2025":982133,
+  "Marzo_2025":1045263,
+  "Abril_2025":842824,
+  "Mayo_2025":856134,
+  "Junio_2025":855327
  },
  {
   "organismo_nombre":"Municipalidad de Algarrobo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1925718,
   "Marzo_2025":1976164,
   "Abril_2025":2466151,
-  "Mayo_2025":2792012
+  "Mayo_2025":2122648,
+  "Junio_2025":2405536
  }
 ]

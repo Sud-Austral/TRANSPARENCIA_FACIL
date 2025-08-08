@@ -18,11 +18,12 @@
   "Febrero_2025":1955753,
   "Marzo_2025":2296324,
   "Abril_2025":1894669,
-  "Mayo_2025":1871861
+  "Mayo_2025":1871861,
+  "Junio_2025":2395176
  },
  {
   "organismo_nombre":"Hospital de San Carlos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1600898,
   "Febrero_2024":1767696,
   "Marzo_2024":1482846,
@@ -39,7 +40,8 @@
   "Febrero_2025":1911462,
   "Marzo_2025":2116395,
   "Abril_2025":2074664,
-  "Mayo_2025":1519758
+  "Mayo_2025":1519758,
+  "Junio_2025":1707490
  },
  {
   "organismo_nombre":"Hospital de San Carlos",
@@ -60,6 +62,7 @@
   "Febrero_2025":1930289,
   "Marzo_2025":2615189,
   "Abril_2025":1798485,
-  "Mayo_2025":1691032
+  "Mayo_2025":1691032,
+  "Junio_2025":2863695
  }
 ]

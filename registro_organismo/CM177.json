@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Romeral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2,
   "Febrero_2024":2,
   "Marzo_2024":2,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Deporte de Romeral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":8,
   "Febrero_2024":12,
   "Marzo_2024":14,

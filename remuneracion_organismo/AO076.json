@@ -18,11 +18,12 @@
   "Febrero_2025":1696545,
   "Marzo_2025":1789559,
   "Abril_2025":1690072,
-  "Mayo_2025":1697492
+  "Mayo_2025":1697492,
+  "Junio_2025":1811215
  },
  {
   "organismo_nombre":"Instituto Nacional de Rehabilitación Pedro Aguirre Cerda",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":4982423,
   "Febrero_2024":4938543,
   "Marzo_2024":10371747,
@@ -39,7 +40,8 @@
   "Febrero_2025":2310058,
   "Marzo_2025":2310058,
   "Abril_2025":2255521,
-  "Mayo_2025":9297992
+  "Mayo_2025":9297992,
+  "Junio_2025":5638795
  },
  {
   "organismo_nombre":"Instituto Nacional de Rehabilitación Pedro Aguirre Cerda",
@@ -60,6 +62,7 @@
   "Febrero_2025":1998664,
   "Marzo_2025":2233569,
   "Abril_2025":2068579,
-  "Mayo_2025":2064975
+  "Mayo_2025":2064975,
+  "Junio_2025":2382501
  }
 ]

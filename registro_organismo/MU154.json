@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":280,
   "Febrero_2024":266,
   "Marzo_2024":265,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":17,
   "Febrero_2024":128,
   "Marzo_2024":94,

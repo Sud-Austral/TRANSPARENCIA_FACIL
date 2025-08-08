@@ -18,11 +18,12 @@
   "Febrero_2025":1420946,
   "Marzo_2025":2154466,
   "Abril_2025":1516598,
-  "Mayo_2025":1479201
+  "Mayo_2025":1479201,
+  "Junio_2025":2121000
  },
  {
   "organismo_nombre":"Municipalidad de Timaukel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2014130,
   "Febrero_2024":3478261,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":1570391,
   "Marzo_2025":1479541,
   "Abril_2025":1564465,
-  "Mayo_2025":3508772
+  "Mayo_2025":1071112,
+  "Junio_2025":1157043
  },
  {
   "organismo_nombre":"Municipalidad de Timaukel",
@@ -60,6 +62,7 @@
   "Febrero_2025":2894536,
   "Marzo_2025":3606871,
   "Abril_2025":2833094,
-  "Mayo_2025":2657085
+  "Mayo_2025":2657085,
+  "Junio_2025":3548975
  }
 ]

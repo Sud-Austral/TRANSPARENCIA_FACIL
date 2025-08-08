@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":926736,
   "Febrero_2024":844014,
   "Marzo_2024":835236,
@@ -18,7 +18,8 @@
   "Febrero_2025":981719,
   "Marzo_2025":936728,
   "Abril_2025":1015071,
-  "Mayo_2025":0
+  "Mayo_2025":1171086,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1227192,
   "Marzo_2025":1236808,
   "Abril_2025":1389406,
-  "Mayo_2025":1459224
+  "Mayo_2025":1620823,
+  "Junio_2025":1943460
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":696710,
   "Febrero_2024":610598,
   "Marzo_2024":732708,
@@ -56,11 +58,12 @@
   "Octubre_2024":656615,
   "Noviembre_2024":625397,
   "Diciembre_2024":709392,
-  "Enero_2025":1178406,
+  "Enero_2025":844300,
   "Febrero_2025":1023997,
   "Marzo_2025":563114,
   "Abril_2025":597893,
-  "Mayo_2025":0
+  "Mayo_2025":596513,
+  "Junio_2025":630020
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1713131,
   "Marzo_2025":1679006,
   "Abril_2025":2068742,
-  "Mayo_2025":1689788
+  "Mayo_2025":2171338,
+  "Junio_2025":2415549
  }
 ]

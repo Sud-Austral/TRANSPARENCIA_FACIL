@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Buin",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2195714,
   "Febrero_2024":2170000,
   "Marzo_2024":2170000,
@@ -18,7 +18,8 @@
   "Febrero_2025":2190476,
   "Marzo_2025":1812381,
   "Abril_2025":2318571,
-  "Mayo_2025":2171428
+  "Mayo_2025":2171428,
+  "Junio_2025":2537143
  },
  {
   "organismo_nombre":"Municipalidad de Buin",
@@ -39,11 +40,12 @@
   "Febrero_2025":1277410,
   "Marzo_2025":1285325,
   "Abril_2025":1356924,
-  "Mayo_2025":2100543
+  "Mayo_2025":2100543,
+  "Junio_2025":1349009
  },
  {
   "organismo_nombre":"Municipalidad de Buin",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":739177,
   "Febrero_2024":781114,
   "Marzo_2024":766137,
@@ -60,7 +62,8 @@
   "Febrero_2025":790504,
   "Marzo_2025":774983,
   "Abril_2025":806662,
-  "Mayo_2025":801898
+  "Mayo_2025":801898,
+  "Junio_2025":779257
  },
  {
   "organismo_nombre":"Municipalidad de Buin",
@@ -81,6 +84,7 @@
   "Febrero_2025":1812092,
   "Marzo_2025":1835535,
   "Abril_2025":1926817,
-  "Mayo_2025":3017994
+  "Mayo_2025":3017994,
+  "Junio_2025":1891273
  }
 ]

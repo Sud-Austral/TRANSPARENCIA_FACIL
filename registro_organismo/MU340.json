@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":282,
   "Febrero_2024":280,
   "Marzo_2024":233,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":801,
   "Febrero_2024":830,
   "Marzo_2024":759,

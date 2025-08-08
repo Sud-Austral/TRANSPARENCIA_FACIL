@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1452472,
   "Febrero_2024":1413098,
   "Marzo_2024":1308727,
@@ -18,7 +18,8 @@
   "Febrero_2025":1496733,
   "Marzo_2025":1379214,
   "Abril_2025":1332702,
-  "Mayo_2025":1289219
+  "Mayo_2025":1289219,
+  "Junio_2025":1336169
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
@@ -39,11 +40,12 @@
   "Febrero_2025":1703671,
   "Marzo_2025":1705836,
   "Abril_2025":1883022,
-  "Mayo_2025":1696884
+  "Mayo_2025":1696884,
+  "Junio_2025":1932624
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":675420,
   "Febrero_2024":1932241,
   "Marzo_2024":618240,
@@ -60,7 +62,8 @@
   "Febrero_2025":950216,
   "Marzo_2025":1142562,
   "Abril_2025":1552113,
-  "Mayo_2025":902747
+  "Mayo_2025":902747,
+  "Junio_2025":815330
  },
  {
   "organismo_nombre":"Corporación Municipal de Providencia",
@@ -81,6 +84,7 @@
   "Febrero_2025":2378457,
   "Marzo_2025":2446084,
   "Abril_2025":2693317,
-  "Mayo_2025":2357414
+  "Mayo_2025":2357414,
+  "Junio_2025":2778166
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":38,
   "Febrero_2024":79,
   "Marzo_2024":88,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":11,
   "Febrero_2024":12,
   "Marzo_2024":12,

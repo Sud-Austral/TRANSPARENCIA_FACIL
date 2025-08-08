@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Canela",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1186677,
   "Febrero_2024":949933,
   "Marzo_2024":537448,
@@ -18,7 +18,8 @@
   "Febrero_2025":918214,
   "Marzo_2025":598510,
   "Abril_2025":628001,
-  "Mayo_2025":620505
+  "Mayo_2025":620505,
+  "Junio_2025":627990
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
@@ -39,11 +40,12 @@
   "Febrero_2025":1462565,
   "Marzo_2025":1349262,
   "Abril_2025":1361524,
-  "Mayo_2025":1407291
+  "Mayo_2025":1366412,
+  "Junio_2025":1437241
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":899793,
   "Febrero_2024":743435,
   "Marzo_2024":735267,
@@ -60,7 +62,8 @@
   "Febrero_2025":1025172,
   "Marzo_2025":1019001,
   "Abril_2025":962078,
-  "Mayo_2025":1051109
+  "Mayo_2025":1136058,
+  "Junio_2025":952498
  },
  {
   "organismo_nombre":"Municipalidad de Canela",
@@ -81,6 +84,7 @@
   "Febrero_2025":1847777,
   "Marzo_2025":1820103,
   "Abril_2025":2130177,
-  "Mayo_2025":2107995
+  "Mayo_2025":1827690,
+  "Junio_2025":2117538
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Osorno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":858,
   "Febrero_2024":847,
   "Marzo_2024":851,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":33,
   "Febrero_2024":27,
   "Marzo_2024":48,

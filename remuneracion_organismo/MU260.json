@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rancagua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1134065,
   "Febrero_2024":1119911,
   "Marzo_2024":1202846,
@@ -18,7 +18,8 @@
   "Febrero_2025":1123786,
   "Marzo_2025":1233668,
   "Abril_2025":1107743,
-  "Mayo_2025":1922113
+  "Mayo_2025":1922113,
+  "Junio_2025":1254113
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
@@ -39,11 +40,12 @@
   "Febrero_2025":1332175,
   "Marzo_2025":1335094,
   "Abril_2025":1339926,
-  "Mayo_2025":2234966
+  "Mayo_2025":2234966,
+  "Junio_2025":1359213
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":942961,
   "Febrero_2024":935595,
   "Marzo_2024":915951,
@@ -60,7 +62,8 @@
   "Febrero_2025":972901,
   "Marzo_2025":1017344,
   "Abril_2025":952045,
-  "Mayo_2025":960331
+  "Mayo_2025":960331,
+  "Junio_2025":967348
  },
  {
   "organismo_nombre":"Municipalidad de Rancagua",
@@ -81,6 +84,7 @@
   "Febrero_2025":1781958,
   "Marzo_2025":1827023,
   "Abril_2025":1829006,
-  "Mayo_2025":2961387
+  "Mayo_2025":2961387,
+  "Junio_2025":1805186
  }
 ]

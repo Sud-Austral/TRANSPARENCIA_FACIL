@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Loncoche",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1182731,
   "Febrero_2024":948965,
   "Marzo_2024":839551,
@@ -18,7 +18,8 @@
   "Febrero_2025":1049473,
   "Marzo_2025":936422,
   "Abril_2025":956536,
-  "Mayo_2025":0
+  "Mayo_2025":939449,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
@@ -38,12 +39,13 @@
   "Enero_2025":1432838,
   "Febrero_2025":1060804,
   "Marzo_2025":1366047,
-  "Abril_2025":1555350,
-  "Mayo_2025":0
+  "Abril_2025":1399556,
+  "Mayo_2025":1479424,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1044586,
   "Febrero_2024":920610,
   "Marzo_2024":865358,
@@ -60,7 +62,8 @@
   "Febrero_2025":940180,
   "Marzo_2025":960660,
   "Abril_2025":1115983,
-  "Mayo_2025":0
+  "Mayo_2025":1123174,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Loncoche",
@@ -80,7 +83,8 @@
   "Enero_2025":2145808,
   "Febrero_2025":1681701,
   "Marzo_2025":1693026,
-  "Abril_2025":2019504,
-  "Mayo_2025":0
+  "Abril_2025":2098785,
+  "Mayo_2025":2227658,
+  "Junio_2025":0
  }
 ]

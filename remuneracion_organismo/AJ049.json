@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chiloé (SLEP Chiloé)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1354337,
   "Marzo_2025":1626286,
   "Abril_2025":1394230,
-  "Mayo_2025":1344546
+  "Mayo_2025":1344546,
+  "Junio_2025":1636667
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chiloé (SLEP Chiloé)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1849464,
   "Marzo_2025":1600756,
   "Abril_2025":1858699,
-  "Mayo_2025":1866372
+  "Mayo_2025":1866372,
+  "Junio_2025":1946431
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chiloé (SLEP Chiloé)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":2000000,
   "Marzo_2025":0,
   "Abril_2025":2000000,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Chiloé (SLEP Chiloé)",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":2439438,
   "Abril_2025":2538949,
-  "Mayo_2025":2476555
+  "Mayo_2025":2476555,
+  "Junio_2025":2537929
  }
 ]

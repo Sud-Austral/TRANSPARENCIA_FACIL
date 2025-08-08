@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Fomento Al Desarrollo Comunal y Productivo de La Florida (Cofodep)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":727619,
   "Febrero_2024":795331,
   "Marzo_2024":901517,
@@ -18,11 +18,12 @@
   "Febrero_2025":929459,
   "Marzo_2025":967087,
   "Abril_2025":977976,
-  "Mayo_2025":1117645
+  "Mayo_2025":1117645,
+  "Junio_2025":1017685
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento Al Desarrollo Comunal y Productivo de La Florida (Cofodep)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1284435,
   "Febrero_2024":857729,
   "Marzo_2024":1241026,
@@ -39,6 +40,7 @@
   "Febrero_2025":1063849,
   "Marzo_2025":1365789,
   "Abril_2025":763136,
-  "Mayo_2025":874709
+  "Mayo_2025":874709,
+  "Junio_2025":1029273
  }
 ]

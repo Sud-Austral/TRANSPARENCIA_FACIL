@@ -18,11 +18,12 @@
   "Febrero_2025":2577719,
   "Marzo_2025":2577734,
   "Abril_2025":1981027,
-  "Mayo_2025":1981926
+  "Mayo_2025":1981926,
+  "Junio_2025":3789040
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Los Andes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1234596,
   "Febrero_2024":1342647,
   "Marzo_2024":1342647,
@@ -33,13 +34,14 @@
   "Agosto_2024":1174699,
   "Septiembre_2024":1270584,
   "Octubre_2024":1266119,
-  "Noviembre_2024":1310283,
-  "Diciembre_2024":1718235,
-  "Enero_2025":1958921,
-  "Febrero_2025":1598303,
-  "Marzo_2025":1561834,
-  "Abril_2025":1410566,
-  "Mayo_2025":1437659
+  "Noviembre_2024":1396367,
+  "Diciembre_2024":1448292,
+  "Enero_2025":1622965,
+  "Febrero_2025":1622965,
+  "Marzo_2025":1622965,
+  "Abril_2025":1417111,
+  "Mayo_2025":1453045,
+  "Junio_2025":1497316
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Los Andes",
@@ -60,6 +62,7 @@
   "Febrero_2025":5413112,
   "Marzo_2025":5413112,
   "Abril_2025":4723515,
-  "Mayo_2025":4723515
+  "Mayo_2025":5757910,
+  "Junio_2025":0
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":3202693,
   "Marzo_2025":3185377,
   "Abril_2025":3186735,
-  "Mayo_2025":3188165
+  "Mayo_2025":3188165,
+  "Junio_2025":3207554
  },
  {
   "organismo_nombre":"Dirección Nacional de Fronteras y Límites del Estado (DIFROL)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2811550,
   "Febrero_2024":2811550,
   "Marzo_2024":2811550,
@@ -39,7 +40,8 @@
   "Febrero_2025":2684145,
   "Marzo_2025":2742564,
   "Abril_2025":2676509,
-  "Mayo_2025":2536029
+  "Mayo_2025":2536029,
+  "Junio_2025":2585085
  },
  {
   "organismo_nombre":"Dirección Nacional de Fronteras y Límites del Estado (DIFROL)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4468487,
   "Marzo_2025":4452535,
   "Abril_2025":4458381,
-  "Mayo_2025":4452118
+  "Mayo_2025":4452118,
+  "Junio_2025":4479918
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Quellón",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":953305,
   "Febrero_2024":915170,
   "Marzo_2024":945556,
@@ -9,7 +9,7 @@
   "Mayo_2024":994984,
   "Junio_2024":962571,
   "Julio_2024":965753,
-  "Agosto_2024":0,
+  "Agosto_2024":977860,
   "Septiembre_2024":969290,
   "Octubre_2024":1028579,
   "Noviembre_2024":972902,
@@ -18,7 +18,8 @@
   "Febrero_2025":94246,
   "Marzo_2025":2077386,
   "Abril_2025":2047500,
-  "Mayo_2025":2069810
+  "Mayo_2025":2069810,
+  "Junio_2025":2161303
  },
  {
   "organismo_nombre":"Corporación Municipal de Quellón",
@@ -39,11 +40,12 @@
   "Febrero_2025":993027,
   "Marzo_2025":1647012,
   "Abril_2025":1461601,
-  "Mayo_2025":1062925
+  "Mayo_2025":1062925,
+  "Junio_2025":1712794
  },
  {
   "organismo_nombre":"Corporación Municipal de Quellón",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":583708,
   "Febrero_2024":657707,
   "Marzo_2024":437757,
@@ -60,7 +62,8 @@
   "Febrero_2025":1081306,
   "Marzo_2025":1214997,
   "Abril_2025":1001237,
-  "Mayo_2025":550750
+  "Mayo_2025":550750,
+  "Junio_2025":1386800
  },
  {
   "organismo_nombre":"Corporación Municipal de Quellón",
@@ -81,6 +84,7 @@
   "Febrero_2025":1373436,
   "Marzo_2025":2108485,
   "Abril_2025":2252145,
-  "Mayo_2025":1546253
+  "Mayo_2025":1546253,
+  "Junio_2025":2663895
  }
 ]

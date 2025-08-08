@@ -18,11 +18,12 @@
   "Febrero_2025":2026138,
   "Marzo_2025":2611505,
   "Abril_2025":2612210,
-  "Mayo_2025":0
+  "Mayo_2025":2624999,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional de Turismo (SERNATUR)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1216184,
   "Febrero_2024":1273218,
   "Marzo_2024":1226961,
@@ -39,7 +40,8 @@
   "Febrero_2025":1267689,
   "Marzo_2025":1267747,
   "Abril_2025":1388438,
-  "Mayo_2025":0
+  "Mayo_2025":1348441,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Nacional de Turismo (SERNATUR)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4559352,
   "Marzo_2025":5623187,
   "Abril_2025":5602753,
-  "Mayo_2025":0
+  "Mayo_2025":5560087,
+  "Junio_2025":0
  }
 ]

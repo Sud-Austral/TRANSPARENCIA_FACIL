@@ -18,11 +18,12 @@
   "Febrero_2025":1882468,
   "Marzo_2025":2526181,
   "Abril_2025":1971900,
-  "Mayo_2025":1971900
+  "Mayo_2025":1971900,
+  "Junio_2025":3653152
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial del Bíobío",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1300143,
   "Febrero_2024":1300143,
   "Marzo_2024":1300143,
@@ -39,7 +40,8 @@
   "Febrero_2025":1344213,
   "Marzo_2025":1253280,
   "Abril_2025":1344213,
-  "Mayo_2025":1253280
+  "Mayo_2025":1253280,
+  "Junio_2025":1029224
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial del Bíobío",
@@ -60,6 +62,7 @@
   "Febrero_2025":4900028,
   "Marzo_2025":5589625,
   "Abril_2025":4900028,
-  "Mayo_2025":4900028
+  "Mayo_2025":4900028,
+  "Junio_2025":6968819
  }
 ]

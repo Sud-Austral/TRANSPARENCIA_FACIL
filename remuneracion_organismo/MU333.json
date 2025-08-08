@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1244943,
   "Febrero_2024":902564,
   "Marzo_2024":826128,
@@ -18,7 +18,8 @@
   "Febrero_2025":953557,
   "Marzo_2025":867222,
   "Abril_2025":910792,
-  "Mayo_2025":0
+  "Mayo_2025":911010,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
@@ -38,12 +39,13 @@
   "Enero_2025":1442066,
   "Febrero_2025":1222431,
   "Marzo_2025":1123076,
-  "Abril_2025":1094374,
-  "Mayo_2025":0
+  "Abril_2025":1284960,
+  "Mayo_2025":1330555,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":664268,
   "Febrero_2024":722475,
   "Marzo_2024":786623,
@@ -59,8 +61,9 @@
   "Enero_2025":834448,
   "Febrero_2025":789528,
   "Marzo_2025":746644,
-  "Abril_2025":773570,
-  "Mayo_2025":0
+  "Abril_2025":733623,
+  "Mayo_2025":1275846,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Vichuquén",
@@ -80,7 +83,8 @@
   "Enero_2025":2244532,
   "Febrero_2025":1972656,
   "Marzo_2025":1996767,
-  "Abril_2025":2166879,
-  "Mayo_2025":0
+  "Abril_2025":2284742,
+  "Mayo_2025":2653769,
+  "Junio_2025":0
  }
 ]

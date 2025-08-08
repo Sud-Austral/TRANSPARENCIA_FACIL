@@ -18,11 +18,12 @@
   "Febrero_2025":2870083,
   "Marzo_2025":4195259,
   "Abril_2025":2315053,
-  "Mayo_2025":2377770
+  "Mayo_2025":2373353,
+  "Junio_2025":4243867
  },
  {
   "organismo_nombre":"Dirección de Educación Pública",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2312520,
   "Febrero_2024":2508558,
   "Marzo_2024":3209094,
@@ -39,7 +40,8 @@
   "Febrero_2025":2409686,
   "Marzo_2025":2378610,
   "Abril_2025":2468528,
-  "Mayo_2025":2436995
+  "Mayo_2025":2436995,
+  "Junio_2025":2532564
  },
  {
   "organismo_nombre":"Dirección de Educación Pública",
@@ -60,6 +62,7 @@
   "Febrero_2025":5481912,
   "Marzo_2025":7131614,
   "Abril_2025":5095686,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":7941164
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional de La Araucanía (Gore Araucanía)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":17,
   "Febrero_2024":8,
   "Marzo_2024":0,

@@ -18,11 +18,12 @@
   "Febrero_2025":1525381,
   "Marzo_2025":1714356,
   "Abril_2025":1497299,
-  "Mayo_2025":1545659
+  "Mayo_2025":1545659,
+  "Junio_2025":1907030
  },
  {
   "organismo_nombre":"Hospital de Linares",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":79859,
   "Febrero_2024":0,
   "Marzo_2024":4490976,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":3347055,
   "Abril_2025":839062,
-  "Mayo_2025":1315441
+  "Mayo_2025":1315441,
+  "Junio_2025":1004266
  },
  {
   "organismo_nombre":"Hospital de Linares",
@@ -60,6 +62,7 @@
   "Febrero_2025":1747886,
   "Marzo_2025":2723672,
   "Abril_2025":1784964,
-  "Mayo_2025":1806643
+  "Mayo_2025":1806643,
+  "Junio_2025":2767833
  }
 ]

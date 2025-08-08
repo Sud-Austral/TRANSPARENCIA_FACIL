@@ -18,11 +18,12 @@
   "Febrero_2025":2617120,
   "Marzo_2025":2622388,
   "Abril_2025":2057167,
-  "Mayo_2025":0
+  "Mayo_2025":2057167,
+  "Junio_2025":3767133
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Arauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1394463,
   "Febrero_2024":1394463,
   "Marzo_2024":1394463,
@@ -39,7 +40,8 @@
   "Febrero_2025":1461762,
   "Marzo_2025":1461762,
   "Abril_2025":1461762,
-  "Mayo_2025":0
+  "Mayo_2025":1349376,
+  "Junio_2025":1461762
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Arauco",
@@ -60,6 +62,7 @@
   "Febrero_2025":4133713,
   "Marzo_2025":4138144,
   "Abril_2025":3642873,
-  "Mayo_2025":0
+  "Mayo_2025":3642873,
+  "Junio_2025":5143978
  }
 ]

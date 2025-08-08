@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Bernardo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1175283,
   "Febrero_2024":1205714,
   "Marzo_2024":1276045,
@@ -18,7 +18,8 @@
   "Febrero_2025":1307996,
   "Marzo_2025":1246528,
   "Abril_2025":1330030,
-  "Mayo_2025":0
+  "Mayo_2025":1183323,
+  "Junio_2025":1198455
  },
  {
   "organismo_nombre":"Municipalidad de San Bernardo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1986785,
   "Marzo_2025":1786107,
   "Abril_2025":1866053,
-  "Mayo_2025":0
+  "Mayo_2025":2771057,
+  "Junio_2025":1827107
  },
  {
   "organismo_nombre":"Municipalidad de San Bernardo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1033928,
   "Febrero_2024":1083430,
   "Marzo_2024":1081120,
@@ -60,7 +62,8 @@
   "Febrero_2025":1128039,
   "Marzo_2025":1128431,
   "Abril_2025":1094481,
-  "Mayo_2025":0
+  "Mayo_2025":1064422,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de San Bernardo",
@@ -81,6 +84,7 @@
   "Febrero_2025":2291242,
   "Marzo_2025":2119222,
   "Abril_2025":2191939,
-  "Mayo_2025":0
+  "Mayo_2025":3330685,
+  "Junio_2025":2257961
  }
 ]

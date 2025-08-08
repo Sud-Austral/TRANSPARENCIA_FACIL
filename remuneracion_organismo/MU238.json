@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1255980,
   "Febrero_2024":935172,
   "Marzo_2024":815544,
@@ -18,7 +18,8 @@
   "Febrero_2025":992620,
   "Marzo_2025":860125,
   "Abril_2025":869892,
-  "Mayo_2025":868541
+  "Mayo_2025":868541,
+  "Junio_2025":879832
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
@@ -39,11 +40,12 @@
   "Febrero_2025":1437940,
   "Marzo_2025":1508784,
   "Abril_2025":1629973,
-  "Mayo_2025":1500154
+  "Mayo_2025":1500154,
+  "Junio_2025":1668828
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":682037,
   "Febrero_2024":675486,
   "Marzo_2024":689808,
@@ -60,7 +62,8 @@
   "Febrero_2025":814205,
   "Marzo_2025":784174,
   "Abril_2025":775114,
-  "Mayo_2025":844117
+  "Mayo_2025":844117,
+  "Junio_2025":836607
  },
  {
   "organismo_nombre":"Municipalidad de Punitaqui",
@@ -81,6 +84,7 @@
   "Febrero_2025":2015247,
   "Marzo_2025":2079977,
   "Abril_2025":2348131,
-  "Mayo_2025":2040063
+  "Mayo_2025":2040063,
+  "Junio_2025":2390405
  }
 ]

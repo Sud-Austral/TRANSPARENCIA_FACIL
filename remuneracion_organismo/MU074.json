@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":2122254
+  "Mayo_2025":2122254,
+  "Junio_2025":1897286
  },
  {
   "organismo_nombre":"Municipalidad de Curaco de Vélez",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":912364,
   "Febrero_2024":757267,
   "Marzo_2024":982289,
@@ -39,7 +40,8 @@
   "Febrero_2025":887522,
   "Marzo_2025":885751,
   "Abril_2025":893653,
-  "Mayo_2025":928897
+  "Mayo_2025":928897,
+  "Junio_2025":841972
  },
  {
   "organismo_nombre":"Municipalidad de Curaco de Vélez",
@@ -60,6 +62,7 @@
   "Febrero_2025":2170311,
   "Marzo_2025":2700884,
   "Abril_2025":2202199,
-  "Mayo_2025":3312361
+  "Mayo_2025":3312361,
+  "Junio_2025":2650348
  }
 ]

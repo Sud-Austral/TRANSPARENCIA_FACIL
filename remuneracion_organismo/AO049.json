@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud de La Araucanía",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1186867,
   "Febrero_2024":1359196,
   "Marzo_2024":1364813,
@@ -18,7 +18,8 @@
   "Febrero_2025":1378034,
   "Marzo_2025":1378721,
   "Abril_2025":1371232,
-  "Mayo_2025":1378721
+  "Mayo_2025":1378721,
+  "Junio_2025":1169033
  },
  {
   "organismo_nombre":"SEREMI de Salud de La Araucanía",
@@ -39,7 +40,8 @@
   "Febrero_2025":1892221,
   "Marzo_2025":5063933,
   "Abril_2025":1938625,
-  "Mayo_2025":1927880
+  "Mayo_2025":1927880,
+  "Junio_2025":2517028
  },
  {
   "organismo_nombre":"SEREMI de Salud de La Araucanía",
@@ -60,6 +62,7 @@
   "Febrero_2025":3536537,
   "Marzo_2025":9076493,
   "Abril_2025":3405984,
-  "Mayo_2025":3406164
+  "Mayo_2025":3406164,
+  "Junio_2025":4461632
  }
 ]

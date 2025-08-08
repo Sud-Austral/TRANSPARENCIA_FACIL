@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San José de Maipo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1001672,
   "Febrero_2024":856709,
   "Marzo_2024":880607,
@@ -18,7 +18,8 @@
   "Febrero_2025":963603,
   "Marzo_2025":962483,
   "Abril_2025":1021634,
-  "Mayo_2025":1925777
+  "Mayo_2025":1925777,
+  "Junio_2025":1119669
  },
  {
   "organismo_nombre":"Municipalidad de San José de Maipo",
@@ -39,7 +40,8 @@
   "Febrero_2025":1442860,
   "Marzo_2025":1452685,
   "Abril_2025":1394573,
-  "Mayo_2025":1357066
+  "Mayo_2025":1357066,
+  "Junio_2025":1370841
  },
  {
   "organismo_nombre":"Municipalidad de San José de Maipo",
@@ -60,6 +62,7 @@
   "Febrero_2025":1953267,
   "Marzo_2025":2002233,
   "Abril_2025":1993820,
-  "Mayo_2025":1964575
+  "Mayo_2025":1964575,
+  "Junio_2025":1983647
  }
 ]

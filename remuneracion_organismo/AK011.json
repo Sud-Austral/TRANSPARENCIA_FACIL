@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Región Bío Bío (CAJBIOBIO)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1853967,
   "Febrero_2024":2170963,
   "Marzo_2024":2218794,
@@ -18,11 +18,12 @@
   "Febrero_2025":1817873,
   "Marzo_2025":2317800,
   "Abril_2025":1820045,
-  "Mayo_2025":1825337
+  "Mayo_2025":1825337,
+  "Junio_2025":2380774
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Región Bío Bío (CAJBIOBIO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1600000,
   "Febrero_2024":1600000,
   "Marzo_2024":1533333,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

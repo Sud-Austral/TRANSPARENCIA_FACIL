@@ -18,11 +18,12 @@
   "Febrero_2025":2061023,
   "Marzo_2025":2062502,
   "Abril_2025":1591480,
-  "Mayo_2025":0
+  "Mayo_2025":1591480,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Linares",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":840538,
   "Febrero_2024":819435,
   "Marzo_2024":776567,
@@ -39,7 +40,8 @@
   "Febrero_2025":852374,
   "Marzo_2025":764850,
   "Abril_2025":747564,
-  "Mayo_2025":0
+  "Mayo_2025":808185,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Linares",
@@ -60,6 +62,7 @@
   "Febrero_2025":2549659,
   "Marzo_2025":2549659,
   "Abril_2025":2141234,
-  "Mayo_2025":0
+  "Mayo_2025":2141234,
+  "Junio_2025":0
  }
 ]

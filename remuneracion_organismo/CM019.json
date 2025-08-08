@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":1064850,
   "Marzo_2024":838935,
@@ -18,7 +18,8 @@
   "Febrero_2025":1191555,
   "Marzo_2025":1054089,
   "Abril_2025":1060251,
-  "Mayo_2025":0
+  "Mayo_2025":1000422,
+  "Junio_2025":1071030
  },
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
@@ -39,11 +40,12 @@
   "Febrero_2025":1407550,
   "Marzo_2025":1357586,
   "Abril_2025":1600594,
-  "Mayo_2025":0
+  "Mayo_2025":1359433,
+  "Junio_2025":1613626
  },
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":519625,
   "Febrero_2024":478905,
   "Marzo_2024":510255,
@@ -60,7 +62,8 @@
   "Febrero_2025":483243,
   "Marzo_2025":489219,
   "Abril_2025":497458,
-  "Mayo_2025":0
+  "Mayo_2025":561005,
+  "Junio_2025":532681
  },
  {
   "organismo_nombre":"Corporación Municipal de Quilpué",
@@ -81,6 +84,7 @@
   "Febrero_2025":2336037,
   "Marzo_2025":2220654,
   "Abril_2025":2541767,
-  "Mayo_2025":0
+  "Mayo_2025":2170706,
+  "Junio_2025":2574945
  }
 ]

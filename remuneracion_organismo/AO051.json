@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1006284,
   "Febrero_2024":988393,
   "Marzo_2024":1053960,
@@ -18,7 +18,8 @@
   "Febrero_2025":663036,
   "Marzo_2025":419923,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
@@ -39,11 +40,12 @@
   "Febrero_2025":1926304,
   "Marzo_2025":4811227,
   "Abril_2025":1946698,
-  "Mayo_2025":1898946
+  "Mayo_2025":1898946,
+  "Junio_2025":2511785
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":209867,
   "Febrero_2024":209867,
   "Marzo_2024":209867,
@@ -60,7 +62,8 @@
   "Febrero_2025":209867,
   "Marzo_2025":209867,
   "Abril_2025":209867,
-  "Mayo_2025":104933
+  "Mayo_2025":104933,
+  "Junio_2025":209867
  },
  {
   "organismo_nombre":"SEREMI de Salud región de Los Lagos",
@@ -81,6 +84,7 @@
   "Febrero_2025":3073219,
   "Marzo_2025":8063662,
   "Abril_2025":2690955,
-  "Mayo_2025":2996849
+  "Mayo_2025":2996849,
+  "Junio_2025":3946648
  }
 ]

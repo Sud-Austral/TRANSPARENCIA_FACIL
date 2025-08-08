@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Educación Salud y Menores de Puerto Natales",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1645280,
   "Febrero_2024":1471467,
   "Marzo_2024":1701117,
@@ -18,7 +18,8 @@
   "Febrero_2025":1623382,
   "Marzo_2025":1625864,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación de Educación Salud y Menores de Puerto Natales",
@@ -38,12 +39,13 @@
   "Enero_2025":2167222,
   "Febrero_2025":1837116,
   "Marzo_2025":2499310,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":2286359,
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación de Educación Salud y Menores de Puerto Natales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":978534,
   "Febrero_2024":1036626,
   "Marzo_2024":1039988,
@@ -60,7 +62,8 @@
   "Febrero_2025":990395,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación de Educación Salud y Menores de Puerto Natales",
@@ -80,7 +83,8 @@
   "Enero_2025":2648507,
   "Febrero_2025":2299079,
   "Marzo_2025":3038923,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":3109173,
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

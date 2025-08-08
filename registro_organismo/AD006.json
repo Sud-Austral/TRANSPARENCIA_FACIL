@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Ejército de Chile",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2688,
   "Febrero_2024":2672,
   "Marzo_2024":2634,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Ejército de Chile",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":842,
   "Febrero_2024":838,
   "Marzo_2024":1082,

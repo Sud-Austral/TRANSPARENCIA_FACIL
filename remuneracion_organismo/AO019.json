@@ -18,11 +18,12 @@
   "Febrero_2025":2034838,
   "Marzo_2025":2203466,
   "Abril_2025":2179994,
-  "Mayo_2025":2133460
+  "Mayo_2025":2133460,
+  "Junio_2025":2251220
  },
  {
   "organismo_nombre":"Servicio de Salud Atacama",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3948170,
   "Febrero_2024":2299390,
   "Marzo_2024":2947057,
@@ -39,7 +40,8 @@
   "Febrero_2025":4000962,
   "Marzo_2025":984696,
   "Abril_2025":1759295,
-  "Mayo_2025":1228613
+  "Mayo_2025":1228613,
+  "Junio_2025":1187713
  },
  {
   "organismo_nombre":"Servicio de Salud Atacama",
@@ -60,6 +62,7 @@
   "Febrero_2025":1858634,
   "Marzo_2025":2186763,
   "Abril_2025":1935412,
-  "Mayo_2025":1918069
+  "Mayo_2025":1918069,
+  "Junio_2025":2276269
  }
 ]

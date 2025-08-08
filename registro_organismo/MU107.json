@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Huara",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":82,
   "Febrero_2024":83,
   "Marzo_2024":83,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Huara",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":114,
   "Febrero_2024":219,
   "Marzo_2024":236,

@@ -18,11 +18,12 @@
   "Febrero_2025":3835031,
   "Marzo_2025":3846892,
   "Abril_2025":3516818,
-  "Mayo_2025":0
+  "Mayo_2025":3536163,
+  "Junio_2025":4458274
  },
  {
   "organismo_nombre":"Superintendencia de Seguridad Social (SUSESO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2106023,
   "Febrero_2024":1977732,
   "Marzo_2024":1992762,
@@ -39,7 +40,8 @@
   "Febrero_2025":2581185,
   "Marzo_2025":2377426,
   "Abril_2025":2336979,
-  "Mayo_2025":2296555
+  "Mayo_2025":2296555,
+  "Junio_2025":2258102
  },
  {
   "organismo_nombre":"Superintendencia de Seguridad Social (SUSESO)",
@@ -60,6 +62,7 @@
   "Febrero_2025":7713391,
   "Marzo_2025":7742316,
   "Abril_2025":7161109,
-  "Mayo_2025":7162023
+  "Mayo_2025":7162023,
+  "Junio_2025":8628546
  }
 ]

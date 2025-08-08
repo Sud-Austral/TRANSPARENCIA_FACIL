@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Mostazal",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1237247,
   "Febrero_2024":848171,
   "Marzo_2024":1114326,
@@ -17,8 +17,9 @@
   "Enero_2025":968278,
   "Febrero_2025":892968,
   "Marzo_2025":870745,
-  "Abril_2025":790696,
-  "Mayo_2025":791968
+  "Abril_2025":874194,
+  "Mayo_2025":933623,
+  "Junio_2025":791968
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
@@ -38,12 +39,13 @@
   "Enero_2025":1591274,
   "Febrero_2025":1100613,
   "Marzo_2025":1293045,
-  "Abril_2025":1657744,
-  "Mayo_2025":1583103
+  "Abril_2025":1159245,
+  "Mayo_2025":1565886,
+  "Junio_2025":2192125
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":499737,
   "Febrero_2024":859222,
   "Marzo_2024":739069,
@@ -59,8 +61,9 @@
   "Enero_2025":954497,
   "Febrero_2025":869508,
   "Marzo_2025":896433,
-  "Abril_2025":729372,
-  "Mayo_2025":792440
+  "Abril_2025":883812,
+  "Mayo_2025":792440,
+  "Junio_2025":686422
  },
  {
   "organismo_nombre":"Municipalidad de Mostazal",
@@ -80,7 +83,8 @@
   "Enero_2025":2302220,
   "Febrero_2025":1971175,
   "Marzo_2025":2039210,
-  "Abril_2025":3026425,
-  "Mayo_2025":2007802
+  "Abril_2025":2689063,
+  "Mayo_2025":2293262,
+  "Junio_2025":3173945
  }
 ]

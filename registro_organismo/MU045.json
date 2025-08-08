@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cholchol",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":251,
   "Febrero_2024":142,
   "Marzo_2024":148,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":41,
   "Febrero_2024":247,
   "Marzo_2024":257,

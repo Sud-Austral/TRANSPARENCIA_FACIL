@@ -17,12 +17,13 @@
   "Enero_2025":2015539,
   "Febrero_2025":1958694,
   "Marzo_2025":3601997,
-  "Abril_2025":1992540,
-  "Mayo_2025":2025834
+  "Abril_2025":1964963,
+  "Mayo_2025":2025834,
+  "Junio_2025":3658440
  },
  {
   "organismo_nombre":"Instituto Nacional de Hidráulica (INH)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":656416,
   "Febrero_2024":656416,
   "Marzo_2024":656416,
@@ -39,7 +40,8 @@
   "Febrero_2025":3212833,
   "Marzo_2025":3212833,
   "Abril_2025":3212833,
-  "Mayo_2025":3800000
+  "Mayo_2025":3800000,
+  "Junio_2025":4116862
  },
  {
   "organismo_nombre":"Instituto Nacional de Hidráulica (INH)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3340789,
   "Marzo_2025":5774708,
   "Abril_2025":3510018,
-  "Mayo_2025":3499791
+  "Mayo_2025":3499791,
+  "Junio_2025":5941681
  }
 ]

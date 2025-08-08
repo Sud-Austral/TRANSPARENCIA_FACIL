@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Paillaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1120384,
   "Febrero_2024":929491,
   "Marzo_2024":879499,
@@ -18,7 +18,8 @@
   "Febrero_2025":1052059,
   "Marzo_2025":1204119,
   "Abril_2025":1702519,
-  "Mayo_2025":1820961
+  "Mayo_2025":1820961,
+  "Junio_2025":1641999
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
@@ -39,28 +40,30 @@
   "Febrero_2025":1109501,
   "Marzo_2025":1175153,
   "Abril_2025":1046071,
-  "Mayo_2025":1711583
+  "Mayo_2025":1371793,
+  "Junio_2025":1423246
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":818904,
   "Febrero_2024":746617,
   "Marzo_2024":747569,
   "Abril_2024":734407,
   "Mayo_2024":713309,
   "Junio_2024":544913,
-  "Julio_2024":583166,
-  "Agosto_2024":676928,
-  "Septiembre_2024":607939,
-  "Octubre_2024":574519,
-  "Noviembre_2024":592517,
+  "Julio_2024":657523,
+  "Agosto_2024":732405,
+  "Septiembre_2024":696513,
+  "Octubre_2024":682268,
+  "Noviembre_2024":631811,
   "Diciembre_2024":641005,
   "Enero_2025":680553,
   "Febrero_2025":832427,
   "Marzo_2025":822006,
-  "Abril_2025":759113,
-  "Mayo_2025":1000864
+  "Abril_2025":702999,
+  "Mayo_2025":1000864,
+  "Junio_2025":753071
  },
  {
   "organismo_nombre":"Municipalidad de Paillaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1567115,
   "Marzo_2025":1632278,
   "Abril_2025":1743047,
-  "Mayo_2025":0
+  "Mayo_2025":1918336,
+  "Junio_2025":2093639
  }
 ]

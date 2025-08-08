@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":996410,
   "Febrero_2024":985550,
   "Marzo_2024":1099442,
@@ -18,7 +18,8 @@
   "Febrero_2025":1221583,
   "Marzo_2025":1090200,
   "Abril_2025":1261351,
-  "Mayo_2025":1121337
+  "Mayo_2025":1121337,
+  "Junio_2025":1172943
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
@@ -39,11 +40,12 @@
   "Febrero_2025":1433657,
   "Marzo_2025":1420312,
   "Abril_2025":1770771,
-  "Mayo_2025":1421983
+  "Mayo_2025":1421983,
+  "Junio_2025":1787296
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":641322,
   "Febrero_2024":477510,
   "Marzo_2024":418604,
@@ -60,7 +62,8 @@
   "Febrero_2025":332762,
   "Marzo_2025":480016,
   "Abril_2025":495173,
-  "Mayo_2025":578732
+  "Mayo_2025":578732,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Tiltil",
@@ -81,6 +84,7 @@
   "Febrero_2025":1643482,
   "Marzo_2025":1665979,
   "Abril_2025":2337802,
-  "Mayo_2025":1656598
+  "Mayo_2025":1656598,
+  "Junio_2025":2327924
  }
 ]

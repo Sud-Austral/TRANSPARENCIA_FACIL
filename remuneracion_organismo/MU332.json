@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Valparaíso",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1062878,
   "Febrero_2024":985064,
   "Marzo_2024":908275,
@@ -18,7 +18,8 @@
   "Febrero_2025":1122450,
   "Marzo_2025":1017842,
   "Abril_2025":1041869,
-  "Mayo_2025":995062
+  "Mayo_2025":995062,
+  "Junio_2025":1048864
  },
  {
   "organismo_nombre":"Municipalidad de Valparaíso",
@@ -39,11 +40,12 @@
   "Febrero_2025":1620257,
   "Marzo_2025":1521830,
   "Abril_2025":1920200,
-  "Mayo_2025":1875927
+  "Mayo_2025":1875927,
+  "Junio_2025":1911993
  },
  {
   "organismo_nombre":"Municipalidad de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":879448,
   "Febrero_2024":876723,
   "Marzo_2024":976450,
@@ -60,7 +62,8 @@
   "Febrero_2025":981276,
   "Marzo_2025":974055,
   "Abril_2025":944762,
-  "Mayo_2025":969650
+  "Mayo_2025":969650,
+  "Junio_2025":949061
  },
  {
   "organismo_nombre":"Municipalidad de Valparaíso",
@@ -81,6 +84,7 @@
   "Febrero_2025":1526588,
   "Marzo_2025":1548355,
   "Abril_2025":1980833,
-  "Mayo_2025":1953884
+  "Mayo_2025":1953884,
+  "Junio_2025":1978769
  }
 ]

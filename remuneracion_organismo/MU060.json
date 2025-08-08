@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1155588,
   "Febrero_2024":550095,
   "Marzo_2024":624368,
@@ -18,7 +18,8 @@
   "Febrero_2025":657419,
   "Marzo_2025":560368,
   "Abril_2025":645323,
-  "Mayo_2025":602405
+  "Mayo_2025":602405,
+  "Junio_2025":643375
  },
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
@@ -39,11 +40,12 @@
   "Febrero_2025":1559796,
   "Marzo_2025":1447197,
   "Abril_2025":1572628,
-  "Mayo_2025":1440099
+  "Mayo_2025":1440099,
+  "Junio_2025":1638807
  },
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":594468,
   "Febrero_2024":677165,
   "Marzo_2024":682552,
@@ -59,8 +61,9 @@
   "Enero_2025":615554,
   "Febrero_2025":654171,
   "Marzo_2025":660207,
-  "Abril_2025":764448,
-  "Mayo_2025":794846
+  "Abril_2025":638295,
+  "Mayo_2025":622181,
+  "Junio_2025":694169
  },
  {
   "organismo_nombre":"Municipalidad de Combarbalá",
@@ -81,6 +84,7 @@
   "Febrero_2025":2106058,
   "Marzo_2025":2085154,
   "Abril_2025":2264820,
-  "Mayo_2025":2125869
+  "Mayo_2025":2125869,
+  "Junio_2025":2265418
  }
 ]

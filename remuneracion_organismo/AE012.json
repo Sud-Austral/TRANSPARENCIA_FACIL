@@ -18,11 +18,12 @@
   "Febrero_2025":4106603,
   "Marzo_2025":4127776,
   "Abril_2025":4108922,
-  "Mayo_2025":3833481
+  "Mayo_2025":3833481,
+  "Junio_2025":4811678
  },
  {
   "organismo_nombre":"Superintendencia de Casinos de Juego (SCJ)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3000000,
   "Febrero_2024":2772947,
   "Marzo_2024":1876965,
@@ -39,7 +40,8 @@
   "Febrero_2025":7000000,
   "Marzo_2025":7000000,
   "Abril_2025":0,
-  "Mayo_2025":520467
+  "Mayo_2025":520467,
+  "Junio_2025":409356
  },
  {
   "organismo_nombre":"Superintendencia de Casinos de Juego (SCJ)",
@@ -60,6 +62,7 @@
   "Febrero_2025":9759309,
   "Marzo_2025":9889602,
   "Abril_2025":9890668,
-  "Mayo_2025":9084397
+  "Mayo_2025":9084397,
+  "Junio_2025":11579130
  }
 ]

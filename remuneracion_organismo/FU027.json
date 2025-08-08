@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Teatro Regional Del Biobío",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1256455,
   "Febrero_2024":1300414,
   "Marzo_2024":1652417,
@@ -18,11 +18,12 @@
   "Febrero_2025":1272073,
   "Marzo_2025":1568801,
   "Abril_2025":1307929,
-  "Mayo_2025":1060894
+  "Mayo_2025":1060894,
+  "Junio_2025":1097349
  },
  {
   "organismo_nombre":"Corporación Teatro Regional Del Biobío",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":539718,
   "Febrero_2024":671549,
   "Marzo_2024":57647,
@@ -39,6 +40,7 @@
   "Febrero_2025":194114,
   "Marzo_2025":1065225,
   "Abril_2025":472391,
-  "Mayo_2025":181245
+  "Mayo_2025":181245,
+  "Junio_2025":210552
  }
 ]

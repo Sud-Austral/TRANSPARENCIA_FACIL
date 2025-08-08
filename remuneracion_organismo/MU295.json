@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":864341,
   "Marzo_2024":749583,
@@ -18,7 +18,8 @@
   "Febrero_2025":883879,
   "Marzo_2025":775561,
   "Abril_2025":842312,
-  "Mayo_2025":787675
+  "Mayo_2025":787675,
+  "Junio_2025":800419
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
@@ -39,11 +40,12 @@
   "Febrero_2025":1315376,
   "Marzo_2025":1326860,
   "Abril_2025":1515525,
-  "Mayo_2025":1468531
+  "Mayo_2025":1483642,
+  "Junio_2025":1509449
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":682787,
   "Febrero_2024":818222,
   "Marzo_2024":838246,
@@ -60,7 +62,8 @@
   "Febrero_2025":764173,
   "Marzo_2025":892242,
   "Abril_2025":797080,
-  "Mayo_2025":835084
+  "Mayo_2025":856111,
+  "Junio_2025":823582
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
@@ -81,6 +84,7 @@
   "Febrero_2025":2067390,
   "Marzo_2025":2085136,
   "Abril_2025":2381085,
-  "Mayo_2025":1626100
+  "Mayo_2025":1626100,
+  "Junio_2025":2246502
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2717048,
   "Marzo_2025":4433393,
   "Abril_2025":2679148,
-  "Mayo_2025":2747411
+  "Mayo_2025":2747411,
+  "Junio_2025":4321066
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Los Parques",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Los Parques",
@@ -60,6 +62,7 @@
   "Febrero_2025":5180468,
   "Marzo_2025":8018177,
   "Abril_2025":8039177,
-  "Mayo_2025":4374846
+  "Mayo_2025":4374846,
+  "Junio_2025":6389154
  }
 ]

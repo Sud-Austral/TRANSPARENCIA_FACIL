@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Colbún",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":858799,
   "Febrero_2024":870245,
   "Marzo_2024":834911,
@@ -18,7 +18,8 @@
   "Febrero_2025":888688,
   "Marzo_2025":873658,
   "Abril_2025":871695,
-  "Mayo_2025":880811
+  "Mayo_2025":880811,
+  "Junio_2025":974639
  },
  {
   "organismo_nombre":"Municipalidad de Colbún",
@@ -38,12 +39,13 @@
   "Enero_2025":1343790,
   "Febrero_2025":1349489,
   "Marzo_2025":1275416,
-  "Abril_2025":1409019,
-  "Mayo_2025":1403015
+  "Abril_2025":1504669,
+  "Mayo_2025":1403015,
+  "Junio_2025":1518782
  },
  {
   "organismo_nombre":"Municipalidad de Colbún",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":715338,
   "Febrero_2024":641864,
   "Marzo_2024":760767,
@@ -60,7 +62,8 @@
   "Febrero_2025":692378,
   "Marzo_2025":760045,
   "Abril_2025":701007,
-  "Mayo_2025":674330
+  "Mayo_2025":674330,
+  "Junio_2025":741660
  },
  {
   "organismo_nombre":"Municipalidad de Colbún",
@@ -80,7 +83,8 @@
   "Enero_2025":1744250,
   "Febrero_2025":1997215,
   "Marzo_2025":1751103,
-  "Abril_2025":2048297,
-  "Mayo_2025":1870089
+  "Abril_2025":2187578,
+  "Mayo_2025":1870089,
+  "Junio_2025":2241442
  }
 ]

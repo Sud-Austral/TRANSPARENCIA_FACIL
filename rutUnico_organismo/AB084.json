@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional del Bío Bío (Gore Bío Bío)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional del Bío Bío (Gore Bío Bío)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":12,
   "Febrero_2024":13,
   "Marzo_2024":13,

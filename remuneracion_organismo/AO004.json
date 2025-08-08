@@ -18,11 +18,12 @@
   "Febrero_2025":1720494,
   "Marzo_2025":5806426,
   "Abril_2025":1756810,
-  "Mayo_2025":1729876
+  "Mayo_2025":1729876,
+  "Junio_2025":2104144
  },
  {
   "organismo_nombre":"Fondo Nacional de Salud (FONASA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3168992,
   "Febrero_2024":2356261,
   "Marzo_2024":2579328,
@@ -39,7 +40,8 @@
   "Febrero_2025":2714211,
   "Marzo_2025":4500682,
   "Abril_2025":4523711,
-  "Mayo_2025":4591946
+  "Mayo_2025":4591946,
+  "Junio_2025":4591946
  },
  {
   "organismo_nombre":"Fondo Nacional de Salud (FONASA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":2016110,
   "Marzo_2025":7259578,
   "Abril_2025":2041016,
-  "Mayo_2025":2030382
+  "Mayo_2025":2030382,
+  "Junio_2025":2455258
  }
 ]

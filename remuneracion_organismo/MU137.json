@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lebu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":862257,
   "Febrero_2024":838863,
   "Marzo_2024":831822,
@@ -18,7 +18,8 @@
   "Febrero_2025":1022432,
   "Marzo_2025":950400,
   "Abril_2025":937099,
-  "Mayo_2025":933511
+  "Mayo_2025":933511,
+  "Junio_2025":945016
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
@@ -39,11 +40,12 @@
   "Febrero_2025":1377063,
   "Marzo_2025":1325377,
   "Abril_2025":1394818,
-  "Mayo_2025":1547346
+  "Mayo_2025":1547346,
+  "Junio_2025":1444799
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":514804,
   "Febrero_2024":511882,
   "Marzo_2024":519089,
@@ -60,7 +62,8 @@
   "Febrero_2025":1001881,
   "Marzo_2025":962659,
   "Abril_2025":963964,
-  "Mayo_2025":897577
+  "Mayo_2025":897577,
+  "Junio_2025":850738
  },
  {
   "organismo_nombre":"Municipalidad de Lebu",
@@ -81,6 +84,7 @@
   "Febrero_2025":2138763,
   "Marzo_2025":2121190,
   "Abril_2025":2277461,
-  "Mayo_2025":1898096
+  "Mayo_2025":1898096,
+  "Junio_2025":2268995
  }
 ]

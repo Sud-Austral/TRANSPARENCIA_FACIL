@@ -18,11 +18,12 @@
   "Febrero_2025":1495226,
   "Marzo_2025":0,
   "Abril_2025":1523400,
-  "Mayo_2025":1528875
+  "Mayo_2025":1528875,
+  "Junio_2025":1772173
  },
  {
   "organismo_nombre":"Hospital La Serena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1748446,
   "Febrero_2024":3352748,
   "Marzo_2024":950018,
@@ -39,7 +40,8 @@
   "Febrero_2025":1049004,
   "Marzo_2025":1028992,
   "Abril_2025":1177223,
-  "Mayo_2025":1106815
+  "Mayo_2025":1106815,
+  "Junio_2025":1044809
  },
  {
   "organismo_nombre":"Hospital La Serena",
@@ -60,6 +62,7 @@
   "Febrero_2025":1957207,
   "Marzo_2025":3002578,
   "Abril_2025":2020362,
-  "Mayo_2025":2003330
+  "Mayo_2025":2003330,
+  "Junio_2025":3081023
  }
 ]

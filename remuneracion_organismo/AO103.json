@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Hospital El Pino",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3131779,
   "Febrero_2024":2241485,
   "Marzo_2024":2564097,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":2493330,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital El Pino",
@@ -39,11 +40,12 @@
   "Febrero_2025":1421684,
   "Marzo_2025":1596396,
   "Abril_2025":1503213,
-  "Mayo_2025":1532970
+  "Mayo_2025":1532970,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital El Pino",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1860847,
   "Febrero_2024":1790615,
   "Marzo_2024":2071446,
@@ -60,7 +62,8 @@
   "Febrero_2025":1751254,
   "Marzo_2025":1691702,
   "Abril_2025":1798036,
-  "Mayo_2025":1975767
+  "Mayo_2025":1975767,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital El Pino",
@@ -81,6 +84,7 @@
   "Febrero_2025":1546110,
   "Marzo_2025":1960042,
   "Abril_2025":0,
-  "Mayo_2025":1764544
+  "Mayo_2025":1764544,
+  "Junio_2025":0
  }
 ]

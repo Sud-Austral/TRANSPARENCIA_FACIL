@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Caja de Previsión de la Defensa Nacional (CAPREDENA)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":779,
   "Febrero_2024":787,
   "Marzo_2024":798,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Caja de Previsión de la Defensa Nacional (CAPREDENA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,

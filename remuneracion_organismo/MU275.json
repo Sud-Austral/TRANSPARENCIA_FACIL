@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Verde",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1004800,
   "Febrero_2024":900000,
   "Marzo_2024":900000,
@@ -18,7 +18,8 @@
   "Febrero_2025":275921,
   "Marzo_2025":360000,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Río Verde",
@@ -39,11 +40,12 @@
   "Febrero_2025":1187190,
   "Marzo_2025":1687090,
   "Abril_2025":1309526,
-  "Mayo_2025":1602646
+  "Mayo_2025":1602646,
+  "Junio_2025":1987670
  },
  {
   "organismo_nombre":"Municipalidad de Río Verde",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":475088,
   "Febrero_2024":405789,
   "Marzo_2024":468956,
@@ -60,7 +62,8 @@
   "Febrero_2025":673814,
   "Marzo_2025":644110,
   "Abril_2025":619433,
-  "Mayo_2025":739481
+  "Mayo_2025":739481,
+  "Junio_2025":958474
  },
  {
   "organismo_nombre":"Municipalidad de Río Verde",
@@ -81,6 +84,7 @@
   "Febrero_2025":2321193,
   "Marzo_2025":3229449,
   "Abril_2025":2695404,
-  "Mayo_2025":3479720
+  "Mayo_2025":3479720,
+  "Junio_2025":3575088
  }
 ]

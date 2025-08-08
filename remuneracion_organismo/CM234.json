@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Económico de Peñalolén (YUNUS)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1264538,
   "Febrero_2024":1280362,
   "Marzo_2024":1224440,
@@ -18,11 +18,12 @@
   "Febrero_2025":1292491,
   "Marzo_2025":1263703,
   "Abril_2025":1312070,
-  "Mayo_2025":1305009
+  "Mayo_2025":1305009,
+  "Junio_2025":1296241
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Económico de Peñalolén (YUNUS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":516416,
   "Febrero_2024":739076,
   "Marzo_2024":567783,
@@ -39,6 +40,7 @@
   "Febrero_2025":828432,
   "Marzo_2025":771632,
   "Abril_2025":630217,
-  "Mayo_2025":542537
+  "Mayo_2025":542537,
+  "Junio_2025":549853
  }
 ]

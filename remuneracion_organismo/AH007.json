@@ -18,28 +18,30 @@
   "Febrero_2025":1967566,
   "Marzo_2025":1971980,
   "Abril_2025":1516498,
-  "Mayo_2025":1527901
+  "Mayo_2025":1527901,
+  "Junio_2025":2877681
  },
  {
   "organismo_nombre":"Instituto Nacional de Estadisticas (INE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1192545,
   "Febrero_2024":961052,
   "Marzo_2024":774047,
   "Abril_2024":783979,
-  "Mayo_2024":796027,
-  "Junio_2024":809321,
+  "Mayo_2024":796592,
+  "Junio_2024":807692,
   "Julio_2024":903961,
-  "Agosto_2024":894030,
+  "Agosto_2024":894007,
   "Septiembre_2024":1299134,
-  "Octubre_2024":1171019,
+  "Octubre_2024":1169977,
   "Noviembre_2024":1173939,
   "Diciembre_2024":1215244,
   "Enero_2025":1822587,
   "Febrero_2025":1818673,
   "Marzo_2025":1751002,
   "Abril_2025":1725440,
-  "Mayo_2025":1572917
+  "Mayo_2025":1572917,
+  "Junio_2025":1497324
  },
  {
   "organismo_nombre":"Instituto Nacional de Estadisticas (INE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3279426,
   "Marzo_2025":3281581,
   "Abril_2025":2593653,
-  "Mayo_2025":2564052
+  "Mayo_2025":2564052,
+  "Junio_2025":4722348
  }
 ]

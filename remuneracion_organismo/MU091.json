@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Freire",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":779029,
   "Febrero_2024":753487,
   "Marzo_2024":777362,
@@ -14,11 +14,12 @@
   "Octubre_2024":765969,
   "Noviembre_2024":784089,
   "Diciembre_2024":795836,
-  "Enero_2025":1803700,
-  "Febrero_2025":1803700,
+  "Enero_2025":947353,
+  "Febrero_2025":936673,
   "Marzo_2025":1803700,
   "Abril_2025":1803700,
-  "Mayo_2025":0
+  "Mayo_2025":1803700,
+  "Junio_2025":1803700
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
@@ -35,15 +36,16 @@
   "Octubre_2024":1361515,
   "Noviembre_2024":1235719,
   "Diciembre_2024":1385238,
-  "Enero_2025":1367889,
-  "Febrero_2025":1250671,
+  "Enero_2025":1407059,
+  "Febrero_2025":1333930,
   "Marzo_2025":1195938,
   "Abril_2025":992897,
-  "Mayo_2025":0
+  "Mayo_2025":1377374,
+  "Junio_2025":1480011
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":726129,
   "Febrero_2024":1038648,
   "Marzo_2024":1010188,
@@ -60,7 +62,8 @@
   "Febrero_2025":924961,
   "Marzo_2025":1244239,
   "Abril_2025":1269092,
-  "Mayo_2025":0
+  "Mayo_2025":1064869,
+  "Junio_2025":699240
  },
  {
   "organismo_nombre":"Municipalidad de Freire",
@@ -77,10 +80,11 @@
   "Octubre_2024":1987864,
   "Noviembre_2024":1757365,
   "Diciembre_2024":1938699,
-  "Enero_2025":1909128,
-  "Febrero_2025":1689902,
+  "Enero_2025":2032886,
+  "Febrero_2025":1838540,
   "Marzo_2025":1699315,
   "Abril_2025":1359882,
-  "Mayo_2025":0
+  "Mayo_2025":1984278,
+  "Junio_2025":2291388
  }
 ]

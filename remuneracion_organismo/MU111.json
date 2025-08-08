@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Independencia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1258202,
   "Febrero_2024":1030597,
   "Marzo_2024":955528,
@@ -18,7 +18,8 @@
   "Febrero_2025":1010686,
   "Marzo_2025":1036671,
   "Abril_2025":951579,
-  "Mayo_2025":983508
+  "Mayo_2025":983508,
+  "Junio_2025":955972
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
@@ -39,15 +40,16 @@
   "Febrero_2025":1333500,
   "Marzo_2025":1431550,
   "Abril_2025":1595111,
-  "Mayo_2025":1402477
+  "Mayo_2025":1402477,
+  "Junio_2025":1654875
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":890643,
-  "Febrero_2024":1079521,
-  "Marzo_2024":1080125,
-  "Abril_2024":1048283,
+  "Febrero_2024":1077723,
+  "Marzo_2024":1075937,
+  "Abril_2024":1055056,
   "Mayo_2024":1082146,
   "Junio_2024":1005924,
   "Julio_2024":880430,
@@ -58,9 +60,10 @@
   "Diciembre_2024":1074704,
   "Enero_2025":1197524,
   "Febrero_2025":1210652,
-  "Marzo_2025":1250534,
+  "Marzo_2025":1312887,
   "Abril_2025":1288932,
-  "Mayo_2025":1073107
+  "Mayo_2025":1221094,
+  "Junio_2025":1194457
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
@@ -81,6 +84,7 @@
   "Febrero_2025":2017291,
   "Marzo_2025":2074220,
   "Abril_2025":2331244,
-  "Mayo_2025":1995698
+  "Mayo_2025":1995698,
+  "Junio_2025":2406792
  }
 ]

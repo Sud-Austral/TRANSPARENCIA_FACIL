@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lolol",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1114372,
   "Febrero_2024":793345,
   "Marzo_2024":813067,
@@ -18,7 +18,8 @@
   "Febrero_2025":834430,
   "Marzo_2025":872115,
   "Abril_2025":844878,
-  "Mayo_2025":0
+  "Mayo_2025":863568,
+  "Junio_2025":875136
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
@@ -39,11 +40,12 @@
   "Febrero_2025":1395865,
   "Marzo_2025":1467523,
   "Abril_2025":1629941,
-  "Mayo_2025":0
+  "Mayo_2025":1517763,
+  "Junio_2025":1447267
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":720524,
   "Febrero_2024":722896,
   "Marzo_2024":744200,
@@ -58,9 +60,10 @@
   "Diciembre_2024":814515,
   "Enero_2025":956817,
   "Febrero_2025":950585,
-  "Marzo_2025":1006347,
+  "Marzo_2025":923860,
   "Abril_2025":794456,
-  "Mayo_2025":0
+  "Mayo_2025":765078,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
@@ -81,6 +84,7 @@
   "Febrero_2025":1981676,
   "Marzo_2025":2044708,
   "Abril_2025":2030283,
-  "Mayo_2025":0
+  "Mayo_2025":1999048,
+  "Junio_2025":2094314
  }
 ]

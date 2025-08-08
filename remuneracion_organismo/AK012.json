@@ -18,11 +18,12 @@
   "Febrero_2025":3278866,
   "Marzo_2025":4752387,
   "Abril_2025":2714400,
-  "Mayo_2025":2713192
+  "Mayo_2025":2713192,
+  "Junio_2025":4847391
  },
  {
   "organismo_nombre":"Subsecretaría de Derechos Humanos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1640876,
   "Febrero_2024":1326558,
   "Marzo_2024":1813904,
@@ -39,7 +40,8 @@
   "Febrero_2025":2040557,
   "Marzo_2025":2080609,
   "Abril_2025":1920401,
-  "Mayo_2025":2035942
+  "Mayo_2025":2035942,
+  "Junio_2025":2042166
  },
  {
   "organismo_nombre":"Subsecretaría de Derechos Humanos",
@@ -60,6 +62,7 @@
   "Febrero_2025":7535714,
   "Marzo_2025":9726670,
   "Abril_2025":6771579,
-  "Mayo_2025":6771579
+  "Mayo_2025":6771579,
+  "Junio_2025":9763330
  }
 ]

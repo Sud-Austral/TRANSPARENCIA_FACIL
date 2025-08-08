@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Santa María",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":887852,
   "Febrero_2024":889186,
   "Marzo_2024":810795,
@@ -18,7 +18,8 @@
   "Febrero_2025":906744,
   "Marzo_2025":867697,
   "Abril_2025":870143,
-  "Mayo_2025":854122
+  "Mayo_2025":854122,
+  "Junio_2025":858170
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
@@ -39,11 +40,12 @@
   "Febrero_2025":1156724,
   "Marzo_2025":1170827,
   "Abril_2025":1278089,
-  "Mayo_2025":1146185
+  "Mayo_2025":1142193,
+  "Junio_2025":1285829
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":628416,
   "Febrero_2024":603922,
   "Marzo_2024":588625,
@@ -60,7 +62,8 @@
   "Febrero_2025":586949,
   "Marzo_2025":563483,
   "Abril_2025":522768,
-  "Mayo_2025":495046
+  "Mayo_2025":495046,
+  "Junio_2025":503664
  },
  {
   "organismo_nombre":"Municipalidad de Santa María",
@@ -81,6 +84,7 @@
   "Febrero_2025":1869509,
   "Marzo_2025":1930835,
   "Abril_2025":2228225,
-  "Mayo_2025":1877840
+  "Mayo_2025":1877840,
+  "Junio_2025":2255398
  }
 ]

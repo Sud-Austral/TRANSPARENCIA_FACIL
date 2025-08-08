@@ -18,11 +18,12 @@
   "Febrero_2025":1753995,
   "Marzo_2025":2086007,
   "Abril_2025":1829705,
-  "Mayo_2025":1823648
+  "Mayo_2025":1823648,
+  "Junio_2025":2150564
  },
  {
   "organismo_nombre":"Hospital Víctor Ríos Ruiz de Los Angeles",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":997581,
   "Febrero_2024":1041153,
   "Marzo_2024":1086024,
@@ -39,7 +40,8 @@
   "Febrero_2025":1285677,
   "Marzo_2025":1258531,
   "Abril_2025":1336027,
-  "Mayo_2025":1201040
+  "Mayo_2025":1201040,
+  "Junio_2025":1131164
  },
  {
   "organismo_nombre":"Hospital Víctor Ríos Ruiz de Los Angeles",
@@ -60,6 +62,7 @@
   "Febrero_2025":1873705,
   "Marzo_2025":2916843,
   "Abril_2025":1967630,
-  "Mayo_2025":1884585
+  "Mayo_2025":1884585,
+  "Junio_2025":2880243
  }
 ]

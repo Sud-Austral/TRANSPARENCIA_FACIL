@@ -18,11 +18,12 @@
   "Febrero_2025":1380046,
   "Marzo_2025":2017964,
   "Abril_2025":1621971,
-  "Mayo_2025":1508120
+  "Mayo_2025":1508120,
+  "Junio_2025":1858745
  },
  {
   "organismo_nombre":"Hospital de Melipilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1256488,
   "Febrero_2024":1222146,
   "Marzo_2024":1285721,
@@ -39,7 +40,8 @@
   "Febrero_2025":1035704,
   "Marzo_2025":1016839,
   "Abril_2025":1297049,
-  "Mayo_2025":1011755
+  "Mayo_2025":1011755,
+  "Junio_2025":950345
  },
  {
   "organismo_nombre":"Hospital de Melipilla",
@@ -60,6 +62,7 @@
   "Febrero_2025":1249321,
   "Marzo_2025":2265116,
   "Abril_2025":1528088,
-  "Mayo_2025":1403016
+  "Mayo_2025":1403016,
+  "Junio_2025":2178872
  }
 ]

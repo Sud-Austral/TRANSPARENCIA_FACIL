@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1392053,
   "Febrero_2024":957024,
   "Marzo_2024":1005460,
@@ -18,7 +18,8 @@
   "Febrero_2025":1570282,
   "Marzo_2025":1369915,
   "Abril_2025":1589945,
-  "Mayo_2025":1462508
+  "Mayo_2025":1596783,
+  "Junio_2025":1314554
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
@@ -39,11 +40,12 @@
   "Febrero_2025":1444364,
   "Marzo_2025":1419214,
   "Abril_2025":1755760,
-  "Mayo_2025":2288961
+  "Mayo_2025":1767238,
+  "Junio_2025":1773844
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":748911,
   "Febrero_2024":747234,
   "Marzo_2024":744004,
@@ -60,7 +62,8 @@
   "Febrero_2025":841480,
   "Marzo_2025":838002,
   "Abril_2025":873003,
-  "Mayo_2025":859203
+  "Mayo_2025":859203,
+  "Junio_2025":883290
  },
  {
   "organismo_nombre":"Municipalidad de La Cisterna",
@@ -81,6 +84,7 @@
   "Febrero_2025":1918404,
   "Marzo_2025":2007200,
   "Abril_2025":2297775,
-  "Mayo_2025":3474299
+  "Mayo_2025":2536736,
+  "Junio_2025":2517348
  }
 ]

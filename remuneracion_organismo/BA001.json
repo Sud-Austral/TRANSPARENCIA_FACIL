@@ -18,11 +18,12 @@
   "Febrero_2025":2970066,
   "Marzo_2025":2980739,
   "Abril_2025":2345233,
-  "Mayo_2025":2295967
+  "Mayo_2025":2295967,
+  "Junio_2025":4270857
  },
  {
   "organismo_nombre":"Subsecretaría del Deporte",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1694514,
   "Febrero_2024":1778472,
   "Marzo_2024":1730864,
@@ -39,7 +40,8 @@
   "Febrero_2025":2226354,
   "Marzo_2025":2100987,
   "Abril_2025":2157915,
-  "Mayo_2025":2266686
+  "Mayo_2025":2266686,
+  "Junio_2025":2161635
  },
  {
   "organismo_nombre":"Subsecretaría del Deporte",
@@ -60,6 +62,7 @@
   "Febrero_2025":4590343,
   "Marzo_2025":4440962,
   "Abril_2025":3625069,
-  "Mayo_2025":3648387
+  "Mayo_2025":3648387,
+  "Junio_2025":6168554
  }
 ]

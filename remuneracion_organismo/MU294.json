@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Miguel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2000000,
   "Febrero_2024":2000000,
   "Marzo_2024":2000000,
@@ -18,7 +18,8 @@
   "Febrero_2025":2700000,
   "Marzo_2025":2700000,
   "Abril_2025":2700000,
-  "Mayo_2025":2700000
+  "Mayo_2025":2700000,
+  "Junio_2025":2700000
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1594588,
   "Marzo_2025":1395352,
   "Abril_2025":0,
-  "Mayo_2025":2540527
+  "Mayo_2025":2351525,
+  "Junio_2025":1619402
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":463059,
   "Febrero_2024":719669,
   "Marzo_2024":729108,
@@ -60,7 +62,8 @@
   "Febrero_2025":858588,
   "Marzo_2025":726861,
   "Abril_2025":774019,
-  "Mayo_2025":506725
+  "Mayo_2025":737827,
+  "Junio_2025":757042
  },
  {
   "organismo_nombre":"Municipalidad de San Miguel",
@@ -81,6 +84,7 @@
   "Febrero_2025":1580750,
   "Marzo_2025":1639759,
   "Abril_2025":1594674,
-  "Mayo_2025":2768487
+  "Mayo_2025":2768487,
+  "Junio_2025":1660110
  }
 ]

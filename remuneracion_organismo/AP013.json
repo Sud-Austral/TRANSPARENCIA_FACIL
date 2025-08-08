@@ -18,11 +18,12 @@
   "Febrero_2025":2297772,
   "Marzo_2025":3041396,
   "Abril_2025":3024172,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":3062378
  },
  {
   "organismo_nombre":"SERVIU Región de Aysén del General Carlos Ibáñez del Campo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -35,11 +36,12 @@
   "Octubre_2024":0,
   "Noviembre_2024":0,
   "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
+  "Enero_2025":1875600,
+  "Febrero_2025":1637800,
+  "Marzo_2025":1637800,
   "Abril_2025":1137640,
-  "Mayo_2025":0
+  "Mayo_2025":1400000,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SERVIU Región de Aysén del General Carlos Ibáñez del Campo",
@@ -60,6 +62,7 @@
   "Febrero_2025":4433828,
   "Marzo_2025":4654366,
   "Abril_2025":5055427,
-  "Mayo_2025":5057039
+  "Mayo_2025":5057039,
+  "Junio_2025":5087517
  }
 ]

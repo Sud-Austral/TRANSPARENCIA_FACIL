@@ -18,11 +18,12 @@
   "Febrero_2025":1685206,
   "Marzo_2025":2007618,
   "Abril_2025":1567786,
-  "Mayo_2025":1709320
+  "Mayo_2025":1709320,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de las Higueras",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":928578,
   "Febrero_2024":885929,
   "Marzo_2024":822137,
@@ -39,7 +40,8 @@
   "Febrero_2025":984351,
   "Marzo_2025":958260,
   "Abril_2025":939749,
-  "Mayo_2025":821106
+  "Mayo_2025":821106,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de las Higueras",
@@ -60,6 +62,7 @@
   "Febrero_2025":1955292,
   "Marzo_2025":3061441,
   "Abril_2025":1981120,
-  "Mayo_2025":1968684
+  "Mayo_2025":1968684,
+  "Junio_2025":0
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1998508,
   "Marzo_2025":2147992,
   "Abril_2025":1995377,
-  "Mayo_2025":1940677
+  "Mayo_2025":1940677,
+  "Junio_2025":2132725
  },
  {
   "organismo_nombre":"Instituto Nacional del Cáncer",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1155558,
   "Febrero_2024":1323539,
   "Marzo_2024":1331163,
@@ -39,7 +40,8 @@
   "Febrero_2025":1348397,
   "Marzo_2025":1287782,
   "Abril_2025":1208500,
-  "Mayo_2025":1237768
+  "Mayo_2025":1237768,
+  "Junio_2025":1093775
  },
  {
   "organismo_nombre":"Instituto Nacional del Cáncer",
@@ -60,6 +62,7 @@
   "Febrero_2025":1900270,
   "Marzo_2025":2135788,
   "Abril_2025":1841295,
-  "Mayo_2025":1796061
+  "Mayo_2025":1796061,
+  "Junio_2025":2096173
  }
 ]

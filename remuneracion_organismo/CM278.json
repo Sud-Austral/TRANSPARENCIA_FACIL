@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Social y Cultural de Concepción (SEMCO)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1059714,
   "Febrero_2024":1111364,
   "Marzo_2024":1058040,
@@ -18,11 +18,12 @@
   "Febrero_2025":1035892,
   "Marzo_2025":1322166,
   "Abril_2025":1084408,
-  "Mayo_2025":1112446
+  "Mayo_2025":1112446,
+  "Junio_2025":1160857
  },
  {
   "organismo_nombre":"Corporación Social y Cultural de Concepción (SEMCO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":201599,
   "Febrero_2024":188628,
   "Marzo_2024":192598,
@@ -39,6 +40,7 @@
   "Febrero_2025":67983,
   "Marzo_2025":166667,
   "Abril_2025":225633,
-  "Mayo_2025":139933
+  "Mayo_2025":139933,
+  "Junio_2025":101569
  }
 ]

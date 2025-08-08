@@ -18,11 +18,12 @@
   "Febrero_2025":1079665,
   "Marzo_2025":1880870,
   "Abril_2025":1472442,
-  "Mayo_2025":1461183
+  "Mayo_2025":1461183,
+  "Junio_2025":1898468
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Costa Central (SLEP Costa Central)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Costa Central (SLEP Costa Central)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5168442,
   "Marzo_2025":7456830,
   "Abril_2025":4873553,
-  "Mayo_2025":4873553
+  "Mayo_2025":4873553,
+  "Junio_2025":7690412
  }
 ]

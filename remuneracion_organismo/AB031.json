@@ -18,11 +18,12 @@
   "Febrero_2025":2215813,
   "Marzo_2025":2215831,
   "Abril_2025":1740794,
-  "Mayo_2025":1742322
+  "Mayo_2025":1742322,
+  "Junio_2025":3080812
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Huasco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1761451,
   "Febrero_2024":1761451,
   "Marzo_2024":1884543,
@@ -39,7 +40,8 @@
   "Febrero_2025":994931,
   "Marzo_2025":934822,
   "Abril_2025":1089296,
-  "Mayo_2025":1061075
+  "Mayo_2025":1061075,
+  "Junio_2025":1094987
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Huasco",
@@ -60,6 +62,7 @@
   "Febrero_2025":5721499,
   "Marzo_2025":5721499,
   "Abril_2025":5031902,
-  "Mayo_2025":5031902
+  "Mayo_2025":5031902,
+  "Junio_2025":7100693
  }
 ]

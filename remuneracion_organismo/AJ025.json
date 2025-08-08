@@ -18,11 +18,12 @@
   "Febrero_2025":2896870,
   "Marzo_2025":4178755,
   "Abril_2025":2383134,
-  "Mayo_2025":2392569
+  "Mayo_2025":2392569,
+  "Junio_2025":3026836
  },
  {
   "organismo_nombre":"Subsecretaría de Educación Superior",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2038154,
   "Febrero_2024":2035469,
   "Marzo_2024":1596967,
@@ -39,7 +40,8 @@
   "Febrero_2025":2016375,
   "Marzo_2025":1524530,
   "Abril_2025":1544458,
-  "Mayo_2025":1525782
+  "Mayo_2025":1525782,
+  "Junio_2025":1549917
  },
  {
   "organismo_nombre":"Subsecretaría de Educación Superior",
@@ -60,6 +62,7 @@
   "Febrero_2025":3779041,
   "Marzo_2025":5430218,
   "Abril_2025":3540676,
-  "Mayo_2025":3514256
+  "Mayo_2025":3514256,
+  "Junio_2025":4396840
  }
 ]

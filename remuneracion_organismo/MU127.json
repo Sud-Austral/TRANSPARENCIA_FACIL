@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Unión",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1182595,
   "Febrero_2024":915712,
   "Marzo_2024":837340,
@@ -18,7 +18,8 @@
   "Febrero_2025":900104,
   "Marzo_2025":1003672,
   "Abril_2025":832386,
-  "Mayo_2025":0
+  "Mayo_2025":913476,
+  "Junio_2025":550000
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
@@ -39,11 +40,12 @@
   "Febrero_2025":968933,
   "Marzo_2025":1054543,
   "Abril_2025":1069723,
-  "Mayo_2025":1587352
+  "Mayo_2025":1077918,
+  "Junio_2025":1267632
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1091072,
   "Febrero_2024":1076512,
   "Marzo_2024":1093591,
@@ -60,7 +62,8 @@
   "Febrero_2025":988704,
   "Marzo_2025":999984,
   "Abril_2025":999093,
-  "Mayo_2025":0
+  "Mayo_2025":995645,
+  "Junio_2025":987289
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
@@ -81,6 +84,7 @@
   "Febrero_2025":1929936,
   "Marzo_2025":2059167,
   "Abril_2025":2230165,
-  "Mayo_2025":2164727
+  "Mayo_2025":2108343,
+  "Junio_2025":1798357
  }
 ]

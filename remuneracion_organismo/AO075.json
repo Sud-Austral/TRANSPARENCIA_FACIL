@@ -18,11 +18,12 @@
   "Febrero_2025":1783275,
   "Marzo_2025":2314865,
   "Abril_2025":1976854,
-  "Mayo_2025":1824102
+  "Mayo_2025":1824102,
+  "Junio_2025":2167062
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1539030,
   "Febrero_2024":1177122,
   "Marzo_2024":1383612,
@@ -39,7 +40,8 @@
   "Febrero_2025":444732,
   "Marzo_2025":698047,
   "Abril_2025":779938,
-  "Mayo_2025":942301
+  "Mayo_2025":942301,
+  "Junio_2025":695913
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios",
@@ -60,6 +62,7 @@
   "Febrero_2025":1487278,
   "Marzo_2025":2331105,
   "Abril_2025":1684134,
-  "Mayo_2025":1503989
+  "Mayo_2025":1503989,
+  "Junio_2025":2376730
  }
 ]

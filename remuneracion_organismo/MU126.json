@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Serena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1077824,
   "Febrero_2024":790207,
   "Marzo_2024":676943,
@@ -18,7 +18,8 @@
   "Febrero_2025":680568,
   "Marzo_2025":621714,
   "Abril_2025":555922,
-  "Mayo_2025":0
+  "Mayo_2025":639850,
+  "Junio_2025":591104
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
@@ -38,12 +39,13 @@
   "Enero_2025":1308670,
   "Febrero_2025":1224831,
   "Marzo_2025":1224431,
-  "Abril_2025":1195530,
-  "Mayo_2025":0
+  "Abril_2025":1195796,
+  "Mayo_2025":2009926,
+  "Junio_2025":1243317
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":990392,
   "Febrero_2024":990392,
   "Marzo_2024":990392,
@@ -60,7 +62,8 @@
   "Febrero_2025":1086521,
   "Marzo_2025":1213192,
   "Abril_2025":1108487,
-  "Mayo_2025":0
+  "Mayo_2025":1059191,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de La Serena",
@@ -81,6 +84,7 @@
   "Febrero_2025":1568060,
   "Marzo_2025":1584959,
   "Abril_2025":1574932,
-  "Mayo_2025":2658805
+  "Mayo_2025":2659505,
+  "Junio_2025":1605182
  }
 ]

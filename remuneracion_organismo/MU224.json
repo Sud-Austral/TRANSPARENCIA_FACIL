@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1105219,
   "Febrero_2024":919815,
   "Marzo_2024":850916,
@@ -18,7 +18,8 @@
   "Febrero_2025":1062126,
   "Marzo_2025":1064173,
   "Abril_2025":892073,
-  "Mayo_2025":930368
+  "Mayo_2025":930368,
+  "Junio_2025":972391
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
@@ -39,28 +40,30 @@
   "Febrero_2025":1228231,
   "Marzo_2025":1170547,
   "Abril_2025":1461828,
-  "Mayo_2025":1493680
+  "Mayo_2025":1493680,
+  "Junio_2025":1324057
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":701311,
   "Febrero_2024":643543,
   "Marzo_2024":767544,
   "Abril_2024":690868,
   "Mayo_2024":750042,
-  "Junio_2024":738759,
+  "Junio_2024":735390,
   "Julio_2024":686980,
   "Agosto_2024":743447,
   "Septiembre_2024":706833,
   "Octubre_2024":725660,
   "Noviembre_2024":705868,
-  "Diciembre_2024":726675,
-  "Enero_2025":754860,
-  "Febrero_2025":761890,
+  "Diciembre_2024":722689,
+  "Enero_2025":761149,
+  "Febrero_2025":767953,
   "Marzo_2025":795611,
-  "Abril_2025":513561,
-  "Mayo_2025":515536
+  "Abril_2025":790766,
+  "Mayo_2025":787650,
+  "Junio_2025":729498
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1811614,
   "Marzo_2025":1808119,
   "Abril_2025":2107104,
-  "Mayo_2025":2048339
+  "Mayo_2025":2048339,
+  "Junio_2025":2011575
  }
 ]

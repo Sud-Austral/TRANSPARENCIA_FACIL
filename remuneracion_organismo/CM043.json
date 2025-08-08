@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1136941,
   "Febrero_2024":1114149,
   "Marzo_2024":994462,
@@ -18,7 +18,8 @@
   "Febrero_2025":851188,
   "Marzo_2025":1212160,
   "Abril_2025":1188297,
-  "Mayo_2025":1207249
+  "Mayo_2025":1207249,
+  "Junio_2025":1245587
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
@@ -39,11 +40,12 @@
   "Febrero_2025":1196498,
   "Marzo_2025":1213461,
   "Abril_2025":1459506,
-  "Mayo_2025":1279813
+  "Mayo_2025":1279813,
+  "Junio_2025":1557277
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":467327,
   "Febrero_2024":571476,
   "Marzo_2024":416038,
@@ -60,7 +62,8 @@
   "Febrero_2025":448914,
   "Marzo_2025":360905,
   "Abril_2025":398833,
-  "Mayo_2025":380538
+  "Mayo_2025":380538,
+  "Junio_2025":367569
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
@@ -81,6 +84,7 @@
   "Febrero_2025":1830074,
   "Marzo_2025":1863590,
   "Abril_2025":2586779,
-  "Mayo_2025":1835134
+  "Mayo_2025":1835134,
+  "Junio_2025":2644553
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1484547,
   "Marzo_2025":1585053,
   "Abril_2025":1819683,
-  "Mayo_2025":1519287
+  "Mayo_2025":1519287,
+  "Junio_2025":1660185
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios de Los Andes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":743520,
   "Febrero_2024":974668,
   "Marzo_2024":1298227,
@@ -39,7 +40,8 @@
   "Febrero_2025":1415749,
   "Marzo_2025":1325348,
   "Abril_2025":1179685,
-  "Mayo_2025":1149630
+  "Mayo_2025":1149630,
+  "Junio_2025":1436863
  },
  {
   "organismo_nombre":"Hospital San Juan de Dios de Los Andes",
@@ -60,6 +62,7 @@
   "Febrero_2025":1848041,
   "Marzo_2025":2237239,
   "Abril_2025":1875327,
-  "Mayo_2025":1867027
+  "Mayo_2025":1867027,
+  "Junio_2025":2198518
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Claro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":300,
   "Febrero_2024":289,
   "Marzo_2024":300,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Claro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":33,
   "Febrero_2024":216,
   "Marzo_2024":220,

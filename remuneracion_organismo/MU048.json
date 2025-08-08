@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1104482,
   "Febrero_2024":678414,
   "Marzo_2024":866072,
@@ -18,7 +18,8 @@
   "Febrero_2025":872064,
   "Marzo_2025":847031,
   "Abril_2025":873223,
-  "Mayo_2025":865919
+  "Mayo_2025":865919,
+  "Junio_2025":827917
  },
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
@@ -39,11 +40,12 @@
   "Febrero_2025":1136080,
   "Marzo_2025":1086358,
   "Abril_2025":1220751,
-  "Mayo_2025":1173495
+  "Mayo_2025":1173495,
+  "Junio_2025":1262134
  },
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":564104,
   "Febrero_2024":557196,
   "Marzo_2024":628970,
@@ -53,14 +55,15 @@
   "Julio_2024":556033,
   "Agosto_2024":554099,
   "Septiembre_2024":466236,
-  "Octubre_2024":561554,
+  "Octubre_2024":567557,
   "Noviembre_2024":565032,
   "Diciembre_2024":581424,
   "Enero_2025":688123,
   "Febrero_2025":674699,
   "Marzo_2025":602553,
   "Abril_2025":680810,
-  "Mayo_2025":671899
+  "Mayo_2025":669007,
+  "Junio_2025":719009
  },
  {
   "organismo_nombre":"Municipalidad de Cobquecura",
@@ -81,6 +84,7 @@
   "Febrero_2025":1867963,
   "Marzo_2025":1831738,
   "Abril_2025":2068825,
-  "Mayo_2025":1816437
+  "Mayo_2025":1812507,
+  "Junio_2025":2087867
  }
 ]

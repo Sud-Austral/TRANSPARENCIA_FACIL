@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Saavedra",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":681438,
   "Febrero_2024":604550,
   "Marzo_2024":642294,
@@ -18,7 +18,8 @@
   "Febrero_2025":669531,
   "Marzo_2025":678130,
   "Abril_2025":715116,
-  "Mayo_2025":715116
+  "Mayo_2025":715116,
+  "Junio_2025":715116
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
@@ -39,11 +40,12 @@
   "Febrero_2025":1155068,
   "Marzo_2025":1071011,
   "Abril_2025":1288090,
-  "Mayo_2025":1468168
+  "Mayo_2025":1468168,
+  "Junio_2025":1237764
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":832119,
   "Febrero_2024":794160,
   "Marzo_2024":769328,
@@ -60,7 +62,8 @@
   "Febrero_2025":791562,
   "Marzo_2025":893274,
   "Abril_2025":816671,
-  "Mayo_2025":865902
+  "Mayo_2025":865902,
+  "Junio_2025":883005
  },
  {
   "organismo_nombre":"Municipalidad de Saavedra",
@@ -81,6 +84,7 @@
   "Febrero_2025":1900857,
   "Marzo_2025":1899658,
   "Abril_2025":2233150,
-  "Mayo_2025":2234206
+  "Mayo_2025":2234206,
+  "Junio_2025":2230512
  }
 ]

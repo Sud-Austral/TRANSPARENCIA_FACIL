@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Esteban",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":221,
   "Febrero_2024":216,
   "Marzo_2024":225,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":51,
   "Febrero_2024":88,
   "Marzo_2024":108,

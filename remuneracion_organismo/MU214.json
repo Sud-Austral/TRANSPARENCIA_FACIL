@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Perquenco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":791371,
   "Febrero_2024":736531,
   "Marzo_2024":792344,
@@ -18,7 +18,8 @@
   "Febrero_2025":867509,
   "Marzo_2025":860038,
   "Abril_2025":853293,
-  "Mayo_2025":850399
+  "Mayo_2025":850399,
+  "Junio_2025":824527
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1325776,
   "Marzo_2025":1241654,
   "Abril_2025":1486078,
-  "Mayo_2025":1295636
+  "Mayo_2025":1295636,
+  "Junio_2025":1489167
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":880360,
   "Febrero_2024":800028,
   "Marzo_2024":764751,
@@ -60,7 +62,8 @@
   "Febrero_2025":735860,
   "Marzo_2025":724435,
   "Abril_2025":752439,
-  "Mayo_2025":694673
+  "Mayo_2025":694673,
+  "Junio_2025":670639
  },
  {
   "organismo_nombre":"Municipalidad de Perquenco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1921496,
   "Marzo_2025":1886527,
   "Abril_2025":2100570,
-  "Mayo_2025":1866834
+  "Mayo_2025":1866834,
+  "Junio_2025":2115460
  }
 ]

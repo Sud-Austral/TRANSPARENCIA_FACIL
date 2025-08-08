@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":541,
   "Febrero_2024":536,
   "Marzo_2024":558,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Peñalolén (CORMUP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":675,
   "Febrero_2024":625,
   "Marzo_2024":744,

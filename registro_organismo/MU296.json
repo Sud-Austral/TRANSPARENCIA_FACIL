@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Pablo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":99,
   "Febrero_2024":101,
   "Marzo_2024":101,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Pablo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":8,
   "Febrero_2024":119,
   "Marzo_2024":83,

@@ -18,11 +18,12 @@
   "Febrero_2025":2203646,
   "Marzo_2025":3480650,
   "Abril_2025":1929270,
-  "Mayo_2025":1917639
+  "Mayo_2025":1917639,
+  "Junio_2025":3496224
  },
  {
   "organismo_nombre":"Subsecretaría de Transportes (MTT)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1846429,
   "Febrero_2024":1894461,
   "Marzo_2024":1881212,
@@ -39,7 +40,8 @@
   "Febrero_2025":1929409,
   "Marzo_2025":1939716,
   "Abril_2025":1933971,
-  "Mayo_2025":1922864
+  "Mayo_2025":1922864,
+  "Junio_2025":1947282
  },
  {
   "organismo_nombre":"Subsecretaría de Transportes (MTT)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5006099,
   "Marzo_2025":7025389,
   "Abril_2025":4582084,
-  "Mayo_2025":4553476
+  "Mayo_2025":4553476,
+  "Junio_2025":7150408
  }
 ]

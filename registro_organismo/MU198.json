@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Palena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":68,
   "Febrero_2024":67,
   "Marzo_2024":71,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":6,

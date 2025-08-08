@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Romeral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":331,
   "Febrero_2024":338,
   "Marzo_2024":324,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Romeral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":28,
   "Febrero_2024":50,
   "Marzo_2024":56,

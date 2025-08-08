@@ -18,11 +18,12 @@
   "Febrero_2025":1745263,
   "Marzo_2025":1754439,
   "Abril_2025":1775473,
-  "Mayo_2025":1763251
+  "Mayo_2025":1763251,
+  "Junio_2025":1747157
  },
  {
   "organismo_nombre":"Instituto Nacional de Geriatría (INGER)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":575905,
   "Febrero_2024":1012136,
   "Marzo_2024":869080,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto Nacional de Geriatría (INGER)",
@@ -60,6 +62,7 @@
   "Febrero_2025":1743993,
   "Marzo_2025":1727550,
   "Abril_2025":1737801,
-  "Mayo_2025":1749465
+  "Mayo_2025":1749465,
+  "Junio_2025":1763368
  }
 ]

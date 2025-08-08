@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":354,
   "Febrero_2024":336,
   "Marzo_2024":330,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pichidegua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":42,
   "Febrero_2024":47,
   "Marzo_2024":57,

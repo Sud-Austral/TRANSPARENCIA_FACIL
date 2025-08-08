@@ -18,11 +18,12 @@
   "Febrero_2025":2284548,
   "Marzo_2025":2285657,
   "Abril_2025":1781810,
-  "Mayo_2025":1782524
+  "Mayo_2025":1782524,
+  "Junio_2025":3313579
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial del Ranco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1008574,
   "Febrero_2024":1040675,
   "Marzo_2024":997020,
@@ -39,7 +40,8 @@
   "Febrero_2025":1148833,
   "Marzo_2025":1148833,
   "Abril_2025":1148833,
-  "Mayo_2025":1148833
+  "Mayo_2025":1148833,
+  "Junio_2025":1148833
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial del Ranco",
@@ -60,6 +62,7 @@
   "Febrero_2025":5610922,
   "Marzo_2025":5610922,
   "Abril_2025":4921325,
-  "Mayo_2025":4921325
+  "Mayo_2025":4921325,
+  "Junio_2025":2820447
  }
 ]

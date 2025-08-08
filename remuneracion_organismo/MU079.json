@@ -18,11 +18,12 @@
   "Febrero_2025":1190064,
   "Marzo_2025":1751622,
   "Abril_2025":1186940,
-  "Mayo_2025":1854484
+  "Mayo_2025":1854484,
+  "Junio_2025":1697244
  },
  {
   "organismo_nombre":"Municipalidad de Dalcahue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":679929,
   "Febrero_2024":757940,
   "Marzo_2024":786174,
@@ -39,7 +40,8 @@
   "Febrero_2025":685813,
   "Marzo_2025":733825,
   "Abril_2025":997562,
-  "Mayo_2025":769927
+  "Mayo_2025":769927,
+  "Junio_2025":805926
  },
  {
   "organismo_nombre":"Municipalidad de Dalcahue",
@@ -60,6 +62,7 @@
   "Febrero_2025":1959431,
   "Marzo_2025":2464781,
   "Abril_2025":1964034,
-  "Mayo_2025":2952726
+  "Mayo_2025":2952726,
+  "Junio_2025":2452035
  }
 ]

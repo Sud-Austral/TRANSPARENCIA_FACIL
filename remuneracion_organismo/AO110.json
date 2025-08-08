@@ -18,11 +18,12 @@
   "Febrero_2025":1539154,
   "Marzo_2025":1702471,
   "Abril_2025":1705486,
-  "Mayo_2025":1733207
+  "Mayo_2025":1733207,
+  "Junio_2025":1826394
  },
  {
   "organismo_nombre":"Hospital Dr. Hernán Henríquez Aravena de Temuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":942359,
   "Febrero_2024":925885,
   "Marzo_2024":959440,
@@ -39,7 +40,8 @@
   "Febrero_2025":923846,
   "Marzo_2025":934275,
   "Abril_2025":983332,
-  "Mayo_2025":938126
+  "Mayo_2025":938126,
+  "Junio_2025":906254
  },
  {
   "organismo_nombre":"Hospital Dr. Hernán Henríquez Aravena de Temuco",
@@ -60,6 +62,7 @@
   "Febrero_2025":1959606,
   "Marzo_2025":2001779,
   "Abril_2025":1931755,
-  "Mayo_2025":1965413
+  "Mayo_2025":1965413,
+  "Junio_2025":1860258
  }
 ]

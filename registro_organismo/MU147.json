@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lolol",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":107,
   "Febrero_2024":110,
   "Marzo_2024":111,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lolol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":50,
   "Febrero_2024":53,
   "Marzo_2024":51,

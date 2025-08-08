@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":753548,
   "Febrero_2024":754151,
   "Marzo_2024":779858,
@@ -18,7 +18,8 @@
   "Febrero_2025":1081210,
   "Marzo_2025":1074874,
   "Abril_2025":963325,
-  "Mayo_2025":1231529
+  "Mayo_2025":751655,
+  "Junio_2025":800584
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
@@ -39,11 +40,12 @@
   "Febrero_2025":1603787,
   "Marzo_2025":2155573,
   "Abril_2025":1650674,
-  "Mayo_2025":2222890
+  "Mayo_2025":2222890,
+  "Junio_2025":2211111
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2260000,
   "Febrero_2024":663523,
   "Marzo_2024":610776,
@@ -60,7 +62,8 @@
   "Febrero_2025":703349,
   "Marzo_2025":669548,
   "Abril_2025":719713,
-  "Mayo_2025":0
+  "Mayo_2025":753680,
+  "Junio_2025":746446
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
@@ -81,6 +84,7 @@
   "Febrero_2025":2794861,
   "Marzo_2025":3321635,
   "Abril_2025":2858652,
-  "Mayo_2025":3857792
+  "Mayo_2025":3857792,
+  "Junio_2025":3415279
  }
 ]

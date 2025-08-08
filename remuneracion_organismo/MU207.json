@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":714177,
   "Febrero_2024":746238,
   "Marzo_2024":852198,
@@ -18,7 +18,8 @@
   "Febrero_2025":590881,
   "Marzo_2025":941878,
   "Abril_2025":1019603,
-  "Mayo_2025":995291
+  "Mayo_2025":995291,
+  "Junio_2025":1023250
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
@@ -39,11 +40,12 @@
   "Febrero_2025":1242423,
   "Marzo_2025":1275990,
   "Abril_2025":1404125,
-  "Mayo_2025":1265557
+  "Mayo_2025":1265557,
+  "Junio_2025":1368520
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1001267,
   "Marzo_2024":782685,
@@ -60,7 +62,8 @@
   "Febrero_2025":780166,
   "Marzo_2025":889570,
   "Abril_2025":797430,
-  "Mayo_2025":827827
+  "Mayo_2025":827827,
+  "Junio_2025":773994
  },
  {
   "organismo_nombre":"Municipalidad de Pelluhue",
@@ -81,6 +84,7 @@
   "Febrero_2025":1590008,
   "Marzo_2025":1684443,
   "Abril_2025":1946489,
-  "Mayo_2025":1559624
+  "Mayo_2025":1559624,
+  "Junio_2025":2052042
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1907337,
   "Marzo_2025":0,
   "Abril_2025":1928503,
-  "Mayo_2025":1935075
+  "Mayo_2025":1935075,
+  "Junio_2025":2301406
  },
  {
   "organismo_nombre":"Hospital Dr. Exequiel González Cortes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":742214,
   "Febrero_2024":724255,
   "Marzo_2024":821155,
@@ -39,7 +40,8 @@
   "Febrero_2025":949305,
   "Marzo_2025":827044,
   "Abril_2025":691901,
-  "Mayo_2025":766626
+  "Mayo_2025":766626,
+  "Junio_2025":605093
  },
  {
   "organismo_nombre":"Hospital Dr. Exequiel González Cortes",
@@ -60,6 +62,7 @@
   "Febrero_2025":2194037,
   "Marzo_2025":0,
   "Abril_2025":2176599,
-  "Mayo_2025":1410665
+  "Mayo_2025":2191354,
+  "Junio_2025":3267092
  }
 ]

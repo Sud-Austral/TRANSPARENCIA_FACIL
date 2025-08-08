@@ -18,11 +18,12 @@
   "Febrero_2025":1343974,
   "Marzo_2025":789416,
   "Abril_2025":1856602,
-  "Mayo_2025":1509628
+  "Mayo_2025":1509628,
+  "Junio_2025":797637
  },
  {
   "organismo_nombre":"Instituto Psiquiátrico",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1858990,
   "Febrero_2024":2543444,
   "Marzo_2024":2141859,
@@ -39,7 +40,8 @@
   "Febrero_2025":1941743,
   "Marzo_2025":1762526,
   "Abril_2025":1610859,
-  "Mayo_2025":1470717
+  "Mayo_2025":1470717,
+  "Junio_2025":1395240
  },
  {
   "organismo_nombre":"Instituto Psiquiátrico",
@@ -60,6 +62,7 @@
   "Febrero_2025":1219905,
   "Marzo_2025":475156,
   "Abril_2025":1478174,
-  "Mayo_2025":1360229
+  "Mayo_2025":1360229,
+  "Junio_2025":514125
  }
 ]

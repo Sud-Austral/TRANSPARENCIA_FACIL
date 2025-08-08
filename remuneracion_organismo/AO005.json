@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1513525,
   "Febrero_2024":1513525,
   "Marzo_2024":1478286,
@@ -18,7 +18,8 @@
   "Febrero_2025":1565429,
   "Marzo_2025":1565429,
   "Abril_2025":1565429,
-  "Mayo_2025":1565429
+  "Mayo_2025":1565429,
+  "Junio_2025":1565429
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2234019,
   "Marzo_2025":2230947,
   "Abril_2025":2197614,
-  "Mayo_2025":2207483
+  "Mayo_2025":2207483,
+  "Junio_2025":2208925
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1769249,
   "Febrero_2024":2611542,
   "Marzo_2024":1917001,
@@ -60,7 +62,8 @@
   "Febrero_2025":2234890,
   "Marzo_2025":2980295,
   "Abril_2025":2307805,
-  "Mayo_2025":2169570
+  "Mayo_2025":2169570,
+  "Junio_2025":2363122
  },
  {
   "organismo_nombre":"Instituto de Salud Pública (ISP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2341671,
   "Marzo_2025":2349746,
   "Abril_2025":2123329,
-  "Mayo_2025":2042744
+  "Mayo_2025":2042744,
+  "Junio_2025":2189144
  }
 ]

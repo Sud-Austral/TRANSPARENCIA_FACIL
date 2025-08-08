@@ -18,11 +18,12 @@
   "Febrero_2025":1644826,
   "Marzo_2025":2100818,
   "Abril_2025":1644826,
-  "Mayo_2025":1644826
+  "Mayo_2025":1644826,
+  "Junio_2025":3068304
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chañaral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1210428,
   "Febrero_2024":1359995,
   "Marzo_2024":1391994,
@@ -39,7 +40,8 @@
   "Febrero_2025":1571461,
   "Marzo_2025":1571461,
   "Abril_2025":1571461,
-  "Mayo_2025":1571461
+  "Mayo_2025":1571461,
+  "Junio_2025":1571461
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Chañaral",
@@ -60,6 +62,7 @@
   "Febrero_2025":5053199,
   "Marzo_2025":5742796,
   "Abril_2025":5053199,
-  "Mayo_2025":5053199
+  "Mayo_2025":5053199,
+  "Junio_2025":7121990
  }
 ]

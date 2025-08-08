@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ovalle",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1598,
   "Febrero_2024":1529,
   "Marzo_2024":1510,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Ovalle",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":719,
   "Febrero_2024":911,
   "Marzo_2024":978,

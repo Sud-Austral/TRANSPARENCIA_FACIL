@@ -18,11 +18,12 @@
   "Febrero_2025":3032090,
   "Marzo_2025":3047566,
   "Abril_2025":2371640,
-  "Mayo_2025":2387650
+  "Mayo_2025":2387650,
+  "Junio_2025":4363211
  },
  {
   "organismo_nombre":"Subsecretaría de Justicia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2882214,
   "Febrero_2024":2882214,
   "Marzo_2024":2882214,
@@ -37,9 +38,10 @@
   "Diciembre_2024":2829663,
   "Enero_2025":2386070,
   "Febrero_2025":2901564,
-  "Marzo_2025":2286309,
-  "Abril_2025":2427188,
-  "Mayo_2025":2762522
+  "Marzo_2025":2212478,
+  "Abril_2025":2357836,
+  "Mayo_2025":2576208,
+  "Junio_2025":2663542
  },
  {
   "organismo_nombre":"Subsecretaría de Justicia",
@@ -60,6 +62,7 @@
   "Febrero_2025":5846044,
   "Marzo_2025":6214005,
   "Abril_2025":5221607,
-  "Mayo_2025":4963753
+  "Mayo_2025":4963753,
+  "Junio_2025":7966066
  }
 ]

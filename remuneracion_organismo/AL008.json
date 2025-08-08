@@ -18,11 +18,12 @@
   "Febrero_2025":3645334,
   "Marzo_2025":3625400,
   "Abril_2025":3404663,
-  "Mayo_2025":3419566
+  "Mayo_2025":3419566,
+  "Junio_2025":4205909
  },
  {
   "organismo_nombre":"Superintendencia de Pensiones (SP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2268747,
   "Febrero_2024":2077770,
   "Marzo_2024":2229326,
@@ -39,7 +40,8 @@
   "Febrero_2025":2174050,
   "Marzo_2025":2200309,
   "Abril_2025":2473424,
-  "Mayo_2025":2192315
+  "Mayo_2025":2192315,
+  "Junio_2025":2231842
  },
  {
   "organismo_nombre":"Superintendencia de Pensiones (SP)",
@@ -60,6 +62,7 @@
   "Febrero_2025":9078339,
   "Marzo_2025":9080398,
   "Abril_2025":8738663,
-  "Mayo_2025":8738663
+  "Mayo_2025":8738663,
+  "Junio_2025":9938312
  }
 ]

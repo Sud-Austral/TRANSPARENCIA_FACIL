@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1312736,
   "Febrero_2024":1353588,
   "Marzo_2024":1343552,
@@ -18,7 +18,8 @@
   "Febrero_2025":1546186,
   "Marzo_2025":1523811,
   "Abril_2025":1381228,
-  "Mayo_2025":1632500
+  "Mayo_2025":1632500,
+  "Junio_2025":1457866
  },
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
@@ -39,11 +40,12 @@
   "Febrero_2025":2287270,
   "Marzo_2025":5621002,
   "Abril_2025":2061264,
-  "Mayo_2025":2047770
+  "Mayo_2025":2047770,
+  "Junio_2025":2700753
  },
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1442952,
   "Febrero_2024":1742952,
   "Marzo_2024":1592952,
@@ -60,7 +62,8 @@
   "Febrero_2025":1665603,
   "Marzo_2025":1240603,
   "Abril_2025":1240603,
-  "Mayo_2025":1740603
+  "Mayo_2025":1740603,
+  "Junio_2025":1740603
  },
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
@@ -81,6 +84,7 @@
   "Febrero_2025":2242185,
   "Marzo_2025":6387943,
   "Abril_2025":2283492,
-  "Mayo_2025":2269820
+  "Mayo_2025":2269820,
+  "Junio_2025":2971841
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2967158,
   "Marzo_2025":2953230,
   "Abril_2025":3003666,
-  "Mayo_2025":3063552
+  "Mayo_2025":3063552,
+  "Junio_2025":3081996
  },
  {
   "organismo_nombre":"Tesorería General de la República (TGR)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1333544,
   "Febrero_2024":1333544,
   "Marzo_2024":1333544,
@@ -39,7 +40,8 @@
   "Febrero_2025":1441337,
   "Marzo_2025":1441337,
   "Abril_2025":1441337,
-  "Mayo_2025":1441337
+  "Mayo_2025":1441337,
+  "Junio_2025":1441337
  },
  {
   "organismo_nombre":"Tesorería General de la República (TGR)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3632059,
   "Marzo_2025":3629985,
   "Abril_2025":3709906,
-  "Mayo_2025":3738592
+  "Mayo_2025":3738592,
+  "Junio_2025":3755088
  }
 ]

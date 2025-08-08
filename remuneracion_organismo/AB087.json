@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Los Lagos (Gore Los Lagos)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4765050,
   "Febrero_2024":4765050,
   "Marzo_2024":3883407,
@@ -18,7 +18,8 @@
   "Febrero_2025":5092051,
   "Marzo_2025":7139857,
   "Abril_2025":4068148,
-  "Mayo_2025":4068148
+  "Mayo_2025":5620295,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Lagos (Gore Los Lagos)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2999592,
   "Marzo_2025":4239783,
   "Abril_2025":2344164,
-  "Mayo_2025":2337029
+  "Mayo_2025":2337029,
+  "Junio_2025":4231561
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Lagos (Gore Los Lagos)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1667710,
   "Febrero_2024":2173318,
   "Marzo_2024":2132738,
@@ -60,7 +62,8 @@
   "Febrero_2025":1674288,
   "Marzo_2025":1674288,
   "Abril_2025":1674288,
-  "Mayo_2025":1674288
+  "Mayo_2025":1674288,
+  "Junio_2025":1674288
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Lagos (Gore Los Lagos)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4447017,
   "Marzo_2025":5720430,
   "Abril_2025":3422487,
-  "Mayo_2025":3423219
+  "Mayo_2025":3423219,
+  "Junio_2025":5771625
  }
 ]

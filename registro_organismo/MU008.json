@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Angol",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":827,
   "Febrero_2024":774,
   "Marzo_2024":790,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Angol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":465,
   "Febrero_2024":320,
   "Marzo_2024":323,

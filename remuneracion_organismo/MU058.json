@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Collipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1201724,
   "Febrero_2024":890983,
   "Marzo_2024":825836,
@@ -18,7 +18,8 @@
   "Febrero_2025":954539,
   "Marzo_2025":862636,
   "Abril_2025":847609,
-  "Mayo_2025":856437
+  "Mayo_2025":856437,
+  "Junio_2025":863233
  },
  {
   "organismo_nombre":"Municipalidad de Collipulli",
@@ -39,11 +40,12 @@
   "Febrero_2025":1344028,
   "Marzo_2025":1354106,
   "Abril_2025":1457412,
-  "Mayo_2025":1574064
+  "Mayo_2025":1574064,
+  "Junio_2025":1464008
  },
  {
   "organismo_nombre":"Municipalidad de Collipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":777932,
   "Febrero_2024":763357,
   "Marzo_2024":800094,
@@ -60,7 +62,8 @@
   "Febrero_2025":805534,
   "Marzo_2025":1031584,
   "Abril_2025":771632,
-  "Mayo_2025":820044
+  "Mayo_2025":820044,
+  "Junio_2025":814143
  },
  {
   "organismo_nombre":"Municipalidad de Collipulli",
@@ -81,6 +84,7 @@
   "Febrero_2025":2075733,
   "Marzo_2025":2047798,
   "Abril_2025":2256125,
-  "Mayo_2025":2214042
+  "Mayo_2025":2214042,
+  "Junio_2025":2191770
  }
 ]

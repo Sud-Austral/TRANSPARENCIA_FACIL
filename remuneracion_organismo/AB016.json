@@ -18,11 +18,12 @@
   "Febrero_2025":1935358,
   "Marzo_2025":2486530,
   "Abril_2025":1964215,
-  "Mayo_2025":0
+  "Mayo_2025":1964215,
+  "Junio_2025":3746240
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Libertador General Bernardo OHiggins",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2063196,
   "Febrero_2024":2190715,
   "Marzo_2024":2063196,
@@ -37,9 +38,10 @@
   "Diciembre_2024":2033527,
   "Enero_2025":3037596,
   "Febrero_2025":6799596,
-  "Marzo_2025":6799596,
-  "Abril_2025":1962015,
-  "Mayo_2025":0
+  "Marzo_2025":6044532,
+  "Abril_2025":5607363,
+  "Mayo_2025":5333528,
+  "Junio_2025":6815810
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional del Libertador General Bernardo OHiggins",
@@ -60,6 +62,7 @@
   "Febrero_2025":3229679,
   "Marzo_2025":3881625,
   "Abril_2025":3229679,
-  "Mayo_2025":0
+  "Mayo_2025":3229679,
+  "Junio_2025":5198049
  }
 ]

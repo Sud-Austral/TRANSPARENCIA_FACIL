@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1254101,
   "Febrero_2024":1088252,
   "Marzo_2024":1094465,
@@ -18,7 +18,8 @@
   "Febrero_2025":1181708,
   "Marzo_2025":878081,
   "Abril_2025":1098136,
-  "Mayo_2025":1127962
+  "Mayo_2025":1127962,
+  "Junio_2025":959386
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1346183,
   "Marzo_2025":1338673,
   "Abril_2025":1563692,
-  "Mayo_2025":1348686
+  "Mayo_2025":1348686,
+  "Junio_2025":1598271
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":748319,
   "Febrero_2024":732218,
   "Marzo_2024":739478,
@@ -60,7 +62,8 @@
   "Febrero_2025":745766,
   "Marzo_2025":761784,
   "Abril_2025":759431,
-  "Mayo_2025":770844
+  "Mayo_2025":770844,
+  "Junio_2025":774296
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
@@ -81,6 +84,7 @@
   "Febrero_2025":2052045,
   "Marzo_2025":2062242,
   "Abril_2025":2653145,
-  "Mayo_2025":2122703
+  "Mayo_2025":2122703,
+  "Junio_2025":2807124
  }
 ]

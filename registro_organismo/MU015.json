@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Bulnes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":327,
   "Febrero_2024":316,
   "Marzo_2024":330,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Bulnes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":75,
   "Febrero_2024":118,
   "Marzo_2024":126,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1231386,
   "Febrero_2024":1261770,
   "Marzo_2024":1571989,
@@ -18,7 +18,8 @@
   "Febrero_2025":1579085,
   "Marzo_2025":1669025,
   "Abril_2025":1589079,
-  "Mayo_2025":1589079
+  "Mayo_2025":1589079,
+  "Junio_2025":1699295
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1674362,
   "Marzo_2025":1636971,
   "Abril_2025":1666522,
-  "Mayo_2025":2658160
+  "Mayo_2025":2647807,
+  "Junio_2025":1639588
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1004281,
   "Febrero_2024":1034058,
   "Marzo_2024":1038243,
@@ -60,7 +62,8 @@
   "Febrero_2025":1088156,
   "Marzo_2025":1092540,
   "Abril_2025":1092079,
-  "Mayo_2025":1096442
+  "Mayo_2025":1096981,
+  "Junio_2025":1084566
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
@@ -81,6 +84,7 @@
   "Febrero_2025":1817743,
   "Marzo_2025":1796199,
   "Abril_2025":1840197,
-  "Mayo_2025":2981348
+  "Mayo_2025":2981348,
+  "Junio_2025":1812727
  }
 ]

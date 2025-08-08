@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Cultural de Estación Central",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1337820,
   "Febrero_2024":1435981,
   "Marzo_2024":1361448,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Estación Central",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":450636,
   "Febrero_2024":738173,
   "Marzo_2024":758111,

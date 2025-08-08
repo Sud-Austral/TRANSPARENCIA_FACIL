@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Fabián",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":808251,
   "Febrero_2024":819988,
   "Marzo_2024":810414,
@@ -18,7 +18,8 @@
   "Febrero_2025":888037,
   "Marzo_2025":848604,
   "Abril_2025":846440,
-  "Mayo_2025":846872
+  "Mayo_2025":846872,
+  "Junio_2025":1074143
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
@@ -39,11 +40,12 @@
   "Febrero_2025":1014717,
   "Marzo_2025":1116514,
   "Abril_2025":1250730,
-  "Mayo_2025":1384871
+  "Mayo_2025":1384871,
+  "Junio_2025":1340001
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":604144,
   "Febrero_2024":588718,
   "Marzo_2024":548759,
@@ -59,8 +61,9 @@
   "Enero_2025":488496,
   "Febrero_2025":578007,
   "Marzo_2025":662162,
-  "Abril_2025":653534,
-  "Mayo_2025":627269
+  "Abril_2025":655995,
+  "Mayo_2025":425554,
+  "Junio_2025":610488
  },
  {
   "organismo_nombre":"Municipalidad de San Fabián",
@@ -81,6 +84,7 @@
   "Febrero_2025":1731674,
   "Marzo_2025":1795817,
   "Abril_2025":2062925,
-  "Mayo_2025":1437418
+  "Mayo_2025":1921693,
+  "Junio_2025":2134628
  }
 ]

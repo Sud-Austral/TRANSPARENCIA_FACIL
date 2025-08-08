@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puerto Varas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":28,
   "Febrero_2024":30,
   "Marzo_2024":27,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Varas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":243,
   "Febrero_2024":290,
   "Marzo_2024":296,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región del Tarapacá",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1937172,
   "Febrero_2024":2038018,
   "Marzo_2024":1920286,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región del Tarapacá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":233908,
   "Febrero_2024":434082,
   "Marzo_2024":655456,

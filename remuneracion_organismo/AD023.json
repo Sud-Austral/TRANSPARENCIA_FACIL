@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Estado Mayor Conjunto (EMCO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1491072,
   "Febrero_2024":1465446,
   "Marzo_2024":1488288,
@@ -18,6 +18,7 @@
   "Febrero_2025":1480200,
   "Marzo_2025":1461327,
   "Abril_2025":1417062,
-  "Mayo_2025":1417062
+  "Mayo_2025":1417062,
+  "Junio_2025":1445015
  }
 ]

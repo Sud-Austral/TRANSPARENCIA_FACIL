@@ -18,11 +18,12 @@
   "Febrero_2025":1564033,
   "Marzo_2025":1689581,
   "Abril_2025":1688247,
-  "Mayo_2025":1718103
+  "Mayo_2025":1718103,
+  "Junio_2025":1781061
  },
  {
   "organismo_nombre":"Servicio de Salud OHiggins",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":970086,
   "Febrero_2024":1119471,
   "Marzo_2024":1188520,
@@ -39,7 +40,8 @@
   "Febrero_2025":1445091,
   "Marzo_2025":1240715,
   "Abril_2025":1478929,
-  "Mayo_2025":15749359
+  "Mayo_2025":15749359,
+  "Junio_2025":6508510
  },
  {
   "organismo_nombre":"Servicio de Salud OHiggins",
@@ -60,6 +62,7 @@
   "Febrero_2025":1268329,
   "Marzo_2025":1519535,
   "Abril_2025":1299279,
-  "Mayo_2025":1282117
+  "Mayo_2025":1282117,
+  "Junio_2025":1557528
  }
 ]

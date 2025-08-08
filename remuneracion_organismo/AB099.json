@@ -18,11 +18,12 @@
   "Febrero_2025":2000654,
   "Marzo_2025":1997910,
   "Abril_2025":1582664,
-  "Mayo_2025":1589899
+  "Mayo_2025":1589899,
+  "Junio_2025":2751773
  },
  {
   "organismo_nombre":"Servicio Nacional de Migraciones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1190920,
   "Febrero_2024":1197145,
   "Marzo_2024":1200169,
@@ -39,7 +40,8 @@
   "Febrero_2025":1139394,
   "Marzo_2025":1150343,
   "Abril_2025":1103691,
-  "Mayo_2025":1101370
+  "Mayo_2025":1101370,
+  "Junio_2025":1101614
  },
  {
   "organismo_nombre":"Servicio Nacional de Migraciones",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":4497477,
   "Abril_2025":4418499,
-  "Mayo_2025":3421152
+  "Mayo_2025":3421152,
+  "Junio_2025":5986427
  }
 ]

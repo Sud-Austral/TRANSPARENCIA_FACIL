@@ -18,11 +18,12 @@
   "Febrero_2025":1946669,
   "Marzo_2025":2513941,
   "Abril_2025":2484364,
-  "Mayo_2025":2501261
+  "Mayo_2025":2501261,
+  "Junio_2025":2533473
  },
  {
   "organismo_nombre":"Subsecretaría General de Gobierno (SEGEGOB)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1917413,
   "Febrero_2024":1911599,
   "Marzo_2024":1879738,
@@ -39,7 +40,8 @@
   "Febrero_2025":1945744,
   "Marzo_2025":1909372,
   "Abril_2025":1897053,
-  "Mayo_2025":1915116
+  "Mayo_2025":1915116,
+  "Junio_2025":1941137
  },
  {
   "organismo_nombre":"Subsecretaría General de Gobierno (SEGEGOB)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3868512,
   "Marzo_2025":4652474,
   "Abril_2025":4649263,
-  "Mayo_2025":4662240
+  "Mayo_2025":4662240,
+  "Junio_2025":4679448
  }
 ]

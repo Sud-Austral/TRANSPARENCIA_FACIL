@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cabildo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1213567,
   "Febrero_2024":969601,
   "Marzo_2024":839493,
@@ -18,7 +18,8 @@
   "Febrero_2025":1000873,
   "Marzo_2025":895945,
   "Abril_2025":895531,
-  "Mayo_2025":888496
+  "Mayo_2025":888496,
+  "Junio_2025":918812
  },
  {
   "organismo_nombre":"Municipalidad de Cabildo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1235516,
   "Marzo_2025":1214232,
   "Abril_2025":1270602,
-  "Mayo_2025":1346264
+  "Mayo_2025":1346264,
+  "Junio_2025":1274962
  },
  {
   "organismo_nombre":"Municipalidad de Cabildo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":942244,
   "Febrero_2024":948895,
   "Marzo_2024":1021455,
@@ -60,7 +62,8 @@
   "Febrero_2025":1048474,
   "Marzo_2025":934663,
   "Abril_2025":934663,
-  "Mayo_2025":0
+  "Mayo_2025":771127,
+  "Junio_2025":815694
  },
  {
   "organismo_nombre":"Municipalidad de Cabildo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1877856,
   "Marzo_2025":1895997,
   "Abril_2025":2050874,
-  "Mayo_2025":2128099
+  "Mayo_2025":2128099,
+  "Junio_2025":2054491
  }
 ]

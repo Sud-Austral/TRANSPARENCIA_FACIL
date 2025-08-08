@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Comisión Administradora del Sistema de Créditos para Estudios Superiores (INGRESA)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2350060,
   "Febrero_2024":2341935,
   "Marzo_2024":2347003,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Comisión Administradora del Sistema de Créditos para Estudios Superiores (INGRESA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1194970,
   "Febrero_2024":1276780,
   "Marzo_2024":620275,

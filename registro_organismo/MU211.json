@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":501,
   "Febrero_2024":515,
   "Marzo_2024":499,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":260,
   "Febrero_2024":246,
   "Marzo_2024":223,

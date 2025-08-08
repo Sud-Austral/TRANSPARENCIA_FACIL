@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2863730,
   "Febrero_2024":2809008,
   "Marzo_2024":2883515,
@@ -18,7 +18,8 @@
   "Febrero_2025":2561109,
   "Marzo_2025":4887950,
   "Abril_2025":2584701,
-  "Mayo_2025":2570531
+  "Mayo_2025":2570531,
+  "Junio_2025":4932859
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1885069,
   "Marzo_2025":3582759,
   "Abril_2025":1885069,
-  "Mayo_2025":1885069
+  "Mayo_2025":1885069,
+  "Junio_2025":3598443
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":761486,
   "Febrero_2024":2223039,
   "Marzo_2024":2539669,
@@ -60,7 +62,8 @@
   "Febrero_2025":2765943,
   "Marzo_2025":3013380,
   "Abril_2025":2939378,
-  "Mayo_2025":2748260
+  "Mayo_2025":2748260,
+  "Junio_2025":2853920
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4391435,
   "Marzo_2025":7989157,
   "Abril_2025":4429709,
-  "Mayo_2025":4411013
+  "Mayo_2025":4411013,
+  "Junio_2025":7744409
  }
 ]

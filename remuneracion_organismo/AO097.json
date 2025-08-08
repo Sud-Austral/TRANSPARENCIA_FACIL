@@ -18,11 +18,12 @@
   "Febrero_2025":1467727,
   "Marzo_2025":1547270,
   "Abril_2025":1496614,
-  "Mayo_2025":1537199
+  "Mayo_2025":1537199,
+  "Junio_2025":1526414
  },
  {
   "organismo_nombre":"Hospital de Quilpué",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":901089,
   "Febrero_2024":1085951,
   "Marzo_2024":1140261,
@@ -39,7 +40,8 @@
   "Febrero_2025":1164887,
   "Marzo_2025":1131111,
   "Abril_2025":1245171,
-  "Mayo_2025":1134856
+  "Mayo_2025":1134856,
+  "Junio_2025":1114788
  },
  {
   "organismo_nombre":"Hospital de Quilpué",
@@ -60,6 +62,7 @@
   "Febrero_2025":1967506,
   "Marzo_2025":2352850,
   "Abril_2025":1980300,
-  "Mayo_2025":2003668
+  "Mayo_2025":2003668,
+  "Junio_2025":2414782
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1700797,
   "Marzo_2025":2001672,
   "Abril_2025":1802185,
-  "Mayo_2025":1822444
+  "Mayo_2025":1822444,
+  "Junio_2025":2076779
  },
  {
   "organismo_nombre":"Servicio de Salud Maule",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1663155,
   "Febrero_2024":1494817,
   "Marzo_2024":1638274,
@@ -39,7 +40,8 @@
   "Febrero_2025":1397541,
   "Marzo_2025":1754467,
   "Abril_2025":1647320,
-  "Mayo_2025":1255812
+  "Mayo_2025":1255812,
+  "Junio_2025":1514435
  },
  {
   "organismo_nombre":"Servicio de Salud Maule",
@@ -60,6 +62,7 @@
   "Febrero_2025":1524055,
   "Marzo_2025":2606315,
   "Abril_2025":1635459,
-  "Mayo_2025":1708650
+  "Mayo_2025":1708650,
+  "Junio_2025":2714132
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":3257601,
   "Marzo_2025":3257601,
   "Abril_2025":3257601,
-  "Mayo_2025":3257601
+  "Mayo_2025":3257601,
+  "Junio_2025":3081735
  },
  {
   "organismo_nombre":"Instituto Antártico Chileno (INACH)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1826966,
   "Febrero_2024":1851855,
   "Marzo_2024":1803411,
@@ -39,7 +40,8 @@
   "Febrero_2025":1450377,
   "Marzo_2025":1449697,
   "Abril_2025":691270,
-  "Mayo_2025":630606
+  "Mayo_2025":630606,
+  "Junio_2025":563529
  },
  {
   "organismo_nombre":"Instituto Antártico Chileno (INACH)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3993872,
   "Marzo_2025":3834367,
   "Abril_2025":3938157,
-  "Mayo_2025":3938157
+  "Mayo_2025":3938157,
+  "Junio_2025":3851119
  }
 ]

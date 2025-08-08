@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Antuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":63,
   "Febrero_2024":64,
   "Marzo_2024":67,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2,
   "Febrero_2024":35,
   "Marzo_2024":51,

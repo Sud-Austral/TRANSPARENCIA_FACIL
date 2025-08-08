@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Yumbel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":237,
   "Febrero_2024":228,
   "Marzo_2024":239,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":99,
   "Febrero_2024":134,
   "Marzo_2024":98,

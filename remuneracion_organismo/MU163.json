@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Maipú",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1846250,
   "Febrero_2024":1237703,
   "Marzo_2024":1195124,
@@ -18,7 +18,8 @@
   "Febrero_2025":1392389,
   "Marzo_2025":2002081,
   "Abril_2025":1837362,
-  "Mayo_2025":2475603
+  "Mayo_2025":2475603,
+  "Junio_2025":1247438
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
@@ -39,11 +40,12 @@
   "Febrero_2025":1983626,
   "Marzo_2025":1972132,
   "Abril_2025":2189082,
-  "Mayo_2025":2536874
+  "Mayo_2025":2536874,
+  "Junio_2025":2206534
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1100699,
   "Febrero_2024":999000,
   "Marzo_2024":1050676,
@@ -60,7 +62,8 @@
   "Febrero_2025":1076659,
   "Marzo_2025":1088446,
   "Abril_2025":1061122,
-  "Mayo_2025":1045598
+  "Mayo_2025":1068173,
+  "Junio_2025":1032486
  },
  {
   "organismo_nombre":"Municipalidad de Maipú",
@@ -81,6 +84,7 @@
   "Febrero_2025":2542131,
   "Marzo_2025":2630755,
   "Abril_2025":3027696,
-  "Mayo_2025":3199828
+  "Mayo_2025":3199828,
+  "Junio_2025":3093200
  }
 ]

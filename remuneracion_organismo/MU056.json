@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Colchane",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1453084,
   "Febrero_2024":1297470,
   "Marzo_2024":1668724,
@@ -18,7 +18,8 @@
   "Febrero_2025":1528441,
   "Marzo_2025":1317066,
   "Abril_2025":1166905,
-  "Mayo_2025":1156115
+  "Mayo_2025":1156115,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
@@ -39,11 +40,12 @@
   "Febrero_2025":1754242,
   "Marzo_2025":2101042,
   "Abril_2025":1937485,
-  "Mayo_2025":2460872
+  "Mayo_2025":2460872,
+  "Junio_2025":1991740
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1422280,
   "Febrero_2024":782637,
   "Marzo_2024":920994,
@@ -60,7 +62,8 @@
   "Febrero_2025":1014889,
   "Marzo_2025":1062846,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":701754,
+  "Junio_2025":701754
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
@@ -81,6 +84,7 @@
   "Febrero_2025":2796761,
   "Marzo_2025":2875464,
   "Abril_2025":2517552,
-  "Mayo_2025":3252584
+  "Mayo_2025":3252584,
+  "Junio_2025":2576256
  }
 ]

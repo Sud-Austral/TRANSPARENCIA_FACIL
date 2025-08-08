@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1361745,
   "Febrero_2024":1372369,
   "Marzo_2024":1713622,
@@ -18,7 +18,8 @@
   "Febrero_2025":1460073,
   "Marzo_2025":1823256,
   "Abril_2025":1493586,
-  "Mayo_2025":1612770
+  "Mayo_2025":1612770,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2101807,
   "Marzo_2025":2160376,
   "Abril_2025":2149057,
-  "Mayo_2025":2335393
+  "Mayo_2025":2335393,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":982867,
   "Febrero_2024":909236,
   "Marzo_2024":949494,
@@ -60,7 +62,8 @@
   "Febrero_2025":1265242,
   "Marzo_2025":1204175,
   "Abril_2025":1181525,
-  "Mayo_2025":1882322
+  "Mayo_2025":1882322,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Pascua (Rapa Nui)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2857893,
   "Marzo_2025":3208403,
   "Abril_2025":2978261,
-  "Mayo_2025":3560443
+  "Mayo_2025":3560443,
+  "Junio_2025":0
  }
 ]

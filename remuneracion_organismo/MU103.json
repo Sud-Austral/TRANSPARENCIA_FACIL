@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Hualaihué",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1702237,
   "Febrero_2024":949236,
   "Marzo_2024":1381128,
@@ -18,7 +18,8 @@
   "Febrero_2025":1000774,
   "Marzo_2025":1470174,
   "Abril_2025":1042833,
-  "Mayo_2025":988451
+  "Mayo_2025":988451,
+  "Junio_2025":994193
  },
  {
   "organismo_nombre":"Municipalidad de Hualaihué",
@@ -39,15 +40,16 @@
   "Febrero_2025":1360589,
   "Marzo_2025":1398559,
   "Abril_2025":1330339,
-  "Mayo_2025":1438983
+  "Mayo_2025":1438983,
+  "Junio_2025":1450403
  },
  {
   "organismo_nombre":"Municipalidad de Hualaihué",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":635668,
   "Febrero_2024":614633,
   "Marzo_2024":527784,
-  "Abril_2024":607710,
+  "Abril_2024":606037,
   "Mayo_2024":584104,
   "Junio_2024":601892,
   "Julio_2024":604708,
@@ -59,8 +61,9 @@
   "Enero_2025":742887,
   "Febrero_2025":752136,
   "Marzo_2025":644379,
-  "Abril_2025":508105,
-  "Mayo_2025":598782
+  "Abril_2025":660661,
+  "Mayo_2025":598782,
+  "Junio_2025":568758
  },
  {
   "organismo_nombre":"Municipalidad de Hualaihué",
@@ -81,6 +84,7 @@
   "Febrero_2025":2583808,
   "Marzo_2025":2754158,
   "Abril_2025":2642046,
-  "Mayo_2025":2900375
+  "Mayo_2025":2900375,
+  "Junio_2025":2922953
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Tarapacá (GORE)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4143210,
   "Febrero_2024":4143210,
   "Marzo_2024":4143210,
@@ -18,7 +18,8 @@
   "Febrero_2025":4346439,
   "Marzo_2025":7758640,
   "Abril_2025":4346439,
-  "Mayo_2025":4346439
+  "Mayo_2025":4346439,
+  "Junio_2025":7824464
  },
  {
   "organismo_nombre":"Gobierno Regional de Tarapacá (GORE)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2246524,
   "Marzo_2025":4301275,
   "Abril_2025":2266571,
-  "Mayo_2025":2262002
+  "Mayo_2025":2264627,
+  "Junio_2025":4288824
  },
  {
   "organismo_nombre":"Gobierno Regional de Tarapacá (GORE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1201586,
   "Febrero_2024":1904396,
   "Marzo_2024":2012250,
@@ -60,7 +62,8 @@
   "Febrero_2025":1300000,
   "Marzo_2025":1256666,
   "Abril_2025":1464000,
-  "Mayo_2025":1455337
+  "Mayo_2025":1455337,
+  "Junio_2025":1464000
  },
  {
   "organismo_nombre":"Gobierno Regional de Tarapacá (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4317605,
   "Marzo_2025":7233647,
   "Abril_2025":4245430,
-  "Mayo_2025":4246919
+  "Mayo_2025":4246919,
+  "Junio_2025":7157022
  }
 ]

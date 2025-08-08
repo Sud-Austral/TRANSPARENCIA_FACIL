@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puyehue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":184,
   "Febrero_2024":183,
   "Marzo_2024":183,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":50,
   "Febrero_2024":101,
   "Marzo_2024":110,

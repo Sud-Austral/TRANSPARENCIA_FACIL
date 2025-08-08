@@ -18,11 +18,12 @@
   "Febrero_2025":1838638,
   "Marzo_2025":2386888,
   "Abril_2025":1627680,
-  "Mayo_2025":1708077
+  "Mayo_2025":1708077,
+  "Junio_2025":3279833
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cardenal Caro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":993030,
   "Febrero_2024":903663,
   "Marzo_2024":946516,
@@ -39,7 +40,8 @@
   "Febrero_2025":1158620,
   "Marzo_2025":1153145,
   "Abril_2025":1093916,
-  "Mayo_2025":1168357
+  "Mayo_2025":1168357,
+  "Junio_2025":1177201
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cardenal Caro",
@@ -60,6 +62,7 @@
   "Febrero_2025":2878698,
   "Marzo_2025":3353138,
   "Abril_2025":2878698,
-  "Mayo_2025":2878698
+  "Mayo_2025":2878698,
+  "Junio_2025":4305475
  }
 ]

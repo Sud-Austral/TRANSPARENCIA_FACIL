@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Colchane",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":35,
   "Febrero_2024":33,
   "Marzo_2024":30,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Colchane",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":42,
   "Febrero_2024":77,
   "Marzo_2024":88,

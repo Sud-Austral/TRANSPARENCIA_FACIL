@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Huasco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":557523,
   "Febrero_2024":541753,
   "Marzo_2024":562518,
@@ -18,7 +18,8 @@
   "Febrero_2025":602538,
   "Marzo_2025":630013,
   "Abril_2025":604029,
-  "Mayo_2025":604029
+  "Mayo_2025":604029,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1163114,
   "Marzo_2025":1193596,
   "Abril_2025":1245077,
-  "Mayo_2025":1011462
+  "Mayo_2025":1011462,
+  "Junio_2025":1388826
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":608038,
   "Febrero_2024":593352,
   "Marzo_2024":709281,
@@ -56,11 +58,12 @@
   "Octubre_2024":641546,
   "Noviembre_2024":0,
   "Diciembre_2024":0,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
+  "Enero_2025":796258,
+  "Febrero_2025":809735,
+  "Marzo_2025":766002,
   "Abril_2025":859302,
-  "Mayo_2025":0
+  "Mayo_2025":800779,
+  "Junio_2025":763816
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1940866,
   "Marzo_2025":1997145,
   "Abril_2025":2077652,
-  "Mayo_2025":2795139
+  "Mayo_2025":2795139,
+  "Junio_2025":2352702
  }
 ]

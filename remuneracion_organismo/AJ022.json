@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Gabriela Mistral (SLEP Gabriela Mistral)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":908995,
   "Febrero_2024":1023905,
   "Marzo_2024":928048,
@@ -18,7 +18,8 @@
   "Febrero_2025":1271279,
   "Marzo_2025":997240,
   "Abril_2025":952597,
-  "Mayo_2025":943511
+  "Mayo_2025":943511,
+  "Junio_2025":971678
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Gabriela Mistral (SLEP Gabriela Mistral)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1617734,
   "Marzo_2025":1492434,
   "Abril_2025":1604268,
-  "Mayo_2025":1541999
+  "Mayo_2025":1541999,
+  "Junio_2025":1596446
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Gabriela Mistral (SLEP Gabriela Mistral)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":1350587,
   "Marzo_2025":1527168,
   "Abril_2025":0,
-  "Mayo_2025":1367811
+  "Mayo_2025":1420355,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Gabriela Mistral (SLEP Gabriela Mistral)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2046496,
   "Marzo_2025":2093770,
   "Abril_2025":2113706,
-  "Mayo_2025":2069424
+  "Mayo_2025":2069424,
+  "Junio_2025":2082540
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1306250,
   "Febrero_2024":1255654,
   "Marzo_2024":1303466,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
@@ -39,11 +40,12 @@
   "Febrero_2025":2078205,
   "Marzo_2025":5305131,
   "Abril_2025":2076375,
-  "Mayo_2025":2075447
+  "Mayo_2025":2075447,
+  "Junio_2025":2722689
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":3637439,
   "Marzo_2024":3637439,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de Los Ríos",
@@ -81,6 +84,7 @@
   "Febrero_2025":2915711,
   "Marzo_2025":7163559,
   "Abril_2025":2748910,
-  "Mayo_2025":2754164
+  "Mayo_2025":2754164,
+  "Junio_2025":3393720
  }
 ]

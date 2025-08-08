@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cholchol",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":875494,
   "Febrero_2024":859708,
   "Marzo_2024":790307,
@@ -18,7 +18,8 @@
   "Febrero_2025":1056429,
   "Marzo_2025":877865,
   "Abril_2025":929653,
-  "Mayo_2025":886217
+  "Mayo_2025":886217,
+  "Junio_2025":896202
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
@@ -39,11 +40,12 @@
   "Febrero_2025":1197706,
   "Marzo_2025":1227833,
   "Abril_2025":1270914,
-  "Mayo_2025":1192673
+  "Mayo_2025":1192673,
+  "Junio_2025":1249900
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3024515,
   "Febrero_2024":1896390,
   "Marzo_2024":1897048,
@@ -60,7 +62,8 @@
   "Febrero_2025":973352,
   "Marzo_2025":1051734,
   "Abril_2025":909148,
-  "Mayo_2025":997058
+  "Mayo_2025":997058,
+  "Junio_2025":1169016
  },
  {
   "organismo_nombre":"Municipalidad de Cholchol",
@@ -81,6 +84,7 @@
   "Febrero_2025":2007298,
   "Marzo_2025":1932230,
   "Abril_2025":2321310,
-  "Mayo_2025":1951057
+  "Mayo_2025":1951057,
+  "Junio_2025":2263615
  }
 ]

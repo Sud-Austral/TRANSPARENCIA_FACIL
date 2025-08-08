@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Traiguén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":798826,
   "Febrero_2024":774641,
   "Marzo_2024":763555,
@@ -18,7 +18,8 @@
   "Febrero_2025":844151,
   "Marzo_2025":817032,
   "Abril_2025":822150,
-  "Mayo_2025":816975
+  "Mayo_2025":816975,
+  "Junio_2025":844252
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1347720,
   "Marzo_2025":1363177,
   "Abril_2025":1464985,
-  "Mayo_2025":1796481
+  "Mayo_2025":1759660,
+  "Junio_2025":1469821
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":793053,
   "Febrero_2024":789194,
   "Marzo_2024":862781,
@@ -60,7 +62,8 @@
   "Febrero_2025":844619,
   "Marzo_2025":740813,
   "Abril_2025":787379,
-  "Mayo_2025":801080
+  "Mayo_2025":801080,
+  "Junio_2025":908890
  },
  {
   "organismo_nombre":"Municipalidad de Traiguén",
@@ -81,6 +84,7 @@
   "Febrero_2025":1980908,
   "Marzo_2025":1966344,
   "Abril_2025":2139727,
-  "Mayo_2025":2344006
+  "Mayo_2025":2222192,
+  "Junio_2025":2060509
  }
 ]

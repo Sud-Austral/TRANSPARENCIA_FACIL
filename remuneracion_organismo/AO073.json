@@ -18,11 +18,12 @@
   "Febrero_2025":1568844,
   "Marzo_2025":2083566,
   "Abril_2025":1776541,
-  "Mayo_2025":0
+  "Mayo_2025":1628499,
+  "Junio_2025":2010524
  },
  {
   "organismo_nombre":"Hospital Félix Bulnes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1743721,
   "Febrero_2024":2347692,
   "Marzo_2024":2294259,
@@ -39,7 +40,8 @@
   "Febrero_2025":940778,
   "Marzo_2025":1290163,
   "Abril_2025":1326414,
-  "Mayo_2025":923275
+  "Mayo_2025":923275,
+  "Junio_2025":1625365
  },
  {
   "organismo_nombre":"Hospital Félix Bulnes",
@@ -60,6 +62,7 @@
   "Febrero_2025":1528069,
   "Marzo_2025":2422652,
   "Abril_2025":1813736,
-  "Mayo_2025":1635925
+  "Mayo_2025":1635925,
+  "Junio_2025":2349859
  }
 ]

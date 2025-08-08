@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1279255,
   "Febrero_2024":1131586,
   "Marzo_2024":1264662,
@@ -18,7 +18,8 @@
   "Febrero_2025":1218086,
   "Marzo_2025":1301128,
   "Abril_2025":1195856,
-  "Mayo_2025":1206504
+  "Mayo_2025":1206504,
+  "Junio_2025":1127604
  },
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1426277,
   "Marzo_2025":1385842,
   "Abril_2025":1469720,
-  "Mayo_2025":1288508
+  "Mayo_2025":1288508,
+  "Junio_2025":1434180
  },
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1002127,
   "Febrero_2024":1057664,
   "Marzo_2024":810140,
@@ -60,7 +62,8 @@
   "Febrero_2025":1060935,
   "Marzo_2025":1334329,
   "Abril_2025":1014346,
-  "Mayo_2025":646811
+  "Mayo_2025":646811,
+  "Junio_2025":799532
  },
  {
   "organismo_nombre":"Corporación Municipal de Rancagua (CORMUN)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1696559,
   "Marzo_2025":1743139,
   "Abril_2025":2084290,
-  "Mayo_2025":1687195
+  "Mayo_2025":1687195,
+  "Junio_2025":1995136
  }
 ]

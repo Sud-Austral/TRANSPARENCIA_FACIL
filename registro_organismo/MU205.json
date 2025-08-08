@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":705,
   "Febrero_2024":687,
   "Marzo_2024":678,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pedro Aguirre Cerda",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":348,
   "Febrero_2024":929,
   "Marzo_2024":706,

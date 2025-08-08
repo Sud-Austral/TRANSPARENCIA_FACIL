@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1114381,
   "Febrero_2024":937058,
   "Marzo_2024":789465,
@@ -18,7 +18,8 @@
   "Febrero_2025":698730,
   "Marzo_2025":598737,
   "Abril_2025":740263,
-  "Mayo_2025":781550
+  "Mayo_2025":621904,
+  "Junio_2025":762329
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
@@ -36,14 +37,15 @@
   "Noviembre_2024":1399409,
   "Diciembre_2024":1778940,
   "Enero_2025":1793472,
-  "Febrero_2025":2259651,
+  "Febrero_2025":1605906,
   "Marzo_2025":1821718,
   "Abril_2025":1868083,
-  "Mayo_2025":2154523
+  "Mayo_2025":2154523,
+  "Junio_2025":1497608
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":987686,
   "Febrero_2024":940133,
   "Marzo_2024":950701,
@@ -53,14 +55,15 @@
   "Julio_2024":814459,
   "Agosto_2024":861839,
   "Septiembre_2024":828191,
-  "Octubre_2024":842679,
+  "Octubre_2024":831538,
   "Noviembre_2024":840688,
   "Diciembre_2024":1700273,
-  "Enero_2025":1041112,
-  "Febrero_2025":1188499,
-  "Marzo_2025":1186684,
-  "Abril_2025":865591,
-  "Mayo_2025":1171021
+  "Enero_2025":1051793,
+  "Febrero_2025":1008094,
+  "Marzo_2025":1041059,
+  "Abril_2025":1059613,
+  "Mayo_2025":1037181,
+  "Junio_2025":1027883
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
@@ -78,9 +81,10 @@
   "Noviembre_2024":1925035,
   "Diciembre_2024":2343526,
   "Enero_2025":2078597,
-  "Febrero_2025":2500227,
+  "Febrero_2025":1803821,
   "Marzo_2025":2015552,
   "Abril_2025":2282149,
-  "Mayo_2025":1995775
+  "Mayo_2025":1995775,
+  "Junio_2025":1698842
  }
 ]

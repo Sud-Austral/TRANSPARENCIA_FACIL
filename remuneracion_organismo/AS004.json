@@ -18,11 +18,12 @@
   "Febrero_2025":3393198,
   "Marzo_2025":3399055,
   "Abril_2025":3391214,
-  "Mayo_2025":3389821
+  "Mayo_2025":3389821,
+  "Junio_2025":3434398
  },
  {
   "organismo_nombre":"Servicio Nacional de Geología y Minería (SERNAGEOMIN)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1920450,
   "Febrero_2024":2440900,
   "Marzo_2024":1347725,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1286550
+  "Mayo_2025":1286550,
+  "Junio_2025":1286550
  },
  {
   "organismo_nombre":"Servicio Nacional de Geología y Minería (SERNAGEOMIN)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6029891,
   "Marzo_2025":6031220,
   "Abril_2025":6032199,
-  "Mayo_2025":6032815
+  "Mayo_2025":6032815,
+  "Junio_2025":5340364
  }
 ]

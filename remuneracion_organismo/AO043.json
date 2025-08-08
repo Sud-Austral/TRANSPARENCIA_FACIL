@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Coquimbo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1081250,
   "Febrero_2024":957809,
   "Marzo_2024":1137378,
@@ -18,7 +18,8 @@
   "Febrero_2025":1158238,
   "Marzo_2025":1158238,
   "Abril_2025":1074904,
-  "Mayo_2025":1308238
+  "Mayo_2025":1308238,
+  "Junio_2025":1308238
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Coquimbo",
@@ -39,7 +40,8 @@
   "Febrero_2025":1791245,
   "Marzo_2025":4776594,
   "Abril_2025":1789792,
-  "Mayo_2025":1787208
+  "Mayo_2025":1787208,
+  "Junio_2025":2303614
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Coquimbo",
@@ -60,6 +62,7 @@
   "Febrero_2025":2648864,
   "Marzo_2025":7455089,
   "Abril_2025":3289055,
-  "Mayo_2025":2978161
+  "Mayo_2025":2978161,
+  "Junio_2025":4986940
  }
 ]

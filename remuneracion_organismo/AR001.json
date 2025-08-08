@@ -18,11 +18,12 @@
   "Febrero_2025":2821098,
   "Marzo_2025":4044960,
   "Abril_2025":2169576,
-  "Mayo_2025":2197518
+  "Mayo_2025":2197518,
+  "Junio_2025":4011114
  },
  {
   "organismo_nombre":"Subsecretaría de Agricultura",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2213999,
   "Febrero_2024":2195034,
   "Marzo_2024":2200940,
@@ -39,7 +40,8 @@
   "Febrero_2025":2285376,
   "Marzo_2025":2283145,
   "Abril_2025":2224365,
-  "Mayo_2025":2226326
+  "Mayo_2025":2226326,
+  "Junio_2025":2190260
  },
  {
   "organismo_nombre":"Subsecretaría de Agricultura",
@@ -60,6 +62,7 @@
   "Febrero_2025":4262944,
   "Marzo_2025":5754798,
   "Abril_2025":3525278,
-  "Mayo_2025":3434777
+  "Mayo_2025":3434777,
+  "Junio_2025":5592654
  }
 ]

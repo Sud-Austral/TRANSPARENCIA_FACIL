@@ -18,11 +18,12 @@
   "Febrero_2025":2098016,
   "Marzo_2025":3904200,
   "Abril_2025":2098445,
-  "Mayo_2025":2090201
+  "Mayo_2025":2090201,
+  "Junio_2025":3904518
  },
  {
   "organismo_nombre":"Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (SENDA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1653642,
   "Febrero_2024":1515456,
   "Marzo_2024":1498884,
@@ -39,7 +40,8 @@
   "Febrero_2025":1864002,
   "Marzo_2025":1786002,
   "Abril_2025":1769678,
-  "Mayo_2025":1769678
+  "Mayo_2025":1769678,
+  "Junio_2025":1861846
  },
  {
   "organismo_nombre":"Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol (SENDA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4885816,
   "Marzo_2025":8488433,
   "Abril_2025":4895921,
-  "Mayo_2025":4888241
+  "Mayo_2025":4888241,
+  "Junio_2025":5863762
  }
 ]

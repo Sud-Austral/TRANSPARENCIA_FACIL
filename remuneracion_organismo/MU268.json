@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Retiro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1164644,
   "Febrero_2024":745554,
   "Marzo_2024":832730,
@@ -18,7 +18,8 @@
   "Febrero_2025":812610,
   "Marzo_2025":830675,
   "Abril_2025":789985,
-  "Mayo_2025":748179
+  "Mayo_2025":748179,
+  "Junio_2025":773674
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
@@ -39,11 +40,12 @@
   "Febrero_2025":1019174,
   "Marzo_2025":937126,
   "Abril_2025":1161065,
-  "Mayo_2025":1044822
+  "Mayo_2025":1044822,
+  "Junio_2025":1165613
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":660002,
   "Febrero_2024":666899,
   "Marzo_2024":609046,
@@ -60,7 +62,8 @@
   "Febrero_2025":1237893,
   "Marzo_2025":1113509,
   "Abril_2025":1068261,
-  "Mayo_2025":1065741
+  "Mayo_2025":1065741,
+  "Junio_2025":910852
  },
  {
   "organismo_nombre":"Municipalidad de Retiro",
@@ -81,6 +84,7 @@
   "Febrero_2025":1683398,
   "Marzo_2025":1681335,
   "Abril_2025":2062773,
-  "Mayo_2025":1675189
+  "Mayo_2025":1675189,
+  "Junio_2025":2066464
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2615900,
   "Marzo_2025":4661378,
   "Abril_2025":2622224,
-  "Mayo_2025":2601370
+  "Mayo_2025":2601370,
+  "Junio_2025":4788228
  },
  {
   "organismo_nombre":"Dirección de Planeamiento (DIRPLAN)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2419975,
   "Febrero_2024":2899975,
   "Marzo_2024":2899975,
@@ -39,7 +40,8 @@
   "Febrero_2025":2610549,
   "Marzo_2025":2610549,
   "Abril_2025":2610549,
-  "Mayo_2025":2610549
+  "Mayo_2025":2610549,
+  "Junio_2025":2610549
  },
  {
   "organismo_nombre":"Dirección de Planeamiento (DIRPLAN)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4186913,
   "Marzo_2025":6735555,
   "Abril_2025":4151112,
-  "Mayo_2025":4151112
+  "Mayo_2025":4151112,
+  "Junio_2025":6765448
  }
 ]

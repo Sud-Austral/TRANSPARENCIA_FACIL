@@ -18,11 +18,12 @@
   "Febrero_2025":2605227,
   "Marzo_2025":2605861,
   "Abril_2025":2111152,
-  "Mayo_2025":2111631
+  "Mayo_2025":2111631,
+  "Junio_2025":3876263
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1809549,
   "Febrero_2024":1809549,
   "Marzo_2024":1600161,
@@ -39,7 +40,8 @@
   "Febrero_2025":2018782,
   "Marzo_2025":2018782,
   "Abril_2025":2018782,
-  "Mayo_2025":2018782
+  "Mayo_2025":2018782,
+  "Junio_2025":2018782
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Lagos",
@@ -60,6 +62,7 @@
   "Febrero_2025":4619075,
   "Marzo_2025":7948424,
   "Abril_2025":6954587,
-  "Mayo_2025":6954587
+  "Mayo_2025":6954587,
+  "Junio_2025":9936098
  }
 ]

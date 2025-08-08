@@ -18,11 +18,12 @@
   "Febrero_2025":1627256,
   "Marzo_2025":2088645,
   "Abril_2025":1627256,
-  "Mayo_2025":1627903
+  "Mayo_2025":1627903,
+  "Junio_2025":3026343
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Antonio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1191960,
   "Febrero_2024":1343553,
   "Marzo_2024":1343553,
@@ -39,7 +40,8 @@
   "Febrero_2025":1185983,
   "Marzo_2025":986385,
   "Abril_2025":1302298,
-  "Mayo_2025":1326337
+  "Mayo_2025":1326337,
+  "Junio_2025":1326337
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de San Antonio",
@@ -60,6 +62,7 @@
   "Febrero_2025":4391964,
   "Marzo_2025":4391964,
   "Abril_2025":3673133,
-  "Mayo_2025":3673133
+  "Mayo_2025":3673133,
+  "Junio_2025":5840481
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de innovación y desarrollo económico y social de SAN JOAQUÍN",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2247392,
   "Febrero_2024":2136090,
   "Marzo_2024":2136090,
@@ -18,11 +18,12 @@
   "Febrero_2025":2101188,
   "Marzo_2025":2101188,
   "Abril_2025":2101188,
-  "Mayo_2025":2101188
+  "Mayo_2025":2101188,
+  "Junio_2025":2101188
  },
  {
   "organismo_nombre":"Corporación Municipal de innovación y desarrollo económico y social de SAN JOAQUÍN",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1107383,
   "Febrero_2024":0,
   "Marzo_2024":1108744,
@@ -39,6 +40,7 @@
   "Febrero_2025":1227189,
   "Marzo_2025":1227189,
   "Abril_2025":1227189,
-  "Mayo_2025":1227189
+  "Mayo_2025":1227189,
+  "Junio_2025":1293089
  }
 ]

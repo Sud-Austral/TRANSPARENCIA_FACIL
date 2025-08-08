@@ -18,11 +18,12 @@
   "Febrero_2025":3201990,
   "Marzo_2025":5431314,
   "Abril_2025":3207383,
-  "Mayo_2025":3194357
+  "Mayo_2025":3194357,
+  "Junio_2025":5383327
  },
  {
   "organismo_nombre":"Dirección General de Concesiones (DGC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3252353,
   "Febrero_2024":3149834,
   "Marzo_2024":3166151,
@@ -39,7 +40,8 @@
   "Febrero_2025":3366963,
   "Marzo_2025":3372845,
   "Abril_2025":3372845,
-  "Mayo_2025":3375589
+  "Mayo_2025":3375589,
+  "Junio_2025":3375589
  },
  {
   "organismo_nombre":"Dirección General de Concesiones (DGC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":7199493,
   "Marzo_2025":11958384,
   "Abril_2025":7188805,
-  "Mayo_2025":6632544
+  "Mayo_2025":6632544,
+  "Junio_2025":11181083
  }
 ]

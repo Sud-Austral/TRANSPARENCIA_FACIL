@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Huasco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":26,
   "Febrero_2024":48,
   "Marzo_2024":24,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Huasco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":114,
   "Febrero_2024":44,
   "Marzo_2024":114,

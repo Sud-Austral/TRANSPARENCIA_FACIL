@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1361323,
   "Febrero_2024":1087500,
   "Marzo_2024":1295815,
@@ -18,7 +18,8 @@
   "Febrero_2025":801197,
   "Marzo_2025":2633495,
   "Abril_2025":2633495,
-  "Mayo_2025":1946591
+  "Mayo_2025":1946591,
+  "Junio_2025":1959049
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
@@ -39,11 +40,12 @@
   "Febrero_2025":958635,
   "Marzo_2025":1041239,
   "Abril_2025":1091252,
-  "Mayo_2025":902658
+  "Mayo_2025":902658,
+  "Junio_2025":1321693
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":562487,
   "Febrero_2024":874508,
   "Marzo_2024":924841,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Servicios Ramón Freire Dalcahue",
@@ -81,6 +84,7 @@
   "Febrero_2025":1717276,
   "Marzo_2025":2229878,
   "Abril_2025":2434850,
-  "Mayo_2025":1778028
+  "Mayo_2025":1778028,
+  "Junio_2025":3074125
  }
 ]

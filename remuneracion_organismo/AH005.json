@@ -18,11 +18,12 @@
   "Febrero_2025":4056497,
   "Marzo_2025":4660504,
   "Abril_2025":4190683,
-  "Mayo_2025":4173860
+  "Mayo_2025":4173860,
+  "Junio_2025":5079215
  },
  {
   "organismo_nombre":"Fiscalía Nacional Económica (FNE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":898751,
   "Febrero_2024":833804,
   "Marzo_2024":791025,
@@ -39,7 +40,8 @@
   "Febrero_2025":842295,
   "Marzo_2025":927232,
   "Abril_2025":891045,
-  "Mayo_2025":827214
+  "Mayo_2025":827214,
+  "Junio_2025":829124
  },
  {
   "organismo_nombre":"Fiscalía Nacional Económica (FNE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":9473173,
   "Marzo_2025":11554827,
   "Abril_2025":9473173,
-  "Mayo_2025":9473173
+  "Mayo_2025":9473173,
+  "Junio_2025":11621809
  }
 ]

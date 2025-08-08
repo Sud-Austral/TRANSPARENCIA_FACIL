@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":22,
   "Febrero_2024":22,
   "Marzo_2024":21,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Subsecretaría de Salud Pública (MINSAL)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":124,
   "Febrero_2024":129,
   "Marzo_2024":130,

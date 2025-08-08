@@ -18,11 +18,12 @@
   "Febrero_2025":2911187,
   "Marzo_2025":2915286,
   "Abril_2025":2280247,
-  "Mayo_2025":2277184
+  "Mayo_2025":2277184,
+  "Junio_2025":4200922
  },
  {
   "organismo_nombre":"Servicio Nacional de Capacitación y Empleo (SENCE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1837386,
   "Febrero_2024":1847907,
   "Marzo_2024":1850487,
@@ -39,7 +40,8 @@
   "Febrero_2025":1968862,
   "Marzo_2025":1956490,
   "Abril_2025":1884598,
-  "Mayo_2025":1830945
+  "Mayo_2025":1830945,
+  "Junio_2025":1801708
  },
  {
   "organismo_nombre":"Servicio Nacional de Capacitación y Empleo (SENCE)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5844458,
   "Marzo_2025":5693722,
   "Abril_2025":4347502,
-  "Mayo_2025":4628486
+  "Mayo_2025":4628486,
+  "Junio_2025":7529316
  }
 ]

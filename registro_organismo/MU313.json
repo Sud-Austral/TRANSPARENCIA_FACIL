@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Talcahuano",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1442,
   "Febrero_2024":1168,
   "Marzo_2024":1221,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Talcahuano",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":630,
   "Febrero_2024":649,
   "Marzo_2024":651,

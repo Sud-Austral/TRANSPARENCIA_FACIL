@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pudahuel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2462623,
   "Febrero_2024":2817967,
   "Marzo_2024":2872635,
@@ -18,7 +18,8 @@
   "Febrero_2025":2851385,
   "Marzo_2025":2851385,
   "Abril_2025":2958814,
-  "Mayo_2025":2931806
+  "Mayo_2025":2931806,
+  "Junio_2025":2931806
  },
  {
   "organismo_nombre":"Municipalidad de Pudahuel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1535188,
   "Marzo_2025":1579284,
   "Abril_2025":1657883,
-  "Mayo_2025":2549678
+  "Mayo_2025":2549678,
+  "Junio_2025":1604729
  },
  {
   "organismo_nombre":"Municipalidad de Pudahuel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1181050,
   "Febrero_2024":1110036,
   "Marzo_2024":1082398,
@@ -58,9 +60,10 @@
   "Diciembre_2024":1056230,
   "Enero_2025":1168439,
   "Febrero_2025":1171480,
-  "Marzo_2025":1141652,
-  "Abril_2025":1082677,
-  "Mayo_2025":1067189
+  "Marzo_2025":1144251,
+  "Abril_2025":1082410,
+  "Mayo_2025":1063354,
+  "Junio_2025":1063567
  },
  {
   "organismo_nombre":"Municipalidad de Pudahuel",
@@ -81,6 +84,7 @@
   "Febrero_2025":1805546,
   "Marzo_2025":1820789,
   "Abril_2025":1886193,
-  "Mayo_2025":3054427
+  "Mayo_2025":3054427,
+  "Junio_2025":1864382
  }
 ]

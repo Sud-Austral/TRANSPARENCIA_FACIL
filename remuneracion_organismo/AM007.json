@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Obras Hidráulicas (DOH)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":752825,
   "Febrero_2024":752825,
   "Marzo_2024":1003739,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1591871,
   "Abril_2025":830100,
-  "Mayo_2025":834603
+  "Mayo_2025":834603,
+  "Junio_2025":1639376
  },
  {
   "organismo_nombre":"Dirección de Obras Hidráulicas (DOH)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2275486,
   "Marzo_2025":4142235,
   "Abril_2025":2265605,
-  "Mayo_2025":2266308
+  "Mayo_2025":2266308,
+  "Junio_2025":4168207
  },
  {
   "organismo_nombre":"Dirección de Obras Hidráulicas (DOH)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3691724,
   "Febrero_2024":3597632,
   "Marzo_2024":3644511,
@@ -60,7 +62,8 @@
   "Febrero_2025":3804697,
   "Marzo_2025":3804697,
   "Abril_2025":3804697,
-  "Mayo_2025":3804697
+  "Mayo_2025":3804697,
+  "Junio_2025":3804697
  },
  {
   "organismo_nombre":"Dirección de Obras Hidráulicas (DOH)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3497377,
   "Marzo_2025":5930321,
   "Abril_2025":3526096,
-  "Mayo_2025":3528577
+  "Mayo_2025":3528577,
+  "Junio_2025":6070796
  }
 ]

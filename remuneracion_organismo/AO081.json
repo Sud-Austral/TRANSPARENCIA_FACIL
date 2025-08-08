@@ -18,28 +18,30 @@
   "Febrero_2025":1652557,
   "Marzo_2025":1838434,
   "Abril_2025":1767211,
-  "Mayo_2025":1808980
+  "Mayo_2025":1808980,
+  "Junio_2025":1866124
  },
  {
   "organismo_nombre":"Hospital Sótero del Río",
-  "base":"Contratohonorarios",
-  "Enero_2024":1680140,
-  "Febrero_2024":1718771,
-  "Marzo_2024":1719005,
-  "Abril_2024":1720040,
-  "Mayo_2024":0,
-  "Junio_2024":1657379,
-  "Julio_2024":1439656,
-  "Agosto_2024":1590955,
-  "Septiembre_2024":1647057,
-  "Octubre_2024":1585611,
-  "Noviembre_2024":1673603,
-  "Diciembre_2024":1694080,
-  "Enero_2025":1645132,
+  "base":"Honorarios",
+  "Enero_2024":1688141,
+  "Febrero_2024":1730756,
+  "Marzo_2024":1729937,
+  "Abril_2024":1729412,
+  "Mayo_2024":1746487,
+  "Junio_2024":1663536,
+  "Julio_2024":1508648,
+  "Agosto_2024":1621847,
+  "Septiembre_2024":1651803,
+  "Octubre_2024":1590785,
+  "Noviembre_2024":1964229,
+  "Diciembre_2024":1710068,
+  "Enero_2025":1650742,
   "Febrero_2025":1509378,
   "Marzo_2025":1589457,
   "Abril_2025":1677575,
-  "Mayo_2025":1564906
+  "Mayo_2025":1564906,
+  "Junio_2025":1572575
  },
  {
   "organismo_nombre":"Hospital Sótero del Río",
@@ -60,6 +62,7 @@
   "Febrero_2025":2362901,
   "Marzo_2025":3143444,
   "Abril_2025":2305405,
-  "Mayo_2025":2404540
+  "Mayo_2025":2404540,
+  "Junio_2025":3615617
  }
 ]

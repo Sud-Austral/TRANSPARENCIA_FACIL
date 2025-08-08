@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Lo Prado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1508867,
   "Febrero_2024":1467194,
   "Marzo_2024":1519990,
@@ -18,7 +18,8 @@
   "Febrero_2025":1591406,
   "Marzo_2025":1627753,
   "Abril_2025":1616173,
-  "Mayo_2025":1579463
+  "Mayo_2025":1579463,
+  "Junio_2025":1604090
  },
  {
   "organismo_nombre":"Corporación Municipal de Lo Prado",
@@ -39,11 +40,12 @@
   "Febrero_2025":1572543,
   "Marzo_2025":1487268,
   "Abril_2025":1814391,
-  "Mayo_2025":1485736
+  "Mayo_2025":1485736,
+  "Junio_2025":1855432
  },
  {
   "organismo_nombre":"Corporación Municipal de Lo Prado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":775037,
   "Febrero_2024":1508535,
   "Marzo_2024":1374580,
@@ -59,8 +61,9 @@
   "Enero_2025":1446819,
   "Febrero_2025":1322032,
   "Marzo_2025":1487278,
-  "Abril_2025":1542760,
-  "Mayo_2025":0
+  "Abril_2025":1524829,
+  "Mayo_2025":1559308,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Lo Prado",
@@ -81,6 +84,7 @@
   "Febrero_2025":2242195,
   "Marzo_2025":2134796,
   "Abril_2025":2976711,
-  "Mayo_2025":2232748
+  "Mayo_2025":2232748,
+  "Junio_2025":3032148
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chillán Viejo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":199,
   "Febrero_2024":224,
   "Marzo_2024":204,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chillán Viejo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":171,
   "Febrero_2024":192,
   "Marzo_2024":191,

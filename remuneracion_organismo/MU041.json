@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1639995,
   "Febrero_2024":1360871,
   "Marzo_2024":1360871,
@@ -17,8 +17,9 @@
   "Enero_2025":2032080,
   "Febrero_2025":1977479,
   "Marzo_2025":2063711,
-  "Abril_2025":1977479,
-  "Mayo_2025":1977479
+  "Abril_2025":2020595,
+  "Mayo_2025":1977479,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
@@ -39,11 +40,12 @@
   "Febrero_2025":1620351,
   "Marzo_2025":2280537,
   "Abril_2025":0,
-  "Mayo_2025":2360812
+  "Mayo_2025":2360812,
+  "Junio_2025":2355239
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":680934,
   "Febrero_2024":706244,
   "Marzo_2024":706033,
@@ -60,7 +62,8 @@
   "Febrero_2025":703244,
   "Marzo_2025":697061,
   "Abril_2025":732055,
-  "Mayo_2025":0
+  "Mayo_2025":769028,
+  "Junio_2025":766906
  },
  {
   "organismo_nombre":"Municipalidad de Chile Chico",
@@ -69,7 +72,7 @@
   "Febrero_2024":2731064,
   "Marzo_2024":3414711,
   "Abril_2024":2734516,
-  "Mayo_2024":2589252,
+  "Mayo_2024":3876350,
   "Junio_2024":3246918,
   "Julio_2024":2734516,
   "Agosto_2024":2811448,
@@ -77,10 +80,11 @@
   "Octubre_2024":3505423,
   "Noviembre_2024":2340864,
   "Diciembre_2024":4131151,
-  "Enero_2025":2988222,
-  "Febrero_2025":2871749,
-  "Marzo_2025":3507650,
-  "Abril_2025":3069826,
-  "Mayo_2025":2513999
+  "Enero_2025":3014858,
+  "Febrero_2025":2825657,
+  "Marzo_2025":3569569,
+  "Abril_2025":2822362,
+  "Mayo_2025":3908430,
+  "Junio_2025":3598850
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coihueco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":917371,
   "Febrero_2024":1498750,
   "Marzo_2024":1498750,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1556789,
   "Abril_2025":1556789,
-  "Mayo_2025":1556789
+  "Mayo_2025":1556789,
+  "Junio_2025":1556789
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1168712,
   "Marzo_2025":1172508,
   "Abril_2025":1426479,
-  "Mayo_2025":1139601
+  "Mayo_2025":1139601,
+  "Junio_2025":1407722
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":628319,
   "Febrero_2024":871162,
   "Marzo_2024":851578,
@@ -60,7 +62,8 @@
   "Febrero_2025":1370044,
   "Marzo_2025":1179052,
   "Abril_2025":1083150,
-  "Mayo_2025":1086248
+  "Mayo_2025":1086248,
+  "Junio_2025":887150
  },
  {
   "organismo_nombre":"Municipalidad de Coihueco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1341203,
   "Marzo_2025":1686544,
   "Abril_2025":2203021,
-  "Mayo_2025":1619178
+  "Mayo_2025":1619178,
+  "Junio_2025":2302395
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Camarones",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1621473,
   "Febrero_2024":1621473,
   "Marzo_2024":1621473,
@@ -18,7 +18,8 @@
   "Febrero_2025":1719202,
   "Marzo_2025":1791409,
   "Abril_2025":1791409,
-  "Mayo_2025":1791409
+  "Mayo_2025":1791409,
+  "Junio_2025":1811233
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
@@ -39,11 +40,12 @@
   "Febrero_2025":1616322,
   "Marzo_2025":2180724,
   "Abril_2025":1616534,
-  "Mayo_2025":1585348
+  "Mayo_2025":1585348,
+  "Junio_2025":2811875
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1101262,
   "Febrero_2024":1173878,
   "Marzo_2024":1101267,
@@ -60,7 +62,8 @@
   "Febrero_2025":1383244,
   "Marzo_2025":1045904,
   "Abril_2025":1284231,
-  "Mayo_2025":1276360
+  "Mayo_2025":1276360,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Camarones",
@@ -81,6 +84,7 @@
   "Febrero_2025":3126117,
   "Marzo_2025":3658971,
   "Abril_2025":3086750,
-  "Mayo_2025":3105768
+  "Mayo_2025":3105768,
+  "Junio_2025":5022990
  }
 ]

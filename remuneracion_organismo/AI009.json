@@ -18,11 +18,12 @@
   "Febrero_2025":3083004,
   "Marzo_2025":3120661,
   "Abril_2025":3119486,
-  "Mayo_2025":3037469
+  "Mayo_2025":3037469,
+  "Junio_2025":3122740
  },
  {
   "organismo_nombre":"Subsecretaría de la Niñez",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1671600,
   "Febrero_2024":1671600,
   "Marzo_2024":1671600,
@@ -39,7 +40,8 @@
   "Febrero_2025":1947079,
   "Marzo_2025":1947079,
   "Abril_2025":1947079,
-  "Mayo_2025":1947079
+  "Mayo_2025":1947079,
+  "Junio_2025":1947079
  },
  {
   "organismo_nombre":"Subsecretaría de la Niñez",
@@ -60,6 +62,7 @@
   "Febrero_2025":6662056,
   "Marzo_2025":6662056,
   "Abril_2025":6662056,
-  "Mayo_2025":6668223
+  "Mayo_2025":6668223,
+  "Junio_2025":6694945
  }
 ]

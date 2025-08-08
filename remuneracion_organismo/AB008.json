@@ -18,11 +18,12 @@
   "Febrero_2025":2602307,
   "Marzo_2025":2604536,
   "Abril_2025":1907128,
-  "Mayo_2025":0
+  "Mayo_2025":1938132,
+  "Junio_2025":3809298
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Antofagasta",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":10356817,
   "Febrero_2024":1685079,
   "Marzo_2024":1679209,
@@ -39,7 +40,8 @@
   "Febrero_2025":1942406,
   "Marzo_2025":1897335,
   "Abril_2025":1875633,
-  "Mayo_2025":0
+  "Mayo_2025":1892250,
+  "Junio_2025":1977644
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Antofagasta",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":4509878,
   "Abril_2025":3711987,
-  "Mayo_2025":0
+  "Mayo_2025":3711987,
+  "Junio_2025":6109049
  }
 ]

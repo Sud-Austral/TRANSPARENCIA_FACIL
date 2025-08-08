@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chaitén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1195729,
   "Febrero_2024":866148,
   "Marzo_2024":964990,
@@ -18,7 +18,8 @@
   "Febrero_2025":796582,
   "Marzo_2025":1087950,
   "Abril_2025":838378,
-  "Mayo_2025":844383
+  "Mayo_2025":844383,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1656559,
   "Marzo_2025":1932928,
   "Abril_2025":1678479,
-  "Mayo_2025":1900339
+  "Mayo_2025":1900339,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":832416,
   "Febrero_2024":1035848,
   "Marzo_2024":990936,
@@ -60,7 +62,8 @@
   "Febrero_2025":1186586,
   "Marzo_2025":857880,
   "Abril_2025":1178885,
-  "Mayo_2025":1003184
+  "Mayo_2025":1003184,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Chaitén",
@@ -81,6 +84,7 @@
   "Febrero_2025":2353185,
   "Marzo_2025":2705458,
   "Abril_2025":2561115,
-  "Mayo_2025":2656574
+  "Mayo_2025":2656574,
+  "Junio_2025":0
  }
 ]

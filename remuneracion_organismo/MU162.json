@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Máfil",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":874457,
   "Febrero_2024":882275,
   "Marzo_2024":887742,
@@ -18,7 +18,8 @@
   "Febrero_2025":787349,
   "Marzo_2025":813262,
   "Abril_2025":795544,
-  "Mayo_2025":796528
+  "Mayo_2025":796528,
+  "Junio_2025":880227
  },
  {
   "organismo_nombre":"Municipalidad de Máfil",
@@ -39,11 +40,12 @@
   "Febrero_2025":1097076,
   "Marzo_2025":1050177,
   "Abril_2025":1140219,
-  "Mayo_2025":1006379
+  "Mayo_2025":1006379,
+  "Junio_2025":1274191
  },
  {
   "organismo_nombre":"Municipalidad de Máfil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":706781,
   "Febrero_2024":682294,
   "Marzo_2024":740719,
@@ -60,7 +62,8 @@
   "Febrero_2025":766415,
   "Marzo_2025":784732,
   "Abril_2025":670158,
-  "Mayo_2025":647768
+  "Mayo_2025":647768,
+  "Junio_2025":695691
  },
  {
   "organismo_nombre":"Municipalidad de Máfil",
@@ -81,6 +84,7 @@
   "Febrero_2025":1783819,
   "Marzo_2025":1775855,
   "Abril_2025":2249176,
-  "Mayo_2025":1720507
+  "Mayo_2025":1720507,
+  "Junio_2025":2289507
  }
 ]

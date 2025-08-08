@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":11,
   "Febrero_2024":20,
   "Marzo_2024":0,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":69,
   "Febrero_2024":77,
   "Marzo_2024":82,

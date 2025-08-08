@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1017490,
   "Febrero_2024":993235,
   "Marzo_2024":1040519,
@@ -18,7 +18,8 @@
   "Febrero_2025":1127324,
   "Marzo_2025":999581,
   "Abril_2025":1015271,
-  "Mayo_2025":1242167
+  "Mayo_2025":1242167,
+  "Junio_2025":1146828
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
@@ -39,11 +40,12 @@
   "Febrero_2025":1323125,
   "Marzo_2025":1256574,
   "Abril_2025":1391828,
-  "Mayo_2025":1253537
+  "Mayo_2025":1253537,
+  "Junio_2025":1187465
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":620090,
   "Febrero_2024":745135,
   "Marzo_2024":760017,
@@ -60,7 +62,8 @@
   "Febrero_2025":759547,
   "Marzo_2025":697406,
   "Abril_2025":725839,
-  "Mayo_2025":772450
+  "Mayo_2025":772450,
+  "Junio_2025":775218
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
@@ -81,6 +84,7 @@
   "Febrero_2025":1782971,
   "Marzo_2025":1761350,
   "Abril_2025":1895853,
-  "Mayo_2025":1777042
+  "Mayo_2025":1777042,
+  "Junio_2025":1796201
  }
 ]

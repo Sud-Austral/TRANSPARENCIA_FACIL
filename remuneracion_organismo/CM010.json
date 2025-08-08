@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2085995,
   "Febrero_2024":2312691,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":2584300,
   "Marzo_2025":0,
   "Abril_2025":2605300,
-  "Mayo_2025":2584300
+  "Mayo_2025":2584300,
+  "Junio_2025":2584300
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1707067,
   "Marzo_2025":1783310,
   "Abril_2025":2204907,
-  "Mayo_2025":1786674
+  "Mayo_2025":1786674,
+  "Junio_2025":2282544
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":701074,
   "Febrero_2024":651217,
   "Marzo_2024":620659,
@@ -60,7 +62,8 @@
   "Febrero_2025":751342,
   "Marzo_2025":657479,
   "Abril_2025":715209,
-  "Mayo_2025":671687
+  "Mayo_2025":671687,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de San Fernando (CORMUSAF)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2259466,
   "Marzo_2025":2361826,
   "Abril_2025":3046716,
-  "Mayo_2025":2269898
+  "Mayo_2025":2269898,
+  "Junio_2025":3193729
  }
 ]

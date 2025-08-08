@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación del deporte de Punta Arenas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2450000,
   "Febrero_2024":2450000,
   "Marzo_2024":2450000,
@@ -18,11 +18,12 @@
   "Febrero_2025":2552900,
   "Marzo_2025":2552900,
   "Abril_2025":2552900,
-  "Mayo_2025":2552900
+  "Mayo_2025":2552900,
+  "Junio_2025":2552900
  },
  {
   "organismo_nombre":"Fundación del deporte de Punta Arenas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":500000,
   "Marzo_2024":500000,
@@ -39,6 +40,7 @@
   "Febrero_2025":622275,
   "Marzo_2025":446910,
   "Abril_2025":463507,
-  "Mayo_2025":455568
+  "Mayo_2025":455568,
+  "Junio_2025":457425
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peumo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":934598,
   "Febrero_2024":1069667,
   "Marzo_2024":831656,
@@ -18,7 +18,8 @@
   "Febrero_2025":963341,
   "Marzo_2025":862898,
   "Abril_2025":938027,
-  "Mayo_2025":929703
+  "Mayo_2025":929703,
+  "Junio_2025":928614
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
@@ -39,17 +40,18 @@
   "Febrero_2025":1216946,
   "Marzo_2025":1169922,
   "Abril_2025":1177205,
-  "Mayo_2025":1546380
+  "Mayo_2025":1546380,
+  "Junio_2025":1245023
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":677489,
   "Febrero_2024":666254,
   "Marzo_2024":648864,
-  "Abril_2024":538121,
+  "Abril_2024":531247,
   "Mayo_2024":636307,
-  "Junio_2024":650426,
+  "Junio_2024":649842,
   "Julio_2024":671929,
   "Agosto_2024":676015,
   "Septiembre_2024":670638,
@@ -60,7 +62,8 @@
   "Febrero_2025":657581,
   "Marzo_2025":717810,
   "Abril_2025":627166,
-  "Mayo_2025":741946
+  "Mayo_2025":741946,
+  "Junio_2025":688818
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1903243,
   "Marzo_2025":1928656,
   "Abril_2025":2053959,
-  "Mayo_2025":2151814
+  "Mayo_2025":2151814,
+  "Junio_2025":2122322
  }
 ]

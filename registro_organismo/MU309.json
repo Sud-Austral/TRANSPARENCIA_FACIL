@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":369,
   "Febrero_2024":176,
   "Marzo_2024":256,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":17,
   "Febrero_2024":85,
   "Marzo_2024":134,

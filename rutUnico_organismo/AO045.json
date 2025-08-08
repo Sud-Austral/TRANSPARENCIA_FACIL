@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":79,
   "Febrero_2024":72,
   "Marzo_2024":66,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"SEREMI de Salud  Metropolitano de Santiago",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":4,
   "Febrero_2024":4,
   "Marzo_2024":4,

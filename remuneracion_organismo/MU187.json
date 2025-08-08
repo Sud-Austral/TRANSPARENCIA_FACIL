@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de OHiggins",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":388179,
   "Febrero_2024":474694,
   "Marzo_2024":479938,
@@ -18,7 +18,8 @@
   "Febrero_2025":671579,
   "Marzo_2025":1409743,
   "Abril_2025":633192,
-  "Mayo_2025":619360
+  "Mayo_2025":619360,
+  "Junio_2025":608819
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
@@ -39,11 +40,12 @@
   "Febrero_2025":2004448,
   "Marzo_2025":2662968,
   "Abril_2025":2376669,
-  "Mayo_2025":2012052
+  "Mayo_2025":2012052,
+  "Junio_2025":2719718
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":818375,
   "Febrero_2024":862613,
   "Marzo_2024":923583,
@@ -60,7 +62,8 @@
   "Febrero_2025":1023007,
   "Marzo_2025":1077314,
   "Abril_2025":1062180,
-  "Mayo_2025":1071748
+  "Mayo_2025":1071748,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
@@ -81,6 +84,7 @@
   "Febrero_2025":3476413,
   "Marzo_2025":4197408,
   "Abril_2025":3493907,
-  "Mayo_2025":3462601
+  "Mayo_2025":3462601,
+  "Junio_2025":4075858
  }
 ]

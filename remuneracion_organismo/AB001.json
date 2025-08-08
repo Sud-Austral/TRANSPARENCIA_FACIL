@@ -18,11 +18,12 @@
   "Febrero_2025":2800732,
   "Marzo_2025":2793848,
   "Abril_2025":2154205,
-  "Mayo_2025":2170742
+  "Mayo_2025":2170742,
+  "Junio_2025":2813195
  },
  {
   "organismo_nombre":"Subsecretaría del Interior",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2646328,
   "Febrero_2024":2651302,
   "Marzo_2024":2639531,
@@ -39,7 +40,8 @@
   "Febrero_2025":2695805,
   "Marzo_2025":2561444,
   "Abril_2025":2567770,
-  "Mayo_2025":2636048
+  "Mayo_2025":2636048,
+  "Junio_2025":2790035
  },
  {
   "organismo_nombre":"Subsecretaría del Interior",
@@ -60,6 +62,7 @@
   "Febrero_2025":5709691,
   "Marzo_2025":5284456,
   "Abril_2025":4950436,
-  "Mayo_2025":4969317
+  "Mayo_2025":4969317,
+  "Junio_2025":7683188
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2171712,
   "Marzo_2025":2776404,
   "Abril_2025":2172419,
-  "Mayo_2025":2173125
+  "Mayo_2025":2173125,
+  "Junio_2025":4004722
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Capitán Prat",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1668376,
   "Febrero_2024":1668376,
   "Marzo_2024":1668376,
@@ -39,7 +40,8 @@
   "Febrero_2025":1780736,
   "Marzo_2025":1780736,
   "Abril_2025":1780736,
-  "Mayo_2025":1648739
+  "Mayo_2025":1648739,
+  "Junio_2025":1950927
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Capitán Prat",
@@ -60,6 +62,7 @@
   "Febrero_2025":4220254,
   "Marzo_2025":0,
   "Abril_2025":3897048,
-  "Mayo_2025":3897048
+  "Mayo_2025":3897048,
+  "Junio_2025":5838319
  }
 ]

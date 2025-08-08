@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pinto",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":19,
   "Febrero_2024":19,
   "Marzo_2024":17,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pinto",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":46,
   "Febrero_2024":61,
   "Marzo_2024":100,

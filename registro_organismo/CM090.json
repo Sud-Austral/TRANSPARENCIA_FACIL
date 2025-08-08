@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Cultural de Teno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":12,
   "Febrero_2024":12,
   "Marzo_2024":12,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de Teno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2,
   "Febrero_2024":3,
   "Marzo_2024":5,

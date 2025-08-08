@@ -18,11 +18,12 @@
   "Febrero_2025":3423472,
   "Marzo_2025":4912936,
   "Abril_2025":2681937,
-  "Mayo_2025":2703689
+  "Mayo_2025":2703689,
+  "Junio_2025":4942951
  },
  {
   "organismo_nombre":"Oficinas de Estudios y Políticas Agrarias (ODEPA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1820636,
   "Febrero_2024":1823305,
   "Marzo_2024":1900916,
@@ -39,7 +40,8 @@
   "Febrero_2025":1928426,
   "Marzo_2025":1928426,
   "Abril_2025":2008363,
-  "Mayo_2025":1936810
+  "Mayo_2025":1936810,
+  "Junio_2025":1898655
  },
  {
   "organismo_nombre":"Oficinas de Estudios y Políticas Agrarias (ODEPA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4424033,
   "Marzo_2025":6094242,
   "Abril_2025":3593354,
-  "Mayo_2025":3621531
+  "Mayo_2025":3621531,
+  "Junio_2025":6155680
  }
 ]

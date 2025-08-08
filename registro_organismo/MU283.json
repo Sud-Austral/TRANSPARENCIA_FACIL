@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Clemente",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":13,
   "Febrero_2024":1259,
   "Marzo_2024":799,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":242,
   "Febrero_2024":293,
   "Marzo_2024":297,

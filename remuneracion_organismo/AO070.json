@@ -18,11 +18,12 @@
   "Febrero_2025":1838205,
   "Marzo_2025":2227128,
   "Abril_2025":1888594,
-  "Mayo_2025":1887178
+  "Mayo_2025":1887178,
+  "Junio_2025":2267133
  },
  {
   "organismo_nombre":"Hospital San Borja Arriarán",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1164156,
   "Marzo_2024":1218505,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1244097,
   "Abril_2025":1184532,
-  "Mayo_2025":1183397
+  "Mayo_2025":1183397,
+  "Junio_2025":1252330
  },
  {
   "organismo_nombre":"Hospital San Borja Arriarán",
@@ -60,6 +62,7 @@
   "Febrero_2025":1967410,
   "Marzo_2025":2923942,
   "Abril_2025":2036748,
-  "Mayo_2025":2027513
+  "Mayo_2025":2027513,
+  "Junio_2025":2999711
  }
 ]

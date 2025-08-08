@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT Magallanes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1822868,
   "Febrero_2024":1874399,
   "Marzo_2024":1798641,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT Magallanes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1166218,
   "Febrero_2024":1434472,
   "Marzo_2024":1189255,

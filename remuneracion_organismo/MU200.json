@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":848620,
   "Febrero_2024":895686,
   "Marzo_2024":736035,
@@ -18,7 +18,8 @@
   "Febrero_2025":1001147,
   "Marzo_2025":480141,
   "Abril_2025":0,
-  "Mayo_2025":1050000
+  "Mayo_2025":1050000,
+  "Junio_2025":1165539
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
@@ -39,11 +40,12 @@
   "Febrero_2025":1222795,
   "Marzo_2025":1399386,
   "Abril_2025":1358471,
-  "Mayo_2025":1375792
+  "Mayo_2025":1375792,
+  "Junio_2025":1371813
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":966702,
   "Febrero_2024":875750,
   "Marzo_2024":876936,
@@ -60,7 +62,8 @@
   "Febrero_2025":918684,
   "Marzo_2025":1006679,
   "Abril_2025":961171,
-  "Mayo_2025":872954
+  "Mayo_2025":872954,
+  "Junio_2025":904210
  },
  {
   "organismo_nombre":"Municipalidad de Panguipulli",
@@ -81,6 +84,7 @@
   "Febrero_2025":1972487,
   "Marzo_2025":1994283,
   "Abril_2025":1982926,
-  "Mayo_2025":1963965
+  "Mayo_2025":1963965,
+  "Junio_2025":1982937
  }
 ]

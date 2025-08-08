@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":43,
   "Febrero_2024":40,
   "Marzo_2024":42,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Ibáñez",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2,
   "Febrero_2024":60,
   "Marzo_2024":116,

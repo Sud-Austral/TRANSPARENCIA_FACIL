@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Tabo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1332036,
   "Febrero_2024":1115144,
   "Marzo_2024":1198483,
@@ -18,7 +18,8 @@
   "Febrero_2025":1335985,
   "Marzo_2025":1255775,
   "Abril_2025":1262839,
-  "Mayo_2025":1252037
+  "Mayo_2025":1252037,
+  "Junio_2025":1256185
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1583489,
   "Marzo_2025":1596673,
   "Abril_2025":1702078,
-  "Mayo_2025":1789461
+  "Mayo_2025":1789461,
+  "Junio_2025":1729620
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":902987,
   "Febrero_2024":897488,
   "Marzo_2024":877465,
@@ -60,7 +62,8 @@
   "Febrero_2025":939323,
   "Marzo_2025":950793,
   "Abril_2025":943911,
-  "Mayo_2025":901727
+  "Mayo_2025":903370,
+  "Junio_2025":873119
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1777955,
   "Marzo_2025":1944350,
   "Abril_2025":2091398,
-  "Mayo_2025":2371458
+  "Mayo_2025":2371458,
+  "Junio_2025":1884618
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":2308746,
   "Marzo_2025":2281782,
   "Abril_2025":1840810,
-  "Mayo_2025":1834212
+  "Mayo_2025":1834212,
+  "Junio_2025":3209837
  },
  {
   "organismo_nombre":"Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1401683,
   "Febrero_2024":1401683,
   "Marzo_2024":1401683,
@@ -39,7 +40,8 @@
   "Febrero_2025":1415707,
   "Marzo_2025":1415707,
   "Abril_2025":1415707,
-  "Mayo_2025":1397277
+  "Mayo_2025":1397277,
+  "Junio_2025":1344905
  },
  {
   "organismo_nombre":"Servicio Nacional de Pesca y Acuicultura (SERNAPESCA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5340329,
   "Marzo_2025":5230370,
   "Abril_2025":4360647,
-  "Mayo_2025":4001182
+  "Mayo_2025":4001182,
+  "Junio_2025":7409093
  }
 ]

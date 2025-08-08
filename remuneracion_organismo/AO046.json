@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1021250,
   "Febrero_2024":1023221,
   "Marzo_2024":1101559,
@@ -18,7 +18,8 @@
   "Febrero_2025":1022500,
   "Marzo_2025":1022500,
   "Abril_2025":1022500,
-  "Mayo_2025":1395000
+  "Mayo_2025":1395000,
+  "Junio_2025":1395000
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
@@ -39,11 +40,12 @@
   "Febrero_2025":1793062,
   "Marzo_2025":4873127,
   "Abril_2025":1796121,
-  "Mayo_2025":1773335
+  "Mayo_2025":1773335,
+  "Junio_2025":2327365
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1929930,
   "Marzo_2024":1518209,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud de OHiggins",
@@ -81,6 +84,7 @@
   "Febrero_2025":2652492,
   "Marzo_2025":6618983,
   "Abril_2025":2235056,
-  "Mayo_2025":2215149
+  "Mayo_2025":2215149,
+  "Junio_2025":2908396
  }
 ]

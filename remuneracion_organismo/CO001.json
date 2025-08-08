@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Instituto Nacional de Derechos Humanos (INDH)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":2859399,
   "Marzo_2024":2865334,
@@ -18,11 +18,12 @@
   "Febrero_2025":2958068,
   "Marzo_2025":2959997,
   "Abril_2025":2975580,
-  "Mayo_2025":2930190
+  "Mayo_2025":2930190,
+  "Junio_2025":3085159
  },
  {
   "organismo_nombre":"Instituto Nacional de Derechos Humanos (INDH)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1649003,
   "Febrero_2024":2098970,
   "Marzo_2024":2779372,
@@ -39,6 +40,7 @@
   "Febrero_2025":1702990,
   "Marzo_2025":1198198,
   "Abril_2025":976442,
-  "Mayo_2025":560000
+  "Mayo_2025":560000,
+  "Junio_2025":1067875
  }
 ]

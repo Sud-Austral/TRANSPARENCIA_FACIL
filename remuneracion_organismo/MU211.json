@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1183396,
   "Febrero_2024":974905,
   "Marzo_2024":959947,
@@ -18,7 +18,8 @@
   "Febrero_2025":1115579,
   "Marzo_2025":1125170,
   "Abril_2025":1027048,
-  "Mayo_2025":1039871
+  "Mayo_2025":1039871,
+  "Junio_2025":1078723
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
@@ -39,11 +40,12 @@
   "Febrero_2025":1414600,
   "Marzo_2025":1350797,
   "Abril_2025":1501576,
-  "Mayo_2025":1836421
+  "Mayo_2025":1708773,
+  "Junio_2025":1436266
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":728825,
   "Febrero_2024":827934,
   "Marzo_2024":839465,
@@ -60,7 +62,8 @@
   "Febrero_2025":1078614,
   "Marzo_2025":1233826,
   "Abril_2025":973614,
-  "Mayo_2025":1217987
+  "Mayo_2025":1217987,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Peñaflor",
@@ -81,6 +84,7 @@
   "Febrero_2025":2017683,
   "Marzo_2025":1990116,
   "Abril_2025":2431594,
-  "Mayo_2025":2269183
+  "Mayo_2025":2269183,
+  "Junio_2025":2514843
  }
 ]

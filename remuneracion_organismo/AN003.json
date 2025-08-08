@@ -18,11 +18,12 @@
   "Febrero_2025":3660239,
   "Marzo_2025":3508453,
   "Abril_2025":3615092,
-  "Mayo_2025":3654721
+  "Mayo_2025":3654721,
+  "Junio_2025":3677696
  },
  {
   "organismo_nombre":"Junta de Aeronáutica Civil (JAC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":5400000,
   "Febrero_2024":5400000,
   "Marzo_2024":5400000,
@@ -39,7 +40,8 @@
   "Febrero_2025":5654934,
   "Marzo_2025":5654934,
   "Abril_2025":5654934,
-  "Mayo_2025":5654934
+  "Mayo_2025":5654934,
+  "Junio_2025":4277467
  },
  {
   "organismo_nombre":"Junta de Aeronáutica Civil (JAC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5596753,
   "Marzo_2025":5596753,
   "Abril_2025":5591618,
-  "Mayo_2025":6966957
+  "Mayo_2025":6966957,
+  "Junio_2025":5611329
  }
 ]

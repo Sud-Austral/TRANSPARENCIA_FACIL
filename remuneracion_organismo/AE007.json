@@ -18,11 +18,12 @@
   "Febrero_2025":2356063,
   "Marzo_2025":2384998,
   "Abril_2025":2400711,
-  "Mayo_2025":2411818
+  "Mayo_2025":2411818,
+  "Junio_2025":2445150
  },
  {
   "organismo_nombre":"Servicio Nacional de Aduanas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2858393,
   "Febrero_2024":2858393,
   "Marzo_2024":2858393,
@@ -39,7 +40,8 @@
   "Febrero_2025":1881935,
   "Marzo_2025":2901124,
   "Abril_2025":2901124,
-  "Mayo_2025":2901124
+  "Mayo_2025":2901124,
+  "Junio_2025":2901124
  },
  {
   "organismo_nombre":"Servicio Nacional de Aduanas",
@@ -60,6 +62,7 @@
   "Febrero_2025":4197183,
   "Marzo_2025":4207081,
   "Abril_2025":4236306,
-  "Mayo_2025":4253752
+  "Mayo_2025":4253752,
+  "Junio_2025":4318275
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Calera de Tango",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3479669,
   "Febrero_2024":3556670,
   "Marzo_2024":3556670,
@@ -18,7 +18,8 @@
   "Febrero_2025":2149548,
   "Marzo_2025":2149548,
   "Abril_2025":1717470,
-  "Mayo_2025":2149548
+  "Mayo_2025":2149548,
+  "Junio_2025":1676156
  },
  {
   "organismo_nombre":"Municipalidad de Calera de Tango",
@@ -39,11 +40,12 @@
   "Febrero_2025":1361135,
   "Marzo_2025":1362318,
   "Abril_2025":1431318,
-  "Mayo_2025":2341207
+  "Mayo_2025":2341207,
+  "Junio_2025":1375058
  },
  {
   "organismo_nombre":"Municipalidad de Calera de Tango",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":796115,
   "Febrero_2024":860587,
   "Marzo_2024":795306,
@@ -60,7 +62,8 @@
   "Febrero_2025":865219,
   "Marzo_2025":798897,
   "Abril_2025":775563,
-  "Mayo_2025":768378
+  "Mayo_2025":768378,
+  "Junio_2025":797983
  },
  {
   "organismo_nombre":"Municipalidad de Calera de Tango",
@@ -81,6 +84,7 @@
   "Febrero_2025":2134633,
   "Marzo_2025":2144188,
   "Abril_2025":2211811,
-  "Mayo_2025":3544104
+  "Mayo_2025":3544104,
+  "Junio_2025":2122993
  }
 ]

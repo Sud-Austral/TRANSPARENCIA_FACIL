@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Agencia Chilena de Eficiencia Energética",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2125177,
   "Febrero_2024":0,
   "Marzo_2024":1971205,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Agencia Chilena de Eficiencia Energética",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":767096,
   "Febrero_2024":488265,
   "Marzo_2024":1045256,

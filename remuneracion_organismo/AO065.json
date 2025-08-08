@@ -18,11 +18,12 @@
   "Febrero_2025":1364407,
   "Marzo_2025":1567407,
   "Abril_2025":1520029,
-  "Mayo_2025":1570154
+  "Mayo_2025":1570154,
+  "Junio_2025":1616740
  },
  {
   "organismo_nombre":"Hospital de Ovalle",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":842023,
   "Febrero_2024":836322,
   "Marzo_2024":1099861,
@@ -39,7 +40,8 @@
   "Febrero_2025":863964,
   "Marzo_2025":792390,
   "Abril_2025":981516,
-  "Mayo_2025":1036057
+  "Mayo_2025":1036057,
+  "Junio_2025":1153741
  },
  {
   "organismo_nombre":"Hospital de Ovalle",
@@ -60,6 +62,7 @@
   "Febrero_2025":1798378,
   "Marzo_2025":2152743,
   "Abril_2025":1827420,
-  "Mayo_2025":1820102
+  "Mayo_2025":1820102,
+  "Junio_2025":2183523
  }
 ]

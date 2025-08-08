@@ -18,11 +18,12 @@
   "Febrero_2025":3136709,
   "Marzo_2025":4504084,
   "Abril_2025":2532214,
-  "Mayo_2025":2532214
+  "Mayo_2025":2532214,
+  "Junio_2025":4530179
  },
  {
   "organismo_nombre":"Subsecretaría del Patrimonio Cultural",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2509387,
   "Febrero_2024":2509387,
   "Marzo_2024":2509387,
@@ -39,7 +40,8 @@
   "Febrero_2025":2614781,
   "Marzo_2025":2614781,
   "Abril_2025":2614781,
-  "Mayo_2025":2614781
+  "Mayo_2025":2614781,
+  "Junio_2025":1743187
  },
  {
   "organismo_nombre":"Subsecretaría del Patrimonio Cultural",
@@ -60,6 +62,7 @@
   "Febrero_2025":6517301,
   "Marzo_2025":8369977,
   "Abril_2025":5590963,
-  "Mayo_2025":5590963
+  "Mayo_2025":5590963,
+  "Junio_2025":10248586
  }
 ]

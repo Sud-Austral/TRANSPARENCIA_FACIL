@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":11,
   "Febrero_2024":12,
   "Marzo_2024":10,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":409,
   "Febrero_2024":379,
   "Marzo_2024":421,

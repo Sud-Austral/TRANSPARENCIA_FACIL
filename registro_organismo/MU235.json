@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puerto Octay",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":93,
   "Febrero_2024":92,
   "Marzo_2024":102,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Octay",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":25,
   "Febrero_2024":34,
   "Marzo_2024":46,

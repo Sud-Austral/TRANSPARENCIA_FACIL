@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1664314,
   "Febrero_2024":1694917,
   "Marzo_2024":1654191,
@@ -18,7 +18,8 @@
   "Febrero_2025":1306388,
   "Marzo_2025":1700161,
   "Abril_2025":1730065,
-  "Mayo_2025":1724059
+  "Mayo_2025":1724059,
+  "Junio_2025":1710593
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1381779,
   "Marzo_2025":1733824,
   "Abril_2025":1785309,
-  "Mayo_2025":1788704
+  "Mayo_2025":1788704,
+  "Junio_2025":1814072
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1273475,
   "Febrero_2024":1191545,
   "Marzo_2024":1239685,
@@ -60,7 +62,8 @@
   "Febrero_2025":1459006,
   "Marzo_2025":1553778,
   "Abril_2025":1572581,
-  "Mayo_2025":1585780
+  "Mayo_2025":1585780,
+  "Junio_2025":1517603
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1137804,
   "Marzo_2025":1476671,
   "Abril_2025":1457614,
-  "Mayo_2025":1390072
+  "Mayo_2025":1390072,
+  "Junio_2025":1353842
  }
 ]

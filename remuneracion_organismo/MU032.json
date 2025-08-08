@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Catemu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":797920,
   "Febrero_2024":0,
   "Marzo_2024":799268,
@@ -18,7 +18,8 @@
   "Febrero_2025":957688,
   "Marzo_2025":871293,
   "Abril_2025":850125,
-  "Mayo_2025":846375
+  "Mayo_2025":846375,
+  "Junio_2025":864238
  },
  {
   "organismo_nombre":"Municipalidad de Catemu",
@@ -39,11 +40,12 @@
   "Febrero_2025":1592702,
   "Marzo_2025":1531511,
   "Abril_2025":1640529,
-  "Mayo_2025":1679081
+  "Mayo_2025":1679081,
+  "Junio_2025":1675386
  },
  {
   "organismo_nombre":"Municipalidad de Catemu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":171404,
   "Febrero_2024":770032,
   "Marzo_2024":857949,
@@ -60,7 +62,8 @@
   "Febrero_2025":775430,
   "Marzo_2025":878959,
   "Abril_2025":824378,
-  "Mayo_2025":784166
+  "Mayo_2025":784166,
+  "Junio_2025":816336
  },
  {
   "organismo_nombre":"Municipalidad de Catemu",
@@ -81,6 +84,7 @@
   "Febrero_2025":2167056,
   "Marzo_2025":2246642,
   "Abril_2025":2478027,
-  "Mayo_2025":2397406
+  "Mayo_2025":2397406,
+  "Junio_2025":2554262
  }
 ]

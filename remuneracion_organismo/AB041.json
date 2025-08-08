@@ -18,11 +18,12 @@
   "Febrero_2025":2583042,
   "Marzo_2025":3258952,
   "Abril_2025":2583421,
-  "Mayo_2025":2583421
+  "Mayo_2025":2583421,
+  "Junio_2025":4731611
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Isla de Pascua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1290777,
   "Febrero_2024":1310493,
   "Marzo_2024":1426016,
@@ -39,7 +40,8 @@
   "Febrero_2025":1455909,
   "Marzo_2025":1305925,
   "Abril_2025":1468295,
-  "Mayo_2025":1468295
+  "Mayo_2025":1468295,
+  "Junio_2025":1270000
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Isla de Pascua",
@@ -60,6 +62,7 @@
   "Febrero_2025":6548447,
   "Marzo_2025":7402852,
   "Abril_2025":6548447,
-  "Mayo_2025":6548447
+  "Mayo_2025":6548447,
+  "Junio_2025":9103821
  }
 ]

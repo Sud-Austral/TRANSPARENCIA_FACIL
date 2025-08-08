@@ -18,11 +18,12 @@
   "Febrero_2025":1770674,
   "Marzo_2025":2025029,
   "Abril_2025":1755822,
-  "Mayo_2025":1754713
+  "Mayo_2025":1754713,
+  "Junio_2025":2130206
  },
  {
   "organismo_nombre":"Hospital Padre Hurtado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1364089,
   "Febrero_2024":1447023,
   "Marzo_2024":1472881,
@@ -39,7 +40,8 @@
   "Febrero_2025":1456005,
   "Marzo_2025":1530553,
   "Abril_2025":1483133,
-  "Mayo_2025":1617985
+  "Mayo_2025":1617985,
+  "Junio_2025":1351475
  },
  {
   "organismo_nombre":"Hospital Padre Hurtado",
@@ -60,6 +62,7 @@
   "Febrero_2025":1853337,
   "Marzo_2025":2994246,
   "Abril_2025":1865748,
-  "Mayo_2025":1850580
+  "Mayo_2025":1850580,
+  "Junio_2025":0
  }
 ]

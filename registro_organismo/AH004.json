@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":831,
   "Febrero_2024":843,
   "Marzo_2024":848,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación de Fomento de la Producción (CORFO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1,
   "Febrero_2024":31,
   "Marzo_2024":34,

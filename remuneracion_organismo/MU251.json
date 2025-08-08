@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quilleco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1232601,
   "Febrero_2024":931815,
   "Marzo_2024":877828,
@@ -18,7 +18,8 @@
   "Febrero_2025":1023322,
   "Marzo_2025":925956,
   "Abril_2025":954626,
-  "Mayo_2025":929331
+  "Mayo_2025":929331,
+  "Junio_2025":984347
  },
  {
   "organismo_nombre":"Municipalidad de Quilleco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1019294,
   "Marzo_2025":1084569,
   "Abril_2025":1213366,
-  "Mayo_2025":1099662
+  "Mayo_2025":1099662,
+  "Junio_2025":1242909
  },
  {
   "organismo_nombre":"Municipalidad de Quilleco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1500000,
   "Febrero_2024":855121,
   "Marzo_2024":791958,
@@ -60,7 +62,8 @@
   "Febrero_2025":909732,
   "Marzo_2025":653686,
   "Abril_2025":492122,
-  "Mayo_2025":670434
+  "Mayo_2025":670434,
+  "Junio_2025":615131
  },
  {
   "organismo_nombre":"Municipalidad de Quilleco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1843022,
   "Marzo_2025":1910497,
   "Abril_2025":2200236,
-  "Mayo_2025":1852070
+  "Mayo_2025":1852070,
+  "Junio_2025":2300663
  }
 ]

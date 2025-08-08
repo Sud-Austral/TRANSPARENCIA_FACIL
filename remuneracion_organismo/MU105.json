@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Hualpén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1135040,
   "Febrero_2024":818232,
   "Marzo_2024":948229,
@@ -18,7 +18,8 @@
   "Febrero_2025":1039523,
   "Marzo_2025":966732,
   "Abril_2025":876105,
-  "Mayo_2025":872937
+  "Mayo_2025":872937,
+  "Junio_2025":972594
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1399447,
   "Marzo_2025":1437741,
   "Abril_2025":1635607,
-  "Mayo_2025":1760803
+  "Mayo_2025":1760803,
+  "Junio_2025":1667110
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":761494,
   "Febrero_2024":710424,
   "Marzo_2024":696922,
@@ -60,7 +62,8 @@
   "Febrero_2025":787344,
   "Marzo_2025":726402,
   "Abril_2025":705560,
-  "Mayo_2025":718717
+  "Mayo_2025":718717,
+  "Junio_2025":725610
  },
  {
   "organismo_nombre":"Municipalidad de Hualpén",
@@ -81,6 +84,7 @@
   "Febrero_2025":2057115,
   "Marzo_2025":2054413,
   "Abril_2025":2413866,
-  "Mayo_2025":2219779
+  "Mayo_2025":2219779,
+  "Junio_2025":2497194
  }
 ]

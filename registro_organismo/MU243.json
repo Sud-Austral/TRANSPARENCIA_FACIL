@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Putaendo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":219,
   "Febrero_2024":217,
   "Marzo_2024":237,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Putaendo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":8,
   "Febrero_2024":84,
   "Marzo_2024":139,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":502,
   "Febrero_2024":501,
   "Marzo_2024":475,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Salud de Panguipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":102,
   "Febrero_2024":12,
   "Marzo_2024":133,

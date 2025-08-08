@@ -18,11 +18,12 @@
   "Febrero_2025":1927801,
   "Marzo_2025":2057917,
   "Abril_2025":1980257,
-  "Mayo_2025":1964106
+  "Mayo_2025":1964106,
+  "Junio_2025":2205942
  },
  {
   "organismo_nombre":"Hospital Dr. Augusto Riffart de Castro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":777716,
   "Febrero_2024":777716,
   "Marzo_2024":777716,
@@ -39,7 +40,8 @@
   "Febrero_2025":1542665,
   "Marzo_2025":1022497,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":1048054,
+  "Junio_2025":966644
  },
  {
   "organismo_nombre":"Hospital Dr. Augusto Riffart de Castro",
@@ -60,6 +62,7 @@
   "Febrero_2025":2142061,
   "Marzo_2025":2570491,
   "Abril_2025":2126875,
-  "Mayo_2025":0
+  "Mayo_2025":2145894,
+  "Junio_2025":2535557
  }
 ]

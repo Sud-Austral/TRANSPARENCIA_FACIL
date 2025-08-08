@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cañete",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1422901,
   "Febrero_2024":1067738,
   "Marzo_2024":956971,
@@ -18,7 +18,8 @@
   "Febrero_2025":1134962,
   "Marzo_2025":981948,
   "Abril_2025":1029347,
-  "Mayo_2025":996447
+  "Mayo_2025":996447,
+  "Junio_2025":1351436
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
@@ -39,11 +40,12 @@
   "Febrero_2025":1009088,
   "Marzo_2025":995185,
   "Abril_2025":1092803,
-  "Mayo_2025":1194702
+  "Mayo_2025":1194702,
+  "Junio_2025":1094967
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1080949,
   "Febrero_2024":1053626,
   "Marzo_2024":1051647,
@@ -60,7 +62,8 @@
   "Febrero_2025":862006,
   "Marzo_2025":863731,
   "Abril_2025":857948,
-  "Mayo_2025":204000
+  "Mayo_2025":869015,
+  "Junio_2025":870861
  },
  {
   "organismo_nombre":"Municipalidad de Cañete",
@@ -81,6 +84,7 @@
   "Febrero_2025":1946887,
   "Marzo_2025":1916259,
   "Abril_2025":2120822,
-  "Mayo_2025":2072499
+  "Mayo_2025":2072499,
+  "Junio_2025":2259454
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Placilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1185476,
   "Febrero_2024":1099250,
   "Marzo_2024":1185110,
@@ -18,7 +18,8 @@
   "Febrero_2025":1143149,
   "Marzo_2025":1213169,
   "Abril_2025":1161456,
-  "Mayo_2025":1148380
+  "Mayo_2025":1148380,
+  "Junio_2025":1194551
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
@@ -39,11 +40,12 @@
   "Febrero_2025":1220414,
   "Marzo_2025":1251202,
   "Abril_2025":1459973,
-  "Mayo_2025":1492898
+  "Mayo_2025":1492898,
+  "Junio_2025":1577915
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":803460,
   "Febrero_2024":687295,
   "Marzo_2024":650586,
@@ -60,7 +62,8 @@
   "Febrero_2025":869158,
   "Marzo_2025":755659,
   "Abril_2025":805001,
-  "Mayo_2025":740072
+  "Mayo_2025":740072,
+  "Junio_2025":687356
  },
  {
   "organismo_nombre":"Municipalidad de Placilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":1654341,
   "Marzo_2025":1652375,
   "Abril_2025":2013461,
-  "Mayo_2025":2078036
+  "Mayo_2025":2078036,
+  "Junio_2025":2040187
  }
 ]

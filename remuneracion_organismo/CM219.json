@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Fomento Al Desarrollo Económico y Productivo de Estación Central",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1054875,
   "Febrero_2024":1089239,
   "Marzo_2024":1011805,
@@ -18,11 +18,12 @@
   "Febrero_2025":1521434,
   "Marzo_2025":1521434,
   "Abril_2025":1598040,
-  "Mayo_2025":1598040
+  "Mayo_2025":1598040,
+  "Junio_2025":1677044
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento Al Desarrollo Económico y Productivo de Estación Central",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":379500,
   "Febrero_2024":385942,
   "Marzo_2024":482985,
@@ -39,6 +40,7 @@
   "Febrero_2025":758626,
   "Marzo_2025":648518,
   "Abril_2025":674269,
-  "Mayo_2025":672135
+  "Mayo_2025":672135,
+  "Junio_2025":655420
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1632260,
   "Marzo_2025":1915920,
   "Abril_2025":1730437,
-  "Mayo_2025":1691823
+  "Mayo_2025":1691823,
+  "Junio_2025":2025558
  },
  {
   "organismo_nombre":"Hospital Guillermo Grant Benavente de Concepción",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":970430,
   "Febrero_2024":1068042,
   "Marzo_2024":934805,
@@ -39,7 +40,8 @@
   "Febrero_2025":2832162,
   "Marzo_2025":7555208,
   "Abril_2025":9705738,
-  "Mayo_2025":7576461
+  "Mayo_2025":7576461,
+  "Junio_2025":7254906
  },
  {
   "organismo_nombre":"Hospital Guillermo Grant Benavente de Concepción",
@@ -60,6 +62,7 @@
   "Febrero_2025":1905344,
   "Marzo_2025":2898616,
   "Abril_2025":1961878,
-  "Mayo_2025":1895334
+  "Mayo_2025":1895334,
+  "Junio_2025":2902467
  }
 ]

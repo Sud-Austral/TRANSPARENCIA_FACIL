@@ -18,11 +18,12 @@
   "Febrero_2025":2043786,
   "Marzo_2025":1989227,
   "Abril_2025":1601649,
-  "Mayo_2025":1622528
+  "Mayo_2025":1622528,
+  "Junio_2025":3052726
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Maipo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1295191,
   "Febrero_2024":1295191,
   "Marzo_2024":1295191,
@@ -39,7 +40,8 @@
   "Febrero_2025":1622875,
   "Marzo_2025":1567156,
   "Abril_2025":1567156,
-  "Mayo_2025":1567156
+  "Mayo_2025":1567156,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Maipo",
@@ -60,6 +62,7 @@
   "Febrero_2025":3550760,
   "Marzo_2025":3814058,
   "Abril_2025":3291893,
-  "Mayo_2025":3291893
+  "Mayo_2025":3291893,
+  "Junio_2025":4873680
  }
 ]

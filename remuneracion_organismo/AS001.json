@@ -18,11 +18,12 @@
   "Febrero_2025":2952461,
   "Marzo_2025":4119549,
   "Abril_2025":2405850,
-  "Mayo_2025":2385852
+  "Mayo_2025":2385852,
+  "Junio_2025":4124352
  },
  {
   "organismo_nombre":"Subsecretaría de Minería",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2090240,
   "Febrero_2024":2000382,
   "Marzo_2024":2204110,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":2995012,
   "Abril_2025":2562908,
-  "Mayo_2025":2720822
+  "Mayo_2025":2720822,
+  "Junio_2025":2600715
  },
  {
   "organismo_nombre":"Subsecretaría de Minería",
@@ -60,6 +62,7 @@
   "Febrero_2025":5017893,
   "Marzo_2025":6416612,
   "Abril_2025":4140598,
-  "Mayo_2025":4014946
+  "Mayo_2025":4014946,
+  "Junio_2025":6205957
  }
 ]

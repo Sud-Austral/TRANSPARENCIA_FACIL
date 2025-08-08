@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Concepción",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1500730,
   "Febrero_2024":1488923,
   "Marzo_2024":1492207,
@@ -18,7 +18,8 @@
   "Febrero_2025":1227117,
   "Marzo_2025":1484891,
   "Abril_2025":1385624,
-  "Mayo_2025":1143787
+  "Mayo_2025":1143787,
+  "Junio_2025":1377788
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
@@ -39,11 +40,12 @@
   "Febrero_2025":1219923,
   "Marzo_2025":1326775,
   "Abril_2025":1515422,
-  "Mayo_2025":1426123
+  "Mayo_2025":1426123,
+  "Junio_2025":1525956
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":892871,
   "Febrero_2024":898659,
   "Marzo_2024":894529,
@@ -60,7 +62,8 @@
   "Febrero_2025":1172489,
   "Marzo_2025":1028941,
   "Abril_2025":908696,
-  "Mayo_2025":883642
+  "Mayo_2025":883642,
+  "Junio_2025":909971
  },
  {
   "organismo_nombre":"Municipalidad de Concepción",
@@ -81,6 +84,7 @@
   "Febrero_2025":1788204,
   "Marzo_2025":1992409,
   "Abril_2025":2317914,
-  "Mayo_2025":2170176
+  "Mayo_2025":2170176,
+  "Junio_2025":2436033
  }
 ]

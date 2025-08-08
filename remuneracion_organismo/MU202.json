@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Papudo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":898889,
   "Febrero_2024":870687,
   "Marzo_2024":976815,
@@ -18,7 +18,8 @@
   "Febrero_2025":975935,
   "Marzo_2025":1110351,
   "Abril_2025":1103985,
-  "Mayo_2025":1152859
+  "Mayo_2025":1152859,
+  "Junio_2025":1190766
  },
  {
   "organismo_nombre":"Municipalidad de Papudo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1334750,
   "Marzo_2025":1405474,
   "Abril_2025":1496868,
-  "Mayo_2025":1597266
+  "Mayo_2025":1597266,
+  "Junio_2025":1558600
  },
  {
   "organismo_nombre":"Municipalidad de Papudo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":767155,
   "Febrero_2024":774233,
   "Marzo_2024":770340,
@@ -60,7 +62,8 @@
   "Febrero_2025":756596,
   "Marzo_2025":740789,
   "Abril_2025":699515,
-  "Mayo_2025":710480
+  "Mayo_2025":710480,
+  "Junio_2025":727899
  },
  {
   "organismo_nombre":"Municipalidad de Papudo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1995619,
   "Marzo_2025":2097171,
   "Abril_2025":2237737,
-  "Mayo_2025":2355389
+  "Mayo_2025":2355389,
+  "Junio_2025":2270089
  }
 ]

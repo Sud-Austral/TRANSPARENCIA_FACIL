@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":431413,
   "Febrero_2024":866843,
   "Marzo_2024":1109461,
@@ -18,7 +18,8 @@
   "Febrero_2025":1075282,
   "Marzo_2025":1874573,
   "Abril_2025":1001234,
-  "Mayo_2025":540113
+  "Mayo_2025":540113,
+  "Junio_2025":2007904
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2539816,
   "Marzo_2025":4548217,
   "Abril_2025":2489317,
-  "Mayo_2025":1246115
+  "Mayo_2025":1246115,
+  "Junio_2025":4516745
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":3666666,
   "Marzo_2025":3666666,
   "Abril_2025":4000000,
-  "Mayo_2025":4000000
+  "Mayo_2025":4000000,
+  "Junio_2025":4000000
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3492795,
   "Marzo_2025":5896143,
   "Abril_2025":3554095,
-  "Mayo_2025":1757241
+  "Mayo_2025":1757241,
+  "Junio_2025":6125443
  }
 ]

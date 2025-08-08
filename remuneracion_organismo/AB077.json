@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4060328,
   "Febrero_2024":4048203,
   "Marzo_2024":5319713,
@@ -18,7 +18,8 @@
   "Febrero_2025":4068444,
   "Marzo_2025":5195045,
   "Abril_2025":4068444,
-  "Mayo_2025":4068444
+  "Mayo_2025":4068444,
+  "Junio_2025":5202255
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2864600,
   "Marzo_2025":3067793,
   "Abril_2025":2437592,
-  "Mayo_2025":2351457
+  "Mayo_2025":2351457,
+  "Junio_2025":3127260
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1418666,
   "Febrero_2024":1585866,
   "Marzo_2024":2011200,
@@ -60,7 +62,8 @@
   "Febrero_2025":2414913,
   "Marzo_2025":2525969,
   "Abril_2025":2551960,
-  "Mayo_2025":2181047
+  "Mayo_2025":2181047,
+  "Junio_2025":2666076
  },
  {
   "organismo_nombre":"Gobierno Regional de Antofagasta (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4016205,
   "Marzo_2025":4741428,
   "Abril_2025":4010295,
-  "Mayo_2025":3905688
+  "Mayo_2025":3905688,
+  "Junio_2025":4958723
  }
 ]

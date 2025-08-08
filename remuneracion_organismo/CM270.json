@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Para El Desarrollo de La Provincia de Osorno (Corposorno)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1161174,
   "Febrero_2024":1189347,
   "Marzo_2024":1191330,
@@ -18,11 +18,12 @@
   "Febrero_2025":881192,
   "Marzo_2025":881192,
   "Abril_2025":789441,
-  "Mayo_2025":986801
+  "Mayo_2025":986801,
+  "Junio_2025":1069441
  },
  {
   "organismo_nombre":"Corporación Para El Desarrollo de La Provincia de Osorno (Corposorno)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":367120,
   "Febrero_2024":571256,
   "Marzo_2024":428846,
@@ -39,6 +40,7 @@
   "Febrero_2025":224306,
   "Marzo_2025":394961,
   "Abril_2025":320000,
-  "Mayo_2025":420000
+  "Mayo_2025":420000,
+  "Junio_2025":522830
  }
 ]

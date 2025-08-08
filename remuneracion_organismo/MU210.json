@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"I. Municipalidad de Penco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1273600,
   "Febrero_2024":911457,
   "Marzo_2024":880439,
@@ -18,7 +18,8 @@
   "Febrero_2025":884474,
   "Marzo_2025":957250,
   "Abril_2025":896361,
-  "Mayo_2025":914936
+  "Mayo_2025":914936,
+  "Junio_2025":934084
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1025764,
   "Marzo_2025":1139462,
   "Abril_2025":1162769,
-  "Mayo_2025":0
+  "Mayo_2025":1165141,
+  "Junio_2025":1296896
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":488500,
   "Febrero_2024":435011,
   "Marzo_2024":559734,
@@ -60,7 +62,8 @@
   "Febrero_2025":602992,
   "Marzo_2025":681587,
   "Abril_2025":630966,
-  "Mayo_2025":482063
+  "Mayo_2025":482063,
+  "Junio_2025":486089
  },
  {
   "organismo_nombre":"I. Municipalidad de Penco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1971937,
   "Marzo_2025":2005721,
   "Abril_2025":2260680,
-  "Mayo_2025":2100004
+  "Mayo_2025":2100004,
+  "Junio_2025":2409386
  }
 ]

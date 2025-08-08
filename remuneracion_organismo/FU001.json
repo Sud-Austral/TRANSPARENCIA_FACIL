@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación Integra",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1163600,
   "Febrero_2024":960172,
   "Marzo_2024":964139,
@@ -18,11 +18,12 @@
   "Febrero_2025":1108379,
   "Marzo_2025":1158137,
   "Abril_2025":1048710,
-  "Mayo_2025":1026680
+  "Mayo_2025":1026680,
+  "Junio_2025":1053532
  },
  {
   "organismo_nombre":"Fundación Integra",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":137411,
   "Febrero_2024":139829,
   "Marzo_2024":152279,
@@ -39,6 +40,7 @@
   "Febrero_2025":131961,
   "Marzo_2025":157212,
   "Abril_2025":143725,
-  "Mayo_2025":131190
+  "Mayo_2025":131190,
+  "Junio_2025":154095
  }
 ]

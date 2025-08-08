@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Santiago",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1243578,
   "Febrero_2024":932117,
   "Marzo_2024":914258,
@@ -18,7 +18,8 @@
   "Febrero_2025":947712,
   "Marzo_2025":954654,
   "Abril_2025":1136782,
-  "Mayo_2025":3183072
+  "Mayo_2025":3183072,
+  "Junio_2025":941197
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
@@ -35,15 +36,16 @@
   "Octubre_2024":1554214,
   "Noviembre_2024":1549921,
   "Diciembre_2024":1627133,
-  "Enero_2025":1674824,
-  "Febrero_2025":1545745,
-  "Marzo_2025":1557612,
-  "Abril_2025":1625360,
-  "Mayo_2025":2338805
+  "Enero_2025":1593667,
+  "Febrero_2025":1454692,
+  "Marzo_2025":1461814,
+  "Abril_2025":1532450,
+  "Mayo_2025":2338805,
+  "Junio_2025":1538277
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":976272,
   "Febrero_2024":1117684,
   "Marzo_2024":1132377,
@@ -60,7 +62,8 @@
   "Febrero_2025":1274023,
   "Marzo_2025":1234791,
   "Abril_2025":1277461,
-  "Mayo_2025":1195767
+  "Mayo_2025":1227615,
+  "Junio_2025":1325829
  },
  {
   "organismo_nombre":"Municipalidad de Santiago",
@@ -77,10 +80,11 @@
   "Octubre_2024":2382146,
   "Noviembre_2024":2356493,
   "Diciembre_2024":2543539,
-  "Enero_2025":2614667,
+  "Enero_2025":2452609,
   "Febrero_2025":2395920,
   "Marzo_2025":2444634,
-  "Abril_2025":2531074,
-  "Mayo_2025":3241653
+  "Abril_2025":2371353,
+  "Mayo_2025":3241653,
+  "Junio_2025":2618453
  }
 ]

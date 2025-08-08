@@ -18,11 +18,12 @@
   "Febrero_2025":2370585,
   "Marzo_2025":2658403,
   "Abril_2025":2066196,
-  "Mayo_2025":2066196
+  "Mayo_2025":2066196,
+  "Junio_2025":3861798
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cauquenes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1050200,
   "Febrero_2024":1050200,
   "Marzo_2024":1050200,
@@ -31,15 +32,16 @@
   "Junio_2024":1050200,
   "Julio_2024":1050200,
   "Agosto_2024":1050200,
-  "Septiembre_2024":936928,
+  "Septiembre_2024":1013533,
   "Octubre_2024":1159000,
   "Noviembre_2024":1159000,
   "Diciembre_2024":870044,
   "Enero_2025":849037,
   "Febrero_2025":523370,
-  "Marzo_2025":1012017,
-  "Abril_2025":1134340,
-  "Mayo_2025":817594
+  "Marzo_2025":1054420,
+  "Abril_2025":990064,
+  "Mayo_2025":817594,
+  "Junio_2025":989194
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Cauquenes",
@@ -60,6 +62,7 @@
   "Febrero_2025":2866757,
   "Marzo_2025":3349754,
   "Abril_2025":2866757,
-  "Mayo_2025":2866757
+  "Mayo_2025":2866757,
+  "Junio_2025":4319441
  }
 ]

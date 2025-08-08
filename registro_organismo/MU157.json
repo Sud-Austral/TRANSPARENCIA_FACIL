@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":278,
   "Febrero_2024":271,
   "Marzo_2024":292,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":284,
   "Febrero_2024":310,
   "Marzo_2024":451,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Arauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1233146,
   "Febrero_2024":970909,
   "Marzo_2024":807964,
@@ -18,7 +18,8 @@
   "Febrero_2025":1118014,
   "Marzo_2025":916650,
   "Abril_2025":888862,
-  "Mayo_2025":891430
+  "Mayo_2025":891430,
+  "Junio_2025":918887
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1122975,
   "Marzo_2025":1092178,
   "Abril_2025":1080030,
-  "Mayo_2025":1208077
+  "Mayo_2025":1208077,
+  "Junio_2025":1185572
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":718712,
   "Febrero_2024":734671,
   "Marzo_2024":757602,
@@ -60,7 +62,8 @@
   "Febrero_2025":729963,
   "Marzo_2025":760719,
   "Abril_2025":721950,
-  "Mayo_2025":779449
+  "Mayo_2025":769119,
+  "Junio_2025":733223
  },
  {
   "organismo_nombre":"Municipalidad de Arauco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1540665,
   "Marzo_2025":1505593,
   "Abril_2025":1578096,
-  "Mayo_2025":1550247
+  "Mayo_2025":1550247,
+  "Junio_2025":1604273
  }
 ]

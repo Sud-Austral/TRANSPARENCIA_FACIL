@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT Estatal de la Región del Maule",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2074355,
   "Febrero_2024":1975022,
   "Marzo_2024":1611941,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT Estatal de la Región del Maule",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":281250,
   "Febrero_2024":0,
   "Marzo_2024":1826100,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":29,
   "Febrero_2024":25,
   "Marzo_2024":27,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":291,
   "Febrero_2024":285,
   "Marzo_2024":273,

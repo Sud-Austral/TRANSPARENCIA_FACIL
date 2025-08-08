@@ -18,11 +18,12 @@
   "Febrero_2025":1560691,
   "Marzo_2025":1954135,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Ollague",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1043988,
   "Febrero_2024":887627,
   "Marzo_2024":768403,
@@ -39,7 +40,8 @@
   "Febrero_2025":665332,
   "Marzo_2025":1120027,
   "Abril_2025":891296,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Ollague",
@@ -60,6 +62,7 @@
   "Febrero_2025":2853840,
   "Marzo_2025":3303607,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":76,
   "Febrero_2024":65,
   "Marzo_2024":53,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peñalolén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":730,
   "Febrero_2024":719,
   "Marzo_2024":707,

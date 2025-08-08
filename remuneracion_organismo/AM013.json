@@ -18,11 +18,12 @@
   "Febrero_2025":2306188,
   "Marzo_2025":4105253,
   "Abril_2025":2290763,
-  "Mayo_2025":2308532
+  "Mayo_2025":2308532,
+  "Junio_2025":4176465
  },
  {
   "organismo_nombre":"Fiscalía de Obras Públicas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":669529,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Fiscalía de Obras Públicas",
@@ -60,6 +62,7 @@
   "Febrero_2025":4873796,
   "Marzo_2025":8071819,
   "Abril_2025":4856460,
-  "Mayo_2025":5054904
+  "Mayo_2025":5054904,
+  "Junio_2025":8050813
  }
 ]

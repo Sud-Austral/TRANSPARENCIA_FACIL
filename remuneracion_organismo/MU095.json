@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":958379,
   "Febrero_2024":956280,
   "Marzo_2024":1535375,
@@ -18,7 +18,8 @@
   "Febrero_2025":981413,
   "Marzo_2025":1466916,
   "Abril_2025":983511,
-  "Mayo_2025":994310
+  "Mayo_2025":994310,
+  "Junio_2025":1135590
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
@@ -39,11 +40,12 @@
   "Febrero_2025":1533607,
   "Marzo_2025":1763762,
   "Abril_2025":1607373,
-  "Mayo_2025":1651893
+  "Mayo_2025":1785191,
+  "Junio_2025":1813528
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":760272,
   "Febrero_2024":799563,
   "Marzo_2024":797521,
@@ -60,7 +62,8 @@
   "Febrero_2025":819482,
   "Marzo_2025":804009,
   "Abril_2025":833136,
-  "Mayo_2025":864901
+  "Mayo_2025":864901,
+  "Junio_2025":891295
  },
  {
   "organismo_nombre":"Municipalidad de Futaleufú",
@@ -81,6 +84,7 @@
   "Febrero_2025":2708183,
   "Marzo_2025":2840647,
   "Abril_2025":2660505,
-  "Mayo_2025":2961857
+  "Mayo_2025":2940041,
+  "Junio_2025":2965893
  }
 ]

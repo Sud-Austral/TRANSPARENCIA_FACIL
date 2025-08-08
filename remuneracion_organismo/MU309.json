@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1125731,
   "Febrero_2024":985451,
   "Marzo_2024":827029,
@@ -18,7 +18,8 @@
   "Febrero_2025":1079988,
   "Marzo_2025":873695,
   "Abril_2025":1021234,
-  "Mayo_2025":998057
+  "Mayo_2025":998057,
+  "Junio_2025":1057277
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1321900,
   "Marzo_2025":1398196,
   "Abril_2025":1468199,
-  "Mayo_2025":1639533
+  "Mayo_2025":1639533,
+  "Junio_2025":1512162
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1125869,
   "Febrero_2024":927820,
   "Marzo_2024":1039800,
@@ -55,12 +57,13 @@
   "Septiembre_2024":854453,
   "Octubre_2024":794407,
   "Noviembre_2024":952512,
-  "Diciembre_2024":928316,
+  "Diciembre_2024":932142,
   "Enero_2025":824500,
   "Febrero_2025":831513,
   "Marzo_2025":982606,
   "Abril_2025":1080314,
-  "Mayo_2025":793755
+  "Mayo_2025":793755,
+  "Junio_2025":853128
  },
  {
   "organismo_nombre":"Municipalidad de Santo Domingo",
@@ -81,6 +84,7 @@
   "Febrero_2025":2062650,
   "Marzo_2025":2118831,
   "Abril_2025":2304893,
-  "Mayo_2025":2635631
+  "Mayo_2025":2635631,
+  "Junio_2025":2337941
  }
 ]

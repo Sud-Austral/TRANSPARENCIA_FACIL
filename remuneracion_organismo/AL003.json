@@ -18,11 +18,12 @@
   "Febrero_2025":2706201,
   "Marzo_2025":2765923,
   "Abril_2025":2676472,
-  "Mayo_2025":2012382
+  "Mayo_2025":2012382,
+  "Junio_2025":4217755
  },
  {
   "organismo_nombre":"Dirección del Trabajo (DT)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1206802,
   "Febrero_2024":1191232,
   "Marzo_2024":1042335,
@@ -39,7 +40,8 @@
   "Febrero_2025":1550877,
   "Marzo_2025":1515074,
   "Abril_2025":1381524,
-  "Mayo_2025":1528557
+  "Mayo_2025":1528557,
+  "Junio_2025":1628231
  },
  {
   "organismo_nombre":"Dirección del Trabajo (DT)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3055183,
   "Marzo_2025":3078463,
   "Abril_2025":3044854,
-  "Mayo_2025":2239020
+  "Mayo_2025":2239020,
+  "Junio_2025":4801212
  }
 ]

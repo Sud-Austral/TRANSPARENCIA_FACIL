@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Subsecretaría de las Culturas y las Artes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2802374,
   "Febrero_2024":2802374,
   "Marzo_2024":2802374,
@@ -18,7 +18,8 @@
   "Febrero_2025":3042181,
   "Marzo_2025":3113903,
   "Abril_2025":3118020,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":4234212
  },
  {
   "organismo_nombre":"Subsecretaría de las Culturas y las Artes",
@@ -39,11 +40,12 @@
   "Febrero_2025":2501660,
   "Marzo_2025":2539894,
   "Abril_2025":1983285,
-  "Mayo_2025":1975613
+  "Mayo_2025":1975613,
+  "Junio_2025":3644500
  },
  {
   "organismo_nombre":"Subsecretaría de las Culturas y las Artes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1567163,
   "Febrero_2024":1278672,
   "Marzo_2024":1394155,
@@ -60,7 +62,8 @@
   "Febrero_2025":1436701,
   "Marzo_2025":1342584,
   "Abril_2025":1301025,
-  "Mayo_2025":1308802
+  "Mayo_2025":1308802,
+  "Junio_2025":1286965
  },
  {
   "organismo_nombre":"Subsecretaría de las Culturas y las Artes",
@@ -81,6 +84,7 @@
   "Febrero_2025":2921965,
   "Marzo_2025":2946243,
   "Abril_2025":2270707,
-  "Mayo_2025":2255277
+  "Mayo_2025":2255277,
+  "Junio_2025":4165154
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Yungay",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1267255,
   "Febrero_2024":966721,
   "Marzo_2024":835235,
@@ -18,7 +18,8 @@
   "Febrero_2025":1048266,
   "Marzo_2025":909812,
   "Abril_2025":984582,
-  "Mayo_2025":853583
+  "Mayo_2025":858304,
+  "Junio_2025":907530
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
@@ -39,11 +40,12 @@
   "Febrero_2025":1397090,
   "Marzo_2025":1253938,
   "Abril_2025":1450651,
-  "Mayo_2025":1490133
+  "Mayo_2025":1490133,
+  "Junio_2025":1485311
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":847013,
   "Febrero_2024":865087,
   "Marzo_2024":735885,
@@ -60,7 +62,8 @@
   "Febrero_2025":976697,
   "Marzo_2025":1029818,
   "Abril_2025":758479,
-  "Mayo_2025":758419
+  "Mayo_2025":766380,
+  "Junio_2025":840805
  },
  {
   "organismo_nombre":"Municipalidad de Yungay",
@@ -81,6 +84,7 @@
   "Febrero_2025":2032219,
   "Marzo_2025":2079192,
   "Abril_2025":2188625,
-  "Mayo_2025":2101510
+  "Mayo_2025":2101510,
+  "Junio_2025":2174030
  }
 ]

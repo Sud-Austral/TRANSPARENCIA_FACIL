@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Florida",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":774427,
   "Febrero_2024":786430,
   "Marzo_2024":774427,
@@ -18,7 +18,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1126037,
   "Abril_2025":1196255,
-  "Mayo_2025":1196255
+  "Mayo_2025":1196255,
+  "Junio_2025":1055365
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
@@ -39,11 +40,12 @@
   "Febrero_2025":1722193,
   "Marzo_2025":1707411,
   "Abril_2025":1733281,
-  "Mayo_2025":2730759
+  "Mayo_2025":2730759,
+  "Junio_2025":1768875
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":808448,
   "Febrero_2024":848508,
   "Marzo_2024":822855,
@@ -60,7 +62,8 @@
   "Febrero_2025":847090,
   "Marzo_2025":842031,
   "Abril_2025":836280,
-  "Mayo_2025":0
+  "Mayo_2025":838897,
+  "Junio_2025":778540
  },
  {
   "organismo_nombre":"Municipalidad de La Florida",
@@ -81,6 +84,7 @@
   "Febrero_2025":2236952,
   "Marzo_2025":2251927,
   "Abril_2025":2259188,
-  "Mayo_2025":3568221
+  "Mayo_2025":3568221,
+  "Junio_2025":2305077
  }
 ]

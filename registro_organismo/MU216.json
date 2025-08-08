@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peumo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":167,
   "Febrero_2024":167,
   "Marzo_2024":167,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peumo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":96,
   "Febrero_2024":119,
   "Marzo_2024":103,

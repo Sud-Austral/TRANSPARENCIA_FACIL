@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2557,
   "Febrero_2024":2702,
   "Marzo_2024":2507,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Atacama (SLEP Atacama)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":4,
   "Marzo_2024":15,

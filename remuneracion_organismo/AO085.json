@@ -18,11 +18,12 @@
   "Febrero_2025":1688866,
   "Marzo_2025":1713342,
   "Abril_2025":1696428,
-  "Mayo_2025":0
+  "Mayo_2025":1679024,
+  "Junio_2025":1794495
  },
  {
   "organismo_nombre":"Hospital Regional de Talca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":876043,
   "Febrero_2024":991328,
   "Marzo_2024":962578,
@@ -39,7 +40,8 @@
   "Febrero_2025":960853,
   "Marzo_2025":1025518,
   "Abril_2025":1073465,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital Regional de Talca",
@@ -60,6 +62,7 @@
   "Febrero_2025":1764735,
   "Marzo_2025":2113620,
   "Abril_2025":1828967,
-  "Mayo_2025":0
+  "Mayo_2025":1859164,
+  "Junio_2025":2177834
  }
 ]

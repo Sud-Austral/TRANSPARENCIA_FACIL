@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Desarrollo de Talca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1606365,
   "Febrero_2024":1606365,
   "Marzo_2024":1606365,
@@ -18,11 +18,12 @@
   "Febrero_2025":1719966,
   "Marzo_2025":1702623,
   "Abril_2025":1691271,
-  "Mayo_2025":1683243
+  "Mayo_2025":1683243,
+  "Junio_2025":1625778
  },
  {
   "organismo_nombre":"Corporación de Desarrollo de Talca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":985507,
   "Febrero_2024":236118,
   "Marzo_2024":1124638,
@@ -36,9 +37,10 @@
   "Noviembre_2024":0,
   "Diciembre_2024":567703,
   "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Febrero_2025":836753,
+  "Marzo_2025":1683533,
+  "Abril_2025":1461532,
+  "Mayo_2025":0,
+  "Junio_2025":1403509
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Providencia",
-  "base":"CODIGO",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":160,
   "Marzo_2024":160,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Providencia",
-  "base":"CONTRATA",
+  "base":"Contrata",
   "Enero_2024":3536,
   "Febrero_2024":3512,
   "Marzo_2024":3520,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Providencia",
-  "base":"PLANTA",
+  "base":"Planta",
   "Enero_2024":4872,
   "Febrero_2024":4864,
   "Marzo_2024":4856,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1,
   "Febrero_2024":1,
   "Marzo_2024":1,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":50,
   "Febrero_2024":49,
   "Marzo_2024":64,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pelarco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":229,
   "Febrero_2024":229,
   "Marzo_2024":198,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Pelarco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":126,
   "Febrero_2024":130,
   "Marzo_2024":130,

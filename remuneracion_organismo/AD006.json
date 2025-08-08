@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Ejército de Chile",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1547559,
   "Febrero_2024":1491169,
   "Marzo_2024":1478086,
@@ -18,11 +18,12 @@
   "Febrero_2025":1610655,
   "Marzo_2025":1598067,
   "Abril_2025":1621355,
-  "Mayo_2025":1614458
+  "Mayo_2025":1614458,
+  "Junio_2025":1652851
  },
  {
   "organismo_nombre":"Ejército de Chile",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":883186,
   "Febrero_2024":836591,
   "Marzo_2024":611937,
@@ -39,6 +40,7 @@
   "Febrero_2025":748549,
   "Marzo_2025":696891,
   "Abril_2025":741836,
-  "Mayo_2025":1212005
+  "Mayo_2025":732586,
+  "Junio_2025":1142100
  }
 ]

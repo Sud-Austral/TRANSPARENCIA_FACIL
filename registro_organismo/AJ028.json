@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1001,
   "Febrero_2024":778,
   "Marzo_2024":992,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Llanquihue (SLEP Llanquihue)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3,
   "Febrero_2024":3,
   "Marzo_2024":4,

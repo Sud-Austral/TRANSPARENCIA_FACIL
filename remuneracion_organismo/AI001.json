@@ -18,11 +18,12 @@
   "Febrero_2025":3466772,
   "Marzo_2025":4908195,
   "Abril_2025":2727420,
-  "Mayo_2025":2739515
+  "Mayo_2025":2739515,
+  "Junio_2025":4930599
  },
  {
   "organismo_nombre":"Subsecretaría de Evaluación Social",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2470042,
   "Febrero_2024":2323145,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":2470292,
   "Marzo_2025":2657588,
   "Abril_2025":2488030,
-  "Mayo_2025":2494776
+  "Mayo_2025":2535810,
+  "Junio_2025":2586379
  },
  {
   "organismo_nombre":"Subsecretaría de Evaluación Social",
@@ -60,6 +62,7 @@
   "Febrero_2025":5327256,
   "Marzo_2025":7030584,
   "Abril_2025":4253318,
-  "Mayo_2025":4346851
+  "Mayo_2025":4346851,
+  "Junio_2025":7278320
  }
 ]

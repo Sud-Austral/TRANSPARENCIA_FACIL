@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Panquehue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":909435,
   "Febrero_2024":1001690,
   "Marzo_2024":834447,
@@ -18,7 +18,8 @@
   "Febrero_2025":906976,
   "Marzo_2025":796632,
   "Abril_2025":912648,
-  "Mayo_2025":854100
+  "Mayo_2025":854100,
+  "Junio_2025":892409
  },
  {
   "organismo_nombre":"Municipalidad de Panquehue",
@@ -39,11 +40,12 @@
   "Febrero_2025":1335071,
   "Marzo_2025":1309782,
   "Abril_2025":1475687,
-  "Mayo_2025":1508579
+  "Mayo_2025":1508579,
+  "Junio_2025":1441788
  },
  {
   "organismo_nombre":"Municipalidad de Panquehue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":899640,
   "Febrero_2024":631081,
   "Marzo_2024":622101,
@@ -60,7 +62,8 @@
   "Febrero_2025":664361,
   "Marzo_2025":737030,
   "Abril_2025":667267,
-  "Mayo_2025":543667
+  "Mayo_2025":543667,
+  "Junio_2025":495452
  },
  {
   "organismo_nombre":"Municipalidad de Panquehue",
@@ -81,6 +84,7 @@
   "Febrero_2025":2168525,
   "Marzo_2025":2283733,
   "Abril_2025":2369849,
-  "Mayo_2025":2386285
+  "Mayo_2025":2386285,
+  "Junio_2025":2456890
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":812871,
   "Febrero_2024":836204,
   "Marzo_2024":738560,
@@ -18,7 +18,8 @@
   "Febrero_2025":1441136,
   "Marzo_2025":0,
   "Abril_2025":1194191,
-  "Mayo_2025":1422024
+  "Mayo_2025":1422024,
+  "Junio_2025":1514218
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
@@ -39,11 +40,12 @@
   "Febrero_2025":1332771,
   "Marzo_2025":1229102,
   "Abril_2025":1479382,
-  "Mayo_2025":1428302
+  "Mayo_2025":1428302,
+  "Junio_2025":1478251
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1008000,
   "Febrero_2024":704425,
   "Marzo_2024":821835,
@@ -60,7 +62,8 @@
   "Febrero_2025":722482,
   "Marzo_2025":717522,
   "Abril_2025":735353,
-  "Mayo_2025":674246
+  "Mayo_2025":674246,
+  "Junio_2025":714634
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Olivar",
@@ -80,7 +83,8 @@
   "Enero_2025":2126598,
   "Febrero_2025":1621346,
   "Marzo_2025":1716306,
-  "Abril_2025":1922469,
-  "Mayo_2025":1899967
+  "Abril_2025":1931547,
+  "Mayo_2025":2015011,
+  "Junio_2025":1644149
  }
 ]

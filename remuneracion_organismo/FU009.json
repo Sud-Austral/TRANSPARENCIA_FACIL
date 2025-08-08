@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Regional de Desarrollo Productivo de la Región de Tarapacá",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2284578,
   "Febrero_2024":2333782,
   "Marzo_2024":2356511,
@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Regional de Desarrollo Productivo de la Región de Tarapacá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1677371,
   "Febrero_2024":1644999,
   "Marzo_2024":1688478,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

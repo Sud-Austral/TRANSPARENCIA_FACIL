@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de María Elena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":184,
   "Febrero_2024":179,
   "Marzo_2024":180,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":14,
   "Febrero_2024":15,
   "Marzo_2024":16,

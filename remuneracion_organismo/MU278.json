@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":816930,
   "Febrero_2024":796873,
   "Marzo_2024":761748,
@@ -18,7 +18,8 @@
   "Febrero_2025":840011,
   "Marzo_2025":817830,
   "Abril_2025":799725,
-  "Mayo_2025":827116
+  "Mayo_2025":827116,
+  "Junio_2025":832780
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
@@ -39,11 +40,12 @@
   "Febrero_2025":1132384,
   "Marzo_2025":1096930,
   "Abril_2025":1181320,
-  "Mayo_2025":1117083
+  "Mayo_2025":1117083,
+  "Junio_2025":1173035
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":982184,
   "Febrero_2024":944937,
   "Marzo_2024":975092,
@@ -60,7 +62,8 @@
   "Febrero_2025":874264,
   "Marzo_2025":893251,
   "Abril_2025":931695,
-  "Mayo_2025":918890
+  "Mayo_2025":918890,
+  "Junio_2025":851714
  },
  {
   "organismo_nombre":"Municipalidad de Sagrada Familia",
@@ -81,6 +84,7 @@
   "Febrero_2025":1523740,
   "Marzo_2025":1570999,
   "Abril_2025":1789665,
-  "Mayo_2025":1516257
+  "Mayo_2025":1516257,
+  "Junio_2025":1809693
  }
 ]

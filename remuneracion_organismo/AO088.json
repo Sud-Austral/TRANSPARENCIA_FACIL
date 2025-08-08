@@ -18,11 +18,12 @@
   "Febrero_2025":1422875,
   "Marzo_2025":1431339,
   "Abril_2025":1476523,
-  "Mayo_2025":1304169
+  "Mayo_2025":1304169,
+  "Junio_2025":1528458
  },
  {
   "organismo_nombre":"Hospital Regional de Rancagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":872715,
   "Febrero_2024":745132,
   "Marzo_2024":766861,
@@ -39,7 +40,8 @@
   "Febrero_2025":762623,
   "Marzo_2025":629575,
   "Abril_2025":836897,
-  "Mayo_2025":1542268
+  "Mayo_2025":1542268,
+  "Junio_2025":1353666
  },
  {
   "organismo_nombre":"Hospital Regional de Rancagua",
@@ -60,6 +62,7 @@
   "Febrero_2025":1794842,
   "Marzo_2025":1826264,
   "Abril_2025":1801853,
-  "Mayo_2025":1794341
+  "Mayo_2025":1794341,
+  "Junio_2025":1877204
  }
 ]

@@ -17,12 +17,13 @@
   "Enero_2025":1190214,
   "Febrero_2025":1046061,
   "Marzo_2025":1643204,
-  "Abril_2025":750421,
-  "Mayo_2025":0
+  "Abril_2025":1008101,
+  "Mayo_2025":1427640,
+  "Junio_2025":1532168
  },
  {
   "organismo_nombre":"Municipalidad de General Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":853886,
   "Febrero_2024":1075804,
   "Marzo_2024":1048781,
@@ -39,7 +40,8 @@
   "Febrero_2025":1077411,
   "Marzo_2025":1188787,
   "Abril_2025":1111316,
-  "Mayo_2025":0
+  "Mayo_2025":1346454,
+  "Junio_2025":1324668
  },
  {
   "organismo_nombre":"Municipalidad de General Lagos",
@@ -60,6 +62,7 @@
   "Febrero_2025":3251258,
   "Marzo_2025":3646938,
   "Abril_2025":3122002,
-  "Mayo_2025":0
+  "Mayo_2025":4709974,
+  "Junio_2025":0
  }
 ]

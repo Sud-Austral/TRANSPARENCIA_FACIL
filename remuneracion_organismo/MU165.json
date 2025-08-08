@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Marchige",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":991697,
   "Febrero_2024":879764,
   "Marzo_2024":853822,
@@ -18,7 +18,8 @@
   "Febrero_2025":1003124,
   "Marzo_2025":888507,
   "Abril_2025":900644,
-  "Mayo_2025":898710
+  "Mayo_2025":898710,
+  "Junio_2025":906378
  },
  {
   "organismo_nombre":"Municipalidad de Marchige",
@@ -39,11 +40,12 @@
   "Febrero_2025":1223667,
   "Marzo_2025":1306202,
   "Abril_2025":1403294,
-  "Mayo_2025":1445217
+  "Mayo_2025":1445217,
+  "Junio_2025":1464727
  },
  {
   "organismo_nombre":"Municipalidad de Marchige",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":670681,
   "Febrero_2024":673270,
   "Marzo_2024":659740,
@@ -60,7 +62,8 @@
   "Febrero_2025":881564,
   "Marzo_2025":890433,
   "Abril_2025":838322,
-  "Mayo_2025":831359
+  "Mayo_2025":831359,
+  "Junio_2025":819084
  },
  {
   "organismo_nombre":"Municipalidad de Marchige",
@@ -81,6 +84,7 @@
   "Febrero_2025":1809794,
   "Marzo_2025":1898634,
   "Abril_2025":2039292,
-  "Mayo_2025":2200229
+  "Mayo_2025":2200229,
+  "Junio_2025":2028515
  }
 ]

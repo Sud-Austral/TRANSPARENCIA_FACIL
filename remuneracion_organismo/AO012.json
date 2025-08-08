@@ -18,11 +18,12 @@
   "Febrero_2025":1997531,
   "Marzo_2025":2395980,
   "Abril_2025":2019303,
-  "Mayo_2025":0
+  "Mayo_2025":2093954,
+  "Junio_2025":2698766
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur Oriente",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1497469,
   "Febrero_2024":1453764,
   "Marzo_2024":1514625,
@@ -39,7 +40,8 @@
   "Febrero_2025":1741093,
   "Marzo_2025":1527822,
   "Abril_2025":1787358,
-  "Mayo_2025":0
+  "Mayo_2025":1761263,
+  "Junio_2025":1694829
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur Oriente",
@@ -60,6 +62,7 @@
   "Febrero_2025":1769461,
   "Marzo_2025":3003987,
   "Abril_2025":1839861,
-  "Mayo_2025":0
+  "Mayo_2025":1816270,
+  "Junio_2025":3236068
  }
 ]

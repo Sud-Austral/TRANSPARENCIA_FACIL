@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":949530,
   "Febrero_2024":946601,
   "Marzo_2024":920895,
@@ -14,11 +14,12 @@
   "Octubre_2024":961606,
   "Noviembre_2024":660170,
   "Diciembre_2024":810593,
-  "Enero_2025":764193,
-  "Febrero_2025":675574,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Enero_2025":683355,
+  "Febrero_2025":755301,
+  "Marzo_2025":806187,
+  "Abril_2025":912780,
+  "Mayo_2025":930050,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1416647,
   "Marzo_2025":1578904,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":817271,
   "Febrero_2024":739048,
   "Marzo_2024":763934,
@@ -58,9 +60,10 @@
   "Diciembre_2024":757131,
   "Enero_2025":799146,
   "Febrero_2025":790579,
-  "Marzo_2025":798596,
+  "Marzo_2025":799237,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Isla de Maipo",
@@ -81,6 +84,7 @@
   "Febrero_2025":2492116,
   "Marzo_2025":2772031,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

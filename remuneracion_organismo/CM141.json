@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Innovación y Desarrollo Económico y Social Innova Recoleta",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":911983,
   "Febrero_2024":937083,
   "Marzo_2024":961523,
@@ -18,11 +18,12 @@
   "Febrero_2025":971310,
   "Marzo_2025":1037041,
   "Abril_2025":1022264,
-  "Mayo_2025":1001605
+  "Mayo_2025":1001605,
+  "Junio_2025":1079234
  },
  {
   "organismo_nombre":"Corporación de Innovación y Desarrollo Económico y Social Innova Recoleta",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":380387,
   "Febrero_2024":380387,
   "Marzo_2024":481345,
@@ -39,6 +40,7 @@
   "Febrero_2025":576177,
   "Marzo_2025":550316,
   "Abril_2025":537140,
-  "Mayo_2025":550316
+  "Mayo_2025":550316,
+  "Junio_2025":530297
  }
 ]

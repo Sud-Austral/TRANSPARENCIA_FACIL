@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quillota",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1271128,
   "Febrero_2024":927522,
   "Marzo_2024":810464,
@@ -18,7 +18,8 @@
   "Febrero_2025":1013906,
   "Marzo_2025":894051,
   "Abril_2025":901349,
-  "Mayo_2025":883013
+  "Mayo_2025":883013,
+  "Junio_2025":903568
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
@@ -39,11 +40,12 @@
   "Febrero_2025":1344976,
   "Marzo_2025":1311381,
   "Abril_2025":1528010,
-  "Mayo_2025":1553949
+  "Mayo_2025":1553949,
+  "Junio_2025":1527847
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":630788,
   "Febrero_2024":605131,
   "Marzo_2024":599314,
@@ -60,7 +62,8 @@
   "Febrero_2025":648213,
   "Marzo_2025":680912,
   "Abril_2025":655911,
-  "Mayo_2025":732300
+  "Mayo_2025":649426,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Quillota",
@@ -81,6 +84,7 @@
   "Febrero_2025":1921914,
   "Marzo_2025":1935638,
   "Abril_2025":2273745,
-  "Mayo_2025":2100278
+  "Mayo_2025":2100278,
+  "Junio_2025":2255243
  }
 ]

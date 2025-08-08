@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Desarrollo e Innovación de Rancagua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":884675,
   "Marzo_2024":1026886,
@@ -18,11 +18,12 @@
   "Febrero_2025":1140165,
   "Marzo_2025":1172771,
   "Abril_2025":1307525,
-  "Mayo_2025":1287364
+  "Mayo_2025":1287364,
+  "Junio_2025":1347206
  },
  {
   "organismo_nombre":"Corporación de Desarrollo e Innovación de Rancagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":960523,
   "Marzo_2024":996521,
@@ -39,6 +40,7 @@
   "Febrero_2025":1355608,
   "Marzo_2025":858910,
   "Abril_2025":1419233,
-  "Mayo_2025":1432110
+  "Mayo_2025":1432110,
+  "Junio_2025":1278240
  }
 ]

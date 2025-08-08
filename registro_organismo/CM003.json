@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal Isla de Maipo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1046,
   "Febrero_2024":714,
   "Marzo_2024":353,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal Isla de Maipo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":140,
   "Febrero_2024":129,
   "Marzo_2024":143,

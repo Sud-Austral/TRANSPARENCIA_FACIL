@@ -18,11 +18,12 @@
   "Febrero_2025":2418152,
   "Marzo_2025":2474406,
   "Abril_2025":1918269,
-  "Mayo_2025":1905595
+  "Mayo_2025":1905595,
+  "Junio_2025":3482332
  },
  {
   "organismo_nombre":"Instituto Nacional de la Juventud (INJUV)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1140808,
   "Febrero_2024":1186200,
   "Marzo_2024":1338970,
@@ -39,7 +40,8 @@
   "Febrero_2025":1233851,
   "Marzo_2025":1236020,
   "Abril_2025":1236020,
-  "Mayo_2025":1236020
+  "Mayo_2025":1229675,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Instituto Nacional de la Juventud (INJUV)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4325683,
   "Marzo_2025":4513031,
   "Abril_2025":3633333,
-  "Mayo_2025":3703820
+  "Mayo_2025":3703820,
+  "Junio_2025":6292053
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Antuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":988220,
   "Febrero_2024":951234,
   "Marzo_2024":901387,
@@ -18,7 +18,8 @@
   "Febrero_2025":963594,
   "Marzo_2025":906677,
   "Abril_2025":0,
-  "Mayo_2025":914433
+  "Mayo_2025":914433,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1331767,
   "Marzo_2025":1321021,
   "Abril_2025":1447949,
-  "Mayo_2025":1660319
+  "Mayo_2025":1660319,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":653750,
   "Febrero_2024":927757,
   "Marzo_2024":965430,
@@ -60,7 +62,8 @@
   "Febrero_2025":974049,
   "Marzo_2025":1011634,
   "Abril_2025":1041629,
-  "Mayo_2025":1057183
+  "Mayo_2025":1057183,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Antuco",
@@ -81,6 +84,7 @@
   "Febrero_2025":2072156,
   "Marzo_2025":2099888,
   "Abril_2025":2391985,
-  "Mayo_2025":2388439
+  "Mayo_2025":2388439,
+  "Junio_2025":0
  }
 ]

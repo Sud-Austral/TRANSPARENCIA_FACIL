@@ -18,11 +18,12 @@
   "Febrero_2025":1856910,
   "Marzo_2025":1886904,
   "Abril_2025":1861675,
-  "Mayo_2025":1848214
+  "Mayo_2025":1848214,
+  "Junio_2025":1869802
  },
  {
   "organismo_nombre":"Universidad de OHiggins",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":943387,
   "Febrero_2024":1182916,
   "Marzo_2024":936760,
@@ -39,7 +40,8 @@
   "Febrero_2025":1110633,
   "Marzo_2025":800810,
   "Abril_2025":558547,
-  "Mayo_2025":552004
+  "Mayo_2025":552004,
+  "Junio_2025":522509
  },
  {
   "organismo_nombre":"Universidad de OHiggins",
@@ -60,6 +62,7 @@
   "Febrero_2025":5098272,
   "Marzo_2025":5085308,
   "Abril_2025":5104451,
-  "Mayo_2025":5062270
+  "Mayo_2025":5062270,
+  "Junio_2025":4939926
  }
 ]

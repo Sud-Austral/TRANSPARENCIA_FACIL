@@ -7,7 +7,7 @@
   "Marzo_2024":3255148,
   "Abril_2024":3258894,
   "Mayo_2024":3388158,
-  "Junio_2024":3411177,
+  "Junio_2024":3411018,
   "Julio_2024":3348775,
   "Agosto_2024":3391546,
   "Septiembre_2024":3385752,
@@ -18,11 +18,12 @@
   "Febrero_2025":3460624,
   "Marzo_2025":4005000,
   "Abril_2025":3238961,
-  "Mayo_2025":3238795
+  "Mayo_2025":3238795,
+  "Junio_2025":4013651
  },
  {
   "organismo_nombre":"Dirección de Compras y Contratación Pública (CHILECOMPRA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3324777,
   "Febrero_2024":3324777,
   "Marzo_2024":3102090,
@@ -39,7 +40,8 @@
   "Febrero_2025":3170735,
   "Marzo_2025":3170583,
   "Abril_2025":3170583,
-  "Mayo_2025":3194800
+  "Mayo_2025":3194800,
+  "Junio_2025":3194800
  },
  {
   "organismo_nombre":"Dirección de Compras y Contratación Pública (CHILECOMPRA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":9545011,
   "Marzo_2025":8361214,
   "Abril_2025":9447909,
-  "Mayo_2025":9356362
+  "Mayo_2025":9356362,
+  "Junio_2025":9960733
  }
 ]

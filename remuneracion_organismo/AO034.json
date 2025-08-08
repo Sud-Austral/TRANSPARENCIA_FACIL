@@ -18,11 +18,12 @@
   "Febrero_2025":2078775,
   "Marzo_2025":2195511,
   "Abril_2025":2168161,
-  "Mayo_2025":2097895
+  "Mayo_2025":2097895,
+  "Junio_2025":2245350
  },
  {
   "organismo_nombre":"Servicio de Salud Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1194104,
   "Febrero_2024":1169365,
   "Marzo_2024":1043431,
@@ -39,7 +40,8 @@
   "Febrero_2025":1116017,
   "Marzo_2025":1045979,
   "Abril_2025":1052940,
-  "Mayo_2025":1283826
+  "Mayo_2025":1283826,
+  "Junio_2025":1216869
  },
  {
   "organismo_nombre":"Servicio de Salud Osorno",
@@ -60,6 +62,7 @@
   "Febrero_2025":1612629,
   "Marzo_2025":1953672,
   "Abril_2025":1624515,
-  "Mayo_2025":1609017
+  "Mayo_2025":1609017,
+  "Junio_2025":1962178
  }
 ]

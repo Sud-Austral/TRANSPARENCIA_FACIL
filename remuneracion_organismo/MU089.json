@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Estación Central",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":883723,
   "Febrero_2024":878931,
   "Marzo_2024":855948,
@@ -18,7 +18,8 @@
   "Febrero_2025":283752,
   "Marzo_2025":1336966,
   "Abril_2025":1307065,
-  "Mayo_2025":0
+  "Mayo_2025":1305564,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
@@ -39,11 +40,12 @@
   "Febrero_2025":1409855,
   "Marzo_2025":1434081,
   "Abril_2025":1363607,
-  "Mayo_2025":0
+  "Mayo_2025":1517003,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":661508,
   "Febrero_2024":785360,
   "Marzo_2024":751250,
@@ -60,7 +62,8 @@
   "Febrero_2025":917685,
   "Marzo_2025":952530,
   "Abril_2025":921207,
-  "Mayo_2025":828883
+  "Mayo_2025":905922,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Estación Central",
@@ -81,6 +84,7 @@
   "Febrero_2025":1464110,
   "Marzo_2025":1680860,
   "Abril_2025":1677226,
-  "Mayo_2025":0
+  "Mayo_2025":1675829,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Porvenir",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2165141,
   "Febrero_2024":1266314,
   "Marzo_2024":1687545,
@@ -18,7 +18,8 @@
   "Febrero_2025":1424455,
   "Marzo_2025":1456792,
   "Abril_2025":1424455,
-  "Mayo_2025":1865924
+  "Mayo_2025":1865924,
+  "Junio_2025":1433572
  },
  {
   "organismo_nombre":"Municipalidad de Porvenir",
@@ -39,11 +40,12 @@
   "Febrero_2025":1559769,
   "Marzo_2025":2251155,
   "Abril_2025":1564533,
-  "Mayo_2025":2368254
+  "Mayo_2025":2368254,
+  "Junio_2025":2286602
  },
  {
   "organismo_nombre":"Municipalidad de Porvenir",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1130387,
   "Febrero_2024":1152091,
   "Marzo_2024":1230364,
@@ -60,7 +62,8 @@
   "Febrero_2025":1352823,
   "Marzo_2025":1015724,
   "Abril_2025":1218840,
-  "Mayo_2025":1077423
+  "Mayo_2025":1077423,
+  "Junio_2025":1162651
  },
  {
   "organismo_nombre":"Municipalidad de Porvenir",
@@ -81,6 +84,7 @@
   "Febrero_2025":2064965,
   "Marzo_2025":2801671,
   "Abril_2025":2092369,
-  "Mayo_2025":3200750
+  "Mayo_2025":3200750,
+  "Junio_2025":2782446
  }
 ]

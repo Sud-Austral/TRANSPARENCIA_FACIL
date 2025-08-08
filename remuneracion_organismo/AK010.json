@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Regiones Tarapacá y Antofagasta (CAJTA)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2611534,
   "Febrero_2024":2484204,
   "Marzo_2024":2551158,
@@ -18,11 +18,12 @@
   "Febrero_2025":2748772,
   "Marzo_2025":2726655,
   "Abril_2025":2711074,
-  "Mayo_2025":2714079
+  "Mayo_2025":2714079,
+  "Junio_2025":2765731
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Regiones Tarapacá y Antofagasta (CAJTA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1887726,
   "Febrero_2024":1887726,
   "Marzo_2024":1887726,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":5867631,
   "Abril_2025":1955877,
-  "Mayo_2025":1955877
+  "Mayo_2025":0,
+  "Junio_2025":1955877
  }
 ]

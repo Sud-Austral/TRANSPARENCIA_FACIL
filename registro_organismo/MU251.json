@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quilleco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":163,
   "Febrero_2024":145,
   "Marzo_2024":148,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Quilleco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1,
   "Febrero_2024":56,
   "Marzo_2024":62,

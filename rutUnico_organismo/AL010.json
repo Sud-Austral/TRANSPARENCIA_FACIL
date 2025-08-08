@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Comisión del Sistema Nacional de Certificación de Competencias Laborales",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":55,
   "Febrero_2024":55,
   "Marzo_2024":55,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Comisión del Sistema Nacional de Certificación de Competencias Laborales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":13,
   "Febrero_2024":13,
   "Marzo_2024":13,

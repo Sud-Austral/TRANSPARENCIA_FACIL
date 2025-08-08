@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Pirque",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":123,
   "Febrero_2024":280,
   "Marzo_2024":296,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Pirque",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":226,
   "Febrero_2024":122,
   "Marzo_2024":104,

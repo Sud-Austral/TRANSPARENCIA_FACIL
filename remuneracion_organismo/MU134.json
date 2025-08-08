@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":767993,
   "Febrero_2024":881766,
   "Marzo_2024":786644,
@@ -18,7 +18,8 @@
   "Febrero_2025":928052,
   "Marzo_2025":883153,
   "Abril_2025":904902,
-  "Mayo_2025":1664942
+  "Mayo_2025":896554,
+  "Junio_2025":855505
  },
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
@@ -39,11 +40,12 @@
   "Febrero_2025":1428222,
   "Marzo_2025":1429863,
   "Abril_2025":1571180,
-  "Mayo_2025":1606393
+  "Mayo_2025":1606393,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":961851,
   "Febrero_2024":902418,
   "Marzo_2024":873003,
@@ -58,9 +60,10 @@
   "Diciembre_2024":852969,
   "Enero_2025":1026159,
   "Febrero_2025":1062386,
-  "Marzo_2025":944102,
+  "Marzo_2025":944546,
   "Abril_2025":921036,
-  "Mayo_2025":917942
+  "Mayo_2025":917942,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Las Cabras",
@@ -81,6 +84,7 @@
   "Febrero_2025":1850136,
   "Marzo_2025":1920390,
   "Abril_2025":2217790,
-  "Mayo_2025":2084223
+  "Mayo_2025":2084223,
+  "Junio_2025":0
  }
 ]

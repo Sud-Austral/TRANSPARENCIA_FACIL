@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de María Elena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":813667,
   "Febrero_2024":925999,
   "Marzo_2024":1034976,
@@ -18,7 +18,8 @@
   "Febrero_2025":1399774,
   "Marzo_2025":1343482,
   "Abril_2025":1506406,
-  "Mayo_2025":3009609
+  "Mayo_2025":3009609,
+  "Junio_2025":1779380
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
@@ -38,12 +39,13 @@
   "Enero_2025":1167014,
   "Febrero_2025":1209313,
   "Marzo_2025":1707214,
-  "Abril_2025":1331139,
-  "Mayo_2025":1206251
+  "Abril_2025":1309506,
+  "Mayo_2025":1206251,
+  "Junio_2025":1734566
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":432679,
   "Febrero_2024":417373,
   "Marzo_2024":701926,
@@ -60,7 +62,8 @@
   "Febrero_2025":857418,
   "Marzo_2025":874678,
   "Abril_2025":886851,
-  "Mayo_2025":434228
+  "Mayo_2025":865030,
+  "Junio_2025":548520
  },
  {
   "organismo_nombre":"Municipalidad de María Elena",
@@ -80,7 +83,8 @@
   "Enero_2025":1818146,
   "Febrero_2025":1763530,
   "Marzo_2025":2276916,
-  "Abril_2025":2015366,
-  "Mayo_2025":1775289
+  "Abril_2025":2057997,
+  "Mayo_2025":1756074,
+  "Junio_2025":2620861
  }
 ]

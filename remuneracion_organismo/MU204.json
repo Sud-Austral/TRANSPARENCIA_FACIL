@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Parral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1140627,
   "Febrero_2024":821643,
   "Marzo_2024":834623,
@@ -18,7 +18,8 @@
   "Febrero_2025":946658,
   "Marzo_2025":876838,
   "Abril_2025":919763,
-  "Mayo_2025":877400
+  "Mayo_2025":877400,
+  "Junio_2025":910624
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
@@ -39,11 +40,12 @@
   "Febrero_2025":1288821,
   "Marzo_2025":1183519,
   "Abril_2025":1469102,
-  "Mayo_2025":1511451
+  "Mayo_2025":1511451,
+  "Junio_2025":1387182
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":757190,
   "Febrero_2024":736703,
   "Marzo_2024":876877,
@@ -57,10 +59,11 @@
   "Noviembre_2024":875491,
   "Diciembre_2024":852585,
   "Enero_2025":835798,
-  "Febrero_2025":755465,
-  "Marzo_2025":772581,
-  "Abril_2025":790689,
-  "Mayo_2025":839679
+  "Febrero_2025":749105,
+  "Marzo_2025":769286,
+  "Abril_2025":785788,
+  "Mayo_2025":866341,
+  "Junio_2025":783456
  },
  {
   "organismo_nombre":"Municipalidad de Parral",
@@ -81,6 +84,7 @@
   "Febrero_2025":1904818,
   "Marzo_2025":1930199,
   "Abril_2025":2282022,
-  "Mayo_2025":2098211
+  "Mayo_2025":2098211,
+  "Junio_2025":2268978
  }
 ]

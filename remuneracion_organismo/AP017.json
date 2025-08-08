@@ -18,11 +18,12 @@
   "Febrero_2025":1880114,
   "Marzo_2025":2607832,
   "Abril_2025":1522683,
-  "Mayo_2025":1498291
+  "Mayo_2025":1498291,
+  "Junio_2025":2631762
  },
  {
   "organismo_nombre":"Parque Metropolitano de Santiago",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2150797,
   "Febrero_2024":2150797,
   "Marzo_2024":1701595,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1486285
  },
  {
   "organismo_nombre":"Parque Metropolitano de Santiago",
@@ -60,6 +62,7 @@
   "Febrero_2025":2607594,
   "Marzo_2025":3557901,
   "Abril_2025":2060837,
-  "Mayo_2025":2098661
+  "Mayo_2025":2098661,
+  "Junio_2025":3768448
  }
 ]

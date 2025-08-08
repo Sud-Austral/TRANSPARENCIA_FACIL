@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Primavera",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":460000,
   "Febrero_2024":460000,
   "Marzo_2024":460000,
@@ -18,7 +18,8 @@
   "Febrero_2025":553122,
   "Marzo_2025":553122,
   "Abril_2025":553122,
-  "Mayo_2025":553122
+  "Mayo_2025":553122,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Primavera",
@@ -39,11 +40,12 @@
   "Febrero_2025":1598059,
   "Marzo_2025":2207667,
   "Abril_2025":1488288,
-  "Mayo_2025":2092842
+  "Mayo_2025":2092842,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Primavera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":833970,
   "Febrero_2024":881848,
   "Marzo_2024":870801,
@@ -60,7 +62,8 @@
   "Febrero_2025":913643,
   "Marzo_2025":927286,
   "Abril_2025":1036000,
-  "Mayo_2025":1075511
+  "Mayo_2025":1075511,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Primavera",
@@ -81,6 +84,7 @@
   "Febrero_2025":2650032,
   "Marzo_2025":3435418,
   "Abril_2025":2668818,
-  "Mayo_2025":3870694
+  "Mayo_2025":3870694,
+  "Junio_2025":0
  }
 ]

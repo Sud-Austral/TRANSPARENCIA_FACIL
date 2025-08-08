@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Asistencia Judicial de la Región Metropolitana (CAJMETRO)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2848344,
   "Febrero_2024":2781823,
   "Marzo_2024":2810517,
@@ -18,11 +18,12 @@
   "Febrero_2025":2987163,
   "Marzo_2025":3023424,
   "Abril_2025":2281017,
-  "Mayo_2025":2271397
+  "Mayo_2025":2271397,
+  "Junio_2025":4417931
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial de la Región Metropolitana (CAJMETRO)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Unión",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":502,
   "Febrero_2024":524,
   "Marzo_2024":543,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de La Unión",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":42,
   "Febrero_2024":43,
   "Marzo_2024":44,

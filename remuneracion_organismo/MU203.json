@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Paredones",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":722325,
   "Febrero_2024":708685,
   "Marzo_2024":683778,
@@ -18,7 +18,8 @@
   "Febrero_2025":795585,
   "Marzo_2025":760640,
   "Abril_2025":745690,
-  "Mayo_2025":801874
+  "Mayo_2025":801874,
+  "Junio_2025":805766
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
@@ -39,11 +40,12 @@
   "Febrero_2025":1276869,
   "Marzo_2025":1155870,
   "Abril_2025":1333664,
-  "Mayo_2025":1452967
+  "Mayo_2025":1452967,
+  "Junio_2025":1393679
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":225000,
   "Febrero_2024":746410,
   "Marzo_2024":958768,
@@ -60,7 +62,8 @@
   "Febrero_2025":821790,
   "Marzo_2025":970548,
   "Abril_2025":787199,
-  "Mayo_2025":797748
+  "Mayo_2025":797748,
+  "Junio_2025":880703
  },
  {
   "organismo_nombre":"Municipalidad de Paredones",
@@ -81,6 +84,7 @@
   "Febrero_2025":1907464,
   "Marzo_2025":1663035,
   "Abril_2025":2066731,
-  "Mayo_2025":2076985
+  "Mayo_2025":2076985,
+  "Junio_2025":2074883
  }
 ]

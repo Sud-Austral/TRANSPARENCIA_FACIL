@@ -1,6 +1,28 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
+  "base":"Cod. Trabajo",
+  "Enero_2024":0,
+  "Febrero_2024":0,
+  "Marzo_2024":0,
+  "Abril_2024":0,
+  "Mayo_2024":0,
+  "Junio_2024":0,
+  "Julio_2024":0,
+  "Agosto_2024":0,
+  "Septiembre_2024":0,
+  "Octubre_2024":0,
+  "Noviembre_2024":0,
+  "Diciembre_2024":0,
+  "Enero_2025":0,
+  "Febrero_2025":0,
+  "Marzo_2025":0,
+  "Abril_2025":1380237,
+  "Mayo_2025":1031827,
+  "Junio_2025":1378406
+ },
+ {
+  "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
   "base":"Contrata",
   "Enero_2024":3150716,
   "Febrero_2024":3052269,
@@ -17,12 +39,13 @@
   "Enero_2025":0,
   "Febrero_2025":2481276,
   "Marzo_2025":4349710,
-  "Abril_2025":2488922,
-  "Mayo_2025":1741476
+  "Abril_2025":1827381,
+  "Mayo_2025":1741476,
+  "Junio_2025":1896860
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":3000000,
   "Marzo_2024":2500000,
@@ -39,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":897166,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":766919,
+  "Junio_2025":561937
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Licancabur",
@@ -59,7 +83,8 @@
   "Enero_2025":2561293,
   "Febrero_2025":2532305,
   "Marzo_2025":4638617,
-  "Abril_2025":0,
-  "Mayo_2025":2364961
+  "Abril_2025":2462442,
+  "Mayo_2025":2364961,
+  "Junio_2025":2483374
  }
 ]

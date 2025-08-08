@@ -18,11 +18,12 @@
   "Febrero_2025":3458890,
   "Marzo_2025":4964078,
   "Abril_2025":2861474,
-  "Mayo_2025":2857162
+  "Mayo_2025":2857162,
+  "Junio_2025":5019801
  },
  {
   "organismo_nombre":"Subsecretaría de Turismo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2265190,
   "Febrero_2024":2265190,
   "Marzo_2024":2353586,
@@ -39,7 +40,8 @@
   "Febrero_2025":1203468,
   "Marzo_2025":2202468,
   "Abril_2025":2202468,
-  "Mayo_2025":2202468
+  "Mayo_2025":2202468,
+  "Junio_2025":2202468
  },
  {
   "organismo_nombre":"Subsecretaría de Turismo",
@@ -60,6 +62,7 @@
   "Febrero_2025":6604958,
   "Marzo_2025":8752080,
   "Abril_2025":5541676,
-  "Mayo_2025":5541676
+  "Mayo_2025":5541676,
+  "Junio_2025":8784430
  }
 ]

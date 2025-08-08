@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación Teatro Municipal de Las Condes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2621657,
   "Febrero_2024":2534029,
   "Marzo_2024":3011045,
@@ -18,11 +18,12 @@
   "Febrero_2025":2616701,
   "Marzo_2025":3061304,
   "Abril_2025":2180801,
-  "Mayo_2025":0
+  "Mayo_2025":2195218,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Fundación Teatro Municipal de Las Condes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":516786,
   "Febrero_2024":576994,
   "Marzo_2024":686323,
@@ -39,6 +40,7 @@
   "Febrero_2025":673044,
   "Marzo_2025":328417,
   "Abril_2025":828903,
-  "Mayo_2025":0
+  "Mayo_2025":486383,
+  "Junio_2025":0
  }
 ]

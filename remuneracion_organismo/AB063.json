@@ -18,11 +18,12 @@
   "Febrero_2025":3161706,
   "Marzo_2025":3161880,
   "Abril_2025":2492966,
-  "Mayo_2025":2492966
+  "Mayo_2025":2371224,
+  "Junio_2025":4522333
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de General Carrera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1394825,
   "Febrero_2024":1394825,
   "Marzo_2024":1394825,
@@ -39,7 +40,8 @@
   "Febrero_2025":1238069,
   "Marzo_2025":1130667,
   "Abril_2025":1327433,
-  "Mayo_2025":1388499
+  "Mayo_2025":1388499,
+  "Junio_2025":1388499
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de General Carrera",
@@ -60,6 +62,7 @@
   "Febrero_2025":4543461,
   "Marzo_2025":4543461,
   "Abril_2025":3897048,
-  "Mayo_2025":3897048
+  "Mayo_2025":3897048,
+  "Junio_2025":5838319
  }
 ]

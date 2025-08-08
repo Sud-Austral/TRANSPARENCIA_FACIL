@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2177624,
   "Febrero_2024":2197131,
   "Marzo_2024":2405211,
@@ -18,7 +18,8 @@
   "Febrero_2025":2968608,
   "Marzo_2025":3588911,
   "Abril_2025":3282963,
-  "Mayo_2025":2630931
+  "Mayo_2025":2630931,
+  "Junio_2025":3093180
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
@@ -39,11 +40,12 @@
   "Febrero_2025":1556039,
   "Marzo_2025":1615108,
   "Abril_2025":1651829,
-  "Mayo_2025":2467101
+  "Mayo_2025":2467101,
+  "Junio_2025":1962584
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1380305,
   "Febrero_2024":1376038,
   "Marzo_2024":1375591,
@@ -60,7 +62,8 @@
   "Febrero_2025":1600689,
   "Marzo_2025":1542775,
   "Abril_2025":1542775,
-  "Mayo_2025":1547256
+  "Mayo_2025":1547256,
+  "Junio_2025":1524010
  },
  {
   "organismo_nombre":"Municipalidad de Ñuñoa",
@@ -81,6 +84,7 @@
   "Febrero_2025":2038170,
   "Marzo_2025":2026659,
   "Abril_2025":2113404,
-  "Mayo_2025":3356718
+  "Mayo_2025":3356718,
+  "Junio_2025":2546375
  }
 ]

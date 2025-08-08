@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Yumbel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":824081,
   "Febrero_2024":795040,
   "Marzo_2024":812439,
@@ -18,7 +18,8 @@
   "Febrero_2025":880235,
   "Marzo_2025":879856,
   "Abril_2025":864910,
-  "Mayo_2025":856941
+  "Mayo_2025":856941,
+  "Junio_2025":895205
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1371493,
   "Marzo_2025":1324096,
   "Abril_2025":1373373,
-  "Mayo_2025":1366261
+  "Mayo_2025":1366261,
+  "Junio_2025":1372310
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":609466,
   "Febrero_2024":513926,
   "Marzo_2024":498409,
@@ -60,7 +62,8 @@
   "Febrero_2025":580481,
   "Marzo_2025":763607,
   "Abril_2025":714967,
-  "Mayo_2025":761008
+  "Mayo_2025":761008,
+  "Junio_2025":747883
  },
  {
   "organismo_nombre":"Municipalidad de Yumbel",
@@ -81,6 +84,7 @@
   "Febrero_2025":2008892,
   "Marzo_2025":2031419,
   "Abril_2025":2051526,
-  "Mayo_2025":2039412
+  "Mayo_2025":2039412,
+  "Junio_2025":2053336
  }
 ]

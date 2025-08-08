@@ -18,11 +18,12 @@
   "Febrero_2025":1875238,
   "Marzo_2025":2013378,
   "Abril_2025":1902125,
-  "Mayo_2025":1918158
+  "Mayo_2025":1918158,
+  "Junio_2025":2055659
  },
  {
   "organismo_nombre":"Hospital Luis Calvo Mackenna",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1153992,
   "Febrero_2024":1324204,
   "Marzo_2024":1190977,
@@ -39,7 +40,8 @@
   "Febrero_2025":1319469,
   "Marzo_2025":1191818,
   "Abril_2025":1413750,
-  "Mayo_2025":1413750
+  "Mayo_2025":1413750,
+  "Junio_2025":1348671
  },
  {
   "organismo_nombre":"Hospital Luis Calvo Mackenna",
@@ -60,6 +62,7 @@
   "Febrero_2025":1775360,
   "Marzo_2025":2069555,
   "Abril_2025":1825250,
-  "Mayo_2025":1820046
+  "Mayo_2025":1820046,
+  "Junio_2025":2119665
  }
 ]

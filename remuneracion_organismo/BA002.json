@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":842923,
   "Febrero_2024":1187756,
   "Marzo_2024":1211974,
@@ -18,7 +18,8 @@
   "Febrero_2025":1348829,
   "Marzo_2025":1326709,
   "Abril_2025":1343569,
-  "Mayo_2025":1323622
+  "Mayo_2025":1323622,
+  "Junio_2025":1316400
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2470971,
   "Marzo_2025":2476030,
   "Abril_2025":1795353,
-  "Mayo_2025":1798445
+  "Mayo_2025":1798445,
+  "Junio_2025":3461220
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":886775,
   "Febrero_2024":898058,
   "Marzo_2024":418519,
@@ -55,12 +57,13 @@
   "Septiembre_2024":281233,
   "Octubre_2024":270658,
   "Noviembre_2024":251104,
-  "Diciembre_2024":240487,
-  "Enero_2025":1099696,
-  "Febrero_2025":1310037,
+  "Diciembre_2024":266581,
+  "Enero_2025":700301,
+  "Febrero_2025":705172,
   "Marzo_2025":396179,
-  "Abril_2025":383911,
-  "Mayo_2025":583354
+  "Abril_2025":296757,
+  "Mayo_2025":412766,
+  "Junio_2025":470575
  },
  {
   "organismo_nombre":"Instituto Nacional del Deporte (IND)",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":3199374,
   "Abril_2025":2337088,
-  "Mayo_2025":2353425
+  "Mayo_2025":2353425,
+  "Junio_2025":4249013
  }
 ]

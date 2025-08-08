@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Esteban",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":787142,
   "Febrero_2024":748541,
   "Marzo_2024":733125,
@@ -18,7 +18,8 @@
   "Febrero_2025":778572,
   "Marzo_2025":754400,
   "Abril_2025":801908,
-  "Mayo_2025":795253
+  "Mayo_2025":789270,
+  "Junio_2025":779308
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
@@ -39,11 +40,12 @@
   "Febrero_2025":1387737,
   "Marzo_2025":1377970,
   "Abril_2025":1566122,
-  "Mayo_2025":1500023
+  "Mayo_2025":1548461,
+  "Junio_2025":1568801
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":357543,
   "Febrero_2024":744950,
   "Marzo_2024":602144,
@@ -60,7 +62,8 @@
   "Febrero_2025":742002,
   "Marzo_2025":698274,
   "Abril_2025":693895,
-  "Mayo_2025":619996
+  "Mayo_2025":674414,
+  "Junio_2025":726668
  },
  {
   "organismo_nombre":"Municipalidad de San Esteban",
@@ -81,6 +84,7 @@
   "Febrero_2025":1892906,
   "Marzo_2025":1969895,
   "Abril_2025":2181018,
-  "Mayo_2025":1884765
+  "Mayo_2025":2094485,
+  "Junio_2025":2159648
  }
 ]

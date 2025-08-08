@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Cultura y Patrimonio de Independencia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1518852,
   "Febrero_2024":1518852,
   "Marzo_2024":1518852,
@@ -18,11 +18,12 @@
   "Febrero_2025":1479936,
   "Marzo_2025":1294436,
   "Abril_2025":1383087,
-  "Mayo_2025":0
+  "Mayo_2025":1365154,
+  "Junio_2025":1337464
  },
  {
   "organismo_nombre":"Corporación de Cultura y Patrimonio de Independencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":723306,
   "Febrero_2024":817176,
   "Marzo_2024":687750,
@@ -38,7 +39,8 @@
   "Enero_2025":1013547,
   "Febrero_2025":611305,
   "Marzo_2025":653672,
-  "Abril_2025":782003,
-  "Mayo_2025":0
+  "Abril_2025":479933,
+  "Mayo_2025":690902,
+  "Junio_2025":0
  }
 ]

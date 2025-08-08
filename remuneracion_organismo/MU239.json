@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1482197,
   "Febrero_2024":1411917,
   "Marzo_2024":1804176,
@@ -18,7 +18,8 @@
   "Febrero_2025":1450884,
   "Marzo_2025":1842976,
   "Abril_2025":1539247,
-  "Mayo_2025":1593654
+  "Mayo_2025":1593654,
+  "Junio_2025":2130438
  },
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
@@ -39,11 +40,12 @@
   "Febrero_2025":1505785,
   "Marzo_2025":2250271,
   "Abril_2025":1552912,
-  "Mayo_2025":2329247
+  "Mayo_2025":2329247,
+  "Junio_2025":2252863
  },
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1053817,
   "Febrero_2024":939134,
   "Marzo_2024":1006889,
@@ -60,7 +62,8 @@
   "Febrero_2025":928278,
   "Marzo_2025":965735,
   "Abril_2025":591042,
-  "Mayo_2025":624764
+  "Mayo_2025":624764,
+  "Junio_2025":650468
  },
  {
   "organismo_nombre":"Municipalidad de Punta Arenas",
@@ -81,6 +84,7 @@
   "Febrero_2025":2288450,
   "Marzo_2025":2974735,
   "Abril_2025":2253103,
-  "Mayo_2025":3449676
+  "Mayo_2025":3449676,
+  "Junio_2025":2971596
  }
 ]

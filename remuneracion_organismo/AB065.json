@@ -18,11 +18,12 @@
   "Febrero_2025":2621355,
   "Marzo_2025":2622804,
   "Abril_2025":2004839,
-  "Mayo_2025":2005544
+  "Mayo_2025":2005544,
+  "Junio_2025":3877690
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de última Esperanza",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":966359,
   "Febrero_2024":1070474,
   "Marzo_2024":1019083,
@@ -31,15 +32,16 @@
   "Junio_2024":1029690,
   "Julio_2024":1029690,
   "Agosto_2024":1067442,
-  "Septiembre_2024":1553500,
+  "Septiembre_2024":1067442,
   "Octubre_2024":1061333,
-  "Noviembre_2024":1090340,
+  "Noviembre_2024":1042279,
   "Diciembre_2024":1043208,
   "Enero_2025":775414,
   "Febrero_2025":1085233,
   "Marzo_2025":983825,
   "Abril_2025":1049240,
-  "Mayo_2025":1054122
+  "Mayo_2025":1054122,
+  "Junio_2025":965716
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de última Esperanza",
@@ -60,6 +62,7 @@
   "Febrero_2025":6677548,
   "Marzo_2025":6677548,
   "Abril_2025":5823143,
-  "Mayo_2025":5823143
+  "Mayo_2025":5823143,
+  "Junio_2025":8378517
  }
 ]

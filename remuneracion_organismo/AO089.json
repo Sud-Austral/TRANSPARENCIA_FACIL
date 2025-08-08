@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Hospital de Osorno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":645180,
   "Febrero_2024":274291,
   "Marzo_2024":315669,
@@ -18,7 +18,8 @@
   "Febrero_2025":285811,
   "Marzo_2025":328927,
   "Abril_2025":285811,
-  "Mayo_2025":285811
+  "Mayo_2025":285811,
+  "Junio_2025":328927
  },
  {
   "organismo_nombre":"Hospital de Osorno",
@@ -39,11 +40,12 @@
   "Febrero_2025":1676690,
   "Marzo_2025":1801993,
   "Abril_2025":1737124,
-  "Mayo_2025":1714574
+  "Mayo_2025":1714574,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":782734,
   "Febrero_2024":737325,
   "Marzo_2024":862800,
@@ -60,7 +62,8 @@
   "Febrero_2025":1172974,
   "Marzo_2025":887708,
   "Abril_2025":799800,
-  "Mayo_2025":899556
+  "Mayo_2025":899556,
+  "Junio_2025":824224
  },
  {
   "organismo_nombre":"Hospital de Osorno",
@@ -81,6 +84,7 @@
   "Febrero_2025":1774654,
   "Marzo_2025":2074877,
   "Abril_2025":1781778,
-  "Mayo_2025":1777327
+  "Mayo_2025":1777327,
+  "Junio_2025":2113259
  }
 ]

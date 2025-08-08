@@ -18,11 +18,12 @@
   "Febrero_2025":1647408,
   "Marzo_2025":1906855,
   "Abril_2025":1666991,
-  "Mayo_2025":1650051
+  "Mayo_2025":1650051,
+  "Junio_2025":1997444
  },
  {
   "organismo_nombre":"Hospital Dr. Mauricio Heyermann Torres de Angol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2991728,
   "Febrero_2024":1158951,
   "Marzo_2024":1254449,
@@ -39,7 +40,8 @@
   "Febrero_2025":1275182,
   "Marzo_2025":1411881,
   "Abril_2025":1174180,
-  "Mayo_2025":1337848
+  "Mayo_2025":1337848,
+  "Junio_2025":1858155
  },
  {
   "organismo_nombre":"Hospital Dr. Mauricio Heyermann Torres de Angol",
@@ -60,6 +62,7 @@
   "Febrero_2025":1877227,
   "Marzo_2025":2821575,
   "Abril_2025":1857561,
-  "Mayo_2025":1842166
+  "Mayo_2025":1842166,
+  "Junio_2025":2803835
  }
 ]

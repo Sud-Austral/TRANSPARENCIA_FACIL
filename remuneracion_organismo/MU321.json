@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tirúa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1334444,
   "Febrero_2024":849867,
   "Marzo_2024":832772,
@@ -18,7 +18,8 @@
   "Febrero_2025":895142,
   "Marzo_2025":958978,
   "Abril_2025":876708,
-  "Mayo_2025":883765
+  "Mayo_2025":883765,
+  "Junio_2025":886472
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
@@ -39,11 +40,12 @@
   "Febrero_2025":1034994,
   "Marzo_2025":961100,
   "Abril_2025":1116523,
-  "Mayo_2025":1164254
+  "Mayo_2025":1164254,
+  "Junio_2025":1180883
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1017609,
   "Febrero_2024":1010900,
   "Marzo_2024":1010989,
@@ -60,7 +62,8 @@
   "Febrero_2025":1083697,
   "Marzo_2025":1049512,
   "Abril_2025":1026018,
-  "Mayo_2025":1025179
+  "Mayo_2025":1025179,
+  "Junio_2025":998070
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
@@ -81,6 +84,7 @@
   "Febrero_2025":2039945,
   "Marzo_2025":2047168,
   "Abril_2025":2296747,
-  "Mayo_2025":2515104
+  "Mayo_2025":2515104,
+  "Junio_2025":2325485
  }
 ]

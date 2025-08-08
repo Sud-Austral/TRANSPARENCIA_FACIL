@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":312,
   "Marzo_2024":329,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Nicolás",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":92,
   "Febrero_2024":232,
   "Marzo_2024":334,

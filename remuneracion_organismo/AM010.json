@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":882638,
   "Febrero_2024":875126,
   "Marzo_2024":1087370,
@@ -18,7 +18,8 @@
   "Febrero_2025":929200,
   "Marzo_2025":1679881,
   "Abril_2025":896160,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1772697
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1636926,
   "Marzo_2025":2971084,
   "Abril_2025":1596381,
-  "Mayo_2025":1601900
+  "Mayo_2025":1601900,
+  "Junio_2025":3034612
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3183405,
   "Febrero_2024":3103705,
   "Marzo_2024":3058784,
@@ -60,7 +62,8 @@
   "Febrero_2025":3099078,
   "Marzo_2025":3099078,
   "Abril_2025":3021908,
-  "Mayo_2025":3036865
+  "Mayo_2025":3036865,
+  "Junio_2025":3036865
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
@@ -81,6 +84,7 @@
   "Febrero_2025":1421347,
   "Marzo_2025":3493304,
   "Abril_2025":1906919,
-  "Mayo_2025":1971250
+  "Mayo_2025":1971250,
+  "Junio_2025":3514288
  }
 ]

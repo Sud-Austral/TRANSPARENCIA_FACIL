@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Peralillo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":212,
   "Febrero_2024":210,
   "Marzo_2024":215,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Peralillo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":107,
   "Febrero_2024":135,
   "Marzo_2024":134,

@@ -18,11 +18,12 @@
   "Febrero_2025":3431575,
   "Marzo_2025":3434342,
   "Abril_2025":3286224,
-  "Mayo_2025":2853029
+  "Mayo_2025":2853029,
+  "Junio_2025":2880610
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Elqui (SLEP Elqui)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1966500,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Elqui (SLEP Elqui)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5101226,
   "Marzo_2025":5079167,
   "Abril_2025":5079167,
-  "Mayo_2025":4086560
+  "Mayo_2025":4086560,
+  "Junio_2025":4705810
  }
 ]

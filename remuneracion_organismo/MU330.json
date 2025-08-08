@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Valdivia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":848158,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Valdivia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":799242,
   "Marzo_2024":778749,
@@ -39,6 +40,7 @@
   "Febrero_2025":1082254,
   "Marzo_2025":807610,
   "Abril_2025":859160,
-  "Mayo_2025":918979
+  "Mayo_2025":918979,
+  "Junio_2025":738042
  }
 ]

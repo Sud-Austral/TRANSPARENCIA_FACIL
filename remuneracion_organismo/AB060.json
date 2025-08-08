@@ -18,11 +18,12 @@
   "Febrero_2025":1995914,
   "Marzo_2025":2594084,
   "Abril_2025":2073793,
-  "Mayo_2025":2074499
+  "Mayo_2025":2074499,
+  "Junio_2025":3954814
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Palena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1711103,
   "Febrero_2024":2138934,
   "Marzo_2024":1483485,
@@ -39,7 +40,8 @@
   "Febrero_2025":1359265,
   "Marzo_2025":1359265,
   "Abril_2025":1323323,
-  "Mayo_2025":1382721
+  "Mayo_2025":1382721,
+  "Junio_2025":1292121
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Palena",
@@ -60,6 +62,7 @@
   "Febrero_2025":3727794,
   "Marzo_2025":4475459,
   "Abril_2025":3727794,
-  "Mayo_2025":3727794
+  "Mayo_2025":3727794,
+  "Junio_2025":4077349
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal para el Desarrollo Social de Villa Alemana",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1143852,
   "Febrero_2024":1009084,
   "Marzo_2024":889764,
@@ -18,7 +18,8 @@
   "Febrero_2025":1163051,
   "Marzo_2025":1005017,
   "Abril_2025":966778,
-  "Mayo_2025":947042
+  "Mayo_2025":947042,
+  "Junio_2025":1051150
  },
  {
   "organismo_nombre":"Corporación Municipal para el Desarrollo Social de Villa Alemana",
@@ -39,11 +40,12 @@
   "Febrero_2025":1439974,
   "Marzo_2025":1435921,
   "Abril_2025":1579997,
-  "Mayo_2025":1426686
+  "Mayo_2025":1426686,
+  "Junio_2025":1670894
  },
  {
   "organismo_nombre":"Corporación Municipal para el Desarrollo Social de Villa Alemana",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":676886,
   "Febrero_2024":677239,
   "Marzo_2024":615601,
@@ -60,7 +62,8 @@
   "Febrero_2025":919059,
   "Marzo_2025":866620,
   "Abril_2025":986948,
-  "Mayo_2025":320766
+  "Mayo_2025":320766,
+  "Junio_2025":533294
  },
  {
   "organismo_nombre":"Corporación Municipal para el Desarrollo Social de Villa Alemana",
@@ -81,6 +84,7 @@
   "Febrero_2025":2090274,
   "Marzo_2025":2174644,
   "Abril_2025":2475555,
-  "Mayo_2025":2084402
+  "Mayo_2025":2084402,
+  "Junio_2025":2589949
  }
 ]

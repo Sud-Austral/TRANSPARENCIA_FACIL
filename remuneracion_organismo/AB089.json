@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4487660,
   "Febrero_2024":4487660,
   "Marzo_2024":5609444,
@@ -18,7 +18,8 @@
   "Febrero_2025":5288721,
   "Marzo_2025":5876296,
   "Abril_2025":5876296,
-  "Mayo_2025":5876296
+  "Mayo_2025":5876296,
+  "Junio_2025":5903411
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2839451,
   "Marzo_2025":3252386,
   "Abril_2025":3198449,
-  "Mayo_2025":3175404
+  "Mayo_2025":3175404,
+  "Junio_2025":3266469
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2135734,
   "Febrero_2024":2122669,
   "Marzo_2024":2135734,
@@ -60,7 +62,8 @@
   "Febrero_2025":2181305,
   "Marzo_2025":2060795,
   "Abril_2025":1965370,
-  "Mayo_2025":2204294
+  "Mayo_2025":2204294,
+  "Junio_2025":2271610
  },
  {
   "organismo_nombre":"Gobierno Regional de Magallanes y de la Antártica Chilena (GORE Magallanes)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4664675,
   "Marzo_2025":5160263,
   "Abril_2025":5173612,
-  "Mayo_2025":5182819
+  "Mayo_2025":5182819,
+  "Junio_2025":5157975
  }
 ]

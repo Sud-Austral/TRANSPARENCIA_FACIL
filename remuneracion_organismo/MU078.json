@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curicó",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1347248,
   "Febrero_2024":876610,
   "Marzo_2024":995922,
@@ -18,7 +18,8 @@
   "Febrero_2025":1014274,
   "Marzo_2025":1032533,
   "Abril_2025":997482,
-  "Mayo_2025":942495
+  "Mayo_2025":942457,
+  "Junio_2025":990564
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
@@ -39,11 +40,12 @@
   "Febrero_2025":1300763,
   "Marzo_2025":1242531,
   "Abril_2025":1461889,
-  "Mayo_2025":1326572
+  "Mayo_2025":1326572,
+  "Junio_2025":1434236
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1106875,
   "Febrero_2024":1046015,
   "Marzo_2024":924562,
@@ -54,13 +56,14 @@
   "Agosto_2024":846639,
   "Septiembre_2024":868668,
   "Octubre_2024":843657,
-  "Noviembre_2024":885375,
+  "Noviembre_2024":888130,
   "Diciembre_2024":906895,
-  "Enero_2025":1070429,
-  "Febrero_2025":1033929,
+  "Enero_2025":1067904,
+  "Febrero_2025":1037589,
   "Marzo_2025":1017292,
-  "Abril_2025":960442,
-  "Mayo_2025":964842
+  "Abril_2025":961348,
+  "Mayo_2025":903116,
+  "Junio_2025":862196
  },
  {
   "organismo_nombre":"Municipalidad de Curicó",
@@ -81,6 +84,7 @@
   "Febrero_2025":1738037,
   "Marzo_2025":1799144,
   "Abril_2025":2277380,
-  "Mayo_2025":1878181
+  "Mayo_2025":1878181,
+  "Junio_2025":2141562
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Antonio",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1369814,
   "Febrero_2024":957326,
   "Marzo_2024":1025879,
@@ -18,7 +18,8 @@
   "Febrero_2025":1385994,
   "Marzo_2025":1024157,
   "Abril_2025":1004049,
-  "Mayo_2025":1015541
+  "Mayo_2025":1015541,
+  "Junio_2025":1019798
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
@@ -39,11 +40,12 @@
   "Febrero_2025":1320790,
   "Marzo_2025":1228390,
   "Abril_2025":1300784,
-  "Mayo_2025":0
+  "Mayo_2025":1257408,
+  "Junio_2025":1363177
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":769641,
   "Febrero_2024":798656,
   "Marzo_2024":777707,
@@ -60,7 +62,8 @@
   "Febrero_2025":900624,
   "Marzo_2025":882102,
   "Abril_2025":866949,
-  "Mayo_2025":0
+  "Mayo_2025":848146,
+  "Junio_2025":818269
  },
  {
   "organismo_nombre":"Municipalidad de San Antonio",
@@ -81,6 +84,7 @@
   "Febrero_2025":2093413,
   "Marzo_2025":1931665,
   "Abril_2025":2032325,
-  "Mayo_2025":0
+  "Mayo_2025":1917345,
+  "Junio_2025":2373859
  }
 ]

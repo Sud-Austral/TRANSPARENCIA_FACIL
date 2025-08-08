@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Malloa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":142,
   "Febrero_2024":140,
   "Marzo_2024":132,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":23,
   "Febrero_2024":53,
   "Marzo_2024":41,

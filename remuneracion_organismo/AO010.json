@@ -18,11 +18,12 @@
   "Febrero_2025":2062266,
   "Marzo_2025":2395761,
   "Abril_2025":2069837,
-  "Mayo_2025":2096815
+  "Mayo_2025":2096815,
+  "Junio_2025":2314599
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Oriente",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1435886,
   "Febrero_2024":1758893,
   "Marzo_2024":1452754,
@@ -39,7 +40,8 @@
   "Febrero_2025":1606204,
   "Marzo_2025":1764518,
   "Abril_2025":1422791,
-  "Mayo_2025":1567545
+  "Mayo_2025":1567545,
+  "Junio_2025":1387247
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Oriente",
@@ -60,6 +62,7 @@
   "Febrero_2025":2052526,
   "Marzo_2025":3330657,
   "Abril_2025":2027107,
-  "Mayo_2025":2115957
+  "Mayo_2025":2115957,
+  "Junio_2025":3425530
  }
 ]

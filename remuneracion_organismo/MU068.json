@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coronel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1132525,
   "Febrero_2024":1034686,
   "Marzo_2024":858159,
@@ -18,7 +18,8 @@
   "Febrero_2025":1210220,
   "Marzo_2025":1251954,
   "Abril_2025":1248618,
-  "Mayo_2025":0
+  "Mayo_2025":1271275,
+  "Junio_2025":1361431
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
@@ -39,11 +40,12 @@
   "Febrero_2025":1140455,
   "Marzo_2025":1544652,
   "Abril_2025":1284948,
-  "Mayo_2025":0
+  "Mayo_2025":1218190,
+  "Junio_2025":1703637
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":791292,
   "Febrero_2024":882769,
   "Marzo_2024":848514,
@@ -60,7 +62,8 @@
   "Febrero_2025":904685,
   "Marzo_2025":832837,
   "Abril_2025":839552,
-  "Mayo_2025":0
+  "Mayo_2025":844414,
+  "Junio_2025":838466
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
@@ -81,6 +84,7 @@
   "Febrero_2025":1656446,
   "Marzo_2025":2031367,
   "Abril_2025":2235107,
-  "Mayo_2025":0
+  "Mayo_2025":1771924,
+  "Junio_2025":2515056
  }
 ]

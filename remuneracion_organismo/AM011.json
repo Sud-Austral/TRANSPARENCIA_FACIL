@@ -18,11 +18,12 @@
   "Febrero_2025":3445128,
   "Marzo_2025":3444598,
   "Abril_2025":3167837,
-  "Mayo_2025":3140584
+  "Mayo_2025":3140584,
+  "Junio_2025":3445256
  },
  {
   "organismo_nombre":"Superintendencia de Servicios Sanitarios (SISS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":3000000,
   "Marzo_2024":3000000,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Superintendencia de Servicios Sanitarios (SISS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":8359603,
   "Marzo_2025":8370869,
   "Abril_2025":7699732,
-  "Mayo_2025":7727017
+  "Mayo_2025":7727017,
+  "Junio_2025":8386268
  }
 ]

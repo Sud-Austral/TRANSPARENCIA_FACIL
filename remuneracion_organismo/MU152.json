@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Andes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1221685,
   "Febrero_2024":909478,
   "Marzo_2024":814575,
@@ -18,7 +18,8 @@
   "Febrero_2025":1013596,
   "Marzo_2025":879251,
   "Abril_2025":842471,
-  "Mayo_2025":852302
+  "Mayo_2025":852302,
+  "Junio_2025":848605
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
@@ -39,11 +40,12 @@
   "Febrero_2025":1442502,
   "Marzo_2025":1398027,
   "Abril_2025":1578683,
-  "Mayo_2025":1343347
+  "Mayo_2025":1343347,
+  "Junio_2025":1530689
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":704456,
   "Febrero_2024":702662,
   "Marzo_2024":656559,
@@ -56,11 +58,12 @@
   "Octubre_2024":515484,
   "Noviembre_2024":652321,
   "Diciembre_2024":718588,
-  "Enero_2025":977201,
-  "Febrero_2025":977760,
-  "Marzo_2025":742579,
-  "Abril_2025":716238,
-  "Mayo_2025":712761
+  "Enero_2025":934337,
+  "Febrero_2025":913566,
+  "Marzo_2025":704774,
+  "Abril_2025":694867,
+  "Mayo_2025":703866,
+  "Junio_2025":671134
  },
  {
   "organismo_nombre":"Municipalidad de Los Andes",
@@ -81,6 +84,7 @@
   "Febrero_2025":2046387,
   "Marzo_2025":2040232,
   "Abril_2025":2175870,
-  "Mayo_2025":1996927
+  "Mayo_2025":1995132,
+  "Junio_2025":2185972
  }
 ]

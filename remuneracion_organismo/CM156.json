@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de desarrollo Comunal y Productivo de Licantén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2033850,
   "Febrero_2024":2033850,
   "Marzo_2024":2033850,
@@ -18,11 +18,12 @@
   "Febrero_2025":1666925,
   "Marzo_2025":1666925,
   "Abril_2025":1666925,
-  "Mayo_2025":1666925
+  "Mayo_2025":1666925,
+  "Junio_2025":1666925
  },
  {
   "organismo_nombre":"Corporación Municipal de desarrollo Comunal y Productivo de Licantén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":689712,
   "Febrero_2024":689712,
   "Marzo_2024":626474,
@@ -39,6 +40,7 @@
   "Febrero_2025":1578947,
   "Marzo_2025":1578947,
   "Abril_2025":1578947,
-  "Mayo_2025":1578947
+  "Mayo_2025":1578947,
+  "Junio_2025":1578947
  }
 ]

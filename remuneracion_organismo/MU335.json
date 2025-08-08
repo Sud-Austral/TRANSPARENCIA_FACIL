@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Vicuña",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":793430,
   "Febrero_2024":829380,
   "Marzo_2024":782992,
@@ -18,7 +18,8 @@
   "Febrero_2025":903942,
   "Marzo_2025":822929,
   "Abril_2025":854053,
-  "Mayo_2025":836470
+  "Mayo_2025":836470,
+  "Junio_2025":922818
  },
  {
   "organismo_nombre":"Municipalidad de Vicuña",
@@ -39,11 +40,12 @@
   "Febrero_2025":1238672,
   "Marzo_2025":1216029,
   "Abril_2025":1301273,
-  "Mayo_2025":1387106
+  "Mayo_2025":1387106,
+  "Junio_2025":1348698
  },
  {
   "organismo_nombre":"Municipalidad de Vicuña",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":661328,
   "Febrero_2024":682176,
   "Marzo_2024":675045,
@@ -60,7 +62,8 @@
   "Febrero_2025":707242,
   "Marzo_2025":752345,
   "Abril_2025":721215,
-  "Mayo_2025":746605
+  "Mayo_2025":746605,
+  "Junio_2025":745782
  },
  {
   "organismo_nombre":"Municipalidad de Vicuña",
@@ -81,6 +84,7 @@
   "Febrero_2025":1828675,
   "Marzo_2025":1863895,
   "Abril_2025":2030516,
-  "Mayo_2025":2097590
+  "Mayo_2025":2097590,
+  "Junio_2025":2091850
  }
 ]

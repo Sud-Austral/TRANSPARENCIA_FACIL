@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Antofagasta",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1212500,
   "Febrero_2024":1116944,
   "Marzo_2024":1194163,
@@ -18,7 +18,8 @@
   "Febrero_2025":1400000,
   "Marzo_2025":1400000,
   "Abril_2025":373333,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Antofagasta",
@@ -39,11 +40,12 @@
   "Febrero_2025":1989042,
   "Marzo_2025":5404155,
   "Abril_2025":1981062,
-  "Mayo_2025":1965401
+  "Mayo_2025":1965401,
+  "Junio_2025":2896364
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Antofagasta",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1021000,
   "Febrero_2024":1021000,
   "Marzo_2024":1021000,
@@ -60,7 +62,8 @@
   "Febrero_2025":1021000,
   "Marzo_2025":1021000,
   "Abril_2025":0,
-  "Mayo_2025":1021000
+  "Mayo_2025":1021000,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Antofagasta",
@@ -81,6 +84,7 @@
   "Febrero_2025":3850634,
   "Marzo_2025":8814299,
   "Abril_2025":3846571,
-  "Mayo_2025":3846571
+  "Mayo_2025":3846571,
+  "Junio_2025":5107017
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de educación Pública Punilla Cordillera",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1110249,
   "Febrero_2024":1169044,
   "Marzo_2024":1026875,
@@ -18,7 +18,8 @@
   "Febrero_2025":939030,
   "Marzo_2025":1138256,
   "Abril_2025":1059194,
-  "Mayo_2025":1046318
+  "Mayo_2025":1046318,
+  "Junio_2025":1089056
  },
  {
   "organismo_nombre":"Servicio Local de educación Pública Punilla Cordillera",
@@ -39,11 +40,12 @@
   "Febrero_2025":1020344,
   "Marzo_2025":1035191,
   "Abril_2025":982837,
-  "Mayo_2025":1005672
+  "Mayo_2025":1005672,
+  "Junio_2025":1101289
  },
  {
   "organismo_nombre":"Servicio Local de educación Pública Punilla Cordillera",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":1791294,
   "Marzo_2025":1791294,
   "Abril_2025":1791294,
-  "Mayo_2025":777655
+  "Mayo_2025":777655,
+  "Junio_2025":1860862
  },
  {
   "organismo_nombre":"Servicio Local de educación Pública Punilla Cordillera",
@@ -81,6 +84,7 @@
   "Febrero_2025":1599354,
   "Marzo_2025":1612024,
   "Abril_2025":1520478,
-  "Mayo_2025":1575063
+  "Mayo_2025":1575063,
+  "Junio_2025":1631731
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1595759,
   "Marzo_2025":1452716,
   "Abril_2025":1417619,
-  "Mayo_2025":1412474
+  "Mayo_2025":1412474,
+  "Junio_2025":1459310
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública los Libertadores",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1150000,
   "Marzo_2024":1150000,
@@ -39,7 +40,8 @@
   "Febrero_2025":479248,
   "Marzo_2025":916666,
   "Abril_2025":421542,
-  "Mayo_2025":318574
+  "Mayo_2025":318574,
+  "Junio_2025":287054
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública los Libertadores",
@@ -60,6 +62,7 @@
   "Febrero_2025":1527022,
   "Marzo_2025":1465146,
   "Abril_2025":1421948,
-  "Mayo_2025":1426418
+  "Mayo_2025":1426418,
+  "Junio_2025":1119837
  }
 ]

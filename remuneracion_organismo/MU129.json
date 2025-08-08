@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1849188,
   "Febrero_2024":1849188,
   "Marzo_2024":1849188,
@@ -18,7 +18,8 @@
   "Febrero_2025":2115916,
   "Marzo_2025":2226343,
   "Abril_2025":2169035,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1714565
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
@@ -39,11 +40,12 @@
   "Febrero_2025":1627642,
   "Marzo_2025":1926885,
   "Abril_2025":1692750,
-  "Mayo_2025":0
+  "Mayo_2025":1868902,
+  "Junio_2025":2287178
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":691918,
   "Febrero_2024":720494,
   "Marzo_2024":742090,
@@ -60,7 +62,8 @@
   "Febrero_2025":683278,
   "Marzo_2025":791237,
   "Abril_2025":691930,
-  "Mayo_2025":765057
+  "Mayo_2025":765057,
+  "Junio_2025":774297
  },
  {
   "organismo_nombre":"Municipalidad de Lago Verde",
@@ -81,6 +84,7 @@
   "Febrero_2025":3223252,
   "Marzo_2025":3223252,
   "Abril_2025":3198740,
-  "Mayo_2025":0
+  "Mayo_2025":3605105,
+  "Junio_2025":3833065
  }
 ]

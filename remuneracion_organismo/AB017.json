@@ -18,11 +18,12 @@
   "Febrero_2025":2694964,
   "Marzo_2025":2697068,
   "Abril_2025":2087902,
-  "Mayo_2025":0
+  "Mayo_2025":2088398,
+  "Junio_2025":4093662
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Tarapacá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1716604,
   "Febrero_2024":1750683,
   "Marzo_2024":1750467,
@@ -39,7 +40,8 @@
   "Febrero_2025":1746176,
   "Marzo_2025":2120569,
   "Abril_2025":1741245,
-  "Mayo_2025":1760520
+  "Mayo_2025":1871304,
+  "Junio_2025":1871304
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Tarapacá",
@@ -60,6 +62,7 @@
   "Febrero_2025":3667750,
   "Marzo_2025":7430419,
   "Abril_2025":4221863,
-  "Mayo_2025":4221863
+  "Mayo_2025":4221863,
+  "Junio_2025":6523418
  }
 ]

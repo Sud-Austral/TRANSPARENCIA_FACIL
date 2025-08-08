@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Purranque",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1053711,
   "Febrero_2024":813315,
   "Marzo_2024":929922,
@@ -18,7 +18,8 @@
   "Febrero_2025":800742,
   "Marzo_2025":769860,
   "Abril_2025":828623,
-  "Mayo_2025":819245
+  "Mayo_2025":819245,
+  "Junio_2025":880688
  },
  {
   "organismo_nombre":"Municipalidad de Purranque",
@@ -39,11 +40,12 @@
   "Febrero_2025":1178477,
   "Marzo_2025":1161982,
   "Abril_2025":1287552,
-  "Mayo_2025":1280735
+  "Mayo_2025":1280735,
+  "Junio_2025":1279563
  },
  {
   "organismo_nombre":"Municipalidad de Purranque",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":823054,
   "Febrero_2024":960153,
   "Marzo_2024":924776,
@@ -60,7 +62,8 @@
   "Febrero_2025":993479,
   "Marzo_2025":1006540,
   "Abril_2025":918855,
-  "Mayo_2025":928116
+  "Mayo_2025":928116,
+  "Junio_2025":964590
  },
  {
   "organismo_nombre":"Municipalidad de Purranque",
@@ -81,6 +84,7 @@
   "Febrero_2025":1710037,
   "Marzo_2025":1847847,
   "Abril_2025":1991794,
-  "Mayo_2025":1866797
+  "Mayo_2025":1866797,
+  "Junio_2025":2033400
  }
 ]

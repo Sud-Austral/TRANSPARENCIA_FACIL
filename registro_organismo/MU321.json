@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tirúa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":231,
   "Febrero_2024":149,
   "Marzo_2024":192,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tirúa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":161,
   "Febrero_2024":171,
   "Marzo_2024":182,

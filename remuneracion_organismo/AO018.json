@@ -18,11 +18,12 @@
   "Febrero_2025":2164000,
   "Marzo_2025":2847069,
   "Abril_2025":2337367,
-  "Mayo_2025":2225131
+  "Mayo_2025":2225131,
+  "Junio_2025":2918237
  },
  {
   "organismo_nombre":"Servicio de Salud Antofagasta",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1693272,
   "Febrero_2024":1740588,
   "Marzo_2024":1672654,
@@ -39,7 +40,8 @@
   "Febrero_2025":1154444,
   "Marzo_2025":1173852,
   "Abril_2025":1090514,
-  "Mayo_2025":1014002
+  "Mayo_2025":1014002,
+  "Junio_2025":1138201
  },
  {
   "organismo_nombre":"Servicio de Salud Antofagasta",
@@ -60,6 +62,7 @@
   "Febrero_2025":1533611,
   "Marzo_2025":2772958,
   "Abril_2025":1595602,
-  "Mayo_2025":1566690
+  "Mayo_2025":1566690,
+  "Junio_2025":2833918
  }
 ]

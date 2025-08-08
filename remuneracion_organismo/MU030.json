@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Casablanca",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":945523,
   "Febrero_2024":931607,
   "Marzo_2024":904460,
@@ -18,7 +18,8 @@
   "Febrero_2025":978398,
   "Marzo_2025":989476,
   "Abril_2025":981874,
-  "Mayo_2025":1032722
+  "Mayo_2025":1032722,
+  "Junio_2025":1040799
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
@@ -39,11 +40,12 @@
   "Febrero_2025":1294422,
   "Marzo_2025":1191269,
   "Abril_2025":1369401,
-  "Mayo_2025":1501930
+  "Mayo_2025":1501930,
+  "Junio_2025":1383256
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":806835,
   "Febrero_2024":885943,
   "Marzo_2024":817562,
@@ -60,7 +62,8 @@
   "Febrero_2025":840528,
   "Marzo_2025":829441,
   "Abril_2025":783901,
-  "Mayo_2025":781032
+  "Mayo_2025":781032,
+  "Junio_2025":787871
  },
  {
   "organismo_nombre":"Municipalidad de Casablanca",
@@ -81,6 +84,7 @@
   "Febrero_2025":1982277,
   "Marzo_2025":1992273,
   "Abril_2025":2149236,
-  "Mayo_2025":2319389
+  "Mayo_2025":2319389,
+  "Junio_2025":2084082
  }
 ]

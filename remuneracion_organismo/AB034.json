@@ -18,11 +18,12 @@
   "Febrero_2025":2324533,
   "Marzo_2025":2325550,
   "Abril_2025":1813553,
-  "Mayo_2025":1813553
+  "Mayo_2025":1813553,
+  "Junio_2025":3368421
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Choapa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2102989,
   "Febrero_2024":1927242,
   "Marzo_2024":1638710,
@@ -39,7 +40,8 @@
   "Febrero_2025":2097511,
   "Marzo_2025":2097511,
   "Abril_2025":1366666,
-  "Mayo_2025":1706803
+  "Mayo_2025":1706803,
+  "Junio_2025":1532138
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Choapa",
@@ -60,6 +62,7 @@
   "Febrero_2025":3386518,
   "Marzo_2025":3386518,
   "Abril_2025":2912078,
-  "Mayo_2025":2912078
+  "Mayo_2025":2912078,
+  "Junio_2025":4339186
  }
 ]

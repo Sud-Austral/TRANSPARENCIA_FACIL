@@ -18,11 +18,12 @@
   "Febrero_2025":1521771,
   "Marzo_2025":1677419,
   "Abril_2025":1692565,
-  "Mayo_2025":1678204
+  "Mayo_2025":1678204,
+  "Junio_2025":2033497
  },
  {
   "organismo_nombre":"Hospital Base de Valdivia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":641851,
   "Febrero_2024":1178461,
   "Marzo_2024":1119057,
@@ -39,7 +40,8 @@
   "Febrero_2025":1133279,
   "Marzo_2025":1195500,
   "Abril_2025":1103472,
-  "Mayo_2025":1099163
+  "Mayo_2025":1099163,
+  "Junio_2025":1092516
  },
  {
   "organismo_nombre":"Hospital Base de Valdivia",
@@ -60,6 +62,7 @@
   "Febrero_2025":1990167,
   "Marzo_2025":2313570,
   "Abril_2025":2011737,
-  "Mayo_2025":1996576
+  "Mayo_2025":1996576,
+  "Junio_2025":3023250
  }
 ]

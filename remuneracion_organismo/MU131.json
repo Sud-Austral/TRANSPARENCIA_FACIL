@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Laja",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":764493,
   "Febrero_2024":741115,
   "Marzo_2024":764576,
@@ -18,7 +18,8 @@
   "Febrero_2025":843032,
   "Marzo_2025":786463,
   "Abril_2025":764931,
-  "Mayo_2025":757817
+  "Mayo_2025":757817,
+  "Junio_2025":766839
  },
  {
   "organismo_nombre":"Municipalidad de Laja",
@@ -39,11 +40,12 @@
   "Febrero_2025":966077,
   "Marzo_2025":948764,
   "Abril_2025":1062884,
-  "Mayo_2025":1141698
+  "Mayo_2025":1141698,
+  "Junio_2025":1005722
  },
  {
   "organismo_nombre":"Municipalidad de Laja",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":881008,
   "Febrero_2024":930787,
   "Marzo_2024":812328,
@@ -60,7 +62,8 @@
   "Febrero_2025":945747,
   "Marzo_2025":942199,
   "Abril_2025":1058921,
-  "Mayo_2025":830928
+  "Mayo_2025":830928,
+  "Junio_2025":865610
  },
  {
   "organismo_nombre":"Municipalidad de Laja",
@@ -81,6 +84,7 @@
   "Febrero_2025":1993049,
   "Marzo_2025":2019865,
   "Abril_2025":2178640,
-  "Mayo_2025":2187274
+  "Mayo_2025":2187274,
+  "Junio_2025":2073215
  }
 ]

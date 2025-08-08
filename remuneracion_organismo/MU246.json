@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Queilén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1177724,
   "Marzo_2025":1177724,
   "Abril_2025":999132,
-  "Mayo_2025":1226575
+  "Mayo_2025":1226575,
+  "Junio_2025":1516049
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1402697,
   "Marzo_2025":1980096,
   "Abril_2025":1434597,
-  "Mayo_2025":2184850
+  "Mayo_2025":2184850,
+  "Junio_2025":1782600
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1096625,
   "Febrero_2024":1124831,
   "Marzo_2024":1010739,
@@ -60,7 +62,8 @@
   "Febrero_2025":1120254,
   "Marzo_2025":0,
   "Abril_2025":1098773,
-  "Mayo_2025":1032659
+  "Mayo_2025":1032659,
+  "Junio_2025":1032659
  },
  {
   "organismo_nombre":"Municipalidad de Queilén",
@@ -81,6 +84,7 @@
   "Febrero_2025":2251388,
   "Marzo_2025":2817180,
   "Abril_2025":2370323,
-  "Mayo_2025":3684362
+  "Mayo_2025":3684362,
+  "Junio_2025":2858259
  }
 ]

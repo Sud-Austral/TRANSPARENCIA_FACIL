@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1182134,
   "Febrero_2024":1005719,
   "Marzo_2024":914128,
@@ -18,7 +18,8 @@
   "Febrero_2025":1110682,
   "Marzo_2025":946574,
   "Abril_2025":889118,
-  "Mayo_2025":886926
+  "Mayo_2025":886926,
+  "Junio_2025":895537
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1701182,
   "Marzo_2025":1735418,
   "Abril_2025":1588121,
-  "Mayo_2025":1510721
+  "Mayo_2025":1510721,
+  "Junio_2025":1784123
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1510704,
   "Febrero_2024":1495276,
   "Marzo_2024":1450599,
@@ -60,7 +62,8 @@
   "Febrero_2025":1707697,
   "Marzo_2025":1710831,
   "Abril_2025":1694372,
-  "Mayo_2025":1694317
+  "Mayo_2025":1694317,
+  "Junio_2025":1665051
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Barrancas (SLEP Barrancas)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2034335,
   "Marzo_2025":2051466,
   "Abril_2025":2076757,
-  "Mayo_2025":2033723
+  "Mayo_2025":2033723,
+  "Junio_2025":2067643
  }
 ]

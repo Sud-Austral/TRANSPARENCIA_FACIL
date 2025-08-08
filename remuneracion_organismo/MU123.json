@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de La Ligua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":751251,
   "Febrero_2024":751251,
   "Marzo_2024":751278,
@@ -18,7 +18,8 @@
   "Febrero_2025":794709,
   "Marzo_2025":800633,
   "Abril_2025":843619,
-  "Mayo_2025":802701
+  "Mayo_2025":803001,
+  "Junio_2025":891965
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
@@ -39,11 +40,12 @@
   "Febrero_2025":1280535,
   "Marzo_2025":1264176,
   "Abril_2025":1402925,
-  "Mayo_2025":1362501
+  "Mayo_2025":1415427,
+  "Junio_2025":1453794
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":686308,
   "Febrero_2024":844740,
   "Marzo_2024":812142,
@@ -60,7 +62,8 @@
   "Febrero_2025":896139,
   "Marzo_2025":1122453,
   "Abril_2025":1303010,
-  "Mayo_2025":1312508
+  "Mayo_2025":1312508,
+  "Junio_2025":839816
  },
  {
   "organismo_nombre":"Municipalidad de La Ligua",
@@ -81,6 +84,7 @@
   "Febrero_2025":1876993,
   "Marzo_2025":1893619,
   "Abril_2025":2110230,
-  "Mayo_2025":1967292
+  "Mayo_2025":2070243,
+  "Junio_2025":2071188
  }
 ]

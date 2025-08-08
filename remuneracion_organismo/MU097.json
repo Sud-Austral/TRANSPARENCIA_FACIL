@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Galvarino",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":890859,
   "Febrero_2024":941626,
   "Marzo_2024":817992,
@@ -18,7 +18,8 @@
   "Febrero_2025":1474567,
   "Marzo_2025":1474567,
   "Abril_2025":1474567,
-  "Mayo_2025":2387283
+  "Mayo_2025":1533006,
+  "Junio_2025":931848
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
@@ -39,11 +40,12 @@
   "Febrero_2025":1138363,
   "Marzo_2025":1056078,
   "Abril_2025":1207290,
-  "Mayo_2025":1232962
+  "Mayo_2025":1231150,
+  "Junio_2025":1228870
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":878067,
   "Febrero_2024":877771,
   "Marzo_2024":891353,
@@ -60,7 +62,8 @@
   "Febrero_2025":963207,
   "Marzo_2025":964412,
   "Abril_2025":982126,
-  "Mayo_2025":966088
+  "Mayo_2025":966088,
+  "Junio_2025":952491
  },
  {
   "organismo_nombre":"Municipalidad de Galvarino",
@@ -81,6 +84,7 @@
   "Febrero_2025":2024346,
   "Marzo_2025":2093575,
   "Abril_2025":2231883,
-  "Mayo_2025":2268227
+  "Mayo_2025":2268227,
+  "Junio_2025":2236187
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":899019,
   "Febrero_2024":960469,
   "Marzo_2024":1040657,
@@ -18,7 +18,8 @@
   "Febrero_2025":1316144,
   "Marzo_2025":1314607,
   "Abril_2025":1228633,
-  "Mayo_2025":1281182
+  "Mayo_2025":1281182,
+  "Junio_2025":1290572
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
@@ -39,11 +40,12 @@
   "Febrero_2025":2078588,
   "Marzo_2025":5584343,
   "Abril_2025":2119152,
-  "Mayo_2025":2067053
+  "Mayo_2025":2067053,
+  "Junio_2025":2990688
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1133146,
   "Febrero_2024":1386489,
   "Marzo_2024":1259818,
@@ -60,7 +62,8 @@
   "Febrero_2025":1405115,
   "Marzo_2025":1405115,
   "Abril_2025":1405115,
-  "Mayo_2025":1378493
+  "Mayo_2025":1378493,
+  "Junio_2025":1405115
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Arica y Parinacota",
@@ -81,6 +84,7 @@
   "Febrero_2025":4603803,
   "Marzo_2025":11491863,
   "Abril_2025":4603803,
-  "Mayo_2025":4603803
+  "Mayo_2025":4603803,
+  "Junio_2025":6234699
  }
 ]

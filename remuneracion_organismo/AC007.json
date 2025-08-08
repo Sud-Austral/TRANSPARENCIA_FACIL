@@ -18,11 +18,12 @@
   "Febrero_2025":3188234,
   "Marzo_2025":5159647,
   "Abril_2025":3028704,
-  "Mayo_2025":3019609
+  "Mayo_2025":3019609,
+  "Junio_2025":5138047
  },
  {
   "organismo_nombre":"Subsecretaría de Relaciones Económicas Internacionales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2005613,
   "Febrero_2024":2066045,
   "Marzo_2024":2237833,
@@ -34,11 +35,12 @@
   "Septiembre_2024":2021521,
   "Octubre_2024":2245618,
   "Noviembre_2024":2245618,
-  "Diciembre_2024":2245618,
+  "Diciembre_2024":2233922,
   "Enero_2025":2205138,
   "Febrero_2025":2249297,
   "Marzo_2025":2249297,
   "Abril_2025":2249297,
-  "Mayo_2025":2249297
+  "Mayo_2025":2249297,
+  "Junio_2025":2249297
  }
 ]

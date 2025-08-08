@@ -18,17 +18,18 @@
   "Febrero_2025":2217962,
   "Marzo_2025":2888876,
   "Abril_2025":2219269,
-  "Mayo_2025":2219269
+  "Mayo_2025":2219269,
+  "Junio_2025":4252519
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tierra del Fuego",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":970915,
   "Febrero_2024":915097,
   "Marzo_2024":989661,
   "Abril_2024":1161821,
   "Mayo_2024":1687800,
-  "Junio_2024":0,
+  "Junio_2024":961311,
   "Julio_2024":1014899,
   "Agosto_2024":1079867,
   "Septiembre_2024":1028792,
@@ -39,7 +40,8 @@
   "Febrero_2025":1080184,
   "Marzo_2025":1098470,
   "Abril_2025":1050283,
-  "Mayo_2025":976125
+  "Mayo_2025":976125,
+  "Junio_2025":1030759
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tierra del Fuego",
@@ -60,6 +62,7 @@
   "Febrero_2025":4873821,
   "Marzo_2025":5780885,
   "Abril_2025":4873821,
-  "Mayo_2025":4873821
+  "Mayo_2025":4873821,
+  "Junio_2025":7612127
  }
 ]

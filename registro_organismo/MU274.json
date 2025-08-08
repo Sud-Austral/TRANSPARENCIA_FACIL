@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Río Negro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":113,
   "Febrero_2024":118,
   "Marzo_2024":128,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Río Negro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":49,
   "Febrero_2024":124,
   "Marzo_2024":117,

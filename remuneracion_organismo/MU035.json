@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2217273,
   "Febrero_2024":2568978,
   "Marzo_2024":1336860,
@@ -18,7 +18,8 @@
   "Febrero_2025":3187079,
   "Marzo_2025":3564621,
   "Abril_2025":2774207,
-  "Mayo_2025":2592171
+  "Mayo_2025":2592171,
+  "Junio_2025":2752477
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
@@ -39,11 +40,12 @@
   "Febrero_2025":1382104,
   "Marzo_2025":1466422,
   "Abril_2025":1705069,
-  "Mayo_2025":2062584
+  "Mayo_2025":1765186,
+  "Junio_2025":1764175
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":835614,
   "Febrero_2024":819201,
   "Marzo_2024":786116,
@@ -60,7 +62,8 @@
   "Febrero_2025":915186,
   "Marzo_2025":858476,
   "Abril_2025":847222,
-  "Mayo_2025":780926
+  "Mayo_2025":753077,
+  "Junio_2025":846156
  },
  {
   "organismo_nombre":"Municipalidad de Cerro Navia",
@@ -81,6 +84,7 @@
   "Febrero_2025":1759116,
   "Marzo_2025":1827369,
   "Abril_2025":2311224,
-  "Mayo_2025":2783767
+  "Mayo_2025":2185500,
+  "Junio_2025":2433911
  }
 ]

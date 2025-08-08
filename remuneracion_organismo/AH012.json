@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio de Cooperación Técnica (SERCOTEC)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3056118,
   "Febrero_2024":3211012,
   "Marzo_2024":3119619,
@@ -18,11 +18,12 @@
   "Febrero_2025":3231828,
   "Marzo_2025":3483539,
   "Abril_2025":3300995,
-  "Mayo_2025":3284521
+  "Mayo_2025":3284521,
+  "Junio_2025":3332705
  },
  {
   "organismo_nombre":"Servicio de Cooperación Técnica (SERCOTEC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1537136,
   "Febrero_2024":1592882,
   "Marzo_2024":1565548,
@@ -39,6 +40,7 @@
   "Febrero_2025":1638416,
   "Marzo_2025":1692602,
   "Abril_2025":1461874,
-  "Mayo_2025":1656970
+  "Mayo_2025":1656970,
+  "Junio_2025":1602428
  }
 ]

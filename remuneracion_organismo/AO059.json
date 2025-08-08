@@ -18,11 +18,12 @@
   "Febrero_2025":1908511,
   "Marzo_2025":2478039,
   "Abril_2025":2222818,
-  "Mayo_2025":0
+  "Mayo_2025":2278166,
+  "Junio_2025":2370461
  },
  {
   "organismo_nombre":"Hospital Regional Coyhaique",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1180546,
   "Febrero_2024":1468153,
   "Marzo_2024":1502576,
@@ -39,7 +40,8 @@
   "Febrero_2025":1315735,
   "Marzo_2025":1238414,
   "Abril_2025":1314784,
-  "Mayo_2025":1176885
+  "Mayo_2025":1176885,
+  "Junio_2025":1171545
  },
  {
   "organismo_nombre":"Hospital Regional Coyhaique",
@@ -60,6 +62,7 @@
   "Febrero_2025":1793373,
   "Marzo_2025":2287708,
   "Abril_2025":2008742,
-  "Mayo_2025":0
+  "Mayo_2025":2022503,
+  "Junio_2025":2131203
  }
 ]

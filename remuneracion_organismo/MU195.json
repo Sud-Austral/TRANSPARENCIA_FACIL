@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Paihuano",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":861977,
   "Febrero_2024":0,
   "Marzo_2024":1054531,
@@ -17,8 +17,9 @@
   "Enero_2025":1378116,
   "Febrero_2025":1026004,
   "Marzo_2025":924200,
-  "Abril_2025":836438,
-  "Mayo_2025":853789
+  "Abril_2025":979640,
+  "Mayo_2025":853789,
+  "Junio_2025":693824
  },
  {
   "organismo_nombre":"Municipalidad de Paihuano",
@@ -38,12 +39,13 @@
   "Enero_2025":1711996,
   "Febrero_2025":1486776,
   "Marzo_2025":1361151,
-  "Abril_2025":1470113,
-  "Mayo_2025":1569060
+  "Abril_2025":1526595,
+  "Mayo_2025":1569060,
+  "Junio_2025":1445095
  },
  {
   "organismo_nombre":"Municipalidad de Paihuano",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":630898,
   "Marzo_2024":652867,
@@ -59,8 +61,9 @@
   "Enero_2025":729508,
   "Febrero_2025":661071,
   "Marzo_2025":610298,
-  "Abril_2025":723626,
-  "Mayo_2025":721867
+  "Abril_2025":679964,
+  "Mayo_2025":670620,
+  "Junio_2025":709847
  },
  {
   "organismo_nombre":"Municipalidad de Paihuano",
@@ -80,7 +83,8 @@
   "Enero_2025":2274121,
   "Febrero_2025":2127619,
   "Marzo_2025":1978833,
-  "Abril_2025":2101342,
-  "Mayo_2025":2240944
+  "Abril_2025":2102295,
+  "Mayo_2025":2240944,
+  "Junio_2025":2168674
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":22,
   "Febrero_2024":21,
   "Marzo_2024":21,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Diego de Almagro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":99,
   "Febrero_2024":116,
   "Marzo_2024":129,

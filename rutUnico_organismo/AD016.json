@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":144,
   "Febrero_2024":144,
   "Marzo_2024":147,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Dirección de Previsión de Carabineros de Chile (DIPRECA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":55,
   "Febrero_2024":60,
   "Marzo_2024":63,

@@ -18,11 +18,12 @@
   "Febrero_2025":1604142,
   "Marzo_2025":1811921,
   "Abril_2025":1859330,
-  "Mayo_2025":0
+  "Mayo_2025":1775367,
+  "Junio_2025":1901833
  },
  {
   "organismo_nombre":"Servicio de Salud Valdivia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1141723,
   "Febrero_2024":1112870,
   "Marzo_2024":1168538,
@@ -39,7 +40,8 @@
   "Febrero_2025":1075646,
   "Marzo_2025":4318973,
   "Abril_2025":1045980,
-  "Mayo_2025":0
+  "Mayo_2025":3891418,
+  "Junio_2025":897614
  },
  {
   "organismo_nombre":"Servicio de Salud Valdivia",
@@ -60,6 +62,7 @@
   "Febrero_2025":1335272,
   "Marzo_2025":1741648,
   "Abril_2025":1573013,
-  "Mayo_2025":0
+  "Mayo_2025":1510614,
+  "Junio_2025":1797504
  }
 ]

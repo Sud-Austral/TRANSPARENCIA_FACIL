@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3098117,
   "Febrero_2024":2872298,
   "Marzo_2024":2800315,
@@ -18,7 +18,8 @@
   "Febrero_2025":2857832,
   "Marzo_2025":1782229,
   "Abril_2025":1986364,
-  "Mayo_2025":2011432
+  "Mayo_2025":2011432,
+  "Junio_2025":2021654
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
@@ -39,11 +40,12 @@
   "Febrero_2025":1949520,
   "Marzo_2025":2064561,
   "Abril_2025":2000516,
-  "Mayo_2025":2021708
+  "Mayo_2025":2021708,
+  "Junio_2025":2115483
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1366460,
   "Febrero_2024":1524371,
   "Marzo_2024":1344254,
@@ -60,7 +62,8 @@
   "Febrero_2025":1750276,
   "Marzo_2025":1980437,
   "Abril_2025":1834005,
-  "Mayo_2025":1542006
+  "Mayo_2025":1542006,
+  "Junio_2025":1631339
  },
  {
   "organismo_nombre":"Servicio de Salud Metropolitano Sur",
@@ -81,6 +84,7 @@
   "Febrero_2025":1635304,
   "Marzo_2025":1974362,
   "Abril_2025":1726388,
-  "Mayo_2025":1734466
+  "Mayo_2025":1734466,
+  "Junio_2025":2088529
  }
 ]

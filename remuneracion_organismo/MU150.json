@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1217005,
   "Febrero_2024":903379,
   "Marzo_2024":809139,
@@ -18,7 +18,8 @@
   "Febrero_2025":887208,
   "Marzo_2025":829574,
   "Abril_2025":836738,
-  "Mayo_2025":859332
+  "Mayo_2025":859332,
+  "Junio_2025":826716
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
@@ -39,17 +40,18 @@
   "Febrero_2025":1505046,
   "Marzo_2025":1435409,
   "Abril_2025":1557617,
-  "Mayo_2025":1628911
+  "Mayo_2025":1628911,
+  "Junio_2025":1603331
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":299353,
   "Febrero_2024":657355,
   "Marzo_2024":778716,
   "Abril_2024":777639,
   "Mayo_2024":754637,
-  "Junio_2024":715438,
+  "Junio_2024":716133,
   "Julio_2024":720955,
   "Agosto_2024":727457,
   "Septiembre_2024":742197,
@@ -60,7 +62,8 @@
   "Febrero_2025":798655,
   "Marzo_2025":924190,
   "Abril_2025":919638,
-  "Mayo_2025":910319
+  "Mayo_2025":910319,
+  "Junio_2025":867098
  },
  {
   "organismo_nombre":"Municipalidad de Lonquimay",
@@ -81,6 +84,7 @@
   "Febrero_2025":2317559,
   "Marzo_2025":2291863,
   "Abril_2025":2545480,
-  "Mayo_2025":2542453
+  "Mayo_2025":2542453,
+  "Junio_2025":2466570
  }
 ]

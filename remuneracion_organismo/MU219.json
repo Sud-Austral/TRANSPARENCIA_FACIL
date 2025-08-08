@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1017426,
   "Febrero_2024":844877,
   "Marzo_2024":775762,
@@ -18,7 +18,8 @@
   "Febrero_2025":944355,
   "Marzo_2025":829666,
   "Abril_2025":803472,
-  "Mayo_2025":813295
+  "Mayo_2025":817020,
+  "Junio_2025":791152
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
@@ -39,11 +40,12 @@
   "Febrero_2025":1376611,
   "Marzo_2025":1286788,
   "Abril_2025":1468481,
-  "Mayo_2025":1542873
+  "Mayo_2025":1663703,
+  "Junio_2025":1450873
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":955104,
   "Febrero_2024":1139410,
   "Marzo_2024":1313427,
@@ -58,9 +60,10 @@
   "Diciembre_2024":1310830,
   "Enero_2025":1257431,
   "Febrero_2025":1155374,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":1455762,
+  "Abril_2025":890371,
+  "Mayo_2025":1136928,
+  "Junio_2025":1355030
  },
  {
   "organismo_nombre":"Municipalidad de Pichilemu",
@@ -81,6 +84,7 @@
   "Febrero_2025":1977378,
   "Marzo_2025":1989110,
   "Abril_2025":2046635,
-  "Mayo_2025":2078777
+  "Mayo_2025":2379998,
+  "Junio_2025":2070399
  }
 ]

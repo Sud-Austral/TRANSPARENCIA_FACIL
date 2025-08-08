@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Región Valparaíso (CAJVAL)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1887028,
   "Febrero_2024":1889333,
   "Marzo_2024":1893123,
@@ -18,11 +18,12 @@
   "Febrero_2025":1992196,
   "Marzo_2025":1997066,
   "Abril_2025":1999385,
-  "Mayo_2025":2004663
+  "Mayo_2025":2004663,
+  "Junio_2025":2016919
  },
  {
   "organismo_nombre":"Corporación de Asistencia Judicial Región Valparaíso (CAJVAL)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":1500000
+  "Mayo_2025":1500000,
+  "Junio_2025":925438
  }
 ]

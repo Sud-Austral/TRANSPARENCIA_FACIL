@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":49,
   "Febrero_2024":50,
   "Marzo_2024":51,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coquimbo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1827,
   "Febrero_2024":1850,
   "Marzo_2024":1823,

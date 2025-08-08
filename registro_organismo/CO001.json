@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Instituto Nacional de Derechos Humanos (INDH)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":302,
   "Marzo_2024":302,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Instituto Nacional de Derechos Humanos (INDH)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":17,
   "Febrero_2024":15,
   "Marzo_2024":17,

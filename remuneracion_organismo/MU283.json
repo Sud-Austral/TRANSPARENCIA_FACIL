@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Clemente",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1007265,
   "Febrero_2024":396881,
   "Marzo_2024":537834,
@@ -18,7 +18,8 @@
   "Febrero_2025":735345,
   "Marzo_2025":754544,
   "Abril_2025":690098,
-  "Mayo_2025":720606
+  "Mayo_2025":720606,
+  "Junio_2025":767244
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
@@ -39,11 +40,12 @@
   "Febrero_2025":1128340,
   "Marzo_2025":1071419,
   "Abril_2025":1251727,
-  "Mayo_2025":1296561
+  "Mayo_2025":1296561,
+  "Junio_2025":1400982
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":874621,
   "Febrero_2024":860784,
   "Marzo_2024":858946,
@@ -60,7 +62,8 @@
   "Febrero_2025":947911,
   "Marzo_2025":944190,
   "Abril_2025":989542,
-  "Mayo_2025":927394
+  "Mayo_2025":927394,
+  "Junio_2025":959003
  },
  {
   "organismo_nombre":"Municipalidad de San Clemente",
@@ -81,6 +84,7 @@
   "Febrero_2025":1664871,
   "Marzo_2025":1869135,
   "Abril_2025":2144607,
-  "Mayo_2025":1777974
+  "Mayo_2025":1777974,
+  "Junio_2025":1926464
  }
 ]

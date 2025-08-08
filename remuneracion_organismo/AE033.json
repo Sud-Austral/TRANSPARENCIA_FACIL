@@ -18,11 +18,12 @@
   "Febrero_2025":3997094,
   "Marzo_2025":4021037,
   "Abril_2025":3872361,
-  "Mayo_2025":3849272
+  "Mayo_2025":3849272,
+  "Junio_2025":3882541
  },
  {
   "organismo_nombre":"Defensoría del Contribuyente",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":1720000,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":1952626,
   "Abril_2025":1944493,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1736093
  },
  {
   "organismo_nombre":"Defensoría del Contribuyente",
@@ -60,6 +62,7 @@
   "Febrero_2025":8957852,
   "Marzo_2025":8957852,
   "Abril_2025":8957852,
-  "Mayo_2025":8957852
+  "Mayo_2025":8957852,
+  "Junio_2025":9085121
  }
 ]

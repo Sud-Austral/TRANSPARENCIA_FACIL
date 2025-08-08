@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2158184,
   "Febrero_2024":1992546,
   "Marzo_2024":2048230,
@@ -18,7 +18,8 @@
   "Febrero_2025":2037016,
   "Marzo_2025":2264083,
   "Abril_2025":2096200,
-  "Mayo_2025":2097639
+  "Mayo_2025":2097639,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
@@ -39,11 +40,12 @@
   "Febrero_2025":2044870,
   "Marzo_2025":2623632,
   "Abril_2025":1920062,
-  "Mayo_2025":0
+  "Mayo_2025":2893965,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":956249,
   "Febrero_2024":960173,
   "Marzo_2024":1066023,
@@ -55,12 +57,13 @@
   "Septiembre_2024":999213,
   "Octubre_2024":0,
   "Noviembre_2024":1017551,
-  "Diciembre_2024":1023716,
+  "Diciembre_2024":1018085,
   "Enero_2025":1093108,
   "Febrero_2025":1145714,
   "Marzo_2025":1197921,
   "Abril_2025":1109793,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cabo de Hornos y Antártica",
@@ -81,6 +84,7 @@
   "Febrero_2025":3232204,
   "Marzo_2025":3751755,
   "Abril_2025":2932636,
-  "Mayo_2025":4191830
+  "Mayo_2025":4191830,
+  "Junio_2025":0
  }
 ]

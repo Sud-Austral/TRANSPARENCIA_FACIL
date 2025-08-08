@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tome",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":828582,
   "Febrero_2024":710966,
   "Marzo_2024":647848,
@@ -18,7 +18,8 @@
   "Febrero_2025":782655,
   "Marzo_2025":720451,
   "Abril_2025":756120,
-  "Mayo_2025":721078
+  "Mayo_2025":721078,
+  "Junio_2025":750033
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
@@ -39,11 +40,12 @@
   "Febrero_2025":1410008,
   "Marzo_2025":1362341,
   "Abril_2025":1419712,
-  "Mayo_2025":1572762
+  "Mayo_2025":1572762,
+  "Junio_2025":1556824
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":818736,
   "Febrero_2024":765025,
   "Marzo_2024":788694,
@@ -60,7 +62,8 @@
   "Febrero_2025":849912,
   "Marzo_2025":849337,
   "Abril_2025":898718,
-  "Mayo_2025":884421
+  "Mayo_2025":880750,
+  "Junio_2025":903281
  },
  {
   "organismo_nombre":"Municipalidad de Tome",
@@ -81,6 +84,7 @@
   "Febrero_2025":1935225,
   "Marzo_2025":2028013,
   "Abril_2025":2301154,
-  "Mayo_2025":2092572
+  "Mayo_2025":2092572,
+  "Junio_2025":2241359
  }
 ]

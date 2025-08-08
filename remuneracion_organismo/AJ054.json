@@ -18,11 +18,12 @@
   "Febrero_2025":0,
   "Marzo_2025":3202204,
   "Abril_2025":3219431,
-  "Mayo_2025":3369401
+  "Mayo_2025":3369401,
+  "Junio_2025":3222760
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santiago Centro (SLEP Santiago Centro)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":0,
   "Marzo_2025":2500000,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Santiago Centro (SLEP Santiago Centro)",
@@ -60,6 +62,7 @@
   "Febrero_2025":0,
   "Marzo_2025":7106589,
   "Abril_2025":0,
-  "Mayo_2025":6421032
+  "Mayo_2025":6421032,
+  "Junio_2025":6462125
  }
 ]

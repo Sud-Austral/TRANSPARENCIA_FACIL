@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1171124,
   "Febrero_2024":1081811,
   "Marzo_2024":978509,
@@ -18,7 +18,8 @@
   "Febrero_2025":1107523,
   "Marzo_2025":1040195,
   "Abril_2025":977903,
-  "Mayo_2025":1185805
+  "Mayo_2025":1185805,
+  "Junio_2025":1197863
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
@@ -39,11 +40,12 @@
   "Febrero_2025":1392935,
   "Marzo_2025":1447826,
   "Abril_2025":1732862,
-  "Mayo_2025":1628081
+  "Mayo_2025":1537946,
+  "Junio_2025":1669906
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":951469,
   "Febrero_2024":820236,
   "Marzo_2024":986177,
@@ -59,8 +61,9 @@
   "Enero_2025":904704,
   "Febrero_2025":1107439,
   "Marzo_2025":1079826,
-  "Abril_2025":995970,
-  "Mayo_2025":1300255
+  "Abril_2025":991696,
+  "Mayo_2025":907591,
+  "Junio_2025":1023496
  },
  {
   "organismo_nombre":"Municipalidad de San Vicente de Tagua Tagua",
@@ -81,6 +84,7 @@
   "Febrero_2025":1695472,
   "Marzo_2025":1807607,
   "Abril_2025":2267196,
-  "Mayo_2025":2189267
+  "Mayo_2025":2189267,
+  "Junio_2025":2160455
  }
 ]

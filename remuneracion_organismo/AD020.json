@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":844944,
   "Febrero_2024":800642,
   "Marzo_2024":1224443,
@@ -18,7 +18,8 @@
   "Febrero_2025":1036265,
   "Marzo_2025":1787765,
   "Abril_2025":1040189,
-  "Mayo_2025":1047493
+  "Mayo_2025":1047493,
+  "Junio_2025":1709925
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2017725,
   "Marzo_2025":3514552,
   "Abril_2025":1938629,
-  "Mayo_2025":1923762
+  "Mayo_2025":1923762,
+  "Junio_2025":3337077
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":831786,
   "Febrero_2024":844365,
   "Marzo_2024":1090921,
@@ -60,7 +62,8 @@
   "Febrero_2025":382019,
   "Marzo_2025":560930,
   "Abril_2025":445685,
-  "Mayo_2025":544312
+  "Mayo_2025":544312,
+  "Junio_2025":651314
  },
  {
   "organismo_nombre":"Dirección General de Aeronáutica Civil (DGAC)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2759744,
   "Marzo_2025":5691169,
   "Abril_2025":3414928,
-  "Mayo_2025":3385011
+  "Mayo_2025":3385011,
+  "Junio_2025":5432204
  }
 ]

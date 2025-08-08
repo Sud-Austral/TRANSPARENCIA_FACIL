@@ -18,11 +18,12 @@
   "Febrero_2025":3098928,
   "Marzo_2025":3147375,
   "Abril_2025":3816034,
-  "Mayo_2025":3828599
+  "Mayo_2025":3828599,
+  "Junio_2025":3826147
  },
  {
   "organismo_nombre":"Superintendencia del Medio Ambiente (SMA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1520664,
   "Febrero_2024":1520664,
   "Marzo_2024":1516531,
@@ -39,7 +40,8 @@
   "Febrero_2025":1444709,
   "Marzo_2025":1389685,
   "Abril_2025":1389685,
-  "Mayo_2025":1444709
+  "Mayo_2025":1444709,
+  "Junio_2025":1444709
  },
  {
   "organismo_nombre":"Superintendencia del Medio Ambiente (SMA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":8562911,
   "Marzo_2025":8654634,
   "Abril_2025":9689326,
-  "Mayo_2025":9689326
+  "Mayo_2025":9689326,
+  "Junio_2025":9841720
  }
 ]

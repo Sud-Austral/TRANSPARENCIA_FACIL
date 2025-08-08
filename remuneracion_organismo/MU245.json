@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puyehue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":912136,
   "Febrero_2024":903480,
   "Marzo_2024":837232,
@@ -18,7 +18,8 @@
   "Febrero_2025":1024666,
   "Marzo_2025":1013850,
   "Abril_2025":830573,
-  "Mayo_2025":829438
+  "Mayo_2025":830924,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
@@ -39,11 +40,12 @@
   "Febrero_2025":1107053,
   "Marzo_2025":1092738,
   "Abril_2025":1219639,
-  "Mayo_2025":1205430
+  "Mayo_2025":1162298,
+  "Junio_2025":1530634
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":749818,
   "Febrero_2024":708763,
   "Marzo_2024":914754,
@@ -60,7 +62,8 @@
   "Febrero_2025":817064,
   "Marzo_2025":723469,
   "Abril_2025":705596,
-  "Mayo_2025":444302
+  "Mayo_2025":810705,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Puyehue",
@@ -81,6 +84,7 @@
   "Febrero_2025":1943361,
   "Marzo_2025":1922049,
   "Abril_2025":2186517,
-  "Mayo_2025":1886159
+  "Mayo_2025":2008141,
+  "Junio_2025":2327273
  }
 ]

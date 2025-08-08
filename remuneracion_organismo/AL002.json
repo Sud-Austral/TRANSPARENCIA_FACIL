@@ -18,11 +18,12 @@
   "Febrero_2025":3368191,
   "Marzo_2025":4743540,
   "Abril_2025":2656927,
-  "Mayo_2025":2626000
+  "Mayo_2025":2626000,
+  "Junio_2025":4625784
  },
  {
   "organismo_nombre":"Subsecretaría de Previsión Social (SPS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3184665,
   "Febrero_2024":3073109,
   "Marzo_2024":2743299,
@@ -39,7 +40,8 @@
   "Febrero_2025":2893809,
   "Marzo_2025":2865755,
   "Abril_2025":2670452,
-  "Mayo_2025":2286022
+  "Mayo_2025":2286022,
+  "Junio_2025":2451302
  },
  {
   "organismo_nombre":"Subsecretaría de Previsión Social (SPS)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6681735,
   "Marzo_2025":9009317,
   "Abril_2025":5780556,
-  "Mayo_2025":5780556
+  "Mayo_2025":5780556,
+  "Junio_2025":5780556
  }
 ]

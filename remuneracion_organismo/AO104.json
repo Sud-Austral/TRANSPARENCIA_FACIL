@@ -18,11 +18,12 @@
   "Febrero_2025":1704508,
   "Marzo_2025":1937462,
   "Abril_2025":1820602,
-  "Mayo_2025":1622786
+  "Mayo_2025":1622786,
+  "Junio_2025":1959748
  },
  {
   "organismo_nombre":"Hospital Herminda Martin",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":623195,
   "Febrero_2024":1019700,
   "Marzo_2024":984066,
@@ -39,7 +40,8 @@
   "Febrero_2025":1211600,
   "Marzo_2025":1052805,
   "Abril_2025":1221086,
-  "Mayo_2025":1162039
+  "Mayo_2025":1162039,
+  "Junio_2025":1153897
  },
  {
   "organismo_nombre":"Hospital Herminda Martin",
@@ -60,6 +62,7 @@
   "Febrero_2025":2431334,
   "Marzo_2025":3290965,
   "Abril_2025":2157018,
-  "Mayo_2025":2095251
+  "Mayo_2025":2095251,
+  "Junio_2025":3251160
  }
 ]

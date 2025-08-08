@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1646518,
   "Febrero_2024":1264468,
   "Marzo_2024":1114281,
@@ -18,7 +18,8 @@
   "Febrero_2025":1281598,
   "Marzo_2025":1141508,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1360465,
   "Enero_2025":1565424,
   "Febrero_2025":1215444,
-  "Marzo_2025":1246912,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":1301680,
+  "Abril_2025":1456968,
+  "Mayo_2025":1267166,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":895571,
   "Febrero_2024":773144,
   "Marzo_2024":782021,
@@ -58,9 +60,10 @@
   "Diciembre_2024":630190,
   "Enero_2025":779462,
   "Febrero_2025":821971,
-  "Marzo_2025":757090,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":757536,
+  "Abril_2025":771967,
+  "Mayo_2025":747560,
+  "Junio_2025":1090042
  },
  {
   "organismo_nombre":"Municipalidad de Melipeuco",
@@ -68,7 +71,7 @@
   "Enero_2024":1882343,
   "Febrero_2024":1773964,
   "Marzo_2024":1801513,
-  "Abril_2024":2114400,
+  "Abril_2024":2119558,
   "Mayo_2024":1746569,
   "Junio_2024":2139947,
   "Julio_2024":1800665,
@@ -79,8 +82,9 @@
   "Diciembre_2024":2234330,
   "Enero_2025":2245594,
   "Febrero_2025":1877474,
-  "Marzo_2025":1666519,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Marzo_2025":1863463,
+  "Abril_2025":2287116,
+  "Mayo_2025":1870357,
+  "Junio_2025":0
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":38,
   "Febrero_2024":37,
   "Marzo_2024":37,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Dirección de Aeropuertos (DAP)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,

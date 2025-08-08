@@ -17,12 +17,13 @@
   "Enero_2025":2049445,
   "Febrero_2025":1888067,
   "Marzo_2025":2252316,
-  "Abril_2025":1760729,
-  "Mayo_2025":1760729
+  "Abril_2025":1819646,
+  "Mayo_2025":1760729,
+  "Junio_2025":3249951
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Melipilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1154211,
   "Febrero_2024":1023369,
   "Marzo_2024":1090527,
@@ -39,7 +40,8 @@
   "Febrero_2025":910993,
   "Marzo_2025":980745,
   "Abril_2025":850063,
-  "Mayo_2025":850063
+  "Mayo_2025":850063,
+  "Junio_2025":850063
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Melipilla",
@@ -60,6 +62,7 @@
   "Febrero_2025":2244942,
   "Marzo_2025":2435701,
   "Abril_2025":2060283,
-  "Mayo_2025":2060283
+  "Mayo_2025":2060283,
+  "Junio_2025":3209245
  }
 ]

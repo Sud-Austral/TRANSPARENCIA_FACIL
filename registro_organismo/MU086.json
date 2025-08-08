@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Tabo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":438,
   "Febrero_2024":104,
   "Marzo_2024":279,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de El Tabo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":357,
   "Febrero_2024":500,
   "Marzo_2024":964,

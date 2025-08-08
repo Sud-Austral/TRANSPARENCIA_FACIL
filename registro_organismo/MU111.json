@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Independencia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":66,
   "Febrero_2024":425,
   "Marzo_2024":432,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Independencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":131,
   "Febrero_2024":248,
   "Marzo_2024":172,

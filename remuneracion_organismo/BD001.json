@@ -18,11 +18,12 @@
   "Febrero_2025":3251729,
   "Marzo_2025":3301994,
   "Abril_2025":2578938,
-  "Mayo_2025":0
+  "Mayo_2025":2569486,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Subsecretaría de Ciencia Tecnología Conocimiento e Innovación",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":3254637,
   "Febrero_2024":3052381,
   "Marzo_2024":2900208,
@@ -39,7 +40,8 @@
   "Febrero_2025":3157648,
   "Marzo_2025":3461088,
   "Abril_2025":3395011,
-  "Mayo_2025":0
+  "Mayo_2025":2973044,
+  "Junio_2025":3283062
  },
  {
   "organismo_nombre":"Subsecretaría de Ciencia Tecnología Conocimiento e Innovación",
@@ -60,6 +62,7 @@
   "Febrero_2025":5463544,
   "Marzo_2025":5199851,
   "Abril_2025":4772815,
-  "Mayo_2025":4774457
+  "Mayo_2025":4774457,
+  "Junio_2025":6769443
  }
 ]

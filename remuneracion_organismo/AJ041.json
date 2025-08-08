@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -16,9 +16,10 @@
   "Diciembre_2024":0,
   "Enero_2025":1848878,
   "Febrero_2025":1028811,
-  "Marzo_2025":1152104,
+  "Marzo_2025":1086823,
   "Abril_2025":1006005,
-  "Mayo_2025":0
+  "Mayo_2025":1237812,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
@@ -35,15 +36,16 @@
   "Octubre_2024":2460001,
   "Noviembre_2024":2460001,
   "Diciembre_2024":3696599,
-  "Enero_2025":1887216,
-  "Febrero_2025":1419800,
-  "Marzo_2025":1584051,
-  "Abril_2025":2339883,
-  "Mayo_2025":2364813
+  "Enero_2025":1894934,
+  "Febrero_2025":1431455,
+  "Marzo_2025":1592793,
+  "Abril_2025":2378270,
+  "Mayo_2025":2437663,
+  "Junio_2025":4126057
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Pino",
@@ -81,6 +84,7 @@
   "Febrero_2025":822113,
   "Marzo_2025":4033993,
   "Abril_2025":2901990,
-  "Mayo_2025":2382432
+  "Mayo_2025":2382432,
+  "Junio_2025":0
  }
 ]

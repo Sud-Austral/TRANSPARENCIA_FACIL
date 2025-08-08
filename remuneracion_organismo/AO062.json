@@ -18,11 +18,12 @@
   "Febrero_2025":1401174,
   "Marzo_2025":1659509,
   "Abril_2025":1504563,
-  "Mayo_2025":0
+  "Mayo_2025":1518995,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San José de Coronel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":540621,
   "Febrero_2024":869536,
   "Marzo_2024":1091787,
@@ -39,7 +40,8 @@
   "Febrero_2025":1345949,
   "Marzo_2025":1313647,
   "Abril_2025":7299792,
-  "Mayo_2025":0
+  "Mayo_2025":7310223,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San José de Coronel",
@@ -60,6 +62,7 @@
   "Febrero_2025":1661287,
   "Marzo_2025":2737420,
   "Abril_2025":1718776,
-  "Mayo_2025":0
+  "Mayo_2025":1700215,
+  "Junio_2025":0
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1920152,
   "Marzo_2025":2510423,
   "Abril_2025":1952342,
-  "Mayo_2025":1895420
+  "Mayo_2025":1895420,
+  "Junio_2025":2519774
  },
  {
   "organismo_nombre":"Hospital Juan Noé de Arica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":886130,
   "Febrero_2024":0,
   "Marzo_2024":357713,
@@ -39,7 +40,8 @@
   "Febrero_2025":1059336,
   "Marzo_2025":905079,
   "Abril_2025":986012,
-  "Mayo_2025":1197949
+  "Mayo_2025":1197949,
+  "Junio_2025":1078217
  },
  {
   "organismo_nombre":"Hospital Juan Noé de Arica",
@@ -60,6 +62,7 @@
   "Febrero_2025":2230539,
   "Marzo_2025":3550536,
   "Abril_2025":2246051,
-  "Mayo_2025":2228836
+  "Mayo_2025":2228836,
+  "Junio_2025":3563315
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":810122,
   "Febrero_2024":854879,
   "Marzo_2024":856994,
@@ -18,7 +18,8 @@
   "Febrero_2025":933163,
   "Marzo_2025":938635,
   "Abril_2025":869060,
-  "Mayo_2025":895624
+  "Mayo_2025":895624,
+  "Junio_2025":1004961
  },
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
@@ -39,11 +40,12 @@
   "Febrero_2025":1258387,
   "Marzo_2025":1291653,
   "Abril_2025":1398197,
-  "Mayo_2025":1271468
+  "Mayo_2025":1271468,
+  "Junio_2025":1423658
  },
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":760149,
   "Febrero_2024":684581,
   "Marzo_2024":702822,
@@ -60,7 +62,8 @@
   "Febrero_2025":738294,
   "Marzo_2025":996062,
   "Abril_2025":884925,
-  "Mayo_2025":938391
+  "Mayo_2025":938391,
+  "Junio_2025":877412
  },
  {
   "organismo_nombre":"Municipalidad de Ñiquén",
@@ -81,6 +84,7 @@
   "Febrero_2025":1800500,
   "Marzo_2025":1865117,
   "Abril_2025":2336139,
-  "Mayo_2025":1853274
+  "Mayo_2025":1853274,
+  "Junio_2025":2032369
  }
 ]

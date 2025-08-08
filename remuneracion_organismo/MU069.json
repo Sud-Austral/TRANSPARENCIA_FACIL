@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Corral",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":942093,
   "Febrero_2024":719674,
   "Marzo_2024":857637,
@@ -18,7 +18,8 @@
   "Febrero_2025":851126,
   "Marzo_2025":845396,
   "Abril_2025":808229,
-  "Mayo_2025":825253
+  "Mayo_2025":825253,
+  "Junio_2025":831175
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
@@ -39,11 +40,12 @@
   "Febrero_2025":1409954,
   "Marzo_2025":1451792,
   "Abril_2025":1407235,
-  "Mayo_2025":1733759
+  "Mayo_2025":1733759,
+  "Junio_2025":1937830
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":671535,
   "Febrero_2024":650599,
   "Marzo_2024":774466,
@@ -60,7 +62,8 @@
   "Febrero_2025":528696,
   "Marzo_2025":643504,
   "Abril_2025":640008,
-  "Mayo_2025":644865
+  "Mayo_2025":644865,
+  "Junio_2025":687866
  },
  {
   "organismo_nombre":"Municipalidad de Corral",
@@ -81,6 +84,7 @@
   "Febrero_2025":2413705,
   "Marzo_2025":1597012,
   "Abril_2025":2032710,
-  "Mayo_2025":2208177
+  "Mayo_2025":2208177,
+  "Junio_2025":3202189
  }
 ]

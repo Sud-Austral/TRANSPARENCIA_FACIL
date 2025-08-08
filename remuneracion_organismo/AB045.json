@@ -16,13 +16,14 @@
   "Diciembre_2024":1898754,
   "Enero_2025":2197274,
   "Febrero_2025":2200373,
-  "Marzo_2025":2201390,
-  "Abril_2025":1702699,
-  "Mayo_2025":1702699
+  "Marzo_2025":2204527,
+  "Abril_2025":1612953,
+  "Mayo_2025":1730237,
+  "Junio_2025":3213762
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Curicó",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1011033,
   "Febrero_2024":1011033,
   "Marzo_2024":1011033,
@@ -39,7 +40,8 @@
   "Febrero_2025":1053497,
   "Marzo_2025":1053497,
   "Abril_2025":1053497,
-  "Mayo_2025":1053497
+  "Mayo_2025":1053497,
+  "Junio_2025":1102797
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Curicó",
@@ -60,6 +62,7 @@
   "Febrero_2025":4402612,
   "Marzo_2025":4402612,
   "Abril_2025":3683781,
-  "Mayo_2025":3683781
+  "Mayo_2025":3683781,
+  "Junio_2025":5851130
  }
 ]

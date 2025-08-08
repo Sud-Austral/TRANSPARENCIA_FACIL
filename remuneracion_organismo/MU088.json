@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Ercilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":891219,
   "Febrero_2024":820933,
   "Marzo_2024":896581,
@@ -18,7 +18,8 @@
   "Febrero_2025":1134897,
   "Marzo_2025":886618,
   "Abril_2025":991216,
-  "Mayo_2025":670000
+  "Mayo_2025":670000,
+  "Junio_2025":957094
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
@@ -39,11 +40,12 @@
   "Febrero_2025":1339561,
   "Marzo_2025":1263481,
   "Abril_2025":1399732,
-  "Mayo_2025":1235526
+  "Mayo_2025":1389923,
+  "Junio_2025":1564295
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":749350,
   "Febrero_2024":763914,
   "Marzo_2024":1162673,
@@ -59,8 +61,9 @@
   "Enero_2025":879751,
   "Febrero_2025":573300,
   "Marzo_2025":1262276,
-  "Abril_2025":947569,
-  "Mayo_2025":496540
+  "Abril_2025":942872,
+  "Mayo_2025":935561,
+  "Junio_2025":640131
  },
  {
   "organismo_nombre":"Municipalidad de Ercilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":1892067,
   "Marzo_2025":1794662,
   "Abril_2025":2121831,
-  "Mayo_2025":1679578
+  "Mayo_2025":1679578,
+  "Junio_2025":2190561
  }
 ]

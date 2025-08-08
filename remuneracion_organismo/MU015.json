@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Bulnes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":752209,
   "Febrero_2024":759312,
   "Marzo_2024":719078,
@@ -18,7 +18,8 @@
   "Febrero_2025":779721,
   "Marzo_2025":816451,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Bulnes",
@@ -39,11 +40,12 @@
   "Febrero_2025":1286222,
   "Marzo_2025":1311842,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Bulnes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":800837,
   "Febrero_2024":793236,
   "Marzo_2024":802995,
@@ -60,7 +62,8 @@
   "Febrero_2025":778053,
   "Marzo_2025":1026377,
   "Abril_2025":1680000,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Bulnes",
@@ -81,6 +84,7 @@
   "Febrero_2025":2031248,
   "Marzo_2025":2071864,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

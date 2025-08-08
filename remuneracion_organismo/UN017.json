@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Universidad de Aysén",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":567410,
   "Febrero_2024":556194,
   "Marzo_2024":459083,
@@ -18,7 +18,8 @@
   "Febrero_2025":536121,
   "Marzo_2025":472125,
   "Abril_2025":501423,
-  "Mayo_2025":466981
+  "Mayo_2025":466981,
+  "Junio_2025":496245
  },
  {
   "organismo_nombre":"Universidad de Aysén",
@@ -39,11 +40,12 @@
   "Febrero_2025":3107311,
   "Marzo_2025":3068955,
   "Abril_2025":3087288,
-  "Mayo_2025":3144471
+  "Mayo_2025":3144471,
+  "Junio_2025":3144471
  },
  {
   "organismo_nombre":"Universidad de Aysén",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1065384,
   "Febrero_2024":1642777,
   "Marzo_2024":1807395,
@@ -60,7 +62,8 @@
   "Febrero_2025":1711655,
   "Marzo_2025":1791244,
   "Abril_2025":1599474,
-  "Mayo_2025":1475469
+  "Mayo_2025":1475469,
+  "Junio_2025":1223501
  },
  {
   "organismo_nombre":"Universidad de Aysén",
@@ -81,6 +84,7 @@
   "Febrero_2025":6148451,
   "Marzo_2025":6148451,
   "Abril_2025":6148451,
-  "Mayo_2025":6148451
+  "Mayo_2025":6148451,
+  "Junio_2025":6148451
  }
 ]

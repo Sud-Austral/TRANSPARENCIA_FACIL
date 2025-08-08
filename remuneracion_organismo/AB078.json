@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4024658,
   "Febrero_2024":5002064,
   "Marzo_2024":5142785,
@@ -18,7 +18,8 @@
   "Febrero_2025":5209966,
   "Marzo_2025":5256463,
   "Abril_2025":5256463,
-  "Mayo_2025":5256463
+  "Mayo_2025":5256463,
+  "Junio_2025":5290103
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2679424,
   "Marzo_2025":2719036,
   "Abril_2025":2656718,
-  "Mayo_2025":2659016
+  "Mayo_2025":2659016,
+  "Junio_2025":2709388
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":7197278,
   "Febrero_2024":7197278,
   "Marzo_2024":7197278,
@@ -60,7 +62,8 @@
   "Febrero_2025":17458532,
   "Marzo_2025":15536195,
   "Abril_2025":17209751,
-  "Mayo_2025":15536195
+  "Mayo_2025":15536195,
+  "Junio_2025":14265208
  },
  {
   "organismo_nombre":"Gobierno Regional de Atacama (GORE)",
@@ -81,6 +84,7 @@
   "Febrero_2025":5050610,
   "Marzo_2025":4869896,
   "Abril_2025":4840436,
-  "Mayo_2025":4841305
+  "Mayo_2025":4841305,
+  "Junio_2025":4870658
  }
 ]

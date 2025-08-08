@@ -18,28 +18,30 @@
   "Febrero_2025":1772697,
   "Marzo_2025":2303693,
   "Abril_2025":1856498,
-  "Mayo_2025":0
+  "Mayo_2025":1856498,
+  "Junio_2025":3533454
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Valparaíso",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1525000,
   "Febrero_2024":2014307,
   "Marzo_2024":2099156,
   "Abril_2024":2024226,
   "Mayo_2024":2024226,
-  "Junio_2024":1511111,
-  "Julio_2024":1533333,
-  "Agosto_2024":1533333,
-  "Septiembre_2024":0,
-  "Octubre_2024":0,
-  "Noviembre_2024":0,
-  "Diciembre_2024":0,
-  "Enero_2025":1354600,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
+  "Junio_2024":2018670,
+  "Julio_2024":2024226,
+  "Agosto_2024":2013515,
+  "Septiembre_2024":1869406,
+  "Octubre_2024":2008519,
+  "Noviembre_2024":2005567,
+  "Diciembre_2024":1762819,
+  "Enero_2025":1592050,
+  "Febrero_2025":1737723,
+  "Marzo_2025":1952813,
   "Abril_2025":1890219,
-  "Mayo_2025":0
+  "Mayo_2025":1890219,
+  "Junio_2025":1890219
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Valparaíso",
@@ -60,6 +62,7 @@
   "Febrero_2025":3840429,
   "Marzo_2025":4675568,
   "Abril_2025":3847354,
-  "Mayo_2025":0
+  "Mayo_2025":3847354,
+  "Junio_2025":6373666
  }
 ]

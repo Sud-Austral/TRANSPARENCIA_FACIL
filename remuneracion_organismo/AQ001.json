@@ -18,11 +18,12 @@
   "Febrero_2025":2604469,
   "Marzo_2025":2627064,
   "Abril_2025":2036291,
-  "Mayo_2025":2033420
+  "Mayo_2025":2033420,
+  "Junio_2025":3805171
  },
  {
   "organismo_nombre":"Subsecretaría de Bienes Nacionales",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1539591,
   "Febrero_2024":1481055,
   "Marzo_2024":1475687,
@@ -39,7 +40,8 @@
   "Febrero_2025":1512722,
   "Marzo_2025":1566472,
   "Abril_2025":1558235,
-  "Mayo_2025":1555148
+  "Mayo_2025":1555148,
+  "Junio_2025":1557029
  },
  {
   "organismo_nombre":"Subsecretaría de Bienes Nacionales",
@@ -60,6 +62,7 @@
   "Febrero_2025":4627595,
   "Marzo_2025":4822177,
   "Abril_2025":3967196,
-  "Mayo_2025":4001159
+  "Mayo_2025":4001159,
+  "Junio_2025":6435490
  }
 ]

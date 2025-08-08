@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":159,
   "Febrero_2024":158,
   "Marzo_2024":161,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Magallanes (SLEP Magallanes)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":11,
   "Febrero_2024":0,
   "Marzo_2024":18,

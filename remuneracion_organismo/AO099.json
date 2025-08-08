@@ -18,11 +18,12 @@
   "Febrero_2025":1558521,
   "Marzo_2025":1585888,
   "Abril_2025":1549323,
-  "Mayo_2025":1575539
+  "Mayo_2025":1575539,
+  "Junio_2025":1687100
  },
  {
   "organismo_nombre":"Hospital San Martín de Quillota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1158051,
   "Febrero_2024":1248952,
   "Marzo_2024":1390107,
@@ -39,7 +40,8 @@
   "Febrero_2025":1389823,
   "Marzo_2025":1253618,
   "Abril_2025":1155648,
-  "Mayo_2025":1184544
+  "Mayo_2025":1184544,
+  "Junio_2025":1126556
  },
  {
   "organismo_nombre":"Hospital San Martín de Quillota",
@@ -60,6 +62,7 @@
   "Febrero_2025":1940833,
   "Marzo_2025":2286461,
   "Abril_2025":1974078,
-  "Mayo_2025":1956465
+  "Mayo_2025":1956465,
+  "Junio_2025":2300387
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1816786,
   "Marzo_2025":2181884,
   "Abril_2025":1762086,
-  "Mayo_2025":1717274
+  "Mayo_2025":1663259,
+  "Junio_2025":1717274
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Coquimbo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1501934,
   "Febrero_2024":1372525,
   "Marzo_2024":1426937,
@@ -39,7 +40,8 @@
   "Febrero_2025":2593817,
   "Marzo_2025":2557401,
   "Abril_2025":2498226,
-  "Mayo_2025":2498226
+  "Mayo_2025":2498226,
+  "Junio_2025":2677964
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Coquimbo",
@@ -59,7 +61,8 @@
   "Enero_2025":6859422,
   "Febrero_2025":6859422,
   "Marzo_2025":7853259,
-  "Abril_2025":7853259,
-  "Mayo_2025":6859422
+  "Abril_2025":7356340,
+  "Mayo_2025":6859422,
+  "Junio_2025":6859422
  }
 ]

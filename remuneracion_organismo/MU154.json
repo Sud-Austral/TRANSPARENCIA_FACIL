@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1219156,
   "Febrero_2024":908352,
   "Marzo_2024":858514,
@@ -18,7 +18,8 @@
   "Febrero_2025":2100000,
   "Marzo_2025":2100000,
   "Abril_2025":2100000,
-  "Mayo_2025":2100000
+  "Mayo_2025":2100000,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
@@ -28,7 +29,7 @@
   "Marzo_2024":804554,
   "Abril_2024":905475,
   "Mayo_2024":881125,
-  "Junio_2024":904557,
+  "Junio_2024":925478,
   "Julio_2024":794505,
   "Agosto_2024":1262988,
   "Septiembre_2024":869602,
@@ -39,11 +40,12 @@
   "Febrero_2025":1391174,
   "Marzo_2025":1503853,
   "Abril_2025":1581465,
-  "Mayo_2025":1541917
+  "Mayo_2025":1541917,
+  "Junio_2025":1983479
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1020968,
   "Febrero_2024":947932,
   "Marzo_2024":883182,
@@ -59,8 +61,9 @@
   "Enero_2025":788420,
   "Febrero_2025":1057828,
   "Marzo_2025":980529,
-  "Abril_2025":1156001,
-  "Mayo_2025":1060267
+  "Abril_2025":1013765,
+  "Mayo_2025":1060267,
+  "Junio_2025":1146208
  },
  {
   "organismo_nombre":"Municipalidad de Los Lagos",
@@ -81,6 +84,7 @@
   "Febrero_2025":1809861,
   "Marzo_2025":1823567,
   "Abril_2025":2297533,
-  "Mayo_2025":2150666
+  "Mayo_2025":2150666,
+  "Junio_2025":2338568
  }
 ]

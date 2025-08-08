@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1290535,
   "Febrero_2024":979087,
   "Marzo_2024":857367,
@@ -18,7 +18,8 @@
   "Febrero_2025":1056049,
   "Marzo_2025":1031977,
   "Abril_2025":965491,
-  "Mayo_2025":920390
+  "Mayo_2025":920390,
+  "Junio_2025":899291
  },
  {
   "organismo_nombre":"Municipalidad de Rauco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1139745,
   "Marzo_2025":1168022,
   "Abril_2025":1368569,
-  "Mayo_2025":1265557
+  "Mayo_2025":1265557,
+  "Junio_2025":1334129
  },
  {
   "organismo_nombre":"Municipalidad de Rauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":387889,
   "Febrero_2024":491201,
   "Marzo_2024":502164,
@@ -60,7 +62,8 @@
   "Febrero_2025":454391,
   "Marzo_2025":518868,
   "Abril_2025":640176,
-  "Mayo_2025":507723
+  "Mayo_2025":507723,
+  "Junio_2025":643198
  },
  {
   "organismo_nombre":"Municipalidad de Rauco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1841590,
   "Marzo_2025":1815696,
   "Abril_2025":2186316,
-  "Mayo_2025":1995468
+  "Mayo_2025":1995468,
+  "Junio_2025":2155476
  }
 ]

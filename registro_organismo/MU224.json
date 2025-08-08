@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":111,
   "Febrero_2024":107,
   "Marzo_2024":110,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Portezuelo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":78,
   "Febrero_2024":96,
   "Marzo_2024":98,

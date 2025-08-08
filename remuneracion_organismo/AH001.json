@@ -18,11 +18,12 @@
   "Febrero_2025":2548292,
   "Marzo_2025":3656593,
   "Abril_2025":1959404,
-  "Mayo_2025":1979601
+  "Mayo_2025":1979601,
+  "Junio_2025":3562013
  },
  {
   "organismo_nombre":"Subsecretaría de Economía (MINECON)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2945787,
   "Febrero_2024":2872665,
   "Marzo_2024":2866555,
@@ -39,7 +40,8 @@
   "Febrero_2025":2901403,
   "Marzo_2025":2766653,
   "Abril_2025":2876544,
-  "Mayo_2025":2694010
+  "Mayo_2025":2694010,
+  "Junio_2025":2729593
  },
  {
   "organismo_nombre":"Subsecretaría de Economía (MINECON)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5020478,
   "Marzo_2025":6574563,
   "Abril_2025":4239265,
-  "Mayo_2025":4268076
+  "Mayo_2025":4268076,
+  "Junio_2025":6592617
  }
 ]

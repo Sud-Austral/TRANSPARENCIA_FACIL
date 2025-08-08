@@ -1,13 +1,13 @@
 [
  {
   "organismo_nombre":"Municipalidad de El Quisco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1070202,
   "Febrero_2024":972939,
   "Marzo_2024":947198,
   "Abril_2024":486291,
   "Mayo_2024":921508,
-  "Junio_2024":1014936,
+  "Junio_2024":1014651,
   "Julio_2024":1029855,
   "Agosto_2024":981941,
   "Septiembre_2024":1068021,
@@ -18,7 +18,8 @@
   "Febrero_2025":1039775,
   "Marzo_2025":927375,
   "Abril_2025":579776,
-  "Mayo_2025":1040416
+  "Mayo_2025":1040416,
+  "Junio_2025":1053250
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1588331,
   "Marzo_2025":1609122,
   "Abril_2025":1626998,
-  "Mayo_2025":1698526
+  "Mayo_2025":1698526,
+  "Junio_2025":1634201
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":867878,
   "Febrero_2024":934137,
   "Marzo_2024":888823,
@@ -60,7 +62,8 @@
   "Febrero_2025":1036963,
   "Marzo_2025":903103,
   "Abril_2025":870726,
-  "Mayo_2025":868278
+  "Mayo_2025":868278,
+  "Junio_2025":872137
  },
  {
   "organismo_nombre":"Municipalidad de El Quisco",
@@ -81,6 +84,7 @@
   "Febrero_2025":2136421,
   "Marzo_2025":2144364,
   "Abril_2025":2446526,
-  "Mayo_2025":2526660
+  "Mayo_2025":2526660,
+  "Junio_2025":2522693
  }
 ]

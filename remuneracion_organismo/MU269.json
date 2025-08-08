@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rinconada",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1179578,
   "Febrero_2024":922831,
   "Marzo_2024":841184,
@@ -18,7 +18,8 @@
   "Febrero_2025":975781,
   "Marzo_2025":860565,
   "Abril_2025":901232,
-  "Mayo_2025":864701
+  "Mayo_2025":976082,
+  "Junio_2025":938897
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
@@ -39,11 +40,12 @@
   "Febrero_2025":1674045,
   "Marzo_2025":1696576,
   "Abril_2025":1984992,
-  "Mayo_2025":1692043
+  "Mayo_2025":1621184,
+  "Junio_2025":1798063
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":382953,
   "Febrero_2024":353835,
   "Marzo_2024":365403,
@@ -56,11 +58,12 @@
   "Octubre_2024":375396,
   "Noviembre_2024":780114,
   "Diciembre_2024":399930,
-  "Enero_2025":525957,
-  "Febrero_2025":458787,
-  "Marzo_2025":424355,
-  "Abril_2025":421698,
-  "Mayo_2025":572302
+  "Enero_2025":674741,
+  "Febrero_2025":707428,
+  "Marzo_2025":608493,
+  "Abril_2025":672989,
+  "Mayo_2025":686971,
+  "Junio_2025":762073
  },
  {
   "organismo_nombre":"Municipalidad de Rinconada",
@@ -77,10 +80,11 @@
   "Octubre_2024":2164034,
   "Noviembre_2024":1993738,
   "Diciembre_2024":2172668,
-  "Enero_2025":2309559,
-  "Febrero_2025":2265121,
-  "Marzo_2025":2071603,
-  "Abril_2025":2515188,
-  "Mayo_2025":2066681
+  "Enero_2025":2291421,
+  "Febrero_2025":2243311,
+  "Marzo_2025":2080011,
+  "Abril_2025":2465986,
+  "Mayo_2025":2066746,
+  "Junio_2025":2356224
  }
 ]

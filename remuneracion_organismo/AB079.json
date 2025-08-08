@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3828475,
   "Febrero_2024":3828475,
   "Marzo_2024":4805881,
@@ -18,7 +18,8 @@
   "Febrero_2025":4010600,
   "Marzo_2025":4010600,
   "Abril_2025":4010600,
-  "Mayo_2025":4010600
+  "Mayo_2025":4010600,
+  "Junio_2025":4036913
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
@@ -39,11 +40,12 @@
   "Febrero_2025":2048798,
   "Marzo_2025":2091874,
   "Abril_2025":2113051,
-  "Mayo_2025":2071874
+  "Mayo_2025":2071874,
+  "Junio_2025":2144519
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1478969,
   "Febrero_2024":1478969,
   "Marzo_2024":1472908,
@@ -60,7 +62,8 @@
   "Febrero_2025":1523625,
   "Marzo_2025":1608518,
   "Abril_2025":0,
-  "Mayo_2025":1598703
+  "Mayo_2025":1598703,
+  "Junio_2025":1508333
  },
  {
   "organismo_nombre":"Gobierno Regional de Coquimbo  GORECOQUIMBO",
@@ -81,6 +84,7 @@
   "Febrero_2025":3600276,
   "Marzo_2025":3626634,
   "Abril_2025":3660461,
-  "Mayo_2025":3661703
+  "Mayo_2025":3661703,
+  "Junio_2025":3695076
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1638778,
   "Febrero_2024":1138830,
   "Marzo_2024":1325924,
@@ -18,7 +18,8 @@
   "Febrero_2025":1504730,
   "Marzo_2025":1344784,
   "Abril_2025":1503077,
-  "Mayo_2025":1362985
+  "Mayo_2025":1388203,
+  "Junio_2025":1348784
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
@@ -38,12 +39,13 @@
   "Enero_2025":1613880,
   "Febrero_2025":1950933,
   "Marzo_2025":2089158,
-  "Abril_2025":1814378,
-  "Mayo_2025":1841239
+  "Abril_2025":1905964,
+  "Mayo_2025":1996434,
+  "Junio_2025":2118046
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":742422,
   "Febrero_2024":571172,
   "Marzo_2024":746380,
@@ -55,12 +57,13 @@
   "Septiembre_2024":626637,
   "Octubre_2024":601223,
   "Noviembre_2024":592822,
-  "Diciembre_2024":592822,
+  "Diciembre_2024":0,
   "Enero_2025":0,
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Sierra Gorda",
@@ -80,7 +83,8 @@
   "Enero_2025":2202037,
   "Febrero_2025":2406225,
   "Marzo_2025":2637914,
-  "Abril_2025":2324167,
-  "Mayo_2025":2167395
+  "Abril_2025":2421341,
+  "Mayo_2025":2954143,
+  "Junio_2025":3032391
  }
 ]

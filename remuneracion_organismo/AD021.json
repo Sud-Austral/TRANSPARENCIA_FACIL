@@ -18,11 +18,12 @@
   "Febrero_2025":3146709,
   "Marzo_2025":4473895,
   "Abril_2025":2532036,
-  "Mayo_2025":2437278
+  "Mayo_2025":2473894,
+  "Junio_2025":4509003
  },
  {
   "organismo_nombre":"Subsecretaría de Defensa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1431445,
   "Febrero_2024":1358881,
   "Marzo_2024":1398934,
@@ -39,7 +40,8 @@
   "Febrero_2025":1394404,
   "Marzo_2025":1370740,
   "Abril_2025":1370609,
-  "Mayo_2025":3392304
+  "Mayo_2025":1396803,
+  "Junio_2025":1363780
  },
  {
   "organismo_nombre":"Subsecretaría de Defensa",
@@ -60,6 +62,7 @@
   "Febrero_2025":4706348,
   "Marzo_2025":6625776,
   "Abril_2025":3626518,
-  "Mayo_2025":3763974
+  "Mayo_2025":3763974,
+  "Junio_2025":6439223
  }
 ]

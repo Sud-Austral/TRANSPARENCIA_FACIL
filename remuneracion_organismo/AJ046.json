@@ -18,11 +18,12 @@
   "Febrero_2025":2454331,
   "Marzo_2025":2454331,
   "Abril_2025":2454331,
-  "Mayo_2025":2648968
+  "Mayo_2025":2648968,
+  "Junio_2025":2625904
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Valdivia (SLEP Valdivia)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":1375000,
   "Marzo_2025":1375000,
   "Abril_2025":1375000,
-  "Mayo_2025":1375000
+  "Mayo_2025":1375000,
+  "Junio_2025":1375000
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Valdivia (SLEP Valdivia)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5598646,
   "Marzo_2025":2949319,
   "Abril_2025":2834249,
-  "Mayo_2025":2872042
+  "Mayo_2025":2872042,
+  "Junio_2025":2872042
  }
 ]

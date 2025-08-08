@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1230796,
   "Febrero_2024":696988,
   "Marzo_2024":731402,
@@ -18,7 +18,8 @@
   "Febrero_2025":774252,
   "Marzo_2025":942443,
   "Abril_2025":1067229,
-  "Mayo_2025":1083554
+  "Mayo_2025":1083554,
+  "Junio_2025":1121864
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
@@ -39,11 +40,12 @@
   "Febrero_2025":1430792,
   "Marzo_2025":1444570,
   "Abril_2025":1628896,
-  "Mayo_2025":1625127
+  "Mayo_2025":1625127,
+  "Junio_2025":1649810
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":744561,
   "Febrero_2024":735349,
   "Marzo_2024":726402,
@@ -60,7 +62,8 @@
   "Febrero_2025":798769,
   "Marzo_2025":844224,
   "Abril_2025":813665,
-  "Mayo_2025":776822
+  "Mayo_2025":946214,
+  "Junio_2025":771242
  },
  {
   "organismo_nombre":"Ilustre Municipalidad de Constitución",
@@ -81,6 +84,7 @@
   "Febrero_2025":2121672,
   "Marzo_2025":2075197,
   "Abril_2025":2703292,
-  "Mayo_2025":2418383
+  "Mayo_2025":2418383,
+  "Junio_2025":2713523
  }
 ]

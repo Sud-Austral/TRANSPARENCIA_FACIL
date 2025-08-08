@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Joaquín",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":6,
   "Febrero_2024":0,
   "Marzo_2024":6,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Joaquín",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":196,
   "Marzo_2024":217,

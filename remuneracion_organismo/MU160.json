@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Machalí",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1245835,
   "Febrero_2024":917281,
   "Marzo_2024":901814,
@@ -18,7 +18,8 @@
   "Febrero_2025":1009850,
   "Marzo_2025":894441,
   "Abril_2025":877769,
-  "Mayo_2025":922550
+  "Mayo_2025":922550,
+  "Junio_2025":925689
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
@@ -39,11 +40,12 @@
   "Febrero_2025":1495259,
   "Marzo_2025":1507827,
   "Abril_2025":1654062,
-  "Mayo_2025":1668888
+  "Mayo_2025":1668888,
+  "Junio_2025":1664359
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1153313,
   "Febrero_2024":0,
   "Marzo_2024":1171397,
@@ -60,7 +62,8 @@
   "Febrero_2025":949924,
   "Marzo_2025":871256,
   "Abril_2025":941849,
-  "Mayo_2025":943224
+  "Mayo_2025":943224,
+  "Junio_2025":925743
  },
  {
   "organismo_nombre":"Municipalidad de Machalí",
@@ -81,6 +84,7 @@
   "Febrero_2025":2019767,
   "Marzo_2025":2045175,
   "Abril_2025":2307289,
-  "Mayo_2025":2260392
+  "Mayo_2025":2260392,
+  "Junio_2025":2333973
  }
 ]

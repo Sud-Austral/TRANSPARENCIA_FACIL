@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Villarrica",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":659,
   "Febrero_2024":657,
   "Marzo_2024":616,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":406,
   "Febrero_2024":511,
   "Marzo_2024":507,

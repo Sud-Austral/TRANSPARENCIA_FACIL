@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Angol",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1085093,
   "Febrero_2024":1071143,
   "Marzo_2024":990762,
@@ -18,7 +18,8 @@
   "Febrero_2025":1157676,
   "Marzo_2025":1045879,
   "Abril_2025":1013672,
-  "Mayo_2025":973543
+  "Mayo_2025":973543,
+  "Junio_2025":1121079
  },
  {
   "organismo_nombre":"Municipalidad de Angol",
@@ -39,11 +40,12 @@
   "Febrero_2025":1318603,
   "Marzo_2025":1179488,
   "Abril_2025":1384606,
-  "Mayo_2025":1215093
+  "Mayo_2025":1215093,
+  "Junio_2025":1376918
  },
  {
   "organismo_nombre":"Municipalidad de Angol",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":597821,
   "Febrero_2024":877224,
   "Marzo_2024":674992,
@@ -60,7 +62,8 @@
   "Febrero_2025":603537,
   "Marzo_2025":783532,
   "Abril_2025":656324,
-  "Mayo_2025":639770
+  "Mayo_2025":639770,
+  "Junio_2025":626284
  },
  {
   "organismo_nombre":"Municipalidad de Angol",
@@ -81,6 +84,7 @@
   "Febrero_2025":2142585,
   "Marzo_2025":1979813,
   "Abril_2025":2433826,
-  "Mayo_2025":1950676
+  "Mayo_2025":1950676,
+  "Junio_2025":2400706
  }
 ]

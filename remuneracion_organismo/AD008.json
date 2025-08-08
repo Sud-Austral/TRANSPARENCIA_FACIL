@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fuerza Aérea de Chile (Incluye al Servicio Aerofotogramétrico)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1478518,
   "Febrero_2024":1468547,
   "Marzo_2024":1437897,
@@ -18,11 +18,12 @@
   "Febrero_2025":1588383,
   "Marzo_2025":1586340,
   "Abril_2025":1574735,
-  "Mayo_2025":1573864
+  "Mayo_2025":1573864,
+  "Junio_2025":1608163
  },
  {
   "organismo_nombre":"Fuerza Aérea de Chile (Incluye al Servicio Aerofotogramétrico)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1161496,
   "Febrero_2024":1199802,
   "Marzo_2024":1342065,
@@ -39,6 +40,7 @@
   "Febrero_2025":3141442,
   "Marzo_2025":2873289,
   "Abril_2025":4249639,
-  "Mayo_2025":2914347
+  "Mayo_2025":2836801,
+  "Junio_2025":3279916
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Villarrica",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1210017,
   "Febrero_2024":885058,
   "Marzo_2024":791800,
@@ -18,7 +18,8 @@
   "Febrero_2025":984786,
   "Marzo_2025":850075,
   "Abril_2025":952324,
-  "Mayo_2025":902802
+  "Mayo_2025":902802,
+  "Junio_2025":899559
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
@@ -39,11 +40,12 @@
   "Febrero_2025":1258223,
   "Marzo_2025":1267622,
   "Abril_2025":1474538,
-  "Mayo_2025":1397558
+  "Mayo_2025":1397558,
+  "Junio_2025":1501516
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":751683,
   "Febrero_2024":779299,
   "Marzo_2024":743706,
@@ -60,7 +62,8 @@
   "Febrero_2025":830169,
   "Marzo_2025":788803,
   "Abril_2025":814487,
-  "Mayo_2025":796816
+  "Mayo_2025":796816,
+  "Junio_2025":825345
  },
  {
   "organismo_nombre":"Municipalidad de Villarrica",
@@ -81,6 +84,7 @@
   "Febrero_2025":2056495,
   "Marzo_2025":2103197,
   "Abril_2025":2437648,
-  "Mayo_2025":2283645
+  "Mayo_2025":2283645,
+  "Junio_2025":2476622
  }
 ]

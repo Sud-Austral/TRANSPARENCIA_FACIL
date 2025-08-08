@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación Centro Cultural de Lo Prado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":974673,
   "Febrero_2024":908923,
   "Marzo_2024":909735,
@@ -18,11 +18,12 @@
   "Febrero_2025":1177966,
   "Marzo_2025":1185995,
   "Abril_2025":1193088,
-  "Mayo_2025":1120507
+  "Mayo_2025":1120507,
+  "Junio_2025":1171976
  },
  {
   "organismo_nombre":"Fundación Centro Cultural de Lo Prado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":208161,
   "Febrero_2024":218380,
   "Marzo_2024":138286,
@@ -39,6 +40,7 @@
   "Febrero_2025":363596,
   "Marzo_2025":171222,
   "Abril_2025":930877,
-  "Mayo_2025":107169
+  "Mayo_2025":107169,
+  "Junio_2025":177293
  }
 ]

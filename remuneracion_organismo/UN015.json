@@ -18,11 +18,12 @@
   "Febrero_2025":1985604,
   "Marzo_2025":2166597,
   "Abril_2025":2022217,
-  "Mayo_2025":0
+  "Mayo_2025":2047838,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":442926,
   "Febrero_2024":717441,
   "Marzo_2024":673778,
@@ -39,7 +40,8 @@
   "Febrero_2025":738131,
   "Marzo_2025":635919,
   "Abril_2025":542833,
-  "Mayo_2025":497577
+  "Mayo_2025":497577,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Los Lagos",
@@ -60,6 +62,7 @@
   "Febrero_2025":2837109,
   "Marzo_2025":3015262,
   "Abril_2025":2882964,
-  "Mayo_2025":2869029
+  "Mayo_2025":2869029,
+  "Junio_2025":0
  }
 ]

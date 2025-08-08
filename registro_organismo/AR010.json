@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Centro de Información de Recursos Naturales (CIREN)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":111,
   "Febrero_2024":111,
   "Marzo_2024":112,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Centro de Información de Recursos Naturales (CIREN)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":38,
   "Febrero_2024":37,
   "Marzo_2024":44,

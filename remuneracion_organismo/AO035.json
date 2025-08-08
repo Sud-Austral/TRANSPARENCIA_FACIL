@@ -18,11 +18,12 @@
   "Febrero_2025":1826282,
   "Marzo_2025":1984361,
   "Abril_2025":1881982,
-  "Mayo_2025":1905622
+  "Mayo_2025":1905622,
+  "Junio_2025":1994991
  },
  {
   "organismo_nombre":"Servicio de Salud de Chiloé",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1348278,
   "Febrero_2024":1280100,
   "Marzo_2024":1277086,
@@ -39,7 +40,8 @@
   "Febrero_2025":1411681,
   "Marzo_2025":1367298,
   "Abril_2025":1318682,
-  "Mayo_2025":1256096
+  "Mayo_2025":1256096,
+  "Junio_2025":1262206
  },
  {
   "organismo_nombre":"Servicio de Salud de Chiloé",
@@ -60,6 +62,7 @@
   "Febrero_2025":2025186,
   "Marzo_2025":0,
   "Abril_2025":2044429,
-  "Mayo_2025":2038085
+  "Mayo_2025":2038085,
+  "Junio_2025":2006620
  }
 ]

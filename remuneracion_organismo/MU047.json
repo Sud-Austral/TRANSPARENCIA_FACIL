@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cisnes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":949804,
   "Febrero_2024":842819,
   "Marzo_2024":933493,
@@ -18,7 +18,8 @@
   "Febrero_2025":924287,
   "Marzo_2025":917093,
   "Abril_2025":959442,
-  "Mayo_2025":970687
+  "Mayo_2025":970687,
+  "Junio_2025":1034784
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
@@ -39,11 +40,12 @@
   "Febrero_2025":1554338,
   "Marzo_2025":2147047,
   "Abril_2025":1519958,
-  "Mayo_2025":0
+  "Mayo_2025":2066338,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":662482,
   "Febrero_2024":746156,
   "Marzo_2024":756222,
@@ -58,9 +60,10 @@
   "Diciembre_2024":692925,
   "Enero_2025":588087,
   "Febrero_2025":724595,
-  "Marzo_2025":698864,
-  "Abril_2025":733318,
-  "Mayo_2025":0
+  "Marzo_2025":694156,
+  "Abril_2025":753105,
+  "Mayo_2025":656636,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Cisnes",
@@ -81,6 +84,7 @@
   "Febrero_2025":2570107,
   "Marzo_2025":3268654,
   "Abril_2025":2442243,
-  "Mayo_2025":0
+  "Mayo_2025":3379215,
+  "Junio_2025":0
  }
 ]

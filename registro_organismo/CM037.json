@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Curaco De Velez",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":93,
   "Febrero_2024":93,
   "Marzo_2024":97,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Corporación Municipal de Curaco De Velez",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":11,
   "Febrero_2024":17,
   "Marzo_2024":19,

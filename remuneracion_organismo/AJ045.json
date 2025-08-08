@@ -18,11 +18,12 @@
   "Febrero_2025":3372472,
   "Marzo_2025":5146404,
   "Abril_2025":3298377,
-  "Mayo_2025":3298377
+  "Mayo_2025":3298377,
+  "Junio_2025":5501358
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Tamarugal",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,7 +40,8 @@
   "Febrero_2025":466670,
   "Marzo_2025":1053333,
   "Abril_2025":1053333,
-  "Mayo_2025":1053333
+  "Mayo_2025":1053333,
+  "Junio_2025":1053333
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública del Tamarugal",
@@ -60,6 +62,7 @@
   "Febrero_2025":5905535,
   "Marzo_2025":8358845,
   "Abril_2025":5354122,
-  "Mayo_2025":4541511
+  "Mayo_2025":4541511,
+  "Junio_2025":7221809
  }
 ]

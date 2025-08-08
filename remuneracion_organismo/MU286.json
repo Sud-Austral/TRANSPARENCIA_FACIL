@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Felipe",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1086538,
   "Febrero_2024":919854,
   "Marzo_2024":842110,
@@ -18,7 +18,8 @@
   "Febrero_2025":1003519,
   "Marzo_2025":865769,
   "Abril_2025":855669,
-  "Mayo_2025":853662
+  "Mayo_2025":853662,
+  "Junio_2025":839799
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
@@ -39,11 +40,12 @@
   "Febrero_2025":1245155,
   "Marzo_2025":1368769,
   "Abril_2025":1495773,
-  "Mayo_2025":1352046
+  "Mayo_2025":1352046,
+  "Junio_2025":1566820
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":650246,
   "Febrero_2024":649541,
   "Marzo_2024":693000,
@@ -60,7 +62,8 @@
   "Febrero_2025":774486,
   "Marzo_2025":765598,
   "Abril_2025":668485,
-  "Mayo_2025":365282
+  "Mayo_2025":538298,
+  "Junio_2025":471951
  },
  {
   "organismo_nombre":"Municipalidad de San Felipe",
@@ -81,6 +84,7 @@
   "Febrero_2025":1970013,
   "Marzo_2025":2071980,
   "Abril_2025":2156998,
-  "Mayo_2025":1967803
+  "Mayo_2025":1967803,
+  "Junio_2025":2246151
  }
 ]

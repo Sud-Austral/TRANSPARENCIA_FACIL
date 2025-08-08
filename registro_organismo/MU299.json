@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":737,
   "Febrero_2024":666,
   "Marzo_2024":724,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro De La Paz",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":76,
   "Febrero_2024":244,
   "Marzo_2024":350,

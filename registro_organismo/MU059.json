@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coltauco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":329,
   "Febrero_2024":302,
   "Marzo_2024":296,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coltauco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":15,
   "Marzo_2024":14,

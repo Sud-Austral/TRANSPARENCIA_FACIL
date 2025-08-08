@@ -18,11 +18,12 @@
   "Febrero_2025":1939972,
   "Marzo_2025":2107093,
   "Abril_2025":2241169,
-  "Mayo_2025":2118817
+  "Mayo_2025":2118817,
+  "Junio_2025":2322107
  },
  {
   "organismo_nombre":"Servicio de Salud Arica y Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":747439,
   "Febrero_2024":743025,
   "Marzo_2024":790544,
@@ -39,7 +40,8 @@
   "Febrero_2025":738431,
   "Marzo_2025":784250,
   "Abril_2025":706115,
-  "Mayo_2025":799211
+  "Mayo_2025":799211,
+  "Junio_2025":846687
  },
  {
   "organismo_nombre":"Servicio de Salud Arica y Parinacota",
@@ -60,6 +62,7 @@
   "Febrero_2025":1957660,
   "Marzo_2025":2466203,
   "Abril_2025":1961804,
-  "Mayo_2025":1983258
+  "Mayo_2025":1983258,
+  "Junio_2025":2451539
  }
 ]

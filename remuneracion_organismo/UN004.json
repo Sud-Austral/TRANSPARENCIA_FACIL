@@ -18,11 +18,12 @@
   "Febrero_2025":1783603,
   "Marzo_2025":1793465,
   "Abril_2025":1831349,
-  "Mayo_2025":2050358
+  "Mayo_2025":2050358,
+  "Junio_2025":1809992
  },
  {
   "organismo_nombre":"Universidad de Atacama",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1188989,
   "Febrero_2024":1206053,
   "Marzo_2024":1527392,
@@ -39,7 +40,8 @@
   "Febrero_2025":999826,
   "Marzo_2025":999202,
   "Abril_2025":1161287,
-  "Mayo_2025":0
+  "Mayo_2025":969556,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Universidad de Atacama",
@@ -60,6 +62,7 @@
   "Febrero_2025":3381984,
   "Marzo_2025":3394402,
   "Abril_2025":3559523,
-  "Mayo_2025":3723977
+  "Mayo_2025":3723977,
+  "Junio_2025":3515939
  }
 ]

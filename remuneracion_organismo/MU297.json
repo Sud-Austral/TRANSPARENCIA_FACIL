@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Pedro",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":830200,
   "Febrero_2024":808853,
   "Marzo_2024":839460,
@@ -18,7 +18,8 @@
   "Febrero_2025":871893,
   "Marzo_2025":829417,
   "Abril_2025":859105,
-  "Mayo_2025":854405
+  "Mayo_2025":854405,
+  "Junio_2025":883695
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
@@ -39,11 +40,12 @@
   "Febrero_2025":1317892,
   "Marzo_2025":1294506,
   "Abril_2025":1488839,
-  "Mayo_2025":1416503
+  "Mayo_2025":1416503,
+  "Junio_2025":1464482
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":868477,
   "Febrero_2024":1096229,
   "Marzo_2024":1029408,
@@ -60,7 +62,8 @@
   "Febrero_2025":1337654,
   "Marzo_2025":1130426,
   "Abril_2025":1111392,
-  "Mayo_2025":1181927
+  "Mayo_2025":1181927,
+  "Junio_2025":990082
  },
  {
   "organismo_nombre":"Municipalidad de San Pedro",
@@ -81,6 +84,7 @@
   "Febrero_2025":1771770,
   "Marzo_2025":1767903,
   "Abril_2025":2079429,
-  "Mayo_2025":1975962
+  "Mayo_2025":1975962,
+  "Junio_2025":2016940
  }
 ]

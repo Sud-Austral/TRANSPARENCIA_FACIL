@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deporte de Estación Central Cormudep",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":899168,
   "Febrero_2024":934387,
   "Marzo_2024":875587,
@@ -18,11 +18,12 @@
   "Febrero_2025":1015813,
   "Marzo_2025":951869,
   "Abril_2025":998004,
-  "Mayo_2025":975935
+  "Mayo_2025":975935,
+  "Junio_2025":960848
  },
  {
   "organismo_nombre":"Corporación de Deporte de Estación Central Cormudep",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":477163,
   "Febrero_2024":536917,
   "Marzo_2024":494944,
@@ -39,6 +40,7 @@
   "Febrero_2025":547907,
   "Marzo_2025":356894,
   "Abril_2025":424852,
-  "Mayo_2025":444296
+  "Mayo_2025":444296,
+  "Junio_2025":475115
  }
 ]

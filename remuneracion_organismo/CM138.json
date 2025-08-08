@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Fomento Productivo de Curicó",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":525400,
   "Febrero_2024":525681,
   "Marzo_2024":525681,
@@ -18,11 +18,12 @@
   "Febrero_2025":553881,
   "Marzo_2025":554253,
   "Abril_2025":557376,
-  "Mayo_2025":554085
+  "Mayo_2025":554085,
+  "Junio_2025":560390
  },
  {
   "organismo_nombre":"Corporación Municipal de Fomento Productivo de Curicó",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1196938,
   "Febrero_2024":1133682,
   "Marzo_2024":1131897,
@@ -39,6 +40,7 @@
   "Febrero_2025":729219,
   "Marzo_2025":1116959,
   "Abril_2025":1174430,
-  "Mayo_2025":920971
+  "Mayo_2025":920971,
+  "Junio_2025":871700
  }
 ]

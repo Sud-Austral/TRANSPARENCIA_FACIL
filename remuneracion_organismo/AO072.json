@@ -18,11 +18,12 @@
   "Febrero_2025":1924022,
   "Marzo_2025":2032955,
   "Abril_2025":2001659,
-  "Mayo_2025":0
+  "Mayo_2025":1974044,
+  "Junio_2025":2108138
  },
  {
   "organismo_nombre":"Hospital Roberto del Río",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1361346,
   "Febrero_2024":1429370,
   "Marzo_2024":1432430,
@@ -39,7 +40,8 @@
   "Febrero_2025":1399615,
   "Marzo_2025":1432081,
   "Abril_2025":1427212,
-  "Mayo_2025":0
+  "Mayo_2025":1420170,
+  "Junio_2025":1272239
  },
  {
   "organismo_nombre":"Hospital Roberto del Río",
@@ -59,7 +61,8 @@
   "Enero_2025":1890582,
   "Febrero_2025":1883135,
   "Marzo_2025":2090118,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1920583,
+  "Mayo_2025":1881761,
+  "Junio_2025":2236569
  }
 ]

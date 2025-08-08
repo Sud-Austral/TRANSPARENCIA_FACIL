@@ -18,11 +18,12 @@
   "Febrero_2025":2174654,
   "Marzo_2025":3031631,
   "Abril_2025":1754017,
-  "Mayo_2025":1749023
+  "Mayo_2025":1749023,
+  "Junio_2025":3103719
  },
  {
   "organismo_nombre":"Servicio Nacional de Menores (SENAME)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1856368,
   "Febrero_2024":1728980,
   "Marzo_2024":1840955,
@@ -39,7 +40,8 @@
   "Febrero_2025":1995013,
   "Marzo_2025":2010096,
   "Abril_2025":2034742,
-  "Mayo_2025":1942799
+  "Mayo_2025":1942799,
+  "Junio_2025":1934878
  },
  {
   "organismo_nombre":"Servicio Nacional de Menores (SENAME)",
@@ -60,6 +62,7 @@
   "Febrero_2025":6462658,
   "Marzo_2025":8959121,
   "Abril_2025":5263132,
-  "Mayo_2025":5263132
+  "Mayo_2025":5263132,
+  "Junio_2025":9022220
  }
 ]

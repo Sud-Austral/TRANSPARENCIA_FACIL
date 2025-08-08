@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Quilaco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1142301,
   "Febrero_2024":845786,
   "Marzo_2024":802358,
@@ -18,7 +18,8 @@
   "Febrero_2025":878646,
   "Marzo_2025":899957,
   "Abril_2025":845422,
-  "Mayo_2025":856834
+  "Mayo_2025":856834,
+  "Junio_2025":893465
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
@@ -39,11 +40,12 @@
   "Febrero_2025":897412,
   "Marzo_2025":804709,
   "Abril_2025":889346,
-  "Mayo_2025":952516
+  "Mayo_2025":952516,
+  "Junio_2025":930102
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":836156,
   "Febrero_2024":835019,
   "Marzo_2024":831562,
@@ -57,10 +59,11 @@
   "Noviembre_2024":784362,
   "Diciembre_2024":794283,
   "Enero_2025":928427,
-  "Febrero_2025":737777,
-  "Marzo_2025":827756,
+  "Febrero_2025":716058,
+  "Marzo_2025":774872,
   "Abril_2025":807640,
-  "Mayo_2025":766227
+  "Mayo_2025":766227,
+  "Junio_2025":726096
  },
  {
   "organismo_nombre":"Municipalidad de Quilaco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1303155,
   "Marzo_2025":1319317,
   "Abril_2025":1557851,
-  "Mayo_2025":1566514
+  "Mayo_2025":1566514,
+  "Junio_2025":1560388
  }
 ]

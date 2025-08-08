@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Malloa",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":918453,
   "Febrero_2024":866569,
   "Marzo_2024":927271,
@@ -17,8 +17,9 @@
   "Enero_2025":1030277,
   "Febrero_2025":975149,
   "Marzo_2025":971618,
-  "Abril_2025":1948812,
-  "Mayo_2025":0
+  "Abril_2025":976876,
+  "Mayo_2025":1948812,
+  "Junio_2025":437671
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
@@ -38,12 +39,13 @@
   "Enero_2025":1479105,
   "Febrero_2025":1381563,
   "Marzo_2025":1335926,
-  "Abril_2025":1391592,
-  "Mayo_2025":0
+  "Abril_2025":1489648,
+  "Mayo_2025":1487597,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":879020,
   "Febrero_2024":913714,
   "Marzo_2024":1069535,
@@ -59,8 +61,9 @@
   "Enero_2025":930047,
   "Febrero_2025":995256,
   "Marzo_2025":1124081,
-  "Abril_2025":1256097,
-  "Mayo_2025":0
+  "Abril_2025":868864,
+  "Mayo_2025":907611,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Malloa",
@@ -80,7 +83,8 @@
   "Enero_2025":1962563,
   "Febrero_2025":1807306,
   "Marzo_2025":1845827,
-  "Abril_2025":1694100,
-  "Mayo_2025":0
+  "Abril_2025":2080294,
+  "Mayo_2025":2228799,
+  "Junio_2025":0
  }
 ]

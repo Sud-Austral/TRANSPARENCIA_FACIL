@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de María Pinto",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":979946,
   "Febrero_2024":944592,
   "Marzo_2024":817505,
@@ -18,7 +18,8 @@
   "Febrero_2025":1089346,
   "Marzo_2025":773478,
   "Abril_2025":1147320,
-  "Mayo_2025":1108076
+  "Mayo_2025":1108076,
+  "Junio_2025":1036055
  },
  {
   "organismo_nombre":"Municipalidad de María Pinto",
@@ -37,13 +38,14 @@
   "Diciembre_2024":1409385,
   "Enero_2025":1156956,
   "Febrero_2025":968853,
-  "Marzo_2025":1107168,
-  "Abril_2025":961743,
-  "Mayo_2025":1605192
+  "Marzo_2025":962075,
+  "Abril_2025":956946,
+  "Mayo_2025":1596679,
+  "Junio_2025":974223
  },
  {
   "organismo_nombre":"Municipalidad de María Pinto",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":796744,
   "Febrero_2024":1014150,
   "Marzo_2024":1014150,
@@ -60,7 +62,8 @@
   "Febrero_2025":1027636,
   "Marzo_2025":1059180,
   "Abril_2025":923857,
-  "Mayo_2025":931806
+  "Mayo_2025":931806,
+  "Junio_2025":966176
  },
  {
   "organismo_nombre":"Municipalidad de María Pinto",
@@ -79,8 +82,9 @@
   "Diciembre_2024":2062913,
   "Enero_2025":1906100,
   "Febrero_2025":1734375,
-  "Marzo_2025":1722791,
-  "Abril_2025":1685238,
-  "Mayo_2025":2783259
+  "Marzo_2025":1721918,
+  "Abril_2025":1685491,
+  "Mayo_2025":2783259,
+  "Junio_2025":1763344
  }
 ]

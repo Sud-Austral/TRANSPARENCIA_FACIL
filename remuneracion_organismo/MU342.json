@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":899671,
   "Febrero_2024":922771,
   "Marzo_2024":584835,
@@ -18,7 +18,8 @@
   "Febrero_2025":986730,
   "Marzo_2025":943123,
   "Abril_2025":975395,
-  "Mayo_2025":989565
+  "Mayo_2025":989565,
+  "Junio_2025":994353
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
@@ -39,11 +40,12 @@
   "Febrero_2025":1358029,
   "Marzo_2025":1437830,
   "Abril_2025":1429873,
-  "Mayo_2025":1473561
+  "Mayo_2025":1473561,
+  "Junio_2025":1483103
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":655099,
   "Febrero_2024":576738,
   "Marzo_2024":751437,
@@ -60,7 +62,8 @@
   "Febrero_2025":909219,
   "Marzo_2025":912946,
   "Abril_2025":953208,
-  "Mayo_2025":1026927
+  "Mayo_2025":923511,
+  "Junio_2025":986666
  },
  {
   "organismo_nombre":"Municipalidad de Yerbas Buenas",
@@ -81,6 +84,7 @@
   "Febrero_2025":1836717,
   "Marzo_2025":2031706,
   "Abril_2025":1869912,
-  "Mayo_2025":1979319
+  "Mayo_2025":1979319,
+  "Junio_2025":2020480
  }
 ]

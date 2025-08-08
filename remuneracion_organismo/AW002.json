@@ -18,11 +18,12 @@
   "Febrero_2025":3096244,
   "Marzo_2025":3102420,
   "Abril_2025":3091413,
-  "Mayo_2025":3092285
+  "Mayo_2025":3092361,
+  "Junio_2025":3126416
  },
  {
   "organismo_nombre":"Subsecretaría del Medio Ambiente (MMA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1883295,
   "Febrero_2024":1856736,
   "Marzo_2024":1925763,
@@ -39,7 +40,8 @@
   "Febrero_2025":1942288,
   "Marzo_2025":1889726,
   "Abril_2025":1823454,
-  "Mayo_2025":2007795
+  "Mayo_2025":2007795,
+  "Junio_2025":2038973
  },
  {
   "organismo_nombre":"Subsecretaría del Medio Ambiente (MMA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":4606095,
   "Marzo_2025":4652936,
   "Abril_2025":4654369,
-  "Mayo_2025":4654958
+  "Mayo_2025":4654958,
+  "Junio_2025":4545364
  }
 ]

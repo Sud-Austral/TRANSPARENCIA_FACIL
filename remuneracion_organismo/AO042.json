@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1100000,
   "Febrero_2024":1104990,
   "Marzo_2024":1129301,
@@ -18,7 +18,8 @@
   "Febrero_2025":650000,
   "Marzo_2025":433333,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
@@ -39,11 +40,12 @@
   "Febrero_2025":2064877,
   "Marzo_2025":5207389,
   "Abril_2025":2071059,
-  "Mayo_2025":2082882
+  "Mayo_2025":2082882,
+  "Junio_2025":2652082
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1942644,
   "Febrero_2024":1942644,
   "Marzo_2024":1942644,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Atacama",
@@ -81,6 +84,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":5883785
  }
 ]

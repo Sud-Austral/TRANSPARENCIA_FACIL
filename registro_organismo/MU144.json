@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lo Barnechea",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":260,
   "Febrero_2024":288,
   "Marzo_2024":284,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lo Barnechea",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":362,
   "Febrero_2024":374,
   "Marzo_2024":415,

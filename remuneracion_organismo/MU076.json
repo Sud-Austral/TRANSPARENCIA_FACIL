@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":535836,
   "Febrero_2024":535836,
   "Marzo_2024":535836,
@@ -18,7 +18,8 @@
   "Febrero_2025":860548,
   "Marzo_2025":790377,
   "Abril_2025":688571,
-  "Mayo_2025":808902
+  "Mayo_2025":806104,
+  "Junio_2025":972552
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
@@ -39,11 +40,12 @@
   "Febrero_2025":1231322,
   "Marzo_2025":1295413,
   "Abril_2025":1502536,
-  "Mayo_2025":1217279
+  "Mayo_2025":1268615,
+  "Junio_2025":1507300
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":664653,
   "Febrero_2024":641547,
   "Marzo_2024":838535,
@@ -60,7 +62,8 @@
   "Febrero_2025":765395,
   "Marzo_2025":923078,
   "Abril_2025":718649,
-  "Mayo_2025":632176
+  "Mayo_2025":632176,
+  "Junio_2025":695940
  },
  {
   "organismo_nombre":"Municipalidad de Curarrehue",
@@ -81,6 +84,7 @@
   "Febrero_2025":1985792,
   "Marzo_2025":1946507,
   "Abril_2025":2234549,
-  "Mayo_2025":1978712
+  "Mayo_2025":2172557,
+  "Junio_2025":2274927
  }
 ]

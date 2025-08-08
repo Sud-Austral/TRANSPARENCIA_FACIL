@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Turismo de Vicuña",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":888954,
   "Febrero_2024":866662,
   "Marzo_2024":769225,
@@ -18,11 +18,12 @@
   "Febrero_2025":1055766,
   "Marzo_2025":877485,
   "Abril_2025":1090710,
-  "Mayo_2025":0
+  "Mayo_2025":1052359,
+  "Junio_2025":1231335
  },
  {
   "organismo_nombre":"Corporación Municipal de Turismo de Vicuña",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":0,
   "Marzo_2025":0,
   "Abril_2025":241228,
-  "Mayo_2025":0
+  "Mayo_2025":128655,
+  "Junio_2025":609914
  }
 ]

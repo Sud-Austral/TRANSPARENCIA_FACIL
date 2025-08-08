@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Consejo Fiscal Autónomo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4293423,
   "Febrero_2024":3965623,
   "Marzo_2024":4293423,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Consejo Fiscal Autónomo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2457714,
   "Febrero_2024":2347603,
   "Marzo_2024":2436485,

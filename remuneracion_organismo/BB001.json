@@ -18,11 +18,12 @@
   "Febrero_2025":2694667,
   "Marzo_2025":2721880,
   "Abril_2025":2169567,
-  "Mayo_2025":2159433
+  "Mayo_2025":2159433,
+  "Junio_2025":3899616
  },
  {
   "organismo_nombre":"Subsecretaría de la Mujer y la Equidad de Género",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2661403,
   "Febrero_2024":2564028,
   "Marzo_2024":2594378,
@@ -39,7 +40,8 @@
   "Febrero_2025":2496655,
   "Marzo_2025":2528334,
   "Abril_2025":2731733,
-  "Mayo_2025":2731733
+  "Mayo_2025":2731733,
+  "Junio_2025":2731733
  },
  {
   "organismo_nombre":"Subsecretaría de la Mujer y la Equidad de Género",
@@ -60,6 +62,7 @@
   "Febrero_2025":4262158,
   "Marzo_2025":4231542,
   "Abril_2025":3403754,
-  "Mayo_2025":3359851
+  "Mayo_2025":3359851,
+  "Junio_2025":5649703
  }
 ]

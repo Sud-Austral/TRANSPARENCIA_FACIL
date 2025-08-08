@@ -18,11 +18,12 @@
   "Febrero_2025":1755881,
   "Marzo_2025":2331116,
   "Abril_2025":2195205,
-  "Mayo_2025":0
+  "Mayo_2025":2446945,
+  "Junio_2025":2230741
  },
  {
   "organismo_nombre":"Servicio Nacional de Protección Especializada a la Niñez y Adolescencia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1375585,
   "Febrero_2024":1392910,
   "Marzo_2024":1448664,
@@ -39,7 +40,8 @@
   "Febrero_2025":1608821,
   "Marzo_2025":1394758,
   "Abril_2025":1324369,
-  "Mayo_2025":0
+  "Mayo_2025":1421723,
+  "Junio_2025":1427068
  },
  {
   "organismo_nombre":"Servicio Nacional de Protección Especializada a la Niñez y Adolescencia",
@@ -60,6 +62,7 @@
   "Febrero_2025":5528494,
   "Marzo_2025":6857914,
   "Abril_2025":7042589,
-  "Mayo_2025":0
+  "Mayo_2025":6842519,
+  "Junio_2025":6856745
  }
 ]

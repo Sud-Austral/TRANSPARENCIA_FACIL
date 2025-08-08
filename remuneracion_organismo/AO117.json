@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1201091,
   "Febrero_2024":1022768,
   "Marzo_2024":1092298,
@@ -18,7 +18,8 @@
   "Febrero_2025":1179876,
   "Marzo_2025":1179876,
   "Abril_2025":1179876,
-  "Mayo_2025":1166031
+  "Mayo_2025":1166031,
+  "Junio_2025":813449
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
@@ -39,11 +40,12 @@
   "Febrero_2025":2033522,
   "Marzo_2025":5315503,
   "Abril_2025":2009945,
-  "Mayo_2025":2022015
+  "Mayo_2025":2022015,
+  "Junio_2025":2573151
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":569801,
   "Febrero_2024":569801,
   "Marzo_2024":569801,
@@ -60,7 +62,8 @@
   "Febrero_2025":0,
   "Marzo_2025":3500000,
   "Abril_2025":3500000,
-  "Mayo_2025":3500000
+  "Mayo_2025":3500000,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"SEREMI de Salud del Ñuble",
@@ -81,6 +84,7 @@
   "Febrero_2025":3598489,
   "Marzo_2025":6740493,
   "Abril_2025":3598489,
-  "Mayo_2025":3598489
+  "Mayo_2025":3598489,
+  "Junio_2025":4180758
  }
 ]

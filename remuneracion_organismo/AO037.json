@@ -18,11 +18,12 @@
   "Febrero_2025":2023004,
   "Marzo_2025":2459767,
   "Abril_2025":2117607,
-  "Mayo_2025":0
+  "Mayo_2025":2173499,
+  "Junio_2025":2480007
  },
  {
   "organismo_nombre":"Servicio de Salud del Reloncaví",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":759336,
   "Febrero_2024":2169394,
   "Marzo_2024":1129001,
@@ -39,7 +40,8 @@
   "Febrero_2025":1359225,
   "Marzo_2025":1267430,
   "Abril_2025":1199403,
-  "Mayo_2025":0
+  "Mayo_2025":1065801,
+  "Junio_2025":1065708
  },
  {
   "organismo_nombre":"Servicio de Salud del Reloncaví",
@@ -60,6 +62,7 @@
   "Febrero_2025":1945138,
   "Marzo_2025":3136618,
   "Abril_2025":1946081,
-  "Mayo_2025":0
+  "Mayo_2025":1938856,
+  "Junio_2025":3169419
  }
 ]

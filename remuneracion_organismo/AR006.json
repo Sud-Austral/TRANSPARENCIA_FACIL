@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1603622,
   "Febrero_2024":1289176,
   "Marzo_2024":1323169,
@@ -18,7 +18,8 @@
   "Febrero_2025":1408956,
   "Marzo_2025":1397475,
   "Abril_2025":1398719,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":1394759
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2263328,
   "Marzo_2025":2259452,
   "Abril_2025":1846142,
-  "Mayo_2025":1825574
+  "Mayo_2025":1825574,
+  "Junio_2025":3187548
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":853323,
   "Febrero_2024":860824,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":879816,
   "Marzo_2025":869294,
   "Abril_2025":870004,
-  "Mayo_2025":901687
+  "Mayo_2025":901687,
+  "Junio_2025":921083
  },
  {
   "organismo_nombre":"Servicio Agrícola y Ganadero (SAG)",
@@ -81,6 +84,7 @@
   "Febrero_2025":5069235,
   "Marzo_2025":5240882,
   "Abril_2025":4277292,
-  "Mayo_2025":4232474
+  "Mayo_2025":4232474,
+  "Junio_2025":7070545
  }
 ]

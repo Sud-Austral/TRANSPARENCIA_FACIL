@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Carabineros de Chile",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":1531,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Carabineros de Chile",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":63,

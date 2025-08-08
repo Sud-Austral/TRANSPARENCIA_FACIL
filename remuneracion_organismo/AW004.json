@@ -18,11 +18,12 @@
   "Febrero_2025":2832486,
   "Marzo_2025":3249479,
   "Abril_2025":3254862,
-  "Mayo_2025":2829988
+  "Mayo_2025":2829988,
+  "Junio_2025":3247088
  },
  {
   "organismo_nombre":"Servicio de Evaluación Ambiental (SEA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2086537,
   "Febrero_2024":2059188,
   "Marzo_2024":2031498,
@@ -39,7 +40,8 @@
   "Febrero_2025":2014149,
   "Marzo_2025":2017164,
   "Abril_2025":2018557,
-  "Mayo_2025":2006446
+  "Mayo_2025":2006446,
+  "Junio_2025":1995380
  },
  {
   "organismo_nombre":"Servicio de Evaluación Ambiental (SEA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5224063,
   "Marzo_2025":5951533,
   "Abril_2025":5871019,
-  "Mayo_2025":5934125
+  "Mayo_2025":5934125,
+  "Junio_2025":5927987
  }
 ]

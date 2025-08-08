@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Huara",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":720520,
   "Febrero_2024":725762,
   "Marzo_2024":1017796,
@@ -18,7 +18,8 @@
   "Febrero_2025":796704,
   "Marzo_2025":1011375,
   "Abril_2025":740879,
-  "Mayo_2025":825885
+  "Mayo_2025":825885,
+  "Junio_2025":1012998
  },
  {
   "organismo_nombre":"Municipalidad de Huara",
@@ -39,11 +40,12 @@
   "Febrero_2025":1827931,
   "Marzo_2025":1816342,
   "Abril_2025":1886016,
-  "Mayo_2025":1889240
+  "Mayo_2025":1889240,
+  "Junio_2025":2052153
  },
  {
   "organismo_nombre":"Municipalidad de Huara",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":748985,
   "Febrero_2024":720228,
   "Marzo_2024":652339,
@@ -60,7 +62,8 @@
   "Febrero_2025":917390,
   "Marzo_2025":704007,
   "Abril_2025":738821,
-  "Mayo_2025":717956
+  "Mayo_2025":717956,
+  "Junio_2025":800971
  },
  {
   "organismo_nombre":"Municipalidad de Huara",
@@ -81,6 +84,7 @@
   "Febrero_2025":1919579,
   "Marzo_2025":2270508,
   "Abril_2025":2187579,
-  "Mayo_2025":1932161
+  "Mayo_2025":1932161,
+  "Junio_2025":2486224
  }
 ]

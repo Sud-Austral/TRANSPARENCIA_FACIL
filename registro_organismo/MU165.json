@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Marchige",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":177,
   "Febrero_2024":180,
   "Marzo_2024":192,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Marchige",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":146,
   "Febrero_2024":152,
   "Marzo_2024":157,

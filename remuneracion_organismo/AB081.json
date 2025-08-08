@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4696018,
   "Febrero_2024":4696018,
   "Marzo_2024":4696018,
@@ -18,7 +18,8 @@
   "Febrero_2025":4919416,
   "Marzo_2025":4919416,
   "Abril_2025":4919416,
-  "Mayo_2025":4919416
+  "Mayo_2025":4919416,
+  "Junio_2025":4950901
  },
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2981932,
   "Marzo_2025":2977077,
   "Abril_2025":3006200,
-  "Mayo_2025":3003502
+  "Mayo_2025":3003502,
+  "Junio_2025":3024167
  },
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2274993,
   "Febrero_2024":2249632,
   "Marzo_2024":2346683,
@@ -60,7 +62,8 @@
   "Febrero_2025":2428265,
   "Marzo_2025":2420689,
   "Abril_2025":2357438,
-  "Mayo_2025":2396107
+  "Mayo_2025":2396107,
+  "Junio_2025":2401616
  },
  {
   "organismo_nombre":"Gobierno Regional Metropolitano de Santiago  (GORE Metropolitano)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4598014,
   "Marzo_2025":4615950,
   "Abril_2025":4617174,
-  "Mayo_2025":4619127
+  "Mayo_2025":4619127,
+  "Junio_2025":4287795
  }
 ]

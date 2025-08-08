@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Andacollo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1144275,
   "Febrero_2024":915420,
   "Marzo_2024":1144275,
@@ -18,7 +18,8 @@
   "Febrero_2025":1192335,
   "Marzo_2025":1192335,
   "Abril_2025":1192335,
-  "Mayo_2025":1192335
+  "Mayo_2025":1192335,
+  "Junio_2025":1192335
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
@@ -39,11 +40,12 @@
   "Febrero_2025":925350,
   "Marzo_2025":938791,
   "Abril_2025":876955,
-  "Mayo_2025":1447595
+  "Mayo_2025":1447595,
+  "Junio_2025":928573
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":673601,
   "Febrero_2024":631593,
   "Marzo_2024":668604,
@@ -60,7 +62,8 @@
   "Febrero_2025":706763,
   "Marzo_2025":696622,
   "Abril_2025":680751,
-  "Mayo_2025":707677
+  "Mayo_2025":700268,
+  "Junio_2025":675465
  },
  {
   "organismo_nombre":"Municipalidad de Andacollo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1950745,
   "Marzo_2025":1910766,
   "Abril_2025":1922370,
-  "Mayo_2025":2893375
+  "Mayo_2025":2893375,
+  "Junio_2025":2201536
  }
 ]

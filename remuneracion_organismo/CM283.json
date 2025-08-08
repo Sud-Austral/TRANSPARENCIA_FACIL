@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deportes de San Clemente",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":672837,
   "Febrero_2024":663620,
   "Marzo_2024":636944,
@@ -18,11 +18,12 @@
   "Febrero_2025":689122,
   "Marzo_2025":820605,
   "Abril_2025":777536,
-  "Mayo_2025":796145
+  "Mayo_2025":796145,
+  "Junio_2025":772486
  },
  {
   "organismo_nombre":"Corporación de Deportes de San Clemente",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":272045,
   "Febrero_2024":304894,
   "Marzo_2024":341925,
@@ -39,6 +40,7 @@
   "Febrero_2025":347097,
   "Marzo_2025":268434,
   "Abril_2025":300978,
-  "Mayo_2025":280424
+  "Mayo_2025":280424,
+  "Junio_2025":258980
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cerrillos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":503,
   "Febrero_2024":524,
   "Marzo_2024":133,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Cerrillos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":161,
   "Febrero_2024":473,
   "Marzo_2024":421,

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1486856,
   "Febrero_2024":1311000,
   "Marzo_2024":1205335,
@@ -18,7 +18,8 @@
   "Febrero_2025":1733927,
   "Marzo_2025":1652255,
   "Abril_2025":1644368,
-  "Mayo_2025":1630058
+  "Mayo_2025":1524286,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1361396,
   "Marzo_2025":1412924,
   "Abril_2025":1771189,
-  "Mayo_2025":1400359
+  "Mayo_2025":1400359,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":778971,
   "Febrero_2024":779275,
   "Marzo_2024":821679,
@@ -59,8 +61,9 @@
   "Enero_2025":860147,
   "Febrero_2025":761442,
   "Marzo_2025":0,
-  "Abril_2025":834020,
-  "Mayo_2025":0
+  "Abril_2025":830828,
+  "Mayo_2025":887228,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Educación y Salud de San Bernardo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1758166,
   "Marzo_2025":1842547,
   "Abril_2025":2478482,
-  "Mayo_2025":1747834
+  "Mayo_2025":1747834,
+  "Junio_2025":0
  }
 ]

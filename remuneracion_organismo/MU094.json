@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Frutillar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":826402,
   "Febrero_2024":869412,
   "Marzo_2024":784569,
@@ -18,7 +18,8 @@
   "Febrero_2025":990142,
   "Marzo_2025":1025158,
   "Abril_2025":944250,
-  "Mayo_2025":928036
+  "Mayo_2025":928036,
+  "Junio_2025":961785
  },
  {
   "organismo_nombre":"Municipalidad de Frutillar",
@@ -39,11 +40,12 @@
   "Febrero_2025":1392370,
   "Marzo_2025":1416466,
   "Abril_2025":1578370,
-  "Mayo_2025":1590154
+  "Mayo_2025":1590154,
+  "Junio_2025":1609352
  },
  {
   "organismo_nombre":"Municipalidad de Frutillar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":707135,
   "Febrero_2024":668358,
   "Marzo_2024":622634,
@@ -57,10 +59,11 @@
   "Noviembre_2024":637007,
   "Diciembre_2024":393234,
   "Enero_2025":691484,
-  "Febrero_2025":556469,
-  "Marzo_2025":638518,
-  "Abril_2025":648852,
-  "Mayo_2025":619197
+  "Febrero_2025":588497,
+  "Marzo_2025":651807,
+  "Abril_2025":683570,
+  "Mayo_2025":733987,
+  "Junio_2025":660440
  },
  {
   "organismo_nombre":"Municipalidad de Frutillar",
@@ -81,6 +84,7 @@
   "Febrero_2025":2130584,
   "Marzo_2025":2165481,
   "Abril_2025":2653354,
-  "Mayo_2025":2438610
+  "Mayo_2025":2438610,
+  "Junio_2025":2665569
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cunco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1180023,
   "Febrero_2024":901817,
   "Marzo_2024":925492,
@@ -18,7 +18,8 @@
   "Febrero_2025":978113,
   "Marzo_2025":810526,
   "Abril_2025":882640,
-  "Mayo_2025":826268
+  "Mayo_2025":826268,
+  "Junio_2025":1057799
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1335119,
   "Marzo_2025":1327143,
   "Abril_2025":1446205,
-  "Mayo_2025":1476954
+  "Mayo_2025":1449376,
+  "Junio_2025":1484840
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":772338,
   "Febrero_2024":724988,
   "Marzo_2024":701335,
@@ -60,7 +62,8 @@
   "Febrero_2025":894982,
   "Marzo_2025":813085,
   "Abril_2025":790418,
-  "Mayo_2025":832630
+  "Mayo_2025":788138,
+  "Junio_2025":833888
  },
  {
   "organismo_nombre":"Municipalidad de Cunco",
@@ -81,6 +84,7 @@
   "Febrero_2025":1971760,
   "Marzo_2025":1917598,
   "Abril_2025":2156373,
-  "Mayo_2025":2264936
+  "Mayo_2025":2187385,
+  "Junio_2025":2168122
  }
 ]

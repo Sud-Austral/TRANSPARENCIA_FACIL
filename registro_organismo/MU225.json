@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Porvenir",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":5,
   "Febrero_2024":5,
   "Marzo_2024":5,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Porvenir",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":19,
   "Febrero_2024":38,
   "Marzo_2024":32,

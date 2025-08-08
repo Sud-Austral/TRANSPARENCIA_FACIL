@@ -18,11 +18,12 @@
   "Febrero_2025":2912663,
   "Marzo_2025":5117843,
   "Abril_2025":2939297,
-  "Mayo_2025":2903793
+  "Mayo_2025":2903793,
+  "Junio_2025":5119221
  },
  {
   "organismo_nombre":"Subsecretaría de Energía",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2350439,
   "Febrero_2024":2376783,
   "Marzo_2024":2295727,
@@ -39,7 +40,8 @@
   "Febrero_2025":2438158,
   "Marzo_2025":2588101,
   "Abril_2025":2554192,
-  "Mayo_2025":2765548
+  "Mayo_2025":2765548,
+  "Junio_2025":2388849
  },
  {
   "organismo_nombre":"Subsecretaría de Energía",
@@ -60,6 +62,7 @@
   "Febrero_2025":4386093,
   "Marzo_2025":6881153,
   "Abril_2025":4607473,
-  "Mayo_2025":4353816
+  "Mayo_2025":4353816,
+  "Junio_2025":7195763
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1218922,
   "Febrero_2024":1101984,
   "Marzo_2024":1383543,
@@ -18,7 +18,8 @@
   "Febrero_2025":1088613,
   "Marzo_2025":1129551,
   "Abril_2025":1115219,
-  "Mayo_2025":1110441
+  "Mayo_2025":1110441,
+  "Junio_2025":1170436
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
@@ -28,7 +29,7 @@
   "Marzo_2024":1199413,
   "Abril_2024":1287205,
   "Mayo_2024":1745236,
-  "Junio_2024":1357690,
+  "Junio_2024":1365912,
   "Julio_2024":1533356,
   "Agosto_2024":1261539,
   "Septiembre_2024":1341406,
@@ -39,11 +40,12 @@
   "Febrero_2025":1374131,
   "Marzo_2025":1406740,
   "Abril_2025":1531260,
-  "Mayo_2025":1688801
+  "Mayo_2025":1688801,
+  "Junio_2025":1619230
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":822059,
   "Febrero_2024":822312,
   "Marzo_2024":830789,
@@ -60,7 +62,8 @@
   "Febrero_2025":841839,
   "Marzo_2025":838171,
   "Abril_2025":879758,
-  "Mayo_2025":875976
+  "Mayo_2025":937698,
+  "Junio_2025":895159
  },
  {
   "organismo_nombre":"Municipalidad de Alto del Carmen",
@@ -81,6 +84,7 @@
   "Febrero_2025":1904401,
   "Marzo_2025":1908372,
   "Abril_2025":2240932,
-  "Mayo_2025":2443426
+  "Mayo_2025":2415832,
+  "Junio_2025":2104384
  }
 ]

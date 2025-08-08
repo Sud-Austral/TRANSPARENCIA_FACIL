@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -18,7 +18,8 @@
   "Febrero_2025":1047021,
   "Marzo_2025":919049,
   "Abril_2025":997672,
-  "Mayo_2025":882193
+  "Mayo_2025":882193,
+  "Junio_2025":994451
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
@@ -39,11 +40,12 @@
   "Febrero_2025":1296802,
   "Marzo_2025":1358999,
   "Abril_2025":1410788,
-  "Mayo_2025":1304170
+  "Mayo_2025":1304170,
+  "Junio_2025":1438677
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -60,7 +62,8 @@
   "Febrero_2025":891049,
   "Marzo_2025":928552,
   "Abril_2025":974231,
-  "Mayo_2025":932258
+  "Mayo_2025":971509,
+  "Junio_2025":934949
  },
  {
   "organismo_nombre":"Municipalidad de Puchuncaví",
@@ -81,6 +84,7 @@
   "Febrero_2025":2060464,
   "Marzo_2025":2053960,
   "Abril_2025":2350790,
-  "Mayo_2025":2150231
+  "Mayo_2025":2150231,
+  "Junio_2025":2252775
  }
 ]

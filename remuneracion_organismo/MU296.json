@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Pablo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1325141,
   "Febrero_2024":907499,
   "Marzo_2024":881250,
@@ -18,7 +18,8 @@
   "Febrero_2025":989937,
   "Marzo_2025":937065,
   "Abril_2025":849929,
-  "Mayo_2025":0
+  "Mayo_2025":835778,
+  "Junio_2025":933943
  },
  {
   "organismo_nombre":"Municipalidad de San Pablo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1030087,
   "Marzo_2025":1083384,
   "Abril_2025":1153704,
-  "Mayo_2025":0
+  "Mayo_2025":1244277,
+  "Junio_2025":1173012
  },
  {
   "organismo_nombre":"Municipalidad de San Pablo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":833570,
   "Febrero_2024":737601,
   "Marzo_2024":771923,
@@ -58,9 +60,10 @@
   "Diciembre_2024":617053,
   "Enero_2025":618890,
   "Febrero_2025":731554,
-  "Marzo_2025":865845,
-  "Abril_2025":834184,
-  "Mayo_2025":0
+  "Marzo_2025":847143,
+  "Abril_2025":766441,
+  "Mayo_2025":726377,
+  "Junio_2025":780212
  },
  {
   "organismo_nombre":"Municipalidad de San Pablo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1764323,
   "Marzo_2025":1877169,
   "Abril_2025":2133603,
-  "Mayo_2025":0
+  "Mayo_2025":1984066,
+  "Junio_2025":2160462
  }
 ]

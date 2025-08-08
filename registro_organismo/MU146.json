@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lo Prado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":54,
   "Febrero_2024":55,
   "Marzo_2024":54,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lo Prado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":164,
   "Febrero_2024":189,
   "Marzo_2024":190,

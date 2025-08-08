@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Molina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":583,
   "Febrero_2024":566,
   "Marzo_2024":579,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Molina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":111,
   "Febrero_2024":187,
   "Marzo_2024":205,

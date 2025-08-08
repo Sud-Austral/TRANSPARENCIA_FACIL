@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1261455,
   "Febrero_2024":1261455,
   "Marzo_2024":1928367,
@@ -18,7 +18,8 @@
   "Febrero_2025":1314436,
   "Marzo_2025":2099870,
   "Abril_2025":1314436,
-  "Mayo_2025":1314436
+  "Mayo_2025":1314436,
+  "Junio_2025":2021242
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
@@ -39,11 +40,12 @@
   "Febrero_2025":1655146,
   "Marzo_2025":2338416,
   "Abril_2025":1686430,
-  "Mayo_2025":2354203
+  "Mayo_2025":2354203,
+  "Junio_2025":2408778
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":658858,
   "Febrero_2024":673206,
   "Marzo_2024":682747,
@@ -60,7 +62,8 @@
   "Febrero_2025":737282,
   "Marzo_2025":726211,
   "Abril_2025":717654,
-  "Mayo_2025":717654
+  "Mayo_2025":717654,
+  "Junio_2025":715589
  },
  {
   "organismo_nombre":"Municipalidad de Guaitecas",
@@ -81,6 +84,7 @@
   "Febrero_2025":3194068,
   "Marzo_2025":3918790,
   "Abril_2025":3245554,
-  "Mayo_2025":4358349
+  "Mayo_2025":4358349,
+  "Junio_2025":3965770
  }
 ]

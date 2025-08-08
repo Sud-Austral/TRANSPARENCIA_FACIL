@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":12,
   "Febrero_2024":12,
   "Marzo_2024":12,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puqueldón",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":45,
   "Febrero_2024":70,
   "Marzo_2024":31,

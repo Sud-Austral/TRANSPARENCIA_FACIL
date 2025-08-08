@@ -18,11 +18,12 @@
   "Febrero_2025":1626669,
   "Marzo_2025":1972556,
   "Abril_2025":1785339,
-  "Mayo_2025":1797885
+  "Mayo_2025":1797885,
+  "Junio_2025":1993313
  },
  {
   "organismo_nombre":"SERVICIO DE SALUD ARAUCANIA NORTE",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1112545,
   "Febrero_2024":1216532,
   "Marzo_2024":960944,
@@ -39,7 +40,8 @@
   "Febrero_2025":2023596,
   "Marzo_2025":1388912,
   "Abril_2025":1883123,
-  "Mayo_2025":907348
+  "Mayo_2025":907348,
+  "Junio_2025":1097190
  },
  {
   "organismo_nombre":"SERVICIO DE SALUD ARAUCANIA NORTE",
@@ -60,6 +62,7 @@
   "Febrero_2025":1681775,
   "Marzo_2025":2724300,
   "Abril_2025":1662392,
-  "Mayo_2025":1654546
+  "Mayo_2025":1654546,
+  "Junio_2025":2715226
  }
 ]

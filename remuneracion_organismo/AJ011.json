@@ -18,11 +18,12 @@
   "Febrero_2025":2875397,
   "Marzo_2025":3360833,
   "Abril_2025":2642587,
-  "Mayo_2025":2893477
+  "Mayo_2025":2893477,
+  "Junio_2025":3431087
  },
  {
   "organismo_nombre":"Superintendencia de Educación Dirección Nacional",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1103359,
   "Febrero_2024":1229195,
   "Marzo_2024":1051217,
@@ -39,7 +40,8 @@
   "Febrero_2025":1242661,
   "Marzo_2025":1277258,
   "Abril_2025":1344656,
-  "Mayo_2025":1320142
+  "Mayo_2025":1320142,
+  "Junio_2025":1125930
  },
  {
   "organismo_nombre":"Superintendencia de Educación Dirección Nacional",
@@ -60,6 +62,7 @@
   "Febrero_2025":3649872,
   "Marzo_2025":4174054,
   "Abril_2025":3283141,
-  "Mayo_2025":3562955
+  "Mayo_2025":3562955,
+  "Junio_2025":4175390
  }
 ]

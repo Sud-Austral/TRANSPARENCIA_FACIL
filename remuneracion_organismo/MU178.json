@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1163512,
   "Febrero_2024":849368,
   "Marzo_2024":865434,
@@ -18,7 +18,8 @@
   "Febrero_2025":908091,
   "Marzo_2025":825737,
   "Abril_2025":856183,
-  "Mayo_2025":827874
+  "Mayo_2025":827874,
+  "Junio_2025":840110
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
@@ -39,11 +40,12 @@
   "Febrero_2025":1368347,
   "Marzo_2025":1362951,
   "Abril_2025":1362344,
-  "Mayo_2025":1508503
+  "Mayo_2025":1508503,
+  "Junio_2025":1484211
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1069259,
   "Febrero_2024":1044077,
   "Marzo_2024":1203492,
@@ -60,7 +62,8 @@
   "Febrero_2025":1352017,
   "Marzo_2025":1161844,
   "Abril_2025":1119071,
-  "Mayo_2025":731561
+  "Mayo_2025":731561,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Nacimiento",
@@ -81,6 +84,7 @@
   "Febrero_2025":2055154,
   "Marzo_2025":2077357,
   "Abril_2025":2220329,
-  "Mayo_2025":2334645
+  "Mayo_2025":2334645,
+  "Junio_2025":2256264
  }
 ]

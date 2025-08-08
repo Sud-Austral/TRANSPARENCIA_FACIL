@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":492,
   "Febrero_2024":493,
   "Marzo_2024":523,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Tocopilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":57,
   "Febrero_2024":141,
   "Marzo_2024":148,

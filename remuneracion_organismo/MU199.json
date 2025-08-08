@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Palmilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1239591,
   "Febrero_2024":896039,
   "Marzo_2024":790065,
@@ -18,7 +18,8 @@
   "Febrero_2025":947554,
   "Marzo_2025":844590,
   "Abril_2025":826904,
-  "Mayo_2025":768336
+  "Mayo_2025":768336,
+  "Junio_2025":849992
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
@@ -38,12 +39,13 @@
   "Enero_2025":994740,
   "Febrero_2025":864138,
   "Marzo_2025":847839,
-  "Abril_2025":764291,
-  "Mayo_2025":635539
+  "Abril_2025":958434,
+  "Mayo_2025":872880,
+  "Junio_2025":950912
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":836532,
   "Febrero_2024":842751,
   "Marzo_2024":878129,
@@ -59,8 +61,9 @@
   "Enero_2025":896513,
   "Febrero_2025":930199,
   "Marzo_2025":951093,
-  "Abril_2025":788188,
-  "Mayo_2025":643275
+  "Abril_2025":806533,
+  "Mayo_2025":823729,
+  "Junio_2025":898048
  },
  {
   "organismo_nombre":"Municipalidad de Palmilla",
@@ -78,9 +81,10 @@
   "Noviembre_2024":1579079,
   "Diciembre_2024":1879649,
   "Enero_2025":1905351,
-  "Febrero_2025":1640280,
-  "Marzo_2025":1787225,
-  "Abril_2025":1665173,
-  "Mayo_2025":1673797
+  "Febrero_2025":1664830,
+  "Marzo_2025":1728244,
+  "Abril_2025":1944776,
+  "Mayo_2025":1706524,
+  "Junio_2025":1957325
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Freirina",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":744223,
   "Febrero_2024":758743,
   "Marzo_2024":758743,
@@ -18,7 +18,8 @@
   "Febrero_2025":805381,
   "Marzo_2025":976134,
   "Abril_2025":745666,
-  "Mayo_2025":835904
+  "Mayo_2025":835904,
+  "Junio_2025":843423
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
@@ -39,11 +40,12 @@
   "Febrero_2025":1249815,
   "Marzo_2025":1366691,
   "Abril_2025":1411528,
-  "Mayo_2025":1959376
+  "Mayo_2025":1959376,
+  "Junio_2025":1454292
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":719475,
   "Febrero_2024":689334,
   "Marzo_2024":725047,
@@ -60,7 +62,8 @@
   "Febrero_2025":799373,
   "Marzo_2025":827382,
   "Abril_2025":799642,
-  "Mayo_2025":723287
+  "Mayo_2025":723287,
+  "Junio_2025":784880
  },
  {
   "organismo_nombre":"Municipalidad de Freirina",
@@ -81,6 +84,7 @@
   "Febrero_2025":1950219,
   "Marzo_2025":2087756,
   "Abril_2025":2457193,
-  "Mayo_2025":2213204
+  "Mayo_2025":2213204,
+  "Junio_2025":2498301
  }
 ]

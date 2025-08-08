@@ -18,11 +18,12 @@
   "Febrero_2025":2251393,
   "Marzo_2025":2272376,
   "Abril_2025":2261044,
-  "Mayo_2025":2253794
+  "Mayo_2025":2253794,
+  "Junio_2025":2292704
  },
  {
   "organismo_nombre":"Servicio Nacional del Adulto Mayor (SENAMA)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1345440,
   "Febrero_2024":1345440,
   "Marzo_2024":1364700,
@@ -39,7 +40,8 @@
   "Febrero_2025":1413177,
   "Marzo_2025":1394671,
   "Abril_2025":1412907,
-  "Mayo_2025":1394217
+  "Mayo_2025":1394217,
+  "Junio_2025":1411441
  },
  {
   "organismo_nombre":"Servicio Nacional del Adulto Mayor (SENAMA)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3617708,
   "Marzo_2025":3523667,
   "Abril_2025":3597506,
-  "Mayo_2025":3795611
+  "Mayo_2025":3795611,
+  "Junio_2025":3651792
  }
 ]

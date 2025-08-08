@@ -18,11 +18,12 @@
   "Febrero_2025":3840754,
   "Marzo_2025":3856874,
   "Abril_2025":3806486,
-  "Mayo_2025":3810366
+  "Mayo_2025":3810366,
+  "Junio_2025":3857468
  },
  {
   "organismo_nombre":"Dirección Nacional del Servicio Civil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1129703,
   "Febrero_2024":1365697,
   "Marzo_2024":1579663,
@@ -39,7 +40,8 @@
   "Febrero_2025":1903684,
   "Marzo_2025":1910552,
   "Abril_2025":1444258,
-  "Mayo_2025":0
+  "Mayo_2025":1342716,
+  "Junio_2025":1469682
  },
  {
   "organismo_nombre":"Dirección Nacional del Servicio Civil",
@@ -60,6 +62,7 @@
   "Febrero_2025":6528944,
   "Marzo_2025":6093979,
   "Abril_2025":6521374,
-  "Mayo_2025":6513758
+  "Mayo_2025":6513758,
+  "Junio_2025":6560014
  }
 ]

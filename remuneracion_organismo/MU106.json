@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Hualqui",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1125597,
   "Febrero_2024":1179271,
   "Marzo_2024":1130728,
@@ -18,7 +18,8 @@
   "Febrero_2025":1189404,
   "Marzo_2025":1125097,
   "Abril_2025":1181396,
-  "Mayo_2025":1344303
+  "Mayo_2025":1344303,
+  "Junio_2025":1194594
  },
  {
   "organismo_nombre":"Municipalidad de Hualqui",
@@ -39,11 +40,12 @@
   "Febrero_2025":1140864,
   "Marzo_2025":1159606,
   "Abril_2025":1391391,
-  "Mayo_2025":1378404
+  "Mayo_2025":1378404,
+  "Junio_2025":1408929
  },
  {
   "organismo_nombre":"Municipalidad de Hualqui",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":853164,
   "Febrero_2024":803230,
   "Marzo_2024":717064,
@@ -60,7 +62,8 @@
   "Febrero_2025":655801,
   "Marzo_2025":632858,
   "Abril_2025":653321,
-  "Mayo_2025":644405
+  "Mayo_2025":644405,
+  "Junio_2025":732108
  },
  {
   "organismo_nombre":"Municipalidad de Hualqui",
@@ -81,6 +84,7 @@
   "Febrero_2025":1625753,
   "Marzo_2025":1651173,
   "Abril_2025":2155069,
-  "Mayo_2025":1910115
+  "Mayo_2025":1923630,
+  "Junio_2025":2205233
  }
 ]

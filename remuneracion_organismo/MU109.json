@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1124299,
   "Febrero_2024":1074883,
   "Marzo_2024":948197,
@@ -18,7 +18,8 @@
   "Febrero_2025":1082015,
   "Marzo_2025":1028330,
   "Abril_2025":1002271,
-  "Mayo_2025":1018813
+  "Mayo_2025":1018813,
+  "Junio_2025":1022766
  },
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
@@ -39,11 +40,12 @@
   "Febrero_2025":1705287,
   "Marzo_2025":1658894,
   "Abril_2025":1899143,
-  "Mayo_2025":2115531
+  "Mayo_2025":2115531,
+  "Junio_2025":1898810
  },
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":910934,
   "Febrero_2024":927129,
   "Marzo_2024":934801,
@@ -59,8 +61,9 @@
   "Enero_2025":1011671,
   "Febrero_2025":1153375,
   "Marzo_2025":1008612,
-  "Abril_2025":1025674,
-  "Mayo_2025":1115077
+  "Abril_2025":989584,
+  "Mayo_2025":1115077,
+  "Junio_2025":951541
  },
  {
   "organismo_nombre":"Municipalidad de Huechuraba",
@@ -81,6 +84,7 @@
   "Febrero_2025":2071490,
   "Marzo_2025":2174921,
   "Abril_2025":2430926,
-  "Mayo_2025":2609865
+  "Mayo_2025":2609865,
+  "Junio_2025":2456158
  }
 ]

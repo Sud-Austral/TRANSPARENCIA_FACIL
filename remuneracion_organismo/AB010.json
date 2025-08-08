@@ -18,11 +18,12 @@
   "Febrero_2025":2938103,
   "Marzo_2025":2939795,
   "Abril_2025":0,
-  "Mayo_2025":2378562
+  "Mayo_2025":2378562,
+  "Junio_2025":4435863
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2408847,
   "Febrero_2024":2314973,
   "Marzo_2024":2309705,
@@ -39,7 +40,8 @@
   "Febrero_2025":2372255,
   "Marzo_2025":2355168,
   "Abril_2025":2730356,
-  "Mayo_2025":2057024
+  "Mayo_2025":2057024,
+  "Junio_2025":1870278
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Aysén del General Carlos Ibáñez del Campo",
@@ -60,6 +62,7 @@
   "Febrero_2025":5056773,
   "Marzo_2025":5057563,
   "Abril_2025":4171505,
-  "Mayo_2025":4171505
+  "Mayo_2025":4171505,
+  "Junio_2025":6853983
  }
 ]

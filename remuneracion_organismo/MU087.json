@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Empedrado",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1329375,
   "Febrero_2024":781356,
   "Marzo_2024":837285,
@@ -18,7 +18,8 @@
   "Febrero_2025":1059920,
   "Marzo_2025":1047375,
   "Abril_2025":1008696,
-  "Mayo_2025":1006893
+  "Mayo_2025":1006893,
+  "Junio_2025":1004359
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
@@ -39,11 +40,12 @@
   "Febrero_2025":1170908,
   "Marzo_2025":1200834,
   "Abril_2025":1494764,
-  "Mayo_2025":1335241
+  "Mayo_2025":1335241,
+  "Junio_2025":1583200
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":906349,
   "Febrero_2024":899984,
   "Marzo_2024":847761,
@@ -60,7 +62,8 @@
   "Febrero_2025":835277,
   "Marzo_2025":810479,
   "Abril_2025":770461,
-  "Mayo_2025":758458
+  "Mayo_2025":758458,
+  "Junio_2025":654143
  },
  {
   "organismo_nombre":"Municipalidad de Empedrado",
@@ -81,6 +84,7 @@
   "Febrero_2025":1798686,
   "Marzo_2025":1873155,
   "Abril_2025":2236495,
-  "Mayo_2025":2325059
+  "Mayo_2025":2325059,
+  "Junio_2025":2309220
  }
 ]

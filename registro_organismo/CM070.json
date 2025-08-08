@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Cultural de la Comuna de La Granja",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":33,
   "Febrero_2024":32,
   "Marzo_2024":32,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"Corporación Cultural de la Comuna de La Granja",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":11,
   "Febrero_2024":12,
   "Marzo_2024":14,

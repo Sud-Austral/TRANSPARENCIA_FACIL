@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Puerto Montt",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2751,
   "Febrero_2024":2613,
   "Marzo_2024":3025,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Puerto Montt",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":41,
   "Febrero_2024":273,
   "Marzo_2024":358,

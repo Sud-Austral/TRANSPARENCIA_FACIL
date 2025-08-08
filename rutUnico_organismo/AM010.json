@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":769,
   "Febrero_2024":768,
   "Marzo_2024":765,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Dirección de Vialidad (VIALIDAD)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":33,
   "Febrero_2024":33,
   "Marzo_2024":34,

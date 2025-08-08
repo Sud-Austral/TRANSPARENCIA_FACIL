@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT de la Región de los Lagos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1913141,
   "Febrero_2024":1872508,
   "Marzo_2024":1548608,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT de la Región de los Lagos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":423567,
   "Febrero_2024":254329,
   "Marzo_2024":425224,

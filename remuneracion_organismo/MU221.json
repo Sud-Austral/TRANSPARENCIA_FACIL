@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Pirque",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1800000,
   "Febrero_2024":1800000,
   "Marzo_2024":1800000,
@@ -18,7 +18,8 @@
   "Febrero_2025":1800000,
   "Marzo_2025":1800000,
   "Abril_2025":1800000,
-  "Mayo_2025":1800000
+  "Mayo_2025":1800000,
+  "Junio_2025":1800000
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
@@ -39,11 +40,12 @@
   "Febrero_2025":1053926,
   "Marzo_2025":1458444,
   "Abril_2025":1045864,
-  "Mayo_2025":1700970
+  "Mayo_2025":1700970,
+  "Junio_2025":1069304
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":802841,
   "Febrero_2024":780560,
   "Marzo_2024":718572,
@@ -60,7 +62,8 @@
   "Febrero_2025":880230,
   "Marzo_2025":764856,
   "Abril_2025":765588,
-  "Mayo_2025":750879
+  "Mayo_2025":750879,
+  "Junio_2025":745137
  },
  {
   "organismo_nombre":"Municipalidad de Pirque",
@@ -81,6 +84,7 @@
   "Febrero_2025":1787654,
   "Marzo_2025":1802199,
   "Abril_2025":1783689,
-  "Mayo_2025":2958335
+  "Mayo_2025":2958335,
+  "Junio_2025":1799594
  }
 ]

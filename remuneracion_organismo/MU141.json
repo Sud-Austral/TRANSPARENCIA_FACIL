@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Litueche",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":884765,
   "Febrero_2024":859477,
   "Marzo_2024":876225,
@@ -18,7 +18,8 @@
   "Febrero_2025":915911,
   "Marzo_2025":922499,
   "Abril_2025":887458,
-  "Mayo_2025":934262
+  "Mayo_2025":934262,
+  "Junio_2025":927036
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
@@ -39,11 +40,12 @@
   "Febrero_2025":1266153,
   "Marzo_2025":1237347,
   "Abril_2025":1272670,
-  "Mayo_2025":1259563
+  "Mayo_2025":1259563,
+  "Junio_2025":1291247
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":755949,
   "Febrero_2024":1073765,
   "Marzo_2024":1084232,
@@ -60,7 +62,8 @@
   "Febrero_2025":796211,
   "Marzo_2025":961464,
   "Abril_2025":906601,
-  "Mayo_2025":920542
+  "Mayo_2025":922460,
+  "Junio_2025":875169
  },
  {
   "organismo_nombre":"Municipalidad de Litueche",
@@ -81,6 +84,7 @@
   "Febrero_2025":1842275,
   "Marzo_2025":1842505,
   "Abril_2025":1829207,
-  "Mayo_2025":1844641
+  "Mayo_2025":1844641,
+  "Junio_2025":1863804
  }
 ]

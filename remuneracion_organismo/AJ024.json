@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1113262,
   "Febrero_2024":970777,
   "Marzo_2024":861328,
@@ -18,7 +18,8 @@
   "Febrero_2025":1059462,
   "Marzo_2025":914033,
   "Abril_2025":859440,
-  "Mayo_2025":852042
+  "Mayo_2025":852042,
+  "Junio_2025":824810
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
@@ -39,11 +40,12 @@
   "Febrero_2025":938467,
   "Marzo_2025":1152169,
   "Abril_2025":952709,
-  "Mayo_2025":956785
+  "Mayo_2025":956785,
+  "Junio_2025":1051509
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":2100000,
   "Marzo_2024":1268809,
@@ -60,7 +62,8 @@
   "Febrero_2025":1482380,
   "Marzo_2025":1324153,
   "Abril_2025":1398521,
-  "Mayo_2025":1164679
+  "Mayo_2025":1164679,
+  "Junio_2025":1102901
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública Andalién Sur (SLEP Andalién Sur)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2102686,
   "Marzo_2025":2175277,
   "Abril_2025":2106538,
-  "Mayo_2025":2118876
+  "Mayo_2025":2118876,
+  "Junio_2025":2188358
  }
 ]

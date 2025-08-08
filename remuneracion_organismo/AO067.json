@@ -18,11 +18,12 @@
   "Febrero_2025":1580057,
   "Marzo_2025":1707882,
   "Abril_2025":1632296,
-  "Mayo_2025":0
+  "Mayo_2025":1636137,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San Pablo de Coquimbo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1136697,
   "Febrero_2024":928323,
   "Marzo_2024":1068442,
@@ -39,7 +40,8 @@
   "Febrero_2025":1069701,
   "Marzo_2025":1021180,
   "Abril_2025":1070487,
-  "Mayo_2025":0
+  "Mayo_2025":982649,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital San Pablo de Coquimbo",
@@ -60,6 +62,7 @@
   "Febrero_2025":1887698,
   "Marzo_2025":2197346,
   "Abril_2025":1928177,
-  "Mayo_2025":0
+  "Mayo_2025":1912334,
+  "Junio_2025":0
  }
 ]

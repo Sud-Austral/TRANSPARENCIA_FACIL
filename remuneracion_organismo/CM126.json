@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Deportes de La Ilustre Municipalidad de Teno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1815750,
   "Febrero_2024":1844179,
   "Marzo_2024":1640282,
@@ -17,12 +17,13 @@
   "Enero_2025":1908692,
   "Febrero_2025":1990319,
   "Marzo_2025":1990319,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1990319,
+  "Mayo_2025":1990319,
+  "Junio_2025":1990319
  },
  {
   "organismo_nombre":"Corporación de Deportes de La Ilustre Municipalidad de Teno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":426597,
   "Febrero_2024":279935,
   "Marzo_2024":201346,
@@ -35,11 +36,12 @@
   "Octubre_2024":214189,
   "Noviembre_2024":203235,
   "Diciembre_2024":205707,
-  "Enero_2025":0,
-  "Febrero_2025":0,
-  "Marzo_2025":0,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Enero_2025":448233,
+  "Febrero_2025":484667,
+  "Marzo_2025":186866,
+  "Abril_2025":219310,
+  "Mayo_2025":216235,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación de Deportes de La Ilustre Municipalidad de Teno",
@@ -59,7 +61,8 @@
   "Enero_2025":1908692,
   "Febrero_2025":1990319,
   "Marzo_2025":1990319,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1990319,
+  "Mayo_2025":1990319,
+  "Junio_2025":1990319
  }
 ]

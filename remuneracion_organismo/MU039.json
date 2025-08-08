@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chépica",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":747643,
   "Febrero_2024":756128,
   "Marzo_2024":743942,
@@ -18,7 +18,8 @@
   "Febrero_2025":902287,
   "Marzo_2025":824194,
   "Abril_2025":845776,
-  "Mayo_2025":833469
+  "Mayo_2025":833469,
+  "Junio_2025":833509
  },
  {
   "organismo_nombre":"Municipalidad de Chépica",
@@ -39,11 +40,12 @@
   "Febrero_2025":1304880,
   "Marzo_2025":1276905,
   "Abril_2025":1476968,
-  "Mayo_2025":1329227
+  "Mayo_2025":1329227,
+  "Junio_2025":1483116
  },
  {
   "organismo_nombre":"Municipalidad de Chépica",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":753406,
   "Febrero_2024":774422,
   "Marzo_2024":773353,
@@ -60,7 +62,8 @@
   "Febrero_2025":839196,
   "Marzo_2025":794834,
   "Abril_2025":791879,
-  "Mayo_2025":715543
+  "Mayo_2025":715543,
+  "Junio_2025":739133
  },
  {
   "organismo_nombre":"Municipalidad de Chépica",
@@ -81,6 +84,7 @@
   "Febrero_2025":1842450,
   "Marzo_2025":1893460,
   "Abril_2025":2115722,
-  "Mayo_2025":1824822
+  "Mayo_2025":1824822,
+  "Junio_2025":2066823
  }
 ]

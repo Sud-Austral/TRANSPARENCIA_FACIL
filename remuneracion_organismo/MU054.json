@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coinco",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1209920,
   "Febrero_2024":809593,
   "Marzo_2024":836204,
@@ -18,7 +18,8 @@
   "Febrero_2025":917764,
   "Marzo_2025":909678,
   "Abril_2025":889723,
-  "Mayo_2025":939629
+  "Mayo_2025":939629,
+  "Junio_2025":893904
  },
  {
   "organismo_nombre":"Municipalidad de Coinco",
@@ -39,11 +40,12 @@
   "Febrero_2025":1184555,
   "Marzo_2025":1139584,
   "Abril_2025":1232426,
-  "Mayo_2025":1491485
+  "Mayo_2025":1491485,
+  "Junio_2025":1212468
  },
  {
   "organismo_nombre":"Municipalidad de Coinco",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":606775,
   "Febrero_2024":666053,
   "Marzo_2024":675581,
@@ -60,7 +62,8 @@
   "Febrero_2025":898544,
   "Marzo_2025":739795,
   "Abril_2025":762154,
-  "Mayo_2025":815987
+  "Mayo_2025":815987,
+  "Junio_2025":727133
  },
  {
   "organismo_nombre":"Municipalidad de Coinco",
@@ -81,6 +84,7 @@
   "Febrero_2025":2023909,
   "Marzo_2025":2064007,
   "Abril_2025":2058069,
-  "Mayo_2025":2473849
+  "Mayo_2025":2473849,
+  "Junio_2025":2073280
  }
 ]

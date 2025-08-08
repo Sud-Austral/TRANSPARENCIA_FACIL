@@ -18,11 +18,12 @@
   "Febrero_2025":1759346,
   "Marzo_2025":1751543,
   "Abril_2025":1819638,
-  "Mayo_2025":1821555
+  "Mayo_2025":1821555,
+  "Junio_2025":1865985
  },
  {
   "organismo_nombre":"Hospital Ernesto Torres de Iquique",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2667819,
   "Febrero_2024":2920481,
   "Marzo_2024":2378500,
@@ -39,7 +40,8 @@
   "Febrero_2025":6880623,
   "Marzo_2025":5200679,
   "Abril_2025":4109286,
-  "Mayo_2025":3973047
+  "Mayo_2025":3973047,
+  "Junio_2025":3851007
  },
  {
   "organismo_nombre":"Hospital Ernesto Torres de Iquique",
@@ -60,6 +62,7 @@
   "Febrero_2025":2167032,
   "Marzo_2025":2161419,
   "Abril_2025":2170254,
-  "Mayo_2025":2174204
+  "Mayo_2025":2174204,
+  "Junio_2025":2202833
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"CFT Magallanes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":23,
   "Febrero_2024":21,
   "Marzo_2024":24,
@@ -23,7 +23,7 @@
  },
  {
   "organismo_nombre":"CFT Magallanes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":25,
   "Febrero_2024":24,
   "Marzo_2024":30,

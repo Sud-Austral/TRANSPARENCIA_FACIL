@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Rengo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1085824,
   "Febrero_2024":854328,
   "Marzo_2024":775744,
@@ -18,7 +18,8 @@
   "Febrero_2025":910699,
   "Marzo_2025":903664,
   "Abril_2025":873553,
-  "Mayo_2025":876919
+  "Mayo_2025":876919,
+  "Junio_2025":880581
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1336198,
   "Marzo_2025":1247059,
   "Abril_2025":1411230,
-  "Mayo_2025":1496941
+  "Mayo_2025":1496941,
+  "Junio_2025":1391247
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1010481,
   "Febrero_2024":916878,
   "Marzo_2024":817021,
@@ -60,7 +62,8 @@
   "Febrero_2025":1022593,
   "Marzo_2025":1004517,
   "Abril_2025":1113843,
-  "Mayo_2025":1001799
+  "Mayo_2025":1001799,
+  "Junio_2025":1095339
  },
  {
   "organismo_nombre":"Municipalidad de Rengo",
@@ -81,6 +84,7 @@
   "Febrero_2025":2013512,
   "Marzo_2025":2044872,
   "Abril_2025":2107270,
-  "Mayo_2025":2206741
+  "Mayo_2025":2206741,
+  "Junio_2025":2081230
  }
 ]

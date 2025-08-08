@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":890831,
   "Febrero_2024":796346,
   "Marzo_2024":804725,
@@ -18,7 +18,8 @@
   "Febrero_2025":1309897,
   "Marzo_2025":1377164,
   "Abril_2025":1322703,
-  "Mayo_2025":1249979
+  "Mayo_2025":1382329,
+  "Junio_2025":1388699
  },
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
@@ -39,11 +40,12 @@
   "Febrero_2025":1335243,
   "Marzo_2025":1289417,
   "Abril_2025":1336904,
-  "Mayo_2025":1447768
+  "Mayo_2025":1447768,
+  "Junio_2025":1212967
  },
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":780000,
   "Febrero_2024":1178884,
   "Marzo_2024":1111066,
@@ -60,7 +62,8 @@
   "Febrero_2025":1382275,
   "Marzo_2025":1026699,
   "Abril_2025":899907,
-  "Mayo_2025":1031453
+  "Mayo_2025":1031453,
+  "Junio_2025":1100798
  },
  {
   "organismo_nombre":"Municipalidad de Cauquenes",
@@ -81,6 +84,7 @@
   "Febrero_2025":1871124,
   "Marzo_2025":1849738,
   "Abril_2025":1974348,
-  "Mayo_2025":2189305
+  "Mayo_2025":2189305,
+  "Junio_2025":1803037
  }
 ]

@@ -18,11 +18,12 @@
   "Febrero_2025":1993143,
   "Marzo_2025":2283132,
   "Abril_2025":2130977,
-  "Mayo_2025":2122049
+  "Mayo_2025":2122049,
+  "Junio_2025":2379467
  },
  {
   "organismo_nombre":"Servicio de Salud Magallanes",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":993158,
   "Febrero_2024":980593,
   "Marzo_2024":967213,
@@ -39,7 +40,8 @@
   "Febrero_2025":1147314,
   "Marzo_2025":1179782,
   "Abril_2025":1051330,
-  "Mayo_2025":1095274
+  "Mayo_2025":1095274,
+  "Junio_2025":1019926
  },
  {
   "organismo_nombre":"Servicio de Salud Magallanes",
@@ -60,6 +62,7 @@
   "Febrero_2025":1484828,
   "Marzo_2025":1944476,
   "Abril_2025":1578318,
-  "Mayo_2025":1580370
+  "Mayo_2025":1580370,
+  "Junio_2025":1965832
  }
 ]

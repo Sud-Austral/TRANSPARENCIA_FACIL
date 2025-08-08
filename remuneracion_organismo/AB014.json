@@ -17,12 +17,13 @@
   "Enero_2025":2418338,
   "Febrero_2025":2458748,
   "Marzo_2025":2767298,
-  "Abril_2025":2187074,
-  "Mayo_2025":2177345
+  "Abril_2025":2177345,
+  "Mayo_2025":2177345,
+  "Junio_2025":4052196
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Ríos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1550603,
   "Febrero_2024":1674638,
   "Marzo_2024":1649722,
@@ -39,7 +40,8 @@
   "Febrero_2025":1554267,
   "Marzo_2025":1572638,
   "Abril_2025":1502721,
-  "Mayo_2025":1530429
+  "Mayo_2025":1530429,
+  "Junio_2025":1530429
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de Los Ríos",
@@ -60,6 +62,7 @@
   "Febrero_2025":6954587,
   "Marzo_2025":7948424,
   "Abril_2025":6954587,
-  "Mayo_2025":6954587
+  "Mayo_2025":6954587,
+  "Junio_2025":9936098
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Zapallar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1187649,
   "Febrero_2024":1258712,
   "Marzo_2024":949556,
@@ -18,7 +18,8 @@
   "Febrero_2025":1169058,
   "Marzo_2025":1004069,
   "Abril_2025":1098058,
-  "Mayo_2025":987160
+  "Mayo_2025":987160,
+  "Junio_2025":1023315
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
@@ -39,11 +40,12 @@
   "Febrero_2025":1755322,
   "Marzo_2025":1719650,
   "Abril_2025":1733355,
-  "Mayo_2025":1862304
+  "Mayo_2025":1862304,
+  "Junio_2025":1702616
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1103187,
   "Febrero_2024":1017634,
   "Marzo_2024":1157261,
@@ -60,7 +62,8 @@
   "Febrero_2025":1157120,
   "Marzo_2025":1227329,
   "Abril_2025":1278076,
-  "Mayo_2025":1213619
+  "Mayo_2025":1213619,
+  "Junio_2025":1111143
  },
  {
   "organismo_nombre":"Municipalidad de Zapallar",
@@ -81,6 +84,7 @@
   "Febrero_2025":2281402,
   "Marzo_2025":2285357,
   "Abril_2025":2312525,
-  "Mayo_2025":2619803
+  "Mayo_2025":2619803,
+  "Junio_2025":2274934
  }
 ]

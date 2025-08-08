@@ -18,11 +18,12 @@
   "Febrero_2025":1629751,
   "Marzo_2025":1701616,
   "Abril_2025":1743468,
-  "Mayo_2025":1741535
+  "Mayo_2025":1741535,
+  "Junio_2025":1771941
  },
  {
   "organismo_nombre":"Servicio de Salud Araucanía Sur",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1723176,
   "Febrero_2024":1713584,
   "Marzo_2024":1626310,
@@ -39,7 +40,8 @@
   "Febrero_2025":859580,
   "Marzo_2025":0,
   "Abril_2025":829693,
-  "Mayo_2025":839230
+  "Mayo_2025":839230,
+  "Junio_2025":755998
  },
  {
   "organismo_nombre":"Servicio de Salud Araucanía Sur",
@@ -60,6 +62,7 @@
   "Febrero_2025":1747232,
   "Marzo_2025":1773283,
   "Abril_2025":1743454,
-  "Mayo_2025":1748284
+  "Mayo_2025":1748284,
+  "Junio_2025":1542804
  }
 ]

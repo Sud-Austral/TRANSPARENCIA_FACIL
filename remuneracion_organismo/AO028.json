@@ -18,11 +18,12 @@
   "Febrero_2025":1716516,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Servicio de Salud Talcahuano",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1712169,
   "Febrero_2024":1658894,
   "Marzo_2024":1701861,
@@ -39,7 +40,8 @@
   "Febrero_2025":1582599,
   "Marzo_2025":1551083,
   "Abril_2025":1555088,
-  "Mayo_2025":0
+  "Mayo_2025":1558865,
+  "Junio_2025":1419415
  },
  {
   "organismo_nombre":"Servicio de Salud Talcahuano",
@@ -60,6 +62,7 @@
   "Febrero_2025":1813462,
   "Marzo_2025":0,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":0,
+  "Junio_2025":0
  }
 ]

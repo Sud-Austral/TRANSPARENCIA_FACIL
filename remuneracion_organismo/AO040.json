@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1123559,
   "Febrero_2024":1109900,
   "Marzo_2024":1147178,
@@ -18,7 +18,8 @@
   "Febrero_2025":1024559,
   "Marzo_2025":1049963,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":1100029,
+  "Junio_2025":1063496
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
@@ -39,11 +40,12 @@
   "Febrero_2025":2106048,
   "Marzo_2025":5621769,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":2122790,
+  "Junio_2025":3025666
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1139399,
   "Febrero_2024":1139399,
   "Marzo_2024":569699,
@@ -60,7 +62,8 @@
   "Febrero_2025":1139399,
   "Marzo_2025":949499,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":1139399,
+  "Junio_2025":1139399
  },
  {
   "organismo_nombre":"SEREMI de Salud  de Tarapacá",
@@ -81,6 +84,7 @@
   "Febrero_2025":4796845,
   "Marzo_2025":11220523,
   "Abril_2025":0,
-  "Mayo_2025":0
+  "Mayo_2025":4796845,
+  "Junio_2025":6461476
  }
 ]

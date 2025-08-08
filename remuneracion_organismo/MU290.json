@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Javier",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1270261,
   "Febrero_2024":978659,
   "Marzo_2024":880495,
@@ -18,7 +18,8 @@
   "Febrero_2025":1127005,
   "Marzo_2025":1002968,
   "Abril_2025":985478,
-  "Mayo_2025":981906
+  "Mayo_2025":981906,
+  "Junio_2025":1006549
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
@@ -39,11 +40,12 @@
   "Febrero_2025":1320322,
   "Marzo_2025":1296852,
   "Abril_2025":1488103,
-  "Mayo_2025":1326154
+  "Mayo_2025":1326154,
+  "Junio_2025":1433146
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":678519,
   "Febrero_2024":846222,
   "Marzo_2024":770558,
@@ -60,7 +62,8 @@
   "Febrero_2025":898424,
   "Marzo_2025":771484,
   "Abril_2025":807598,
-  "Mayo_2025":801558
+  "Mayo_2025":801558,
+  "Junio_2025":849879
  },
  {
   "organismo_nombre":"Municipalidad de San Javier",
@@ -81,6 +84,7 @@
   "Febrero_2025":1922322,
   "Marzo_2025":1962301,
   "Abril_2025":2223946,
-  "Mayo_2025":1963239
+  "Mayo_2025":1963239,
+  "Junio_2025":2233016
  }
 ]

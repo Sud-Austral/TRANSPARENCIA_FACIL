@@ -18,11 +18,12 @@
   "Febrero_2025":2527101,
   "Marzo_2025":2527690,
   "Abril_2025":1902263,
-  "Mayo_2025":1902263
+  "Mayo_2025":1902263,
+  "Junio_2025":3799509
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tocopilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1015247,
   "Febrero_2024":1101765,
   "Marzo_2024":847815,
@@ -39,7 +40,8 @@
   "Febrero_2025":2015262,
   "Marzo_2025":559676,
   "Abril_2025":2015262,
-  "Mayo_2025":2015262
+  "Mayo_2025":2015262,
+  "Junio_2025":2015262
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Tocopilla",
@@ -60,6 +62,7 @@
   "Febrero_2025":3676991,
   "Marzo_2025":3674492,
   "Abril_2025":3083281,
-  "Mayo_2025":3087165
+  "Mayo_2025":3087165,
+  "Junio_2025":4708417
  }
 ]

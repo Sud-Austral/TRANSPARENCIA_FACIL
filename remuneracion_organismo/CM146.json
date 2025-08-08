@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación del Deporte de Pichidegua",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":967889,
   "Febrero_2024":929780,
   "Marzo_2024":885557,
@@ -18,11 +18,12 @@
   "Febrero_2025":1000720,
   "Marzo_2025":982852,
   "Abril_2025":1138747,
-  "Mayo_2025":1157152
+  "Mayo_2025":1157152,
+  "Junio_2025":1147920
  },
  {
   "organismo_nombre":"Corporación del Deporte de Pichidegua",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":211750,
   "Febrero_2024":273066,
   "Marzo_2024":268027,
@@ -39,6 +40,7 @@
   "Febrero_2025":261876,
   "Marzo_2025":296520,
   "Abril_2025":272912,
-  "Mayo_2025":272544
+  "Mayo_2025":272544,
+  "Junio_2025":316384
  }
 ]

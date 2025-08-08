@@ -18,11 +18,12 @@
   "Febrero_2025":2548463,
   "Marzo_2025":2549623,
   "Abril_2025":1994666,
-  "Mayo_2025":1994666
+  "Mayo_2025":1994666,
+  "Junio_2025":3670976
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de La Araucanía",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1701978,
   "Febrero_2024":1744362,
   "Marzo_2024":1372054,
@@ -39,7 +40,8 @@
   "Febrero_2025":1418687,
   "Marzo_2025":1420058,
   "Abril_2025":1476809,
-  "Mayo_2025":1499944
+  "Mayo_2025":1499944,
+  "Junio_2025":1894065
  },
  {
   "organismo_nombre":"Delegación Presidencial Regional de La Araucanía",
@@ -60,6 +62,7 @@
   "Febrero_2025":3703013,
   "Marzo_2025":3703013,
   "Abril_2025":3145468,
-  "Mayo_2025":3145468
+  "Mayo_2025":3145468,
+  "Junio_2025":4824609
  }
 ]

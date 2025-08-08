@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de OHiggins",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":13,
   "Febrero_2024":12,
   "Marzo_2024":19,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de OHiggins",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":79,
   "Febrero_2024":82,
   "Marzo_2024":72,

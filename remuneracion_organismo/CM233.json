@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Panguipulli",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1049872,
   "Febrero_2024":1049872,
   "Marzo_2024":1049872,
@@ -18,11 +18,12 @@
   "Febrero_2025":906639,
   "Marzo_2025":906639,
   "Abril_2025":906639,
-  "Mayo_2025":0
+  "Mayo_2025":906639,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Panguipulli",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":404678,
   "Marzo_2025":361988,
   "Abril_2025":452014,
-  "Mayo_2025":0
+  "Mayo_2025":418301,
+  "Junio_2025":0
  }
 ]

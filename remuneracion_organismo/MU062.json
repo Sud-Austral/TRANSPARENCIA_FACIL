@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Conchalí",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":713637,
   "Febrero_2024":657244,
   "Marzo_2024":1352462,
@@ -18,7 +18,8 @@
   "Febrero_2025":2079844,
   "Marzo_2025":2067520,
   "Abril_2025":2078844,
-  "Mayo_2025":0
+  "Mayo_2025":1921919,
+  "Junio_2025":1579722
  },
  {
   "organismo_nombre":"Municipalidad de Conchalí",
@@ -39,11 +40,12 @@
   "Febrero_2025":1018824,
   "Marzo_2025":1028931,
   "Abril_2025":1061282,
-  "Mayo_2025":1670620
+  "Mayo_2025":1670620,
+  "Junio_2025":979632
  },
  {
   "organismo_nombre":"Municipalidad de Conchalí",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":432888,
   "Febrero_2024":1203900,
   "Marzo_2024":1283083,
@@ -60,7 +62,8 @@
   "Febrero_2025":1006155,
   "Marzo_2025":896793,
   "Abril_2025":1012635,
-  "Mayo_2025":0
+  "Mayo_2025":967314,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Municipalidad de Conchalí",
@@ -81,6 +84,7 @@
   "Febrero_2025":1659119,
   "Marzo_2025":1682278,
   "Abril_2025":1743158,
-  "Mayo_2025":2869163
+  "Mayo_2025":2869163,
+  "Junio_2025":1725007
  }
 ]

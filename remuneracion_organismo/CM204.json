@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Talcahuano",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":724173,
   "Febrero_2024":697033,
   "Marzo_2024":715263,
@@ -18,11 +18,12 @@
   "Febrero_2025":643876,
   "Marzo_2025":685829,
   "Abril_2025":679283,
-  "Mayo_2025":691389
+  "Mayo_2025":691389,
+  "Junio_2025":707032
  },
  {
   "organismo_nombre":"Corporación Municipal de Deportes y Recreación de Talcahuano",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":113922,
   "Marzo_2024":154059,
@@ -39,6 +40,7 @@
   "Febrero_2025":146258,
   "Marzo_2025":119337,
   "Abril_2025":199967,
-  "Mayo_2025":154847
+  "Mayo_2025":154847,
+  "Junio_2025":203513
  }
 ]

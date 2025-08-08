@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Coronel",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1043,
   "Febrero_2024":1048,
   "Marzo_2024":1072,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Coronel",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":537,
   "Febrero_2024":578,
   "Marzo_2024":587,

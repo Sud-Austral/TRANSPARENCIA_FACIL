@@ -17,12 +17,13 @@
   "Enero_2025":1943094,
   "Febrero_2025":1656190,
   "Marzo_2025":1967849,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1929801,
+  "Mayo_2025":1689097,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de San Camilo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":257924,
   "Febrero_2024":317883,
   "Marzo_2024":398842,
@@ -39,7 +40,8 @@
   "Febrero_2025":369419,
   "Marzo_2025":484560,
   "Abril_2025":693914,
-  "Mayo_2025":683648
+  "Mayo_2025":683648,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Hospital de San Camilo",
@@ -59,7 +61,8 @@
   "Enero_2025":2154098,
   "Febrero_2025":1855726,
   "Marzo_2025":2996247,
-  "Abril_2025":0,
-  "Mayo_2025":0
+  "Abril_2025":1844885,
+  "Mayo_2025":1926204,
+  "Junio_2025":0
  }
 ]

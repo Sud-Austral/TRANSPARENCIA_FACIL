@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de San Ramón",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1466950,
   "Febrero_2024":1096731,
   "Marzo_2024":978086,
@@ -18,7 +18,8 @@
   "Febrero_2025":834078,
   "Marzo_2025":834078,
   "Abril_2025":834078,
-  "Mayo_2025":834078
+  "Mayo_2025":834078,
+  "Junio_2025":834078
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
@@ -39,17 +40,18 @@
   "Febrero_2025":1472642,
   "Marzo_2025":1515183,
   "Abril_2025":1834030,
-  "Mayo_2025":1835625
+  "Mayo_2025":1835625,
+  "Junio_2025":1866210
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":749894,
   "Febrero_2024":836835,
   "Marzo_2024":819152,
   "Abril_2024":851572,
   "Mayo_2024":791905,
-  "Junio_2024":806548,
+  "Junio_2024":805851,
   "Julio_2024":795124,
   "Agosto_2024":807267,
   "Septiembre_2024":513235,
@@ -60,7 +62,8 @@
   "Febrero_2025":877551,
   "Marzo_2025":870048,
   "Abril_2025":887426,
-  "Mayo_2025":858219
+  "Mayo_2025":858219,
+  "Junio_2025":857798
  },
  {
   "organismo_nombre":"Municipalidad de San Ramón",
@@ -81,6 +84,7 @@
   "Febrero_2025":1738423,
   "Marzo_2025":1800862,
   "Abril_2025":2233654,
-  "Mayo_2025":1747181
+  "Mayo_2025":1747181,
+  "Junio_2025":2285576
  }
 ]

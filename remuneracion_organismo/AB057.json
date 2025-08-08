@@ -18,11 +18,12 @@
   "Febrero_2025":2385156,
   "Marzo_2025":2673855,
   "Abril_2025":2101148,
-  "Mayo_2025":2101148
+  "Mayo_2025":2101148,
+  "Junio_2025":3839843
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":5922668,
   "Febrero_2024":8141068,
   "Marzo_2024":8394338,
@@ -39,7 +40,8 @@
   "Febrero_2025":1476745,
   "Marzo_2025":10387713,
   "Abril_2025":1476745,
-  "Mayo_2025":8385316
+  "Mayo_2025":8385316,
+  "Junio_2025":7797007
  },
  {
   "organismo_nombre":"Delegación Presidencial Provincial de Osorno",
@@ -60,6 +62,7 @@
   "Febrero_2025":4010851,
   "Marzo_2025":4015281,
   "Abril_2025":3510999,
-  "Mayo_2025":3510999
+  "Mayo_2025":3510999,
+  "Junio_2025":5039138
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1423822,
   "Febrero_2024":1136225,
   "Marzo_2024":1104399,
@@ -18,7 +18,8 @@
   "Febrero_2025":1283988,
   "Marzo_2025":1184407,
   "Abril_2025":1240423,
-  "Mayo_2025":1272060
+  "Mayo_2025":1272060,
+  "Junio_2025":1253289
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
@@ -39,11 +40,12 @@
   "Febrero_2025":1500464,
   "Marzo_2025":1427678,
   "Abril_2025":1716761,
-  "Mayo_2025":1513003
+  "Mayo_2025":1513003,
+  "Junio_2025":1550613
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":228411,
   "Febrero_2024":329954,
   "Marzo_2024":312561,
@@ -60,7 +62,8 @@
   "Febrero_2025":519782,
   "Marzo_2025":495017,
   "Abril_2025":264787,
-  "Mayo_2025":309688
+  "Mayo_2025":309688,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Talagante",
@@ -81,6 +84,7 @@
   "Febrero_2025":2122182,
   "Marzo_2025":2116035,
   "Abril_2025":2334299,
-  "Mayo_2025":2133893
+  "Mayo_2025":2133893,
+  "Junio_2025":2171313
  }
 ]

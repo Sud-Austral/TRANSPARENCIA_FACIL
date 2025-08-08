@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de Inclusión Social de Cerro Navia",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1205458,
   "Febrero_2024":1223289,
   "Marzo_2024":1213933,
@@ -18,11 +18,12 @@
   "Febrero_2025":1158351,
   "Marzo_2025":1136721,
   "Abril_2025":1090565,
-  "Mayo_2025":1136124
+  "Mayo_2025":1136124,
+  "Junio_2025":1123725
  },
  {
   "organismo_nombre":"Corporación de Inclusión Social de Cerro Navia",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":229246,
   "Febrero_2024":268170,
   "Marzo_2024":406890,
@@ -39,6 +40,7 @@
   "Febrero_2025":227971,
   "Marzo_2025":339867,
   "Abril_2025":204875,
-  "Mayo_2025":191389
+  "Mayo_2025":191389,
+  "Junio_2025":216208
  }
 ]

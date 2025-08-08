@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":716129,
   "Febrero_2024":909276,
   "Marzo_2024":856268,
@@ -18,7 +18,8 @@
   "Febrero_2025":1049833,
   "Marzo_2025":979869,
   "Abril_2025":1119446,
-  "Mayo_2025":1296722
+  "Mayo_2025":1296722,
+  "Junio_2025":1169240
  },
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
@@ -39,11 +40,12 @@
   "Febrero_2025":1468082,
   "Marzo_2025":1494101,
   "Abril_2025":1539590,
-  "Mayo_2025":2577485
+  "Mayo_2025":2577485,
+  "Junio_2025":1564211
  },
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":925924,
   "Febrero_2024":925930,
   "Marzo_2024":943496,
@@ -60,7 +62,8 @@
   "Febrero_2025":968729,
   "Marzo_2025":976975,
   "Abril_2025":980291,
-  "Mayo_2025":1000492
+  "Mayo_2025":1000492,
+  "Junio_2025":979443
  },
  {
   "organismo_nombre":"Municipalidad de Viña del Mar",
@@ -81,6 +84,7 @@
   "Febrero_2025":1553921,
   "Marzo_2025":1485571,
   "Abril_2025":1559082,
-  "Mayo_2025":2610256
+  "Mayo_2025":2610256,
+  "Junio_2025":1571829
  }
 ]

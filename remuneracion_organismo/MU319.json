@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tiltil",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1287263,
   "Febrero_2024":1227263,
   "Marzo_2024":1227263,
@@ -18,7 +18,8 @@
   "Febrero_2025":2010000,
   "Marzo_2025":2010000,
   "Abril_2025":2010000,
-  "Mayo_2025":2010000
+  "Mayo_2025":2010000,
+  "Junio_2025":2010000
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
@@ -39,11 +40,12 @@
   "Febrero_2025":1199108,
   "Marzo_2025":1031654,
   "Abril_2025":1063913,
-  "Mayo_2025":1695894
+  "Mayo_2025":1695894,
+  "Junio_2025":1043861
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":751463,
   "Febrero_2024":755042,
   "Marzo_2024":823860,
@@ -60,7 +62,8 @@
   "Febrero_2025":866347,
   "Marzo_2025":845335,
   "Abril_2025":761422,
-  "Mayo_2025":794220
+  "Mayo_2025":760236,
+  "Junio_2025":813489
  },
  {
   "organismo_nombre":"Municipalidad de Tiltil",
@@ -81,6 +84,7 @@
   "Febrero_2025":1853689,
   "Marzo_2025":1829485,
   "Abril_2025":1992366,
-  "Mayo_2025":2812366
+  "Mayo_2025":2812366,
+  "Junio_2025":1920366
  }
 ]

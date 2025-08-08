@@ -18,11 +18,12 @@
   "Febrero_2025":2312173,
   "Marzo_2025":2967538,
   "Abril_2025":2300023,
-  "Mayo_2025":2311623
+  "Mayo_2025":2311623,
+  "Junio_2025":4254195
  },
  {
   "organismo_nombre":"Subsecretaría de Vivienda y Urbanismo (MINVU)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1988400,
   "Febrero_2024":1986274,
   "Marzo_2024":2001360,
@@ -39,7 +40,8 @@
   "Febrero_2025":2090616,
   "Marzo_2025":2071958,
   "Abril_2025":2066697,
-  "Mayo_2025":2018605
+  "Mayo_2025":2018605,
+  "Junio_2025":2054954
  },
  {
   "organismo_nombre":"Subsecretaría de Vivienda y Urbanismo (MINVU)",
@@ -60,6 +62,7 @@
   "Febrero_2025":3360179,
   "Marzo_2025":4113057,
   "Abril_2025":3379545,
-  "Mayo_2025":3374383
+  "Mayo_2025":3374383,
+  "Junio_2025":5574681
  }
 ]

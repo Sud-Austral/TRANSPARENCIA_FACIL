@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1963638,
   "Febrero_2024":1579147,
   "Marzo_2024":1573021,
@@ -18,7 +18,8 @@
   "Febrero_2025":2496990,
   "Marzo_2025":2180539,
   "Abril_2025":2094198,
-  "Mayo_2025":2074769
+  "Mayo_2025":2074769,
+  "Junio_2025":2049984
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
@@ -39,11 +40,12 @@
   "Febrero_2025":1227588,
   "Marzo_2025":2126349,
   "Abril_2025":2139032,
-  "Mayo_2025":1808072
+  "Mayo_2025":1808072,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1117696,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -59,8 +61,9 @@
   "Enero_2025":1161049,
   "Febrero_2025":922537,
   "Marzo_2025":907947,
-  "Abril_2025":1279970,
-  "Mayo_2025":0
+  "Abril_2025":1006705,
+  "Mayo_2025":1008280,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Calama (COMDES)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2609732,
   "Marzo_2025":2982124,
   "Abril_2025":3447740,
-  "Mayo_2025":2641633
+  "Mayo_2025":2641633,
+  "Junio_2025":0
  }
 ]

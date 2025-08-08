@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1311497,
   "Febrero_2024":1426717,
   "Marzo_2024":1472567,
@@ -18,7 +18,8 @@
   "Febrero_2025":1485449,
   "Marzo_2025":1596244,
   "Abril_2025":1296651,
-  "Mayo_2025":1355041
+  "Mayo_2025":1355041,
+  "Junio_2025":1575591
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2290650,
   "Marzo_2025":4306466,
   "Abril_2025":2308892,
-  "Mayo_2025":2392627
+  "Mayo_2025":2392627,
+  "Junio_2025":4311177
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1042555,
   "Febrero_2024":845000,
   "Marzo_2024":781422,
@@ -60,7 +62,8 @@
   "Febrero_2025":1090139,
   "Marzo_2025":828200,
   "Abril_2025":1166666,
-  "Mayo_2025":1310000
+  "Mayo_2025":1310000,
+  "Junio_2025":1325000
  },
  {
   "organismo_nombre":"Servicio Local de Educación Pública de Iquique (SLEP Iquique)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2783482,
   "Marzo_2025":4783378,
   "Abril_2025":2685069,
-  "Mayo_2025":2722646
+  "Mayo_2025":2722646,
+  "Junio_2025":5011880
  }
 ]

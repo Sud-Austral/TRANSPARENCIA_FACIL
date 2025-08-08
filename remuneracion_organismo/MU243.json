@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Putaendo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":756140,
   "Febrero_2024":783900,
   "Marzo_2024":782385,
@@ -18,7 +18,8 @@
   "Febrero_2025":787023,
   "Marzo_2025":852429,
   "Abril_2025":757974,
-  "Mayo_2025":0
+  "Mayo_2025":829252,
+  "Junio_2025":988286
  },
  {
   "organismo_nombre":"Municipalidad de Putaendo",
@@ -39,11 +40,12 @@
   "Febrero_2025":1587783,
   "Marzo_2025":1434659,
   "Abril_2025":1570065,
-  "Mayo_2025":0
+  "Mayo_2025":1535864,
+  "Junio_2025":1657650
  },
  {
   "organismo_nombre":"Municipalidad de Putaendo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":124392,
   "Febrero_2024":306711,
   "Marzo_2024":453271,
@@ -60,7 +62,8 @@
   "Febrero_2025":785336,
   "Marzo_2025":739524,
   "Abril_2025":773641,
-  "Mayo_2025":0
+  "Mayo_2025":769409,
+  "Junio_2025":700131
  },
  {
   "organismo_nombre":"Municipalidad de Putaendo",
@@ -81,6 +84,7 @@
   "Febrero_2025":1976045,
   "Marzo_2025":2162171,
   "Abril_2025":2006375,
-  "Mayo_2025":0
+  "Mayo_2025":2303423,
+  "Junio_2025":2141962
  }
 ]

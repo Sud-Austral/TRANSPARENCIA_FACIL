@@ -18,11 +18,12 @@
   "Febrero_2025":3080987,
   "Marzo_2025":3094478,
   "Abril_2025":2828276,
-  "Mayo_2025":3090196
+  "Mayo_2025":3090196,
+  "Junio_2025":3116158
  },
  {
   "organismo_nombre":"Superintendencia de Electricidad y Combustibles (SEC)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":2196674,
   "Febrero_2024":2247008,
   "Marzo_2024":2161392,
@@ -39,7 +40,8 @@
   "Febrero_2025":2259773,
   "Marzo_2025":2239314,
   "Abril_2025":2189816,
-  "Mayo_2025":2235816
+  "Mayo_2025":2235816,
+  "Junio_2025":2026418
  },
  {
   "organismo_nombre":"Superintendencia de Electricidad y Combustibles (SEC)",
@@ -60,6 +62,7 @@
   "Febrero_2025":5762358,
   "Marzo_2025":5785974,
   "Abril_2025":5204239,
-  "Mayo_2025":5647698
+  "Mayo_2025":5647698,
+  "Junio_2025":5770703
  }
 ]

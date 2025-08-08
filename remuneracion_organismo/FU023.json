@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación de desarrollo territorial de la región de Arica y Parinacota",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2593166,
   "Febrero_2024":2907625,
   "Marzo_2024":3090250,
@@ -18,11 +18,12 @@
   "Febrero_2025":2518538,
   "Marzo_2025":2518538,
   "Abril_2025":2518538,
-  "Mayo_2025":2518538
+  "Mayo_2025":2518538,
+  "Junio_2025":0
  },
  {
   "organismo_nombre":"Corporación de desarrollo territorial de la región de Arica y Parinacota",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":0,
   "Marzo_2024":0,
@@ -39,6 +40,7 @@
   "Febrero_2025":1372000,
   "Marzo_2025":1372000,
   "Abril_2025":1372000,
-  "Mayo_2025":1372000
+  "Mayo_2025":1372000,
+  "Junio_2025":0
  }
 ]

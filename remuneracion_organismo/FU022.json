@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Fundación para el Desarrollo de la Cultura y las Artes de la comuna de Punta Arenas",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2651723,
   "Febrero_2024":2651723,
   "Marzo_2024":2651723,
@@ -18,11 +18,12 @@
   "Febrero_2025":2763095,
   "Marzo_2025":2763095,
   "Abril_2025":2763095,
-  "Mayo_2025":2763095
+  "Mayo_2025":2763095,
+  "Junio_2025":2763095
  },
  {
   "organismo_nombre":"Fundación para el Desarrollo de la Cultura y las Artes de la comuna de Punta Arenas",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":0,
   "Febrero_2024":617434,
   "Marzo_2024":1035539,
@@ -39,6 +40,7 @@
   "Febrero_2025":498795,
   "Marzo_2025":676527,
   "Abril_2025":676527,
-  "Mayo_2025":676527
+  "Mayo_2025":676527,
+  "Junio_2025":676527
  }
 ]

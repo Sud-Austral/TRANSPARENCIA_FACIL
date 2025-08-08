@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":3883402,
   "Febrero_2024":3883402,
   "Marzo_2024":4860808,
@@ -18,7 +18,8 @@
   "Febrero_2025":4066743,
   "Marzo_2025":5090646,
   "Abril_2025":5090646,
-  "Mayo_2025":5090646
+  "Mayo_2025":5090646,
+  "Junio_2025":5123226
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2214908,
   "Marzo_2025":2134519,
   "Abril_2025":2123827,
-  "Mayo_2025":2131752
+  "Mayo_2025":2131752,
+  "Junio_2025":2146588
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1309023,
   "Febrero_2024":1309023,
   "Marzo_2024":1210828,
@@ -60,7 +62,8 @@
   "Febrero_2025":2028794,
   "Marzo_2025":1815048,
   "Abril_2025":2037426,
-  "Mayo_2025":1653070
+  "Mayo_2025":1653070,
+  "Junio_2025":1682689
  },
  {
   "organismo_nombre":"Gobierno Regional de Los Ríos (GORE de Los Ríos)",
@@ -81,6 +84,7 @@
   "Febrero_2025":3327092,
   "Marzo_2025":4063526,
   "Abril_2025":3926535,
-  "Mayo_2025":3926535
+  "Mayo_2025":3926535,
+  "Junio_2025":3258650
  }
 ]

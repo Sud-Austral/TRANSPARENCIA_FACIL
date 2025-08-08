@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":4611519,
   "Febrero_2024":4611519,
   "Marzo_2024":5637251,
@@ -18,7 +18,8 @@
   "Febrero_2025":4936868,
   "Marzo_2025":5924009,
   "Abril_2025":5924009,
-  "Mayo_2025":5924009
+  "Mayo_2025":5924009,
+  "Junio_2025":5924009
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2767536,
   "Marzo_2025":3430089,
   "Abril_2025":3447779,
-  "Mayo_2025":3414676
+  "Mayo_2025":3414676,
+  "Junio_2025":3423950
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1361160,
   "Febrero_2024":1459986,
   "Marzo_2024":1388419,
@@ -60,7 +62,8 @@
   "Febrero_2025":1536165,
   "Marzo_2025":1492424,
   "Abril_2025":1677842,
-  "Mayo_2025":1839054
+  "Mayo_2025":1839054,
+  "Junio_2025":1847323
  },
  {
   "organismo_nombre":"Gobierno Regional de Aysén (GORE Aysén)",
@@ -81,6 +84,7 @@
   "Febrero_2025":4126458,
   "Marzo_2025":4948963,
   "Abril_2025":4948963,
-  "Mayo_2025":4948963
+  "Mayo_2025":4948963,
+  "Junio_2025":4972304
  }
 ]

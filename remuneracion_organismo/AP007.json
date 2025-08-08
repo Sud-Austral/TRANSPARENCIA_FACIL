@@ -18,11 +18,12 @@
   "Febrero_2025":2599962,
   "Marzo_2025":2604477,
   "Abril_2025":2605128,
-  "Mayo_2025":2609293
+  "Mayo_2025":2609293,
+  "Junio_2025":2628789
  },
  {
   "organismo_nombre":"SERVIU Metropolitano",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":1453558,
   "Febrero_2024":1454478,
   "Marzo_2024":1457267,
@@ -39,7 +40,8 @@
   "Febrero_2025":1514683,
   "Marzo_2025":1536565,
   "Abril_2025":1562038,
-  "Mayo_2025":1553093
+  "Mayo_2025":1553093,
+  "Junio_2025":1543632
  },
  {
   "organismo_nombre":"SERVIU Metropolitano",
@@ -60,6 +62,7 @@
   "Febrero_2025":3630998,
   "Marzo_2025":3662922,
   "Abril_2025":3649337,
-  "Mayo_2025":3678981
+  "Mayo_2025":3678981,
+  "Junio_2025":3703410
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Osorno",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1392518,
   "Febrero_2024":1036559,
   "Marzo_2024":902890,
@@ -18,7 +18,8 @@
   "Febrero_2025":1097896,
   "Marzo_2025":903321,
   "Abril_2025":901142,
-  "Mayo_2025":979334
+  "Mayo_2025":979334,
+  "Junio_2025":960968
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
@@ -39,11 +40,12 @@
   "Febrero_2025":1348224,
   "Marzo_2025":1298451,
   "Abril_2025":1459327,
-  "Mayo_2025":1469115
+  "Mayo_2025":1469115,
+  "Junio_2025":1485589
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":913356,
   "Febrero_2024":1059937,
   "Marzo_2024":802671,
@@ -60,7 +62,8 @@
   "Febrero_2025":1080160,
   "Marzo_2025":833449,
   "Abril_2025":878576,
-  "Mayo_2025":770947
+  "Mayo_2025":770947,
+  "Junio_2025":790144
  },
  {
   "organismo_nombre":"Municipalidad de Osorno",
@@ -81,6 +84,7 @@
   "Febrero_2025":2090999,
   "Marzo_2025":2141508,
   "Abril_2025":2416839,
-  "Mayo_2025":2317694
+  "Mayo_2025":2317694,
+  "Junio_2025":2509809
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":36,
   "Febrero_2024":37,
   "Marzo_2024":36,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Chimbarongo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":183,
   "Febrero_2024":284,
   "Marzo_2024":242,

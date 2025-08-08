@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Lo Espejo",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":685,
   "Febrero_2024":669,
   "Marzo_2024":652,
@@ -45,7 +45,7 @@
  },
  {
   "organismo_nombre":"Municipalidad de Lo Espejo",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":344,
   "Febrero_2024":247,
   "Marzo_2024":383,

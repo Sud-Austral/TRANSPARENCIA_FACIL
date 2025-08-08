@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Palena",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1516496,
   "Febrero_2024":959692,
   "Marzo_2024":1230091,
@@ -18,7 +18,8 @@
   "Febrero_2025":1047040,
   "Marzo_2025":1287161,
   "Abril_2025":954622,
-  "Mayo_2025":975725
+  "Mayo_2025":975725,
+  "Junio_2025":1280912
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
@@ -38,12 +39,13 @@
   "Enero_2025":1339926,
   "Febrero_2025":1274744,
   "Marzo_2025":1596519,
-  "Abril_2025":1476419,
-  "Mayo_2025":1494349
+  "Abril_2025":1483844,
+  "Mayo_2025":1494349,
+  "Junio_2025":1590535
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":608837,
   "Febrero_2024":860997,
   "Marzo_2024":696219,
@@ -60,7 +62,8 @@
   "Febrero_2025":590574,
   "Marzo_2025":591349,
   "Abril_2025":616494,
-  "Mayo_2025":739463
+  "Mayo_2025":733933,
+  "Junio_2025":689223
  },
  {
   "organismo_nombre":"Municipalidad de Palena",
@@ -81,6 +84,7 @@
   "Febrero_2025":2308142,
   "Marzo_2025":2568227,
   "Abril_2025":2360108,
-  "Mayo_2025":2721529
+  "Mayo_2025":2721529,
+  "Junio_2025":2769849
  }
 ]

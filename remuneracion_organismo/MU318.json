@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1178209,
   "Febrero_2024":1137493,
   "Marzo_2024":912194,
@@ -18,7 +18,8 @@
   "Febrero_2025":1307041,
   "Marzo_2025":1126590,
   "Abril_2025":1159452,
-  "Mayo_2025":1111549
+  "Mayo_2025":1111549,
+  "Junio_2025":1190971
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
@@ -39,11 +40,12 @@
   "Febrero_2025":1416173,
   "Marzo_2025":1435823,
   "Abril_2025":1728667,
-  "Mayo_2025":1401029
+  "Mayo_2025":1423320,
+  "Junio_2025":1650804
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":743420,
   "Febrero_2024":764637,
   "Marzo_2024":762397,
@@ -60,7 +62,8 @@
   "Febrero_2025":781374,
   "Marzo_2025":800491,
   "Abril_2025":780754,
-  "Mayo_2025":780578
+  "Mayo_2025":749236,
+  "Junio_2025":1127801
  },
  {
   "organismo_nombre":"Municipalidad de Tierra Amarilla",
@@ -81,6 +84,7 @@
   "Febrero_2025":1780674,
   "Marzo_2025":1806086,
   "Abril_2025":2207972,
-  "Mayo_2025":0
+  "Mayo_2025":1809571,
+  "Junio_2025":2225857
  }
 ]

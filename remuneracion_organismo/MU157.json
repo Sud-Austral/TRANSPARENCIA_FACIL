@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1073620,
   "Febrero_2024":906539,
   "Marzo_2024":736029,
@@ -18,7 +18,8 @@
   "Febrero_2025":1046225,
   "Marzo_2025":812568,
   "Abril_2025":851591,
-  "Mayo_2025":868945
+  "Mayo_2025":868945,
+  "Junio_2025":922239
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
@@ -39,11 +40,12 @@
   "Febrero_2025":1229462,
   "Marzo_2025":1266695,
   "Abril_2025":1330707,
-  "Mayo_2025":1474775
+  "Mayo_2025":1474775,
+  "Junio_2025":1322203
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":732997,
   "Febrero_2024":826224,
   "Marzo_2024":635641,
@@ -58,9 +60,10 @@
   "Diciembre_2024":1429911,
   "Enero_2025":455434,
   "Febrero_2025":795610,
-  "Marzo_2025":649399,
+  "Marzo_2025":648069,
   "Abril_2025":814506,
-  "Mayo_2025":792833
+  "Mayo_2025":792833,
+  "Junio_2025":769842
  },
  {
   "organismo_nombre":"Municipalidad de Los Vilos",
@@ -81,6 +84,7 @@
   "Febrero_2025":1998665,
   "Marzo_2025":2086325,
   "Abril_2025":2166937,
-  "Mayo_2025":2332837
+  "Mayo_2025":2327138,
+  "Junio_2025":2198982
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":1686052,
   "Febrero_2024":1848041,
   "Marzo_2024":1335472,
@@ -18,7 +18,8 @@
   "Febrero_2025":2101149,
   "Marzo_2025":1287869,
   "Abril_2025":1637044,
-  "Mayo_2025":1302555
+  "Mayo_2025":1302555,
+  "Junio_2025":1313935
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
@@ -39,11 +40,12 @@
   "Febrero_2025":2047168,
   "Marzo_2025":1571438,
   "Abril_2025":1763185,
-  "Mayo_2025":0
+  "Mayo_2025":1698579,
+  "Junio_2025":1559748
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":597110,
   "Febrero_2024":679645,
   "Marzo_2024":577218,
@@ -60,7 +62,8 @@
   "Febrero_2025":709087,
   "Marzo_2025":716812,
   "Abril_2025":522039,
-  "Mayo_2025":508350
+  "Mayo_2025":508350,
+  "Junio_2025":496799
  },
  {
   "organismo_nombre":"Corporación Municipal de Desarrollo Social de Antofagasta (CMDS)",
@@ -81,6 +84,7 @@
   "Febrero_2025":2221093,
   "Marzo_2025":1924650,
   "Abril_2025":2141139,
-  "Mayo_2025":0
+  "Mayo_2025":2061691,
+  "Junio_2025":2007438
  }
 ]

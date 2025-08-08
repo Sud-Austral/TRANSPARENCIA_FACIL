@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Instituto Forestal (INFOR)",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":2774209,
   "Febrero_2024":2420785,
   "Marzo_2024":2405786,
@@ -18,11 +18,12 @@
   "Febrero_2025":2601946,
   "Marzo_2025":2548932,
   "Abril_2025":2528538,
-  "Mayo_2025":2575255
+  "Mayo_2025":2575255,
+  "Junio_2025":2481856
  },
  {
   "organismo_nombre":"Instituto Forestal (INFOR)",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":659723,
   "Febrero_2024":575366,
   "Marzo_2024":868389,
@@ -39,6 +40,7 @@
   "Febrero_2025":751230,
   "Marzo_2025":965501,
   "Abril_2025":748093,
-  "Mayo_2025":852698
+  "Mayo_2025":852698,
+  "Junio_2025":579880
  }
 ]

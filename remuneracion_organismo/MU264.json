@@ -1,7 +1,7 @@
 [
  {
   "organismo_nombre":"Municipalidad de Renaico",
-  "base":"Codigotrabajo",
+  "base":"Cod. Trabajo",
   "Enero_2024":733051,
   "Febrero_2024":679919,
   "Marzo_2024":672981,
@@ -17,8 +17,9 @@
   "Enero_2025":554996,
   "Febrero_2025":740666,
   "Marzo_2025":676880,
-  "Abril_2025":794543,
-  "Mayo_2025":757430
+  "Abril_2025":794252,
+  "Mayo_2025":757409,
+  "Junio_2025":771885
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
@@ -38,12 +39,13 @@
   "Enero_2025":1245229,
   "Febrero_2025":1284093,
   "Marzo_2025":1170633,
-  "Abril_2025":1587818,
-  "Mayo_2025":1442572
+  "Abril_2025":1291048,
+  "Mayo_2025":1405804,
+  "Junio_2025":1307156
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
-  "base":"Contratohonorarios",
+  "base":"Honorarios",
   "Enero_2024":725255,
   "Febrero_2024":667635,
   "Marzo_2024":718445,
@@ -58,9 +60,10 @@
   "Diciembre_2024":817454,
   "Enero_2025":696361,
   "Febrero_2025":733007,
-  "Marzo_2025":809395,
+  "Marzo_2025":800437,
   "Abril_2025":763016,
-  "Mayo_2025":0
+  "Mayo_2025":779735,
+  "Junio_2025":886704
  },
  {
   "organismo_nombre":"Municipalidad de Renaico",
@@ -79,8 +82,9 @@
   "Diciembre_2024":2481601,
   "Enero_2025":2076756,
   "Febrero_2025":2133749,
-  "Marzo_2025":1967077,
-  "Abril_2025":2243712,
-  "Mayo_2025":2039793
+  "Marzo_2025":1927277,
+  "Abril_2025":2253443,
+  "Mayo_2025":2290112,
+  "Junio_2025":2274505
  }
 ]
