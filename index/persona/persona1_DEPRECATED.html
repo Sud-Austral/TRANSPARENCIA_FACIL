@@ -548,15 +548,15 @@
             Registros por Período
           </div>
 
-          <div class="filters">
-            <div class="search-box" style="display: none;">
+          <div class="filters" style="display: none">
+            <div class="search-box">
               <i class="fas fa-layer-group"></i>
               <select id="padre-filter">
                 <option value="">Todos los organismos padre</option>
               </select>
             </div>
 
-            <div class="search-box" style="display: none;">
+            <div class="search-box">
               <i class="fas fa-search"></i>
               <input
                 type="text"
@@ -566,15 +566,8 @@
             </div>
 
             <div class="search-box">
-              <i class="fas fa-calendar-alt"></i>
-              <select id="year-filter">
-                <option value="">Todos los años</option>
-              </select>
-            </div>
-
-            <div class="search-box">
               <button id="clear-filters" class="clear-button">
-                <i class="fas fa-times"></i> Limpiar Filtro
+                Limpiar Filtro
               </button>
             </div>
           </div>
@@ -651,44 +644,49 @@
       const params = new URLSearchParams(window.location.search);
       const organismoParam = params.get("organismo");
 
-      let data = [];
-      let filteredData = [];
-      let allMonths = [];
-      let allYears = [];
-      let maxYear = null;
-      let filteredMonths = [];
+      const padreFilter = document.getElementById("padre-filter");
+      const padresUnicos = [...new Set(Object.values(organismoPadres))];
 
-      // Mapa para ordenar los meses cronológicamente
-      const monthOrder = {
-        "ENERO": 1, "FEBRERO": 2, "MARZO": 3, "ABRIL": 4,
-        "MAYO": 5, "JUNIO": 6, "JULIO": 7, "AGOSTO": 8,
-        "SEPTIEMBRE": 9, "SETIEMBRE": 9, "OCTUBRE": 10,
-        "NOVIEMBRE": 11, "DICIEMBRE": 12
-      };
+      padresUnicos.forEach((padre) => {
+        const option = document.createElement("option");
+        option.value = padre;
+        option.textContent = padre;
+        padreFilter.appendChild(option);
+      });
 
       function cargarTitulosBoton(rawData){
         const titulo = document.getElementById("titulo_principal");
         if (titulo) {
           titulo.innerHTML = `<i class="fas fa-chart-line"></i>Personas registradas por ${rawData[0].organismo_nombre}`;
         }
+        //const vinculoBTN = document.getElementById("organismoDetalleBTN");
+        //const organismoCodigo = organismoCodigo[rawData[0].organismo_nombre]
+        //vinculoBTN.href = `../remuneracion/remuneracion1.html?organismo=${organismoCodigo}`;
       }
 
+      //////////////////////////////////////////////////////////////////////////////////
+
+      ///////////////////////////////////////////////////////////////////////////////
+
       let rawData = [];
-      const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/rutUnico_organismo2/${organismoParam}.json`;
-      console.log(url)
+      const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/rutUnico_organismo/${organismoParam}.json`;
+
       async function cargarJSON() {
         try {
           const response = await fetch(url);
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           rawData = await response.json();
           cargarTitulosBoton(rawData);
-          initializeApp(); // Llamar a initializeApp después de cargar los datos
         } catch (error) {
           console.error("Error al leer el JSON:", error);
-          document.getElementById("loading").innerHTML =
-            '<i class="fas fa-exclamation-triangle"></i> Error al cargar los datos';
         }
       }
+
+      cargarJSON(); // llamada inicial
+
+      let data = [];
+      let filteredData = [];
+      let allMonths = [];
 
       function initializeApp() {
         try {
@@ -699,72 +697,15 @@
           const allKeys = new Set();
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
+              //if (key !== "organismo_nombre") allKeys.add(key);
               if (key !== "organismo_nombre" && key !== "base")
                 allKeys.add(key);
+
+              //if (key !== "organismo_nombre" || key !== "base") allKeys.add(key);
             });
           });
-          allMonths = Array.from(allKeys);
+          allMonths = Array.from(allKeys); //.sort();
 
-          // Ordenar meses cronológicamente
-          allMonths.sort((a, b) => {
-            const [monthA, yearStrA] = a.split('_');
-            const [monthB, yearStrB] = b.split('_');
-            
-            const yearA = parseInt(yearStrA, 10);
-            const yearB = parseInt(yearStrB, 10);
-            
-            if (yearA !== yearB) {
-                return yearB - yearA; // Ordenar por año descendente
-            }
-            
-            const monthNumA = monthOrder[monthA.toUpperCase()] || 0;
-            const monthNumB = monthOrder[monthB.toUpperCase()] || 0;
-            
-            return monthNumA - monthNumB; // Ordenar por mes ascendente
-          });
-
-          // Extraer años únicos de los meses ya ordenados
-          const yearsSet = new Set();
-          allMonths.forEach(month => {
-            const parts = month.split('_');
-            if (parts.length > 1) {
-              const year = parseInt(parts[parts.length - 1], 10); // Convertir a entero
-              if (!isNaN(year)) {
-                yearsSet.add(year);
-              }
-            }
-          });
-          
-          allYears = Array.from(yearsSet).sort((a, b) => b - a); // Ordenar de mayor a menor
-          maxYear = allYears.length > 0 ? allYears[0] : null;
-          
-          // Poblar el selector de años
-          const yearFilter = document.getElementById("year-filter");
-          allYears.forEach(year => {
-            const option = document.createElement("option");
-            option.value = year;
-            option.textContent = year; // Se mostrará como entero
-            yearFilter.appendChild(option);
-          });
-          
-          // Poblar el selector de organismos padres
-          const padreFilter = document.getElementById("padre-filter");
-          const padresUnicos = [...new Set(Object.values(organismoPadres))];
-          padresUnicos.forEach((padre) => {
-            const option = document.createElement("option");
-            option.value = padre;
-            option.textContent = padre;
-            padreFilter.appendChild(option);
-          });
-          
-          // Seleccionar el año más reciente por defecto
-          if (maxYear) {
-            yearFilter.value = maxYear;
-          }
-          
-          // Filtrar meses por el año seleccionado (inicialmente el año más reciente)
-          filterMonthsByYear(maxYear);
-          
           updateStats();
           renderTable();
           setupEventListeners();
@@ -779,34 +720,19 @@
         }
       }
 
-      function filterMonthsByYear(year) {
-        if (!year) {
-          filteredMonths = [...allMonths];
-        } else {
-          filteredMonths = allMonths.filter(month => {
-            const parts = month.split('_');
-            if (parts.length > 1) {
-              const monthYear = parseInt(parts[parts.length - 1], 10); // Convertir a entero
-              return monthYear === year;
-            }
-            return false;
-          });
-        }
-      }
-
       function updateStats() {
         document.getElementById("total-organismos").textContent = data.length;
         document.getElementById("periodo-analisis").textContent =
-          filteredMonths.length;
+          allMonths.length;
         document.getElementById("ultimo-mes").textContent =
-          filteredMonths.length > 0 ? filteredMonths[filteredMonths.length - 1].replace("_", " ") : "-";
+          allMonths[allMonths.length - 1].replace("_", " ") || "-";
 
         // Calcular promedio general
         let totalSum = 0;
         let totalCount = 0;
 
         data.forEach((row) => {
-          filteredMonths.forEach((month) => {
+          allMonths.forEach((month) => {
             const val = row[month];
             if (val && val > 0) {
               totalSum += val;
@@ -837,7 +763,7 @@
         thBase.innerHTML = '<i class="fas fa-layer-group"></i> Base';
         headerRow.appendChild(thBase);
 
-        filteredMonths.forEach((month) => {
+        allMonths.forEach((month) => {
           const th = document.createElement("th");
           th.textContent = month.replace("_", " ");
           headerRow.appendChild(th);
@@ -876,7 +802,7 @@
           const values = [];
 
           // Celdas de valores mensuales
-          filteredMonths.forEach((month) => {
+          allMonths.forEach((month) => {
             const val = row[month];
             const td = document.createElement("td");
 
@@ -907,14 +833,16 @@
           // Celda del promedio
           const tdAvg = document.createElement("td");
           tdAvg.classList.add("promedio-cell");
+          //tdAvg.textContent = count > 0 ? avg.toFixed(0) : "-";
           tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
           tr.appendChild(tdAvg);
 
           // Segunda pasada para agregar tooltips y colores
           const cells = tr.children;
           for (let i = 2; i < cells.length - 1; i++) {
+            // Cambiado de 1 a 2
             const td = cells[i];
-            const val = row[filteredMonths[i - 2]];
+            const val = row[allMonths[i - 2]]; // Cambiado de i-1 a i-2
 
             if (val && val > 0 && avg > 0) {
               const percent = ((val - avg) / avg) * 100;
@@ -955,7 +883,6 @@
       function setupEventListeners() {
         const searchInput = document.getElementById("search-input");
         const padreFilter = document.getElementById("padre-filter");
-        const yearFilter = document.getElementById("year-filter");
 
         const normalizeText = (str) =>
           str
@@ -966,10 +893,6 @@
         const aplicarFiltros = () => {
           const searchTerm = normalizeText(searchInput.value);
           const padreSeleccionado = padreFilter.value;
-          const yearSeleccionado = parseInt(yearFilter.value, 10); // Convertir a entero
-
-          // Filtrar meses por el año seleccionado
-          filterMonthsByYear(yearSeleccionado);
 
           filteredData = data.filter((row) => {
             const nombreOrganismo = normalizeText(row.organismo_nombre);
@@ -982,29 +905,27 @@
             return coincideBusqueda && coincidePadre;
           });
 
-          updateStats();
           renderTable();
         };
 
         searchInput.addEventListener("input", aplicarFiltros);
         padreFilter.addEventListener("change", aplicarFiltros);
-        yearFilter.addEventListener("change", aplicarFiltros);
       }
 
       // Inicializar la aplicación cuando se carga la página
       document.addEventListener("DOMContentLoaded", () => {
-        cargarJSON(); // Llamar a cargarJSON para iniciar el proceso
+        setTimeout(initializeApp, 500); // Simular carga
       });
 
       document.getElementById("clear-filters").addEventListener("click", () => {
         document.getElementById("search-input").value = "";
         document.getElementById("padre-filter").value = "";
-        document.getElementById("year-filter").value = maxYear; // Volver al año más reciente
-        filterMonthsByYear(maxYear);
         filteredData = [...data];
-        updateStats();
         renderTable();
       });
+
+
+      
     </script>
   </body>
 </html>
