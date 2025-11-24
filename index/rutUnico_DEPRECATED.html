@@ -237,7 +237,7 @@
       }
 
       td {
-        padding: 0.5rem 0.01rem;
+        padding: .5rem 0.01rem;
         border-bottom: 1px solid var(--gray-200);
         text-align: center;
         font-size: 0.7rem;
@@ -278,43 +278,60 @@
         font-size: 0.8rem;
         border-radius: 4px;
       }
-
-      .base_class {
-        background: linear-gradient(135deg, #ecf1c1 0%, #bef4ac 100%);
-        color: black;
-        font-weight: 700;
-      }
-
-      .valor-muy-bajo {
-        background: linear-gradient(135deg, #b2f5ea 0%, #00bcd4 100%);
-        color: #006064;
-        font-weight: 700;
+      /*
+      .valor-alto {
+        background: linear-gradient(135deg, #c6f6d5 0%, #9ae6b4 100%);
+        color: var(--success-color);
+        font-weight: 600;
       }
 
       .valor-bajo {
-        background: linear-gradient(135deg, #fff3cd 0%, #ffbb33 100%);
-        color: #cc7000;
-        font-weight: 700;
+        background: linear-gradient(135deg, #fef5e7 0%, #fbd38d 100%);
+        color: var(--warning-color);
+        font-weight: 600;
       }
 
-      .valor-medio {
-        background: linear-gradient(135deg, #e6f0ff 0%, #cce0ff 100%);
-        color: #004085;
-        font-weight: 700;
+      .valor-bajo2 {
+        background: linear-gradient(90deg, #fef5e7 0%, #eeee32 100%);
+        color: var(--warning-color);
+        font-weight: 600;
       }
+*/
+      
 
-      .valor-alto {
-        background: linear-gradient(135deg, #c6f6d5 0%, #48bb78 100%);
-        color: #276749;
-        font-weight: 700;
-      }
+        .valor-muy-bajo {
+          background: linear-gradient(135deg, #b2f5ea 0%, #00bcd4 100%);
+          color: #006064;
+          font-weight: 700;
+        }
 
-      .valor-muy-alto {
-        background: linear-gradient(135deg, #ffcccc 0%, #e60000 100%);
-        color: #800000;
+        .valor-bajo {
+          background: linear-gradient(135deg, #fff3cd 0%, #ffbb33 100%);
+          color: #cc7000;
+          font-weight: 700;
+        }
 
-        font-weight: 700;
-      }
+        .valor-medio {
+          background: linear-gradient(135deg, #e6f0ff 0%, #cce0ff 100%);
+          color: #004085;
+          font-weight: 700;
+        }
+
+        .valor-alto {
+          background: linear-gradient(135deg, #c6f6d5 0%, #48bb78 100%);
+          color: #276749;
+          font-weight: 700;
+        }
+
+        .valor-muy-alto {
+          background: linear-gradient(135deg, #ffcccc 0%, #e60000 100%);
+          color: #800000;
+          
+          font-weight: 700;
+        }
+
+
+
 
       .promedio-cell {
         background: linear-gradient(
@@ -341,6 +358,25 @@
         white-space: nowrap;
         white-space: pre-line; /* permite interpretar \n como salto de línea */
         z-index: 1000;
+        /*
+    
+    ----------------------------------
+    position: absolute;
+    background: var(--gray-800);
+    color: var(--white);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    
+    box-shadow: var(--shadow-md);
+    opacity: 0;
+    
+    transform: translateY(-10px);
+    transition: all 0.2s ease;
+    
+    pointer-events: none;
+    */
       }
 
       .tooltip::after {
@@ -463,8 +499,8 @@
     <header class="header">
       <div class="container">
         <div class="header-content">
-          <h1 id="titulo_principal">
-            <i  class="fas fa-chart-line"></i>Sueldos Pagados por Organismos
+          <h1>
+            <i class="fas fa-chart-line"></i> Personas registradas por Organismos
           </h1>
           <p>Seguimiento mensual de registros por organismo público</p>
         </div>
@@ -474,10 +510,10 @@
     <!-- Barra de navegación -->
     <nav class="main-nav">
       <div class="nav-container">
-        <a href="../inicio.html" class="nav-item primary">Ver Pagos</a>
-        <a href="../remuneracion_bruta.html" class="nav-item accent">Remuneración Bruta</a>
-        <a href="../rutUnico.html" class="nav-item primary">Personas</a>
-        <a href="../landing_transparencia.html" class="nav-item secondary">Inicio</a>
+        <a href="inicio.html" class="nav-item primary">Ver Pagos</a>
+        <a href="remuneracion_bruta.html" class="nav-item primary">Remuneración Bruta</a>
+        <a href="rutUnico.html" class="nav-item accent">Personas</a>
+        <a href="landing_transparencia.html" class="nav-item secondary">Inicio</a>
         <!-- Ejemplo para más páginas -->
         <!-- <a href="otra.html" class="nav-item secondary">Otra Página</a> -->
       </div>
@@ -519,10 +555,13 @@
       }
     </style>
 
+   
+
+
     <div class="stats-bar">
       <div class="stat-item">
         <span class="stat-value" id="total-organismos">-</span>
-        <div class="stat-label">Bases de datos registradas</div>
+        <div class="stat-label">Organismos Registrados</div>
       </div>
       <div class="stat-item">
         <span class="stat-value" id="promedio-general">-</span>
@@ -547,14 +586,14 @@
           </div>
 
           <div class="filters">
-            <div class="search-box" style="display: none;">
+            <div class="search-box">
               <i class="fas fa-layer-group"></i>
               <select id="padre-filter">
                 <option value="">Todos los organismos padre</option>
               </select>
             </div>
 
-            <div class="search-box" style="display: none;">
+            <div class="search-box">
               <i class="fas fa-search"></i>
               <input
                 type="text"
@@ -564,15 +603,8 @@
             </div>
 
             <div class="search-box">
-              <i class="fas fa-calendar-alt"></i>
-              <select id="year-filter">
-                <option value="">Todos los años</option>
-              </select>
-            </div>
-
-            <div class="search-box">
               <button id="clear-filters" class="clear-button">
-                <i class="fas fa-times"></i> Limpiar Filtro
+                Limpiar Filtro
               </button>
             </div>
           </div>
@@ -588,105 +620,75 @@
     </div>
 
     <div style="padding: 1rem">
-      <h3 style="margin-bottom: 0.75rem; font-size: 1.1rem">
-        Leyenda de Valores
-      </h3>
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          gap: 0.5rem;
-          font-size: 0.9rem;
-        "
-      >
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="valor-muy-bajo"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
+      <h3 style="margin-bottom: 0.75rem; font-size: 1.1rem;">Leyenda de Valores</h3>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem;">
+        
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div class="valor-muy-bajo" style="width: 30px; height: 30px; border-radius: 4px;"></div>
           <span>Muy por debajo del promedio</span>
         </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="valor-bajo"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
+        
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div class="valor-bajo" style="width: 30px; height: 30px; border-radius: 4px;"></div>
           <span>Levemente por debajo del promedio</span>
         </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="valor-medio"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
+        
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div class="valor-medio" style="width: 30px; height: 30px; border-radius: 4px;"></div>
           <span>Cercano al promedio del organismo</span>
         </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="valor-alto"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
+        
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div class="valor-alto" style="width: 30px; height: 30px; border-radius: 4px;"></div>
           <span>Levemente por encima del promedio</span>
         </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="valor-muy-alto"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
+        
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <div class="valor-muy-alto" style="width: 30px; height: 30px; border-radius: 4px;"></div>
           <span>Muy por encima del promedio</span>
         </div>
       </div>
     </div>
 
+
     <!-- Cargar el script externo -->
-    <script src="../organismos.js"></script>
-    <script src="../organismosCodigo.js"></script>
+    <script src="organismos.js"></script>
+    <script src="organismosCodigo.js"></script>
     <script>
       const formatter = new Intl.NumberFormat('es-CL');
-      const params = new URLSearchParams(window.location.search);
-      const organismoParam = params.get("organismo");
+      const padreFilter = document.getElementById("padre-filter");
+      const padresUnicos = [...new Set(Object.values(organismoPadres))];
 
-      let data = [];
-      let filteredData = [];
-      let allMonths = [];
-      let allYears = [];
-      let maxYear = null;
-      let filteredMonths = [];
+      padresUnicos.forEach((padre) => {
+        const option = document.createElement("option");
+        option.value = padre;
+        option.textContent = padre;
+        padreFilter.appendChild(option);
+      });
 
-      // Mapa para ordenar los meses cronológicamente
-      const monthOrder = {
-        "ENERO": 1, "FEBRERO": 2, "MARZO": 3, "ABRIL": 4,
-        "MAYO": 5, "JUNIO": 6, "JULIO": 7, "AGOSTO": 8,
-        "SEPTIEMBRE": 9, "SETIEMBRE": 9, "OCTUBRE": 10,
-        "NOVIEMBRE": 11, "DICIEMBRE": 12
-      };
+      //////////////////////////////////////////////////////////////////////////////////
 
-      function cargarTitulosBoton(rawData){
-        const titulo = document.getElementById("titulo_principal");
-        if (titulo) {
-          titulo.innerHTML = `<i class="fas fa-chart-line"></i>Remuneración bruta promedio por ${rawData[0].organismo_nombre}`;
-        }
-      }
+      ///////////////////////////////////////////////////////////////////////////////
 
       let rawData = [];
-      const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/remuneracion_organismo2/${organismoParam}.json`;
-      console.log(url)
+      const url =
+        "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo_rutUnico.json";
+
       async function cargarJSON() {
         try {
           const response = await fetch(url);
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           rawData = await response.json();
-          cargarTitulosBoton(rawData);
-          initializeApp(); // Llamar a initializeApp después de cargar los datos
         } catch (error) {
           console.error("Error al leer el JSON:", error);
-          document.getElementById("loading").innerHTML =
-            '<i class="fas fa-exclamation-triangle"></i> Error al cargar los datos';
         }
       }
+
+      cargarJSON(); // llamada inicial
+
+      let data = [];
+      let filteredData = [];
+      let allMonths = [];
 
       function initializeApp() {
         try {
@@ -697,72 +699,11 @@
           const allKeys = new Set();
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
-              if (key !== "organismo_nombre" && key !== "base")
-                allKeys.add(key);
+              if (key !== "organismo_nombre") allKeys.add(key);
             });
           });
-          allMonths = Array.from(allKeys);
+          allMonths = Array.from(allKeys); //.sort();
 
-          // Ordenar meses cronológicamente
-          allMonths.sort((a, b) => {
-            const [monthA, yearStrA] = a.split('_');
-            const [monthB, yearStrB] = b.split('_');
-            
-            const yearA = parseInt(yearStrA, 10);
-            const yearB = parseInt(yearStrB, 10);
-            
-            if (yearA !== yearB) {
-                return yearB - yearA; // Ordenar por año descendente
-            }
-            
-            const monthNumA = monthOrder[monthA.toUpperCase()] || 0;
-            const monthNumB = monthOrder[monthB.toUpperCase()] || 0;
-            
-            return monthNumA - monthNumB; // Ordenar por mes ascendente
-          });
-
-          // Extraer años únicos de los meses ya ordenados
-          const yearsSet = new Set();
-          allMonths.forEach(month => {
-            const parts = month.split('_');
-            if (parts.length > 1) {
-              const year = parseInt(parts[parts.length - 1], 10); // Convertir a entero
-              if (!isNaN(year)) {
-                yearsSet.add(year);
-              }
-            }
-          });
-          
-          allYears = Array.from(yearsSet).sort((a, b) => b - a); // Ordenar de mayor a menor
-          maxYear = allYears.length > 0 ? allYears[0] : null;
-          
-          // Poblar el selector de años
-          const yearFilter = document.getElementById("year-filter");
-          allYears.forEach(year => {
-            const option = document.createElement("option");
-            option.value = year;
-            option.textContent = year; // Se mostrará como entero
-            yearFilter.appendChild(option);
-          });
-          
-          // Poblar el selector de organismos padres
-          const padreFilter = document.getElementById("padre-filter");
-          const padresUnicos = [...new Set(Object.values(organismoPadres))];
-          padresUnicos.forEach((padre) => {
-            const option = document.createElement("option");
-            option.value = padre;
-            option.textContent = padre;
-            padreFilter.appendChild(option);
-          });
-          
-          // Seleccionar el año más reciente por defecto
-          if (maxYear) {
-            yearFilter.value = maxYear;
-          }
-          
-          // Filtrar meses por el año seleccionado (inicialmente el año más reciente)
-          filterMonthsByYear(maxYear);
-          
           updateStats();
           renderTable();
           setupEventListeners();
@@ -777,34 +718,19 @@
         }
       }
 
-      function filterMonthsByYear(year) {
-        if (!year) {
-          filteredMonths = [...allMonths];
-        } else {
-          filteredMonths = allMonths.filter(month => {
-            const parts = month.split('_');
-            if (parts.length > 1) {
-              const monthYear = parseInt(parts[parts.length - 1], 10); // Convertir a entero
-              return monthYear === year;
-            }
-            return false;
-          });
-        }
-      }
-
       function updateStats() {
         document.getElementById("total-organismos").textContent = data.length;
         document.getElementById("periodo-analisis").textContent =
-          filteredMonths.length;
+          allMonths.length;
         document.getElementById("ultimo-mes").textContent =
-          filteredMonths.length > 0 ? filteredMonths[filteredMonths.length - 1].replace("_", " ") : "-";
+          allMonths[allMonths.length - 1].replace("_", " ") || "-";
 
         // Calcular promedio general
         let totalSum = 0;
         let totalCount = 0;
 
         data.forEach((row) => {
-          filteredMonths.forEach((month) => {
+          allMonths.forEach((month) => {
             const val = row[month];
             if (val && val > 0) {
               totalSum += val;
@@ -831,11 +757,7 @@
         thOrg.innerHTML = '<i class="fas fa-building"></i> Organismo';
         headerRow.appendChild(thOrg);
 
-        const thBase = document.createElement("th");
-        thBase.innerHTML = '<i class="fas fa-layer-group"></i> Base';
-        headerRow.appendChild(thBase);
-
-        filteredMonths.forEach((month) => {
+        allMonths.forEach((month) => {
           const th = document.createElement("th");
           th.textContent = month.replace("_", " ");
           headerRow.appendChild(th);
@@ -855,26 +777,36 @@
           const tr = document.createElement("tr");
 
           // Celda del nombre del organismo
+          /*
           const tdName = document.createElement("td");
-
           tdName.textContent = row.organismo_nombre;
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
+          */
+          // Celda del nombre del organismo con hipervínculo
+          const tdName = document.createElement("td");
+          const link = document.createElement("a");
+          const encodedName = encodeURIComponent(row.organismo_nombre);
+          const codeName = organismoCodigo[row.organismo_nombre]
+          //Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública
+          
 
-          //.base_class
-          const tdBase = document.createElement("td");
-          tdBase.classList.add("base_class");
+          link.href = `persona/persona1.html?organismo=${codeName}`;
+          link.textContent = row.organismo_nombre;
+          //link.target = "_blank";
+          link.style.color = "inherit";
+          link.style.textDecoration = "underline";
+          tdName.appendChild(link);
+          tdName.title = row.organismo_nombre;
+          tr.appendChild(tdName);
 
-          tdBase.textContent = row.base || "-";
-          tdBase.title = row.base || "-";
-          tr.appendChild(tdBase);
 
           let sum = 0;
           let count = 0;
           const values = [];
 
           // Celdas de valores mensuales
-          filteredMonths.forEach((month) => {
+          allMonths.forEach((month) => {
             const val = row[month];
             const td = document.createElement("td");
 
@@ -905,14 +837,15 @@
           // Celda del promedio
           const tdAvg = document.createElement("td");
           tdAvg.classList.add("promedio-cell");
+          //tdAvg.textContent = count > 0 ? avg.toFixed(0) : "-";
           tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
           tr.appendChild(tdAvg);
 
           // Segunda pasada para agregar tooltips y colores
           const cells = tr.children;
-          for (let i = 2; i < cells.length - 1; i++) {
+          for (let i = 1; i < cells.length - 1; i++) {
             const td = cells[i];
-            const val = row[filteredMonths[i - 2]];
+            const val = row[allMonths[i - 1]];
 
             if (val && val > 0 && avg > 0) {
               const percent = ((val - avg) / avg) * 100;
@@ -927,17 +860,24 @@
               // Colorear según desviación del promedio
               if (Math.abs(val - avg) > stdDev * 0.9) {
                 if (val > avg) {
-                  if (val > avg * 1.5) {
+                  if(val > avg * 1.5){
                     td.classList.add("valor-muy-alto");
-                  } else {
-                    td.classList.add("valor-alto");
                   }
+                  else{
+                    td.classList.add("valor-alto");  
+                  }
+                  
                 } else {
-                  if (val < avg * 0.5) {
+                  if(val < avg * 0.5){
+                    
                     td.classList.add("valor-muy-bajo");
-                  } else {
+                    
+
+                  }
+                  else{
                     td.classList.add("valor-bajo");
                   }
+                  
                 }
               } else {
                 td.classList.add("valor-medio");
@@ -953,7 +893,6 @@
       function setupEventListeners() {
         const searchInput = document.getElementById("search-input");
         const padreFilter = document.getElementById("padre-filter");
-        const yearFilter = document.getElementById("year-filter");
 
         const normalizeText = (str) =>
           str
@@ -964,10 +903,6 @@
         const aplicarFiltros = () => {
           const searchTerm = normalizeText(searchInput.value);
           const padreSeleccionado = padreFilter.value;
-          const yearSeleccionado = parseInt(yearFilter.value, 10); // Convertir a entero
-
-          // Filtrar meses por el año seleccionado
-          filterMonthsByYear(yearSeleccionado);
 
           filteredData = data.filter((row) => {
             const nombreOrganismo = normalizeText(row.organismo_nombre);
@@ -980,27 +915,22 @@
             return coincideBusqueda && coincidePadre;
           });
 
-          updateStats();
           renderTable();
         };
 
         searchInput.addEventListener("input", aplicarFiltros);
         padreFilter.addEventListener("change", aplicarFiltros);
-        yearFilter.addEventListener("change", aplicarFiltros);
       }
 
       // Inicializar la aplicación cuando se carga la página
       document.addEventListener("DOMContentLoaded", () => {
-        cargarJSON(); // Llamar a cargarJSON para iniciar el proceso
+        setTimeout(initializeApp, 500); // Simular carga
       });
 
       document.getElementById("clear-filters").addEventListener("click", () => {
         document.getElementById("search-input").value = "";
         document.getElementById("padre-filter").value = "";
-        document.getElementById("year-filter").value = maxYear; // Volver al año más reciente
-        filterMonthsByYear(maxYear);
         filteredData = [...data];
-        updateStats();
         renderTable();
       });
     </script>
