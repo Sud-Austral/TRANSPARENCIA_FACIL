@@ -651,6 +651,8 @@
       ///////////////////////////////////////////////////////////////////////////////
 
       let rawData = [];
+      let comunaName = "";
+      let lastWeekName = "";
       const url =
         "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/archivo3.json";
 
@@ -659,6 +661,9 @@
           const response = await fetch(url);
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           rawData = await response.json();
+          comunaName = "Iquique";
+          lastWeekName = "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+          console.log(rawData) 
         } catch (error) {
           console.error("Error al leer el JSON:", error);
         }
