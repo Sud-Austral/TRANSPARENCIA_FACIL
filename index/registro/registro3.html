@@ -316,76 +316,29 @@
         font-weight: 700;
       }
 
-      /* Estilos mejorados para porcentajes */
+      /* Nuevos estilos para porcentajes */
       .porcentaje-muy-bajo {
-        background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+        background-color: #ffebee; /* Light Red */
         color: #c62828;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(198, 40, 40, 0.2);
-        position: relative;
+        font-weight: 600;
       }
 
       .porcentaje-bajo {
-        background: linear-gradient(135deg, #fff8e1 0%, #ffe0b2 100%);
+        background-color: #fff8e1; /* Light Amber */
         color: #ff8f00;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(255, 143, 0, 0.2);
-        position: relative;
+        font-weight: 600;
       }
 
       .porcentaje-medio {
-        background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+        background-color: #e3f2fd; /* Light Blue */
         color: #1565c0;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(21, 101, 192, 0.2);
-        position: relative;
+        font-weight: 600;
       }
 
       .porcentaje-alto {
-        background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+        background-color: #e8f5e9; /* Light Green */
         color: #2e7d32;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(46, 125, 50, 0.2);
-        position: relative;
-      }
-
-      /* Indicadores visuales para porcentajes */
-      .porcentaje-muy-bajo::after,
-      .porcentaje-bajo::after,
-      .porcentaje-medio::after,
-      .porcentaje-alto::after {
-        content: '';
-        position: absolute;
-        right: 6px;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 0;
-        height: 0;
-        border-style: solid;
-      }
-
-      .porcentaje-muy-bajo::after {
-        border-width: 0 0 6px 6px;
-        border-color: transparent transparent #c62828 transparent;
-      }
-
-      .porcentaje-bajo::after {
-        border-width: 0 0 6px 6px;
-        border-color: transparent transparent #ff8f00 transparent;
-      }
-
-      .porcentaje-medio::after {
-        border-width: 0 0 6px 6px;
-        border-color: transparent transparent #1565c0 transparent;
-      }
-
-      .porcentaje-alto::after {
-        border-width: 0 6px 6px 0;
-        border-color: transparent #2e7d32 transparent transparent;
+        font-weight: 600;
       }
 
       .promedio-cell {
@@ -490,7 +443,6 @@
           max-width: 200px;
         }
       }
-      
       .search-box select {
         padding: 0.5rem 1rem 0.5rem 2.5rem;
         border: none;
@@ -521,64 +473,18 @@
         border-radius: 8px;
         font-size: 0.9rem;
         cursor: pointer;
-        transition: all 0.3s ease;
+        transition: background-color 0.2s ease;
         display: flex;
         align-items: center;
         gap: 0.5rem;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        position: relative;
-        overflow: hidden;
       }
 
       .clear-button:hover, .toggle-button:hover {
         background-color: rgba(255, 255, 255, 0.3);
-        transform: translateY(-2px);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
       }
 
       .toggle-button.percentage-mode {
-        background: linear-gradient(135deg, var(--accent-color) 0%, var(--secondary-color) 100%);
-        color: white;
-        box-shadow: 0 2px 4px rgba(49, 130, 206, 0.3);
-      }
-
-      .toggle-button.percentage-mode:hover {
-        background: linear-gradient(135deg, var(--secondary-color) 0%, var(--primary-color) 100%);
-        box-shadow: 0 4px 8px rgba(49, 130, 206, 0.4);
-      }
-
-      /* Efecto de onda al hacer clic en el botón */
-      .toggle-button::after {
-        content: '';
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        width: 5px;
-        height: 5px;
-        background: rgba(255, 255, 255, 0.5);
-        opacity: 0;
-        border-radius: 100%;
-        transform: scale(1, 1) translate(-50%);
-        transform-origin: 50% 50%;
-      }
-
-      .toggle-button:focus:not(:active)::after {
-        animation: ripple 1s ease-out;
-      }
-
-      @keyframes ripple {
-        0% {
-          transform: scale(0, 0);
-          opacity: 0.5;
-        }
-        20% {
-          transform: scale(25, 25);
-          opacity: 0.3;
-        }
-        100% {
-          opacity: 0;
-          transform: scale(40, 40);
-        }
+        background-color: rgba(49, 130, 206, 0.7);
       }
     </style>
   </head>
@@ -689,7 +595,7 @@
 
             <div class="search-box">
               <button id="toggle-percentage" class="toggle-button">
-                 Ver Porcentajes
+                <i class="fas fa-percentage"></i> Ver Porcentajes
               </button>
             </div>
 
@@ -760,50 +666,6 @@
             style="width: 30px; height: 30px; border-radius: 4px"
           ></div>
           <span>Muy por encima del promedio (valores absolutos)</span>
-        </div>
-      </div>
-      
-      <h3 style="margin: 1.5rem 0 0.75rem; font-size: 1.1rem">
-        Leyenda de Porcentajes
-      </h3>
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          gap: 0.5rem;
-          font-size: 0.9rem;
-        "
-      >
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-muy-bajo"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Muy bajo (&lt; 5%)</span>
-        </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-bajo"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Bajo (5% - 15%)</span>
-        </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-medio"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Medio (15% - 25%)</span>
-        </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-alto"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Alto (&gt; 25%)</span>
         </div>
       </div>
     </div>
@@ -1177,10 +1039,10 @@
           isPercentageMode = !isPercentageMode;
           
           if (isPercentageMode) {
-            togglePercentage.innerHTML = 'Ver Valores Absolutos';
+            togglePercentage.innerHTML = '<i class="fas fa-chart-bar"></i> Ver Valores Absolutos';
             togglePercentage.classList.add("percentage-mode");
           } else {
-            togglePercentage.innerHTML = 'Ver Porcentajes';
+            togglePercentage.innerHTML = '<i class="fas fa-percentage"></i> Ver Porcentajes';
             togglePercentage.classList.remove("percentage-mode");
           }
           
