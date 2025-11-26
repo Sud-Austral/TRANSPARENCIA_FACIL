@@ -279,6 +279,12 @@
         border-radius: 4px;
       }
 
+      .base_class {
+        background: linear-gradient(135deg, #ecf1c1 0%, #bef4ac 100%);
+        color: black;
+        font-weight: 700;
+      }
+
       .sexo_class {
         background: linear-gradient(135deg, #e2e8f0 0%, #cbd5e0 100%);
         color: black;
@@ -547,24 +553,32 @@
           </div>
 
           <div class="filters" >
-            <div class="search-box">
-              <i class="fas fa-layer-group"></i>
-              <select id="base-filter">
-                <option value="">Todas las bases</option>
+            <div class="search-box" style="display: none;">
+              <i class="fas fa-search"></i>
+              <input type="text" id="search-input" placeholder="Buscar organismo...">
+            </div>
+
+            <div class="search-box" style="display: none;">
+              <i class="fas fa-sitemap"></i>
+              <select id="padre-filter">
+                <option value="">Todos los organismos padres</option>
               </select>
             </div>
 
             <div class="search-box">
-              <i class="fas fa-graduation-cap"></i>
-              <select id="homologado-filter">
-                <option value="">Todos los homologados</option>
+              <i class="fas fa-venus-mars"></i>
+              <select id="sexo-filter">
+                <option value="">Todos los sexos</option>
+                <option value="desconocido">Desconocido</option>
+                <option value="masculino">Masculino</option>
+                <option value="femenino">Femenino</option>
               </select>
             </div>
 
             <div class="search-box">
-              <i class="fas fa-user-clock"></i>
-              <select id="edad-filter">
-                <option value="">Todas las edades</option>
+              <i class="fas fa-calendar-alt"></i>
+              <select id="year-filter">
+                <option value="">Todos los años</option>
               </select>
             </div>
 
@@ -670,7 +684,7 @@
       }
 
       let rawData = [];
-      const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_all/${organismoParam}.json`;
+      const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_sexo/${organismoParam}.json`;
       console.log(url)
       async function cargarJSON() {
         try {
@@ -695,8 +709,7 @@
           const allKeys = new Set();
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
-              if (key !== "organismo_nombre" && key !== "base" && key !== "sexo" && 
-                  key !== "homologado" && key !== "age_label")
+              if (key !== "organismo_nombre" && key !== "base" && key !== "sexo")
                 allKeys.add(key);
             });
           });
@@ -735,37 +748,31 @@
           allYears = Array.from(yearsSet).sort((a, b) => b - a); // Ordenar de mayor a menor
           maxYear = allYears.length > 0 ? allYears[0] : null;
           
-          // Poblar el selector de bases
-          const baseFilter = document.getElementById("base-filter");
-          const basesUnicas = [...new Set(data.map(item => item.base))];
-          basesUnicas.forEach(base => {
+          // Poblar el selector de años
+          const yearFilter = document.getElementById("year-filter");
+          allYears.forEach(year => {
             const option = document.createElement("option");
-            option.value = base;
-            option.textContent = base;
-            baseFilter.appendChild(option);
+            option.value = year;
+            option.textContent = year; // Se mostrará como entero
+            yearFilter.appendChild(option);
           });
           
-          // Poblar el selector de homologados
-          const homologadoFilter = document.getElementById("homologado-filter");
-          const homologadosUnicos = [...new Set(data.map(item => item.homologado))];
-          homologadosUnicos.forEach(homologado => {
+          // Poblar el selector de organismos padres
+          const padreFilter = document.getElementById("padre-filter");
+          const padresUnicos = [...new Set(Object.values(organismoPadres))];
+          padresUnicos.forEach((padre) => {
             const option = document.createElement("option");
-            option.value = homologado;
-            option.textContent = homologado;
-            homologadoFilter.appendChild(option);
+            option.value = padre;
+            option.textContent = padre;
+            padreFilter.appendChild(option);
           });
           
-          // Poblar el selector de edades
-          const edadFilter = document.getElementById("edad-filter");
-          const edadesUnicas = [...new Set(data.map(item => item.age_label))];
-          edadesUnicas.forEach(edad => {
-            const option = document.createElement("option");
-            option.value = edad;
-            option.textContent = edad;
-            edadFilter.appendChild(option);
-          });
+          // Seleccionar el año más reciente por defecto
+          if (maxYear) {
+            yearFilter.value = maxYear;
+          }
           
-          // Filtrar meses por el año más reciente
+          // Filtrar meses por el año seleccionado (inicialmente el año más reciente)
           filterMonthsByYear(maxYear);
           
           updateStats();
@@ -836,6 +843,10 @@
         thOrg.innerHTML = '<i class="fas fa-building"></i> Organismo';
         headerRow.appendChild(thOrg);
 
+        const thBase = document.createElement("th");
+        thBase.innerHTML = '<i class="fas fa-layer-group"></i> Base';
+        headerRow.appendChild(thBase);
+
         const thSexo = document.createElement("th");
         thSexo.innerHTML = '<i class="fas fa-venus-mars"></i> Sexo';
         headerRow.appendChild(thSexo);
@@ -866,7 +877,15 @@
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
 
-          // Celda para sexo
+          //.base_class
+          const tdBase = document.createElement("td");
+          tdBase.classList.add("base_class");
+
+          tdBase.textContent = row.base || "-";
+          tdBase.title = row.base || "-";
+          tr.appendChild(tdBase);
+
+          // Nueva celda para sexo
           const tdSexo = document.createElement("td");
           tdSexo.classList.add("sexo_class");
           
@@ -921,10 +940,10 @@
 
           // Segunda pasada para agregar tooltips y colores
           const cells = tr.children;
-          // Ajustamos el índice para empezar después de la columna de sexo
-          for (let i = 2; i < cells.length - 1; i++) {
+          // Ajustamos el índice para empezar después de la nueva columna de sexo
+          for (let i = 3; i < cells.length - 1; i++) {
             const td = cells[i];
-            const val = row[filteredMonths[i - 2]];
+            const val = row[filteredMonths[i - 3]];
 
             if (val && val > 0 && avg > 0) {
               const percent = ((val - avg) / avg) * 100;
@@ -963,9 +982,10 @@
       }
 
       function setupEventListeners() {
-        const baseFilter = document.getElementById("base-filter");
-        const homologadoFilter = document.getElementById("homologado-filter");
-        const edadFilter = document.getElementById("edad-filter");
+        const searchInput = document.getElementById("search-input");
+        const padreFilter = document.getElementById("padre-filter");
+        const sexoFilter = document.getElementById("sexo-filter");
+        const yearFilter = document.getElementById("year-filter");
 
         const normalizeText = (str) =>
           str
@@ -974,28 +994,35 @@
             .toLowerCase();
 
         const aplicarFiltros = () => {
-          const baseSeleccionada = baseFilter.value;
-          const homologadoSeleccionado = homologadoFilter.value;
-          const edadSeleccionada = edadFilter.value;
+          const searchTerm = normalizeText(searchInput.value);
+          const padreSeleccionado = padreFilter.value;
+          const sexoSeleccionado = sexoFilter.value;
+          const yearSeleccionado = parseInt(yearFilter.value, 10); // Convertir a entero
+
+          // Filtrar meses por el año seleccionado
+          filterMonthsByYear(yearSeleccionado);
 
           filteredData = data.filter((row) => {
-            const coincideBase =
-              baseSeleccionada === "" || row.base === baseSeleccionada;
-            const coincideHomologado =
-              homologadoSeleccionado === "" || row.homologado === homologadoSeleccionado;
-            const coincideEdad =
-              edadSeleccionada === "" || row.age_label === edadSeleccionada;
+            const nombreOrganismo = normalizeText(row.organismo_nombre);
+            const padreOrg = organismoPadres[row.organismo_nombre] || "";
 
-            return coincideBase && coincideHomologado && coincideEdad;
+            const coincideBusqueda = nombreOrganismo.includes(searchTerm);
+            const coincidePadre =
+              padreSeleccionado === "" || padreOrg === padreSeleccionado;
+            const coincideSexo =
+              sexoSeleccionado === "" || row.sexo === sexoSeleccionado;
+
+            return coincideBusqueda && coincidePadre && coincideSexo;
           });
 
           updateStats();
           renderTable();
         };
 
-        baseFilter.addEventListener("change", aplicarFiltros);
-        homologadoFilter.addEventListener("change", aplicarFiltros);
-        edadFilter.addEventListener("change", aplicarFiltros);
+        searchInput.addEventListener("input", aplicarFiltros);
+        padreFilter.addEventListener("change", aplicarFiltros);
+        sexoFilter.addEventListener("change", aplicarFiltros);
+        yearFilter.addEventListener("change", aplicarFiltros);
       }
 
       // Inicializar la aplicación cuando se carga la página
@@ -1004,9 +1031,11 @@
       });
 
       document.getElementById("clear-filters").addEventListener("click", () => {
-        document.getElementById("base-filter").value = "";
-        document.getElementById("homologado-filter").value = "";
-        document.getElementById("edad-filter").value = "";
+        document.getElementById("search-input").value = "";
+        document.getElementById("padre-filter").value = "";
+        document.getElementById("sexo-filter").value = "";
+        document.getElementById("year-filter").value = maxYear; // Volver al año más reciente
+        filterMonthsByYear(maxYear);
         filteredData = [...data];
         updateStats();
         renderTable();

@@ -902,6 +902,12 @@
           const tdAnalisis = document.createElement("td");
           tdAnalisis.className = "link-cell";
 
+          const contratoLink = document.createElement("a");
+          contratoLink.href = `registro/registro1.html?organismo=${codeName}`;
+          contratoLink.title = "Ver información por tipo de contrato";
+          contratoLink.innerHTML = '<i class="fas fa-file-contract"></i>';
+          tdAnalisis.appendChild(contratoLink);
+
           const sexoLink = document.createElement("a");
           sexoLink.href = `registro/sexo1.html?organismo=${codeName}`;
           sexoLink.title = "Ver información por sexo";
