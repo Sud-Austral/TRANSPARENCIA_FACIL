@@ -204,7 +204,7 @@
       }
 
       .search-box select {
-        appearance: none;
+        appearance: none; /* remueve estilos nativos */
         -webkit-appearance: none;
         -moz-appearance: none;
         background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='5'%3E%3Cpath fill='white' d='M0 0l5 5 5-5z'/%3E%3C/svg%3E");
@@ -218,7 +218,7 @@
         color: black;
       }
 
-      .clear-button, .toggle-button {
+      .clear-button {
         padding: 0.5rem 1rem;
         background-color: rgba(255, 255, 255, 0.2);
         color: white;
@@ -226,63 +226,14 @@
         border-radius: 8px;
         font-size: 0.9rem;
         cursor: pointer;
-        transition: all 0.3s ease;
+        transition: background-color 0.2s ease;
         display: flex;
         align-items: center;
         gap: 0.5rem;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        position: relative;
-        overflow: hidden;
       }
 
-      .clear-button:hover, .toggle-button:hover {
+      .clear-button:hover {
         background-color: rgba(255, 255, 255, 0.3);
-        transform: translateY(-2px);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-      }
-
-      .toggle-button.percentage-mode {
-        background: linear-gradient(135deg, var(--accent-color) 0%, var(--secondary-color) 100%);
-        color: white;
-        box-shadow: 0 2px 4px rgba(49, 130, 206, 0.3);
-      }
-
-      .toggle-button.percentage-mode:hover {
-        background: linear-gradient(135deg, var(--secondary-color) 0%, var(--primary-color) 100%);
-        box-shadow: 0 4px 8px rgba(49, 130, 206, 0.4);
-      }
-
-      .toggle-button::after {
-        content: '';
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        width: 5px;
-        height: 5px;
-        background: rgba(255, 255, 255, 0.5);
-        opacity: 0;
-        border-radius: 100%;
-        transform: scale(1, 1) translate(-50%);
-        transform-origin: 50% 50%;
-      }
-
-      .toggle-button:focus:not(:active)::after {
-        animation: ripple 1s ease-out;
-      }
-
-      @keyframes ripple {
-        0% {
-          transform: scale(0, 0);
-          opacity: 0.5;
-        }
-        20% {
-          transform: scale(25, 25);
-          opacity: 0.3;
-        }
-        100% {
-          opacity: 0;
-          transform: scale(40, 40);
-        }
       }
 
       .table-container {
@@ -361,7 +312,7 @@
         border-radius: 4px;
       }
 
-      .homologado_class {
+      .sexo_class {
         background: linear-gradient(135deg, #e2e8f0 0%, #cbd5e0 100%);
         color: black;
         font-weight: 700;
@@ -397,78 +348,6 @@
         font-weight: 700;
       }
 
-      /* Estilos mejorados para porcentajes */
-      .porcentaje-muy-bajo {
-        background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
-        color: #c62828;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(198, 40, 40, 0.2);
-        position: relative;
-      }
-
-      .porcentaje-bajo {
-        background: linear-gradient(135deg, #fff8e1 0%, #ffe0b2 100%);
-        color: #ff8f00;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(255, 143, 0, 0.2);
-        position: relative;
-      }
-
-      .porcentaje-medio {
-        background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
-        color: #1565c0;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(21, 101, 192, 0.2);
-        position: relative;
-      }
-
-      .porcentaje-alto {
-        background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
-        color: #2e7d32;
-        font-weight: 700;
-        border-radius: 4px;
-        box-shadow: 0 2px 4px rgba(46, 125, 50, 0.2);
-        position: relative;
-      }
-
-      /* Indicadores visuales para porcentajes */
-      .porcentaje-muy-bajo::after,
-      .porcentaje-bajo::after,
-      .porcentaje-medio::after,
-      .porcentaje-alto::after {
-        content: '';
-        position: absolute;
-        right: 6px;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 0;
-        height: 0;
-        border-style: solid;
-      }
-
-      .porcentaje-muy-bajo::after {
-        border-width: 0 0 6px 6px;
-        border-color: transparent transparent #c62828 transparent;
-      }
-
-      .porcentaje-bajo::after {
-        border-width: 0 0 6px 6px;
-        border-color: transparent transparent #ff8f00 transparent;
-      }
-
-      .porcentaje-medio::after {
-        border-width: 0 0 6px 6px;
-        border-color: transparent transparent #1565c0 transparent;
-      }
-
-      .porcentaje-alto::after {
-        border-width: 0 6px 6px 0;
-        border-color: transparent #2e7d32 transparent transparent;
-      }
-
       .promedio-cell {
         background: linear-gradient(
           135deg,
@@ -492,7 +371,7 @@
         transform: translateY(-50px);
         transition: all 0.5s ease;
         white-space: nowrap;
-        white-space: pre-line;
+        white-space: pre-line; /* permite interpretar \n como salto de línea */
         z-index: 1000;
       }
 
@@ -578,7 +457,7 @@
         background: var(--white);
         box-shadow: var(--shadow-lg);
         padding: 0.8rem 0;
-        overflow-x: auto;
+        overflow-x: auto; /* Evita que se corte en pantallas pequeñas */
       }
 
       .nav-container {
@@ -595,7 +474,7 @@
         padding: 0.6rem 1.2rem;
         border-radius: 8px;
         font-weight: 600;
-        white-space: nowrap;
+        white-space: nowrap; /* Evita cortes de texto */
         transition: background 0.3s ease, transform 0.2s ease;
       }
 
@@ -614,9 +493,9 @@
       <div class="container">
         <div class="header-content">
           <h1 id="titulo_principal">
-            <i class="fas fa-chart-line"></i>Registros por Organismo y Homologado
+            <i class="fas fa-chart-line"></i>Registros por Organismo y Sexo
           </h1>
-          <p>Seguimiento mensual de registros por organismo público y homologado</p>
+          <p>Seguimiento mensual de registros por organismo público y sexo</p>
         </div>
       </div>
     </header>
@@ -667,6 +546,13 @@
             </div>
 
             <div class="search-box">
+              <i class="fas fa-graduation-cap"></i>
+              <select id="homologado-filter">
+                <option value="">Todos los homologados</option>
+              </select>
+            </div>
+
+            <div class="search-box">
               <i class="fas fa-user-clock"></i>
               <select id="edad-filter">
                 <option value="">Todas las edades</option>
@@ -678,12 +564,6 @@
               <select id="year-filter">
                 <option value="">Todos los años</option>
               </select>
-            </div>
-
-            <div class="search-box">
-              <button id="toggle-percentage" class="toggle-button">
-                 Ver Porcentajes
-              </button>
             </div>
 
             <div class="search-box">
@@ -720,7 +600,7 @@
             class="valor-muy-bajo"
             style="width: 30px; height: 30px; border-radius: 4px"
           ></div>
-          <span>Muy por debajo del promedio (valores absolutos)</span>
+          <span>Muy por debajo del promedio</span>
         </div>
 
         <div style="display: flex; align-items: center; gap: 0.5rem">
@@ -728,7 +608,7 @@
             class="valor-bajo"
             style="width: 30px; height: 30px; border-radius: 4px"
           ></div>
-          <span>Levemente por debajo del promedio (valores absolutos)</span>
+          <span>Levemente por debajo del promedio</span>
         </div>
 
         <div style="display: flex; align-items: center; gap: 0.5rem">
@@ -736,7 +616,7 @@
             class="valor-medio"
             style="width: 30px; height: 30px; border-radius: 4px"
           ></div>
-          <span>Cercano al promedio del organismo (valores absolutos)</span>
+          <span>Cercano al promedio del organismo</span>
         </div>
 
         <div style="display: flex; align-items: center; gap: 0.5rem">
@@ -744,7 +624,7 @@
             class="valor-alto"
             style="width: 30px; height: 30px; border-radius: 4px"
           ></div>
-          <span>Levemente por encima del promedio (valores absolutos)</span>
+          <span>Levemente por encima del promedio</span>
         </div>
 
         <div style="display: flex; align-items: center; gap: 0.5rem">
@@ -752,51 +632,7 @@
             class="valor-muy-alto"
             style="width: 30px; height: 30px; border-radius: 4px"
           ></div>
-          <span>Muy por encima del promedio (valores absolutos)</span>
-        </div>
-      </div>
-      
-      <h3 style="margin: 1.5rem 0 0.75rem; font-size: 1.1rem">
-        Leyenda de Porcentajes
-      </h3>
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          gap: 0.5rem;
-          font-size: 0.9rem;
-        "
-      >
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-muy-bajo"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Muy bajo (&lt; 5%)</span>
-        </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-bajo"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Bajo (5% - 15%)</span>
-        </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-medio"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Medio (15% - 25%)</span>
-        </div>
-
-        <div style="display: flex; align-items: center; gap: 0.5rem">
-          <div
-            class="porcentaje-alto"
-            style="width: 30px; height: 30px; border-radius: 4px"
-          ></div>
-          <span>Alto (&gt; 25%)</span>
+          <span>Muy por encima del promedio</span>
         </div>
       </div>
     </div>
@@ -812,7 +648,6 @@
       let allYears = [];
       let maxYear = null;
       let filteredMonths = [];
-      let isPercentageMode = false;
 
       // Mapa para ordenar los meses cronológicamente
       const monthOrder = {
@@ -825,7 +660,7 @@
       function cargarTitulosBoton(rawData){
         const titulo = document.getElementById("titulo_principal");
         if (titulo && rawData.length > 0) {
-          titulo.innerHTML = `<i class="fas fa-chart-line"></i>Registros por ${rawData[0].organismo_nombre} y Homologado`;
+          titulo.innerHTML = `<i class="fas fa-chart-line"></i>Registros por ${rawData[0].organismo_nombre} y Sexo`;
         }
       }
 
@@ -914,11 +749,12 @@
       // Función corregida para poblar los filtros
       function populateFilters() {
         const baseFilter = document.getElementById("base-filter");
+        const homologadoFilter = document.getElementById("homologado-filter");
         const edadFilter = document.getElementById("edad-filter");
         const yearFilter = document.getElementById("year-filter");
 
         // Verificar que los elementos existan antes de usarlos
-        if (!baseFilter || !edadFilter || !yearFilter) {
+        if (!baseFilter || !homologadoFilter || !edadFilter || !yearFilter) {
           console.error("No se encontraron todos los elementos de filtro en el DOM.");
           return;
         }
@@ -931,6 +767,7 @@
 
         // Limpiar opciones previas (excepto la primera)
         baseFilter.innerHTML = '<option value="">Todas las bases</option>';
+        homologadoFilter.innerHTML = '<option value="">Todos los homologados</option>';
         edadFilter.innerHTML = '<option value="">Todas las edades</option>';
         yearFilter.innerHTML = '<option value="">Todos los años</option>';
 
@@ -941,6 +778,20 @@
           option.value = base;
           option.textContent = base;
           baseFilter.appendChild(option);
+        });
+          
+        // Poblar filtro de homologados - CORREGIDO (filtrando valores nulos/vacíos correctamente)
+        const homologadosUnicos = [...new Set(
+          data
+            .map(item => item.homologado)
+            .filter(val => val != null && val !== "" && val !== "null")
+        )].sort();
+        
+        homologadosUnicos.forEach(homologado => {
+          const option = document.createElement("option");
+          option.value = homologado;
+          option.textContent = homologado;
+          homologadoFilter.appendChild(option);
         });
           
         // Poblar filtro de edades - CORREGIDO (filtrando valores nulos/vacíos correctamente)
@@ -991,12 +842,12 @@
         const groupedData = new Map();
 
         dataToProcess.forEach(row => {
-          const key = `${row.organismo_nombre}_${row.homologado}`;
+          const key = `${row.organismo_nombre}_${row.sexo}`;
           
           if (!groupedData.has(key)) {
             groupedData.set(key, {
               organismo_nombre: row.organismo_nombre,
-              homologado: row.homologado,
+              sexo: row.sexo,
             });
           }
 
@@ -1055,9 +906,9 @@
         thOrg.innerHTML = '<i class="fas fa-building"></i> Organismo';
         headerRow.appendChild(thOrg);
 
-        const thHomologado = document.createElement("th");
-        thHomologado.innerHTML = '<i class="fas fa-graduation-cap"></i> Homologado';
-        headerRow.appendChild(thHomologado);
+        const thSexo = document.createElement("th");
+        thSexo.innerHTML = '<i class="fas fa-venus-mars"></i> Sexo';
+        headerRow.appendChild(thSexo);
 
         filteredMonths.forEach((month) => {
           const th = document.createElement("th");
@@ -1074,21 +925,6 @@
 
         const body = document.createElement("tbody");
 
-        // Calcular totales por columna para el modo porcentaje
-        const columnTotals = {};
-        filteredMonths.forEach(month => {
-          columnTotals[month] = 0;
-        });
-
-        filteredData.forEach((row) => {
-          filteredMonths.forEach((month) => {
-            const val = row[month];
-            if (val && val > 0) {
-              columnTotals[month] += val;
-            }
-          });
-        });
-
         filteredData.forEach((row) => {
           const tr = document.createElement("tr");
 
@@ -1097,15 +933,15 @@
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
 
-          const tdHomologado = document.createElement("td");
-          tdHomologado.classList.add("homologado_class");
-          let homologadoFormateado = "-";
-          if (row.homologado) {
-            homologadoFormateado = row.homologado.charAt(0).toUpperCase() + row.homologado.slice(1).toLowerCase();
+          const tdSexo = document.createElement("td");
+          tdSexo.classList.add("sexo_class");
+          let sexoFormateado = "-";
+          if (row.sexo) {
+            sexoFormateado = row.sexo.charAt(0).toUpperCase() + row.sexo.slice(1).toLowerCase();
           }
-          tdHomologado.textContent = homologadoFormateado;
-          tdHomologado.title = homologadoFormateado;
-          tr.appendChild(tdHomologado);
+          tdSexo.textContent = sexoFormateado;
+          tdSexo.title = sexoFormateado;
+          tr.appendChild(tdSexo);
 
           let sum = 0;
           let count = 0;
@@ -1119,30 +955,10 @@
               td.classList.add("sin-registro");
               td.innerHTML = '<i class="fas fa-times"></i> Sin datos';
             } else if (val) {
-              if (isPercentageMode && columnTotals[month] > 0) {
-                const percentage = (val / columnTotals[month] * 100);
-                td.textContent = `${percentage.toFixed(1)}%`;
-
-                if (percentage < 5) {
-                  td.classList.add("porcentaje-muy-bajo");
-                } else if (percentage < 15) {
-                  td.classList.add("porcentaje-bajo");
-                } else if (percentage < 25) {
-                  td.classList.add("porcentaje-medio");
-                } else {
-                  td.classList.add("porcentaje-alto");
-                }
-
-                const tooltip = document.createElement("div");
-                tooltip.className = "tooltip";
-                tooltip.textContent = `Valor absoluto: ${formatter.format(val)}`;
-                td.appendChild(tooltip);
-              } else {
-                td.textContent = val.toLocaleString();
-                sum += val;
-                count++;
-                values.push(val);
-              }
+              td.textContent = val.toLocaleString();
+              sum += val;
+              count++;
+              values.push(val);
             } else {
               td.textContent = "-";
             }
@@ -1159,57 +975,37 @@
 
           const tdAvg = document.createElement("td");
           tdAvg.classList.add("promedio-cell");
-          
-          if (isPercentageMode) {
-            let totalPercentage = 0;
-            let percentageCount = 0;
-            
-            filteredMonths.forEach((month) => {
-              const val = row[month];
-              if (val && val > 0 && columnTotals[month] > 0) {
-                totalPercentage += (val / columnTotals[month] * 100);
-                percentageCount++;
-              }
-            });
-            
-            const avgPercentage = percentageCount > 0 ? (totalPercentage / percentageCount).toFixed(1) : "-";
-            tdAvg.textContent = avgPercentage !== "-" ? `${avgPercentage}%` : "-";
-          } else {
-            tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
-          }
-          
+          tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
           tr.appendChild(tdAvg);
 
-          if (!isPercentageMode) {
-            const cells = tr.children;
-            for (let i = 2; i < cells.length - 1; i++) {
-              const td = cells[i];
-              const val = row[filteredMonths[i - 2]];
+          const cells = tr.children;
+          for (let i = 2; i < cells.length - 1; i++) {
+            const td = cells[i];
+            const val = row[filteredMonths[i - 2]];
 
-              if (val && val > 0 && avg > 0) {
-                const percent = ((val - avg) / avg) * 100;
-                const tooltip = document.createElement("div");
-                tooltip.className = "tooltip";
-                tooltip.textContent = `${percent > 0 ? "+" : ""}${percent.toFixed(1)}% del promedio`;
-                td.appendChild(tooltip);
+            if (val && val > 0 && avg > 0) {
+              const percent = ((val - avg) / avg) * 100;
+              const tooltip = document.createElement("div");
+              tooltip.className = "tooltip";
+              tooltip.textContent = `${percent > 0 ? "+" : ""}${percent.toFixed(1)}% del promedio`;
+              td.appendChild(tooltip);
 
-                if (Math.abs(val - avg) > stdDev * 0.9) {
-                  if (val > avg) {
-                    if (val > avg * 1.5) {
-                      td.classList.add("valor-muy-alto");
-                    } else {
-                      td.classList.add("valor-alto");
-                    }
+              if (Math.abs(val - avg) > stdDev * 0.9) {
+                if (val > avg) {
+                  if (val > avg * 1.5) {
+                    td.classList.add("valor-muy-alto");
                   } else {
-                    if (val < avg * 0.5) {
-                      td.classList.add("valor-muy-bajo");
-                    } else {
-                      td.classList.add("valor-bajo");
-                    }
+                    td.classList.add("valor-alto");
                   }
                 } else {
-                  td.classList.add("valor-medio");
+                  if (val < avg * 0.5) {
+                    td.classList.add("valor-muy-bajo");
+                  } else {
+                    td.classList.add("valor-bajo");
+                  }
                 }
+              } else {
+                td.classList.add("valor-medio");
               }
             }
           }
@@ -1220,12 +1016,13 @@
 
       function setupEventListeners() {
         const baseFilter = document.getElementById("base-filter");
+        const homologadoFilter = document.getElementById("homologado-filter");
         const edadFilter = document.getElementById("edad-filter");
         const yearFilter = document.getElementById("year-filter");
-        const togglePercentage = document.getElementById("toggle-percentage");
 
         const aplicarFiltros = () => {
           const baseSeleccionada = baseFilter.value;
+          const homologadoSeleccionado = homologadoFilter.value;
           const edadSeleccionada = edadFilter.value;
           const yearSeleccionado = parseInt(yearFilter.value, 10);
 
@@ -1235,8 +1032,9 @@
           // 1. Filtrar los datos originales
           const dataAfterFilter = data.filter((row) => {
             const coincideBase = baseSeleccionada === "" || row.base === baseSeleccionada;
+            const coincideHomologado = homologadoSeleccionado === "" || row.homologado === homologadoSeleccionado;
             const coincideEdad = edadSeleccionada === "" || row.age_label === edadSeleccionada;
-            return coincideBase && coincideEdad;
+            return coincideBase && coincideHomologado && coincideEdad;
           });
 
           // 2. Procesar y mostrar los datos filtrados
@@ -1244,22 +1042,9 @@
         };
 
         baseFilter.addEventListener("change", aplicarFiltros);
+        homologadoFilter.addEventListener("change", aplicarFiltros);
         edadFilter.addEventListener("change", aplicarFiltros);
         yearFilter.addEventListener("change", aplicarFiltros);
-
-        togglePercentage.addEventListener("click", () => {
-          isPercentageMode = !isPercentageMode;
-          
-          if (isPercentageMode) {
-            togglePercentage.innerHTML = 'Ver Valores Absolutos';
-            togglePercentage.classList.add("percentage-mode");
-          } else {
-            togglePercentage.innerHTML = 'Ver Porcentajes';
-            togglePercentage.classList.remove("percentage-mode");
-          }
-          
-          renderTable();
-        });
       }
 
       document.addEventListener("DOMContentLoaded", () => {
@@ -1269,6 +1054,7 @@
 
       document.getElementById("clear-filters").addEventListener("click", () => {
         document.getElementById("base-filter").value = "";
+        document.getElementById("homologado-filter").value = "";
         document.getElementById("edad-filter").value = "";
         document.getElementById("year-filter").value = maxYear;
         

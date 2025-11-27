@@ -683,6 +683,7 @@
           const response = await fetch(url);
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           rawData = await response.json();
+          console.log("Datos cargados:", rawData[0]); // Verificar los datos cargados
           cargarTitulosBoton(rawData);
           initializeApp(); // Llamar a initializeApp después de cargar los datos
         } catch (error) {
@@ -701,7 +702,7 @@
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
               if (key !== "organismo_nombre" && key !== "base" && key !== "sexo" && 
-                  key !== "homologado" && key !== "age_label")
+                  key !== "homologado" && key !== "homologado_nombre" && key !== "age_label")
                 allKeys.add(key);
             });
           });
@@ -771,7 +772,13 @@
           baseFilter.appendChild(option);
         });
           
-        const homologadosUnicos = [...new Set(data.map(item => item.homologado))].sort();
+        // Intentar con ambos nombres de campo posibles
+        const homologadosUnicos = [...new Set(data.map(item => 
+          item.homologado || item.homologado_nombre || ""
+        ))].filter(val => val !== "").sort();
+        
+        console.log("Homologados únicos:", homologadosUnicos); // Verificar los valores únicos
+        
         homologadosUnicos.forEach(homologado => {
           const option = document.createElement("option");
           option.value = homologado;
@@ -1011,7 +1018,9 @@
           // 1. Filtrar los datos originales
           const dataAfterFilter = data.filter((row) => {
             const coincideBase = baseSeleccionada === "" || row.base === baseSeleccionada;
-            const coincideHomologado = homologadoSeleccionado === "" || row.homologado === homologadoSeleccionado;
+            // Comprobar ambos nombres de campo posibles para homologado
+            const homologadoValor = row.homologado || row.homologado_nombre || "";
+            const coincideHomologado = homologadoSeleccionado === "" || homologadoValor === homologadoSeleccionado;
             const coincideEdad = edadSeleccionada === "" || row.age_label === edadSeleccionada;
             return coincideBase && coincideHomologado && coincideEdad;
           });
