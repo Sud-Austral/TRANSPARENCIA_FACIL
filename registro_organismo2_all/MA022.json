@@ -2,7 +2,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades del Punilla",
   "base":"Cod. Trabajo",
-  "homologado":"Otros",
+  "homologado":"Ingeniero(a)",
   "age_label":"30 a 50",
   "sexo":"hombre",
   "Enero_2018":1,
@@ -105,7 +105,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades del Punilla",
   "base":"Cod. Trabajo",
-  "homologado":"Otros",
+  "homologado":"Ingeniero(a)",
   "age_label":"50 a 65",
   "sexo":"hombre",
   "Enero_2018":0,
@@ -208,7 +208,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades del Punilla",
   "base":"Cod. Trabajo",
-  "homologado":"Otros",
+  "homologado":"Ingeniero(a)",
   "age_label":"65 a 85",
   "sexo":"hombre",
   "Enero_2018":1,
@@ -311,7 +311,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades del Punilla",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Contador(a)",
   "age_label":"50 a 65",
   "sexo":"hombre",
   "Enero_2018":1,
@@ -414,7 +414,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades del Punilla",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Contador(a)",
   "age_label":"65 a 85",
   "sexo":"hombre",
   "Enero_2018":0,

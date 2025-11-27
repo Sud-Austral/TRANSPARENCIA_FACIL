@@ -2,7 +2,7 @@
  {
   "organismo_nombre":"Corporación Cultural Ilustre Municipalidad de Rauco",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Auxiliar",
   "age_label":"30 a 50",
   "sexo":"mujer",
   "Enero_2018":0,
@@ -105,9 +105,9 @@
  {
   "organismo_nombre":"Corporación Cultural Ilustre Municipalidad de Rauco",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Contador(a)",
   "age_label":"65 a 85",
-  "sexo":"female",
+  "sexo":"mujer",
   "Enero_2018":0,
   "Febrero_2018":0,
   "Marzo_2018":0,
@@ -208,9 +208,9 @@
  {
   "organismo_nombre":"Corporación Cultural Ilustre Municipalidad de Rauco",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Director(a)",
   "age_label":"65 a 85",
-  "sexo":"mujer",
+  "sexo":"female",
   "Enero_2018":0,
   "Febrero_2018":0,
   "Marzo_2018":0,

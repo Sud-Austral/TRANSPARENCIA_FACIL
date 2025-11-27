@@ -2,7 +2,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades de la Provincia del Huasco",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Auditor(a)",
   "age_label":"30 a 50",
   "sexo":"hombre",
   "Enero_2018":1,
@@ -105,7 +105,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades de la Provincia del Huasco",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Secretario(a)",
   "age_label":"50 a 65",
   "sexo":"mujer",
   "Enero_2018":1,
@@ -208,7 +208,7 @@
  {
   "organismo_nombre":"Asociación de Municipalidades de la Provincia del Huasco",
   "base":"Honorarios",
-  "homologado":"Otros",
+  "homologado":"Secretario(a)",
   "age_label":"65 a 85",
   "sexo":"mujer",
   "Enero_2018":0,
