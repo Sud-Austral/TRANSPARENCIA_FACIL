@@ -1686,6 +1686,69 @@
 
       async function loadDetailedData(organismo, month, sexo, baseFilter, homologadoFilter, edadFilter) {
         try {
+            // Construir URL dinámica del organismo
+            //const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle2/${organismo}.json.gz`;
+            const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle2/AC004.json.gz`;
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+
+            const buffer = await response.arrayBuffer();
+            const text = pako.ungzip(buffer, { to: "string" });
+            const detailedData = JSON.parse(text);
+
+            // --- FILTROS ---
+            let filteredDetails = detailedData.filter(item => {
+
+            // SEXO
+            if (sexo && item.sexo && item.sexo.toLowerCase() !== sexo.toLowerCase())
+                return false;
+
+            // MES
+            if (month && item.fecha && item.fecha !== month)
+                return false;
+
+            // BASE
+            if (baseFilter && item.base && item.base !== baseFilter)
+                return false;
+
+            // HOMOLOGADO
+            if (homologadoFilter && item.homologado && item.homologado !== homologadoFilter)
+                return false;
+
+            // EDAD (normalizado)
+            if (edadFilter && item.age_label) {
+                const itemAge = item.age_label.trim().toLowerCase();
+                const filterAge = edadFilter.trim().toLowerCase();
+
+                if (itemAge !== filterAge)
+                return false;
+            }
+
+            return true;
+            });
+
+            // Ocultar loading
+            document.getElementById("modal-loading").style.display = "none";
+
+            // Paginación
+            tableData = filteredDetails;
+            filteredTableData = [...tableData];
+            currentPage = 1;
+
+            // Mostrar en tabla
+            displayDetailedData(filteredDetails);
+
+        } catch (error) {
+            console.error("Error al cargar datos detallados:", error);
+            document.getElementById("modal-loading").style.display = "none";
+            document.getElementById("modal-table-container").innerHTML =
+            '<div class="no-data"><i class="fas fa-exclamation-triangle"></i> Error al cargar los datos detallados</div>';
+        }
+        }
+
+
+      async function loadDetailedData2(organismo, month, sexo, baseFilter, homologadoFilter, edadFilter) {
+        try {
           // Obtener el código del organismo desde el parámetro URL
           const response = await fetch(`https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle2/AC004.json.gz`);
           
