@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dashboard de Salidas de Organismos</title>
+    <title>Dashboard de Entradas de Organismos</title>
     <link
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
       rel="stylesheet"
@@ -488,7 +488,7 @@
       <div class="container">
         <div class="header-content">
           <h1>
-            <i class="fas fa-sign-out-alt"></i> Salidas de Organismos
+            <i class="fas fa-sign-out-alt"></i> Entradas de Organismos
           </h1>
           <p>Seguimiento mensual de personas que han salido de organismos públicos</p>
         </div>
@@ -504,7 +504,7 @@
         <a href="remuneracion_bruta.html" class="nav-item secondary">Remuneración Bruta</a>
         <a href="rutUnico.html" class="nav-item secondary">Personas</a>
         <a href="landing_transparencia.html" class="nav-item secondary">Inicio</a>
-        <a href="inicio_in1.html" class="nav-item accent">Entradas</a>
+        <a href="inicio_out1.html" class="nav-item accent">Salida</a>
         <!-- Ejemplo para más páginas -->
         <!-- <a href="otra.html" class="nav-item secondary">Otra Página</a> -->
       </div>
@@ -554,7 +554,7 @@
       </div>
       <div class="stat-item">
         <span class="stat-value" id="promedio-general">-</span>
-        <div class="stat-label">Promedio General de Salidas</div>
+        <div class="stat-label">Promedio General de Entradas</div>
       </div>
       <div class="stat-item">
         <span class="stat-value" id="periodo-analisis">-</span>
@@ -571,7 +571,7 @@
         <div class="table-header">
           <div class="table-title">
             <i class="fas fa-table"></i>
-            Salidas por Período
+            Entradas por Período
           </div>
 
           <div class="filters">
@@ -693,7 +693,7 @@
       let comunaName = "";
       let lastWeekName = "";
       const url =
-        "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/data/out.json";
+        "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/data/in.json";
 
       async function cargarJSON() {
         try {
