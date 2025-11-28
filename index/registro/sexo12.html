@@ -1688,14 +1688,15 @@
         try {
             // Construir URL dinámica del organismo
             //const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle2/${organismo}.json.gz`;
-            const url = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle2/AC004.json.gz`;
+            const url = `https://sud-austral.github.io/TRANSPARENCIA_FACIL/registro_organismo2_detalle2/AC004.json`;
             const response = await fetch(url);
             if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
 
             const buffer = await response.arrayBuffer();
             const text = pako.ungzip(buffer, { to: "string" });
+            console.log(text)
             const detailedData = JSON.parse(text);
-
+            console.log(detailedData)
             // --- FILTROS ---
             let filteredDetails = detailedData.filter(item => {
 
