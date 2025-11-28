@@ -1686,7 +1686,7 @@
       async function loadDetailedData(organismo, month, sexo, baseFilter, homologadoFilter, edadFilter) {
         try {
           // Obtener el código del organismo desde el parámetro URL
-          const response = await fetch(`https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle/${organismoParam}.json`);
+          const response = await fetch(`https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/registro_organismo2_detalle/CM106.json`);
           
           if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
           const detailedData = await response.json();
