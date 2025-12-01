@@ -306,20 +306,56 @@
       .valor-muy-alto {
         background: linear-gradient(135deg, #ffcccc 0%, #e60000 100%);
         color: #800000;
-
         font-weight: 700;
       }
 
-      .promedio-cell {
+      .total-cell {
         background: linear-gradient(
           135deg,
-          var(--accent-color) 0%,
-          var(--secondary-color) 100%
+          var(--success-color) 0%,
+          #2f855a 100%
         ) !important;
         color: var(--white) !important;
         font-weight: 700;
-        font-size: 1rem;
+        font-size: 1.1rem;
+        padding: 0.8rem 0.5rem !important;
       }
+
+     .total-row {
+        background: linear-gradient(
+            135deg,
+            #0f172a 0%,
+            #1e293b 100%
+        ) !important;
+        color: #ffffff !important;
+        font-weight: 800;
+        font-size: 1.4rem;
+        position: sticky;
+        bottom: 0;
+        z-index: 10;
+        box-shadow: 0 -6px 12px rgba(0, 0, 0, 0.3);
+        border-top: 4px solid var(--accent-color);
+        }
+
+        .total-row td {
+        border-top: 4px solid var(--accent-color);
+        padding: 1.2rem 0.6rem !important;
+        background: transparent !important;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        font-size: 1.1rem !important;
+        }
+
+        .total-row td:first-child {
+        background: linear-gradient(
+            135deg,
+            #0f172a 0%,
+            #1e293b 100%
+        ) !important;
+        font-size: 1.5rem;
+        text-shadow: 0 3px 6px rgba(0, 0, 0, 0.7);
+        letter-spacing: 1px;
+        color: #ffffff !important;
+        }
 
       .tooltip {
         position: absolute;
@@ -333,7 +369,7 @@
         transform: translateY(-50px);
         transition: all 0.5s ease;
         white-space: nowrap;
-        white-space: pre-line; /* permite interpretar \n como salto de línea */
+        white-space: pre-line;
         z-index: 1000;
       }
 
@@ -420,7 +456,7 @@
         color: var(--white);
         font-size: 0.9rem;
         min-width: 250px;
-        appearance: none; /* remueve estilos nativos */
+        appearance: none;
         -webkit-appearance: none;
         -moz-appearance: none;
         background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='5'%3E%3Cpath fill='white' d='M0 0l5 5 5-5z'/%3E%3C/svg%3E");
@@ -452,7 +488,6 @@
         background-color: rgba(255, 255, 255, 0.3);
       }
       
-      /* Estilos para la nueva columna de enlaces */
       .link-cell {
         padding: 0.5rem !important;
         text-align: center !important;
@@ -470,7 +505,7 @@
         color: var(--white);
         transition: all 0.2s ease;
         text-decoration: none;
-        margin: 0 2px; /* Espacio entre iconos */
+        margin: 0 2px;
       }
       
       .link-cell a:hover {
@@ -495,18 +530,13 @@
       </div>
     </header>
     
-    
-    
-    <!-- Barra de navegación -->
     <nav class="main-nav">
       <div class="nav-container">
         <a href="inicio.html" class="nav-item secondary">Ver Pagos</a>
         <a href="remuneracion_bruta.html" class="nav-item secondary">Remuneración Bruta</a>
         <a href="rutUnico.html" class="nav-item secondary">Personas</a>
         <a href="landing_transparencia.html" class="nav-item secondary">Inicio</a>
-        <a href="inicio_in1.html" class="nav-item accent">Entradas</a>
-        <!-- Ejemplo para más páginas -->
-        <!-- <a href="otra.html" class="nav-item secondary">Otra Página</a> -->
+        <a href="inicio_in1.html" class="nav-item accent">Entrada</a>
       </div>
     </nav>
 
@@ -515,7 +545,7 @@
         background: var(--white);
         box-shadow: var(--shadow-lg);
         padding: 0.8rem 0;
-        overflow-x: auto; /* Evita que se corte en pantallas pequeñas */
+        overflow-x: auto;
       }
 
       .nav-container {
@@ -532,7 +562,7 @@
         padding: 0.6rem 1.2rem;
         border-radius: 8px;
         font-weight: 600;
-        white-space: nowrap; /* Evita cortes de texto */
+        white-space: nowrap;
         transition: background 0.3s ease, transform 0.2s ease;
       }
 
@@ -545,7 +575,6 @@
         filter: brightness(1.55);
       }
     </style>
-
 
     <div class="stats-bar">
       <div class="stat-item">
@@ -669,7 +698,6 @@
       </div>
     </div>
 
-    <!-- Cargar el script externo -->
     <script src="organismos.js"></script>
     <script src="organismosCodigo.js"></script>
     <script>
@@ -684,10 +712,6 @@
         option.textContent = padre;
         padreFilter.appendChild(option);
       });
-
-      //////////////////////////////////////////////////////////////////////////////////
-
-      ///////////////////////////////////////////////////////////////////////////////
 
       let rawData = [];
       let comunaName = "";
@@ -708,7 +732,7 @@
         }
       }
 
-      cargarJSON(); // llamada inicial
+      cargarJSON();
 
       let data = [];
       let filteredData = [];
@@ -717,7 +741,6 @@
       let maxYear = null;
       let filteredMonths = [];
 
-      // Mapa para ordenar los meses cronológicamente
       const monthOrder = {
         "ENERO": 1, "FEBRERO": 2, "MARZO": 3, "ABRIL": 4,
         "MAYO": 5, "JUNIO": 6, "JULIO": 7, "AGOSTO": 8,
@@ -730,7 +753,6 @@
           data = rawData;
           filteredData = [...data];
 
-          // Obtener todos los meses únicos
           const allKeys = new Set();
           data.forEach((row) => {
             Object.keys(row).forEach((key) => {
@@ -739,7 +761,6 @@
           });
           allMonths = Array.from(allKeys);
 
-          // Ordenar meses cronológicamente
           allMonths.sort((a, b) => {
             const [monthA, yearStrA] = a.split('_');
             const [monthB, yearStrB] = b.split('_');
@@ -748,51 +769,46 @@
             const yearB = parseInt(yearStrB, 10);
             
             if (yearA !== yearB) {
-                return yearB - yearA; // Ordenar por año descendente
+                return yearB - yearA;
             }
             
             const monthNumA = monthOrder[monthA.toUpperCase()] || 0;
             const monthNumB = monthOrder[monthB.toUpperCase()] || 0;
             
-            return monthNumA - monthNumB; // Ordenar por mes ascendente
+            return monthNumA - monthNumB;
           });
 
-          // Extraer años únicos de los meses ya ordenados
           const yearsSet = new Set();
           allMonths.forEach(month => {
             const parts = month.split('_');
             if (parts.length > 1) {
-              const year = parseInt(parts[parts.length - 1], 10); // Convertir a entero
+              const year = parseInt(parts[parts.length - 1], 10);
               if (!isNaN(year)) {
                 yearsSet.add(year);
               }
             }
           });
           
-          allYears = Array.from(yearsSet).sort((a, b) => b - a); // Ordenar de mayor a menor
+          allYears = Array.from(yearsSet).sort((a, b) => b - a);
           maxYear = allYears.length > 0 ? allYears[0] : null;
           
-          // Poblar el selector de años
           allYears.forEach(year => {
             const option = document.createElement("option");
             option.value = year;
-            option.textContent = year; // Se mostrará como entero
+            option.textContent = year;
             yearFilter.appendChild(option);
           });
           
-          // Seleccionar el año más reciente por defecto
           if (maxYear) {
             yearFilter.value = maxYear;
           }
           
-          // Filtrar meses por el año seleccionado (inicialmente el año más reciente)
           filterMonthsByYear(maxYear);
           
           updateStats();
           renderTable();
           setupEventListeners();
 
-          // Ocultar loading y mostrar tabla
           document.getElementById("loading").style.display = "none";
           document.getElementById("data-table").style.display = "table";
         } catch (error) {
@@ -809,7 +825,7 @@
           filteredMonths = allMonths.filter(month => {
             const parts = month.split('_');
             if (parts.length > 1) {
-              const monthYear = parseInt(parts[parts.length - 1], 10); // Convertir a entero
+              const monthYear = parseInt(parts[parts.length - 1], 10);
               return monthYear === year;
             }
             return false;
@@ -824,7 +840,6 @@
         document.getElementById("ultimo-mes").textContent =
           filteredMonths.length > 0 ? filteredMonths[filteredMonths.length - 1].replace("_", " ").replace(".0", "") : "-";
 
-        // Calcular promedio general
         let totalSum = 0;
         let totalCount = 0;
 
@@ -848,7 +863,6 @@
         const table = document.getElementById("data-table");
         table.innerHTML = "";
 
-        // Crear header
         const header = document.createElement("thead");
         const headerRow = document.createElement("tr");
 
@@ -856,7 +870,6 @@
         thOrg.innerHTML = '<i class="fas fa-building"></i> Organismo';
         headerRow.appendChild(thOrg);
 
-        // Nueva columna de análisis con los 3 iconos
         const thAnalisis = document.createElement("th");
         thAnalisis.innerHTML = '<i class="fas fa-chart-pie"></i> Análisis';
         headerRow.appendChild(thAnalisis);
@@ -870,36 +883,34 @@
           headerRow.appendChild(th);
         });
 
-        const thAvg = document.createElement("th");
-        thAvg.innerHTML = '<i class="fas fa-calculator"></i> Promedio';
-        headerRow.appendChild(thAvg);
+        const thTotal = document.createElement("th");
+        thTotal.innerHTML = '<i class="fas fa-sum"></i> Total';
+        headerRow.appendChild(thTotal);
 
         header.appendChild(headerRow);
         table.appendChild(header);
 
-        // Crear body
         const body = document.createElement("tbody");
+
+        const columnTotals = new Array(filteredMonths.length).fill(0);
+        let grandTotal = 0;
 
         filteredData.forEach((row) => {
           const tr = document.createElement("tr");
 
-          // Celda del nombre del organismo con hipervínculo
           const tdName = document.createElement("td");
           const link = document.createElement("a");
           const encodedName = encodeURIComponent(row.organismo_nombre);
           const codeName = organismoCodigo[row.organismo_nombre];
-          //Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública
 
           link.href = `registro/registro1.html?organismo=${codeName}`;
           link.textContent = row.organismo_nombre;
-          //link.target = "_blank";
           link.style.color = "inherit";
           link.style.textDecoration = "underline";
           tdName.appendChild(link);
           tdName.title = row.organismo_nombre;
           tr.appendChild(tdName);
 
-          // Nueva celda para los 3 enlaces de análisis
           const tdAnalisis = document.createElement("td");
           tdAnalisis.className = "link-cell";
 
@@ -932,9 +943,9 @@
           let sum = 0;
           let count = 0;
           const values = [];
+          let rowTotal = 0;
 
-          // Celdas de valores mensuales
-          filteredMonths.forEach((month) => {
+          filteredMonths.forEach((month, index) => {
             const val = row[month];
             const td = document.createElement("td");
 
@@ -946,6 +957,9 @@
               sum += val;
               count++;
               values.push(val);
+              rowTotal += val;
+              columnTotals[index] += val;
+              grandTotal += val;
             } else {
               td.textContent = "-";
             }
@@ -953,7 +967,6 @@
             tr.appendChild(td);
           });
 
-          // Calcular promedio y desviación estándar
           const avg = count > 0 ? sum / count : 0;
           const variance =
             values.length > 1
@@ -962,19 +975,14 @@
               : 0;
           const stdDev = Math.sqrt(variance);
 
-          // Celda del promedio
-          const tdAvg = document.createElement("td");
-          tdAvg.classList.add("promedio-cell");
-          //tdAvg.textContent = count > 0 ? avg.toFixed(0) : "-";
-          tdAvg.textContent = count > 0 ? formatter.format(avg.toFixed(0)) : "-";
-          tr.appendChild(tdAvg);
+          const tdTotal = document.createElement("td");
+          tdTotal.classList.add("total-cell");
+          tdTotal.textContent = formatter.format(rowTotal);
+          tr.appendChild(tdTotal);
 
-          // Segunda pasada para agregar tooltips y colores
           const cells = tr.children;
-          // El índice ahora empieza en 2 para saltar "Organismo" y "Análisis"
           for (let i = 2; i < cells.length - 1; i++) {
             const td = cells[i];
-            // El índice para `filteredMonths` debe ajustarse en consecuencia
             const val = row[filteredMonths[i - 2]];
 
             if (val && val > 0 && avg > 0) {
@@ -987,7 +995,6 @@
 
               td.appendChild(tooltip);
 
-              // Colorear según desviación del promedio
               if (Math.abs(val - avg) > stdDev * 0.9) {
                 if (val > avg) {
                   if (val > avg * 1.5) {
@@ -1010,6 +1017,26 @@
           body.appendChild(tr);
         });
 
+        const totalRow = document.createElement("tr");
+        totalRow.className = "total-row";
+
+        const tdTotalLabel = document.createElement("td");
+        tdTotalLabel.textContent = "TOTAL";
+        tdTotalLabel.colSpan = 2;
+        totalRow.appendChild(tdTotalLabel);
+
+        filteredMonths.forEach((month, index) => {
+          const td = document.createElement("td");
+          td.textContent = formatter.format(columnTotals[index]);
+          totalRow.appendChild(td);
+        });
+
+        const tdGrandTotal = document.createElement("td");
+        tdGrandTotal.textContent = formatter.format(grandTotal);
+        totalRow.appendChild(tdGrandTotal);
+
+        body.appendChild(totalRow);
+
         table.appendChild(body);
       }
 
@@ -1027,9 +1054,8 @@
         const aplicarFiltros = () => {
           const searchTerm = normalizeText(searchInput.value);
           const padreSeleccionado = padreFilter.value;
-          const yearSeleccionado = parseInt(yearFilter.value, 10); // Convertir a entero
+          const yearSeleccionado = parseInt(yearFilter.value, 10);
 
-          // Filtrar meses por el año seleccionado
           filterMonthsByYear(yearSeleccionado);
 
           filteredData = data.filter((row) => {
@@ -1052,15 +1078,14 @@
         yearFilter.addEventListener("change", aplicarFiltros);
       }
 
-      // Inicializar la aplicación cuando se carga la página
       document.addEventListener("DOMContentLoaded", () => {
-        setTimeout(initializeApp, 500); // Simular carga
+        setTimeout(initializeApp, 500);
       });
 
       document.getElementById("clear-filters").addEventListener("click", () => {
         document.getElementById("search-input").value = "";
         document.getElementById("padre-filter").value = "";
-        document.getElementById("year-filter").value = maxYear; // Volver al año más reciente
+        document.getElementById("year-filter").value = maxYear;
         filterMonthsByYear(maxYear);
         filteredData = [...data];
         updateStats();
