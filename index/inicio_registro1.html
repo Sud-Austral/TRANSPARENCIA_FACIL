@@ -181,13 +181,12 @@
         position: relative;
       }
 
-      .search-box input {
+      .search-box input, .search-box select {
         padding: 0.5rem 1rem 0.5rem 2.5rem;
         border: none;
         border-radius: 8px;
         background: rgba(255, 255, 255, 0.2);
         color: var(--white);
-        placeholder-color: rgba(255, 255, 255, 0.7);
         font-size: 0.9rem;
         min-width: 250px;
       }
@@ -229,11 +228,30 @@
         top: 0;
         z-index: 10;
         border-bottom: 2px solid var(--accent-color);
+        cursor: pointer;
+        user-select: none;
+      }
+
+      th:hover {
+        background: linear-gradient(
+          135deg,
+          var(--secondary-color) 0%,
+          var(--accent-color) 100%
+        );
       }
 
       th:first-child {
         text-align: left;
         min-width: 150px;
+      }
+
+      .sort-icon {
+        margin-left: 0.5rem;
+        opacity: 0.7;
+      }
+
+      .sort-icon.active {
+        opacity: 1;
       }
 
       td {
@@ -337,7 +355,7 @@
           justify-content: center;
         }
 
-        .search-box input {
+        .search-box input, .search-box select {
           min-width: 200px;
         }
 
@@ -349,13 +367,6 @@
       }
 
       .search-box select {
-        padding: 0.5rem 1rem 0.5rem 2.5rem;
-        border: none;
-        border-radius: 8px;
-        background: rgba(255, 255, 255, 0.2);
-        color: var(--white);
-        font-size: 0.9rem;
-        min-width: 250px;
         appearance: none;
         -webkit-appearance: none;
         -moz-appearance: none;
@@ -464,8 +475,15 @@
           <div class="filters">
             <div class="search-box">
               <i class="fas fa-building"></i>
-              <select id="organismo-filter">
-                <option value="">Todos los organismos</option>
+              <select id="organismo-entrada-filter">
+                <option value="">Todos los organismos de entrada</option>
+              </select>
+            </div>
+
+            <div class="search-box">
+              <i class="fas fa-building"></i>
+              <select id="organismo-salida-filter">
+                <option value="">Todos los organismos de salida</option>
               </select>
             </div>
 
@@ -502,7 +520,8 @@
 
     <script>
       const formatter = new Intl.NumberFormat('es-CL');
-      const organismoFilter = document.getElementById("organismo-filter");
+      const organismoEntradaFilter = document.getElementById("organismo-entrada-filter");
+      const organismoSalidaFilter = document.getElementById("organismo-salida-filter");
       const searchInput = document.getElementById("search-input");
       const prevPageBtn = document.getElementById("prev-page");
       const nextPageBtn = document.getElementById("next-page");
@@ -513,7 +532,12 @@
       let filteredData = [];
       let currentPage = 1;
       const itemsPerPage = 50;
-      let uniqueOrganisms = [];
+      let sortColumn = null;
+      let sortDirection = 'asc';
+
+      // Maps for cascading filters
+      let entradaToSalidaMap = {};
+      let salidaToEntradaMap = {};
       
       const url = "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL/refs/heads/main/data/personas.json.gz";
 
@@ -533,20 +557,55 @@
             '<i class="fas fa-exclamation-triangle"></i> Error al cargar los datos';
         }
       }
+      
+      function populateDropdown(dropdownElement, options) {
+        dropdownElement.innerHTML = ''; // Clear existing options
+        const defaultOption = document.createElement("option");
+        defaultOption.value = "";
+        defaultOption.textContent = dropdownElement.id.includes('entrada') ? "Todos los organismos de entrada" : "Todos los organismos de salida";
+        dropdownElement.appendChild(defaultOption);
+
+        const sortedOptions = [...options].sort();
+        sortedOptions.forEach((optionValue) => {
+          const option = document.createElement("option");
+          option.value = optionValue;
+          option.textContent = optionValue;
+          dropdownElement.appendChild(option);
+        });
+      }
 
       function initializeApp() {
         try {
-          // Extraer organismos únicos para el filtro
-          uniqueOrganisms = [...new Set(rawData.map(item => item.organismo_entrada))];
-          uniqueOrganisms.sort();
-          
-          // Llenar el filtro de organismos
-          uniqueOrganisms.forEach((organismo) => {
-            const option = document.createElement("option");
-            option.value = organismo;
-            option.textContent = organismo;
-            organismoFilter.appendChild(option);
+          // Build maps for cascading filters
+          rawData.forEach(item => {
+            const entrada = item.organismo_entrada;
+            const salida = item.organismo_salida;
+
+            if (entrada) {
+              if (!entradaToSalidaMap[entrada]) {
+                entradaToSalidaMap[entrada] = new Set();
+              }
+              if (salida) {
+                entradaToSalidaMap[entrada].add(salida);
+              }
+            }
+
+            if (salida) {
+              if (!salidaToEntradaMap[salida]) {
+                salidaToEntradaMap[salida] = new Set();
+              }
+              if (entrada) {
+                salidaToEntradaMap[salida].add(entrada);
+              }
+            }
           });
+          
+          // Get all unique values for initial population
+          const allEntradas = Object.keys(entradaToSalidaMap);
+          const allSalidas = Object.keys(salidaToEntradaMap);
+          
+          populateDropdown(organismoEntradaFilter, allEntradas);
+          populateDropdown(organismoSalidaFilter, allSalidas);
           
           // Inicializar datos filtrados
           filteredData = [...rawData];
@@ -573,7 +632,7 @@
 
       function updateStats() {
         document.getElementById("total-personas").textContent = formatter.format(rawData.length);
-        document.getElementById("total-organismos").textContent = uniqueOrganisms.length;
+        document.getElementById("total-organismos").textContent = Object.keys(entradaToSalidaMap).length;
         
         // Calcular total de pagos
         const totalPagos = rawData.reduce((sum, item) => sum + (item.pagos_entrada || 0), 0);
@@ -584,84 +643,123 @@
         document.getElementById("personas-con-salida").textContent = formatter.format(personasConSalida);
       }
 
+      function sortData(column) {
+        if (sortColumn === column) {
+          sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+        } else {
+          sortColumn = column;
+          sortDirection = 'asc';
+        }
+
+        const compareFunction = (a, b) => {
+          let valueA = a[column];
+          let valueB = b[column];
+
+          if (valueA === null || valueA === undefined) valueA = '';
+          if (valueB === null || valueB === undefined) valueB = '';
+
+          if (column === 'pagos_entrada' || column === 'pago_salida') {
+            valueA = Number(valueA) || 0;
+            valueB = Number(valueB) || 0;
+          }
+
+          if (typeof valueA === 'number' && typeof valueB === 'number') {
+            return sortDirection === 'asc' ? valueA - valueB : valueB - valueA;
+          } else {
+            const stringA = String(valueA).toLowerCase();
+            const stringB = String(valueB).toLowerCase();
+            
+            if (sortDirection === 'asc') {
+              return stringA.localeCompare(stringB);
+            } else {
+              return stringB.localeCompare(stringA);
+            }
+          }
+        };
+
+        filteredData.sort(compareFunction);
+        currentPage = 1;
+        renderTable();
+      }
+
       function renderTable() {
         const table = document.getElementById("data-table");
         table.innerHTML = "";
 
-        // Calcular paginación
         const totalPages = Math.ceil(filteredData.length / itemsPerPage);
         const startIndex = (currentPage - 1) * itemsPerPage;
         const endIndex = Math.min(startIndex + itemsPerPage, filteredData.length);
         const paginatedData = filteredData.slice(startIndex, endIndex);
         
-        // Actualizar información de paginación
         currentPageSpan.textContent = currentPage;
         totalPagesSpan.textContent = totalPages;
         prevPageBtn.disabled = currentPage === 1;
         nextPageBtn.disabled = currentPage === totalPages;
 
-        // Crear encabezado
         const header = document.createElement("thead");
         const headerRow = document.createElement("tr");
 
         const headers = [
-          { text: 'RUT', icon: 'fa-id-card' },
-          { text: 'Primer Pago Entrada', icon: 'fa-calendar-check' },
-          { text: 'Último Pago Entrada', icon: 'fa-calendar-times' },
-          { text: 'Organismo Entrada', icon: 'fa-building' },
-          { text: 'Pagos Entrada', icon: 'fa-money-bill-wave' },
-          { text: 'Último Pago Salida', icon: 'fa-calendar-times' },
-          { text: 'Primer Pago Salida', icon: 'fa-calendar-check' },
-          { text: 'Organismo Salida', icon: 'fa-building' },
-          { text: 'Pago Salida', icon: 'fa-money-bill-wave' }
+          { text: 'RUT', icon: 'fa-id-card', column: 'rut' },
+          { text: 'Primer Pago Entrada', icon: 'fa-calendar-check', column: 'primer_pago_entrada' },
+          { text: 'Último Pago Entrada', icon: 'fa-calendar-times', column: 'ultimo_pago_entrada' },
+          { text: 'Organismo Entrada', icon: 'fa-building', column: 'organismo_entrada' },
+          { text: 'Pagos Entrada', icon: 'fa-money-bill-wave', column: 'pagos_entrada' },
+          { text: 'Último Pago Salida', icon: 'fa-calendar-times', column: 'ultimo_pago_salida' },
+          { text: 'Primer Pago Salida', icon: 'fa-calendar-check', column: 'primer_pago_salida' },
+          { text: 'Organismo Salida', icon: 'fa-building', column: 'organismo_salida' },
+          { text: 'Pago Salida', icon: 'fa-money-bill-wave', column: 'pago_salida' }
         ];
 
         headers.forEach(header => {
           const th = document.createElement("th");
-          th.innerHTML = `<i class="fas ${header.icon}"></i> ${header.text}`;
+          th.dataset.column = header.column;
+          
+          let sortIcon = '<i class="fas fa-sort sort-icon"></i>';
+          if (sortColumn === header.column) {
+            sortIcon = sortDirection === 'asc' 
+              ? '<i class="fas fa-sort-up sort-icon active"></i>' 
+              : '<i class="fas fa-sort-down sort-icon active"></i>';
+          }
+          
+          th.innerHTML = `<i class="fas ${header.icon}"></i> ${header.text} ${sortIcon}`;
+          th.addEventListener('click', () => sortData(header.column));
           headerRow.appendChild(th);
         });
 
         header.appendChild(headerRow);
         table.appendChild(header);
 
-        // Crear cuerpo de la tabla
         const body = document.createElement("tbody");
 
         paginatedData.forEach((row) => {
           const tr = document.createElement("tr");
 
-          // RUT
           const tdRut = document.createElement("td");
           tdRut.textContent = row.rut || '-';
           tr.appendChild(tdRut);
 
-          // Primer pago entrada
           const tdPrimerPagoEntrada = document.createElement("td");
           tdPrimerPagoEntrada.className = "fecha-cell";
           tdPrimerPagoEntrada.textContent = row.primer_pago_entrada || '-';
           tr.appendChild(tdPrimerPagoEntrada);
 
-          // Último pago entrada
           const tdUltimoPagoEntrada = document.createElement("td");
           tdUltimoPagoEntrada.className = "fecha-cell";
           tdUltimoPagoEntrada.textContent = row.ultimo_pago_entrada || '-';
           tr.appendChild(tdUltimoPagoEntrada);
 
-          // Organismo entrada
           const tdOrganismoEntrada = document.createElement("td");
           tdOrganismoEntrada.className = "organismo-cell";
           tdOrganismoEntrada.textContent = row.organismo_entrada || '-';
           tdOrganismoEntrada.title = row.organismo_entrada || '-';
           tr.appendChild(tdOrganismoEntrada);
 
-          // Pagos entrada
           const tdPagosEntrada = document.createElement("td");
           tdPagosEntrada.className = "pagos-cell";
           tdPagosEntrada.textContent = row.pagos_entrada ? formatter.format(row.pagos_entrada) : '-';
           tr.appendChild(tdPagosEntrada);
 
-          // Último pago salida
           const tdUltimoPagoSalida = document.createElement("td");
           tdUltimoPagoSalida.className = "fecha-cell";
           if (row.ultimo_pago_salida === "NaT" || !row.ultimo_pago_salida) {
@@ -672,7 +770,6 @@
           }
           tr.appendChild(tdUltimoPagoSalida);
 
-          // Primer pago salida
           const tdPrimerPagoSalida = document.createElement("td");
           tdPrimerPagoSalida.className = "fecha-cell";
           if (row.primer_pago_salida === "NaT" || !row.primer_pago_salida) {
@@ -683,7 +780,6 @@
           }
           tr.appendChild(tdPrimerPagoSalida);
 
-          // Organismo salida
           const tdOrganismoSalida = document.createElement("td");
           tdOrganismoSalida.className = "organismo-cell";
           if (!row.organismo_salida) {
@@ -695,7 +791,6 @@
           }
           tr.appendChild(tdOrganismoSalida);
 
-          // Pago salida
           const tdPagoSalida = document.createElement("td");
           tdPagoSalida.className = "pagos-cell";
           if (!row.pago_salida) {
@@ -713,23 +808,59 @@
       }
 
       function setupEventListeners() {
-        // Event listener para el filtro de organismo
-        organismoFilter.addEventListener("change", applyFilters);
+        organismoEntradaFilter.addEventListener("change", () => {
+          const selectedEntrada = organismoEntradaFilter.value;
+          
+          const availableSalidas = selectedEntrada ? entradaToSalidaMap[selectedEntrada] : Object.keys(salidaToEntradaMap);
+          
+          const currentSalida = organismoSalidaFilter.value;
+          if (currentSalida && availableSalidas && !availableSalidas.has(currentSalida)) {
+              organismoSalidaFilter.value = "";
+          }
+
+          populateDropdown(organismoSalidaFilter, availableSalidas || []);
+          organismoSalidaFilter.value = currentSalida;
+
+          applyFilters();
+        });
+
+        organismoSalidaFilter.addEventListener("change", () => {
+          const selectedSalida = organismoSalidaFilter.value;
+          
+          const availableEntradas = selectedSalida ? salidaToEntradaMap[selectedSalida] : Object.keys(entradaToSalidaMap);
+
+          const currentEntrada = organismoEntradaFilter.value;
+          if (currentEntrada && availableEntradas && !availableEntradas.has(currentEntrada)) {
+              organismoEntradaFilter.value = "";
+          }
+          
+          populateDropdown(organismoEntradaFilter, availableEntradas || []);
+          organismoEntradaFilter.value = currentEntrada;
+
+          applyFilters();
+        });
         
-        // Event listener para el campo de búsqueda
         searchInput.addEventListener("input", applyFilters);
         
-        // Event listener para el botón de limpiar filtros
         document.getElementById("clear-filters").addEventListener("click", () => {
-          organismoFilter.value = "";
-          searchInput.value = "";
+          sortColumn = null;
+          sortDirection = 'asc';
           currentPage = 1;
+
+          organismoEntradaFilter.value = "";
+          organismoSalidaFilter.value = "";
+          searchInput.value = "";
+
+          const allEntradas = Object.keys(entradaToSalidaMap);
+          const allSalidas = Object.keys(salidaToEntradaMap);
+          populateDropdown(organismoEntradaFilter, allEntradas);
+          populateDropdown(organismoSalidaFilter, allSalidas);
+
           filteredData = [...rawData];
           updateStats();
           renderTable();
         });
         
-        // Event listeners para paginación
         prevPageBtn.addEventListener("click", () => {
           if (currentPage > 1) {
             currentPage--;
@@ -747,26 +878,24 @@
       }
 
       function applyFilters() {
-        const organismoSeleccionado = organismoFilter.value;
+        const organismoEntradaSeleccionado = organismoEntradaFilter.value;
+        const organismoSalidaSeleccionado = organismoSalidaFilter.value;
         const searchTerm = searchInput.value.toLowerCase();
         
         filteredData = rawData.filter((row) => {
-          const coincideOrganismo = !organismoSeleccionado || row.organismo_entrada === organismoSeleccionado;
+          const coincideOrganismoEntrada = !organismoEntradaSeleccionado || row.organismo_entrada === organismoEntradaSeleccionado;
+          const coincideOrganismoSalida = !organismoSalidaSeleccionado || row.organismo_salida === organismoSalidaSeleccionado;
           const coincideBusqueda = !searchTerm || 
             (row.rut && row.rut.toLowerCase().includes(searchTerm));
           
-          return coincideOrganismo && coincideBusqueda;
+          return coincideOrganismoEntrada && coincideOrganismoSalida && coincideBusqueda;
         });
         
-        // Resetear a la primera página cuando se aplican filtros
         currentPage = 1;
-        
-        // Actualizar estadísticas y tabla
         updateStats();
         renderTable();
       }
 
-      // Inicializar la aplicación
       document.addEventListener("DOMContentLoaded", async () => {
         await cargarJSON();
         if (rawData.length > 0) {
