@@ -999,15 +999,7 @@
         data = rawData.filter(r => organismoMunicipal[r.organismo_nombre] === 1);
         filteredData = [...data];
 
-        // Populate Parent Filter (only for municipal organisms)
-        const padresUnicos = [...new Set(data.map(r => organismoPadres[r.organismo_nombre]).filter(Boolean))].sort();
-        padresUnicos.forEach(p => {
-          const opt = document.createElement("option");
-          opt.value = p; opt.textContent = p;
-          PADRE_FILTER.appendChild(opt);
-        });
-
-        // Extract and Sort Months
+        // Extraer todos los meses y años disponibles inicialmente
         const allKeys = new Set();
         data.forEach(row => {
           Object.keys(row).forEach(k => { if (k !== "organismo_nombre") allKeys.add(k); });
@@ -1021,7 +1013,6 @@
           return (monthOrder[mA.toUpperCase()] || 0) - (monthOrder[mB.toUpperCase()] || 0);
         });
 
-        // Extract Years
         const yearsSet = new Set();
         allMonths.forEach(m => {
           const y = parseInt(m.split('_')[1], 10);
@@ -1030,11 +1021,8 @@
         allYears = Array.from(yearsSet).sort((a, b) => b - a);
         maxYear = allYears[0];
 
-        allYears.forEach(y => {
-          const opt = document.createElement("option");
-          opt.value = y; opt.textContent = y;
-          YEAR_FILTER.appendChild(opt);
-        });
+        // Poblar filtros inicialmente
+        updateFilterOptions(true);
 
         if (maxYear) YEAR_FILTER.value = maxYear;
 
@@ -1049,6 +1037,58 @@
         console.error(err);
         LOADING_EL.innerHTML = `<p style="color:var(--danger-text)">Error al cargar datos: ${err.message}</p>`;
       }
+    }
+
+    function updateFilterOptions(isInitial = false) {
+      const currentYear = YEAR_FILTER.value;
+      const currentPadre = PADRE_FILTER.value;
+      const search = SEARCH_INPUT.value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+      // 1. Población de PERIODOS (basado en Padre y Búsqueda)
+      const availableYears = new Set();
+      data.forEach(r => {
+        const name = r.organismo_nombre.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        const p = organismoPadres[r.organismo_nombre] || "";
+        if (name.includes(search) && (currentPadre === "" || p === currentPadre)) {
+          allMonths.forEach(m => {
+            if (r[m] > 0) availableYears.add(m.split('_')[1]);
+          });
+        }
+      });
+
+      const sortedYears = Array.from(availableYears).sort((a, b) => b - a);
+      const prevYear = YEAR_FILTER.value;
+      YEAR_FILTER.innerHTML = '<option value="">Todos los años</option>';
+      sortedYears.forEach(y => {
+        const opt = document.createElement("option");
+        opt.value = y; opt.textContent = y;
+        YEAR_FILTER.appendChild(opt);
+      });
+      if (prevYear && availableYears.has(prevYear)) YEAR_FILTER.value = prevYear;
+      else if (isInitial && maxYear) YEAR_FILTER.value = maxYear;
+
+      // 2. Población de PADRES (basado en Año y Búsqueda)
+      const availablePadres = new Set();
+      const activeMonths = YEAR_FILTER.value ? allMonths.filter(m => m.endsWith('_' + YEAR_FILTER.value)) : allMonths;
+
+      data.forEach(r => {
+        const name = r.organismo_nombre.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        const hasData = activeMonths.some(m => r[m] > 0);
+        if (name.includes(search) && hasData) {
+          const p = organismoPadres[r.organismo_nombre];
+          if (p) availablePadres.add(p);
+        }
+      });
+
+      const sortedPadres = Array.from(availablePadres).sort();
+      const prevPadre = PADRE_FILTER.value;
+      PADRE_FILTER.innerHTML = '<option value="">Todos los organismos padre</option>';
+      sortedPadres.forEach(p => {
+        const opt = document.createElement("option");
+        opt.value = p; opt.textContent = p;
+        PADRE_FILTER.appendChild(opt);
+      });
+      if (prevPadre && availablePadres.has(prevPadre)) PADRE_FILTER.value = prevPadre;
     }
 
     function filterMonthsByYear(year) {
@@ -1311,6 +1351,8 @@
         const search = SEARCH_INPUT.value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
         const padre = PADRE_FILTER.value;
         const year = YEAR_FILTER.value;
+
+        updateFilterOptions();
 
         filterMonthsByYear(year);
         filteredData = data.filter(r => {
