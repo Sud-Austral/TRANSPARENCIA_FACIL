@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Corporativo - Datos Organizacionales</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .controls {
+            padding: 20px 30px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 300px;
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e9ecef;
+            border-radius: 25px;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .info-panel {
+            background: #667eea;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+
+        .table-container {
+            overflow-x: auto;
+            max-height: 70vh;
+            position: relative;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+
+        th {
+            background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+            color: white;
+            padding: 15px 10px;
+            text-align: center;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            border-right: 1px solid rgba(255,255,255,0.1);
+        }
+
+        th:first-child {
+            position: sticky;
+            left: 0;
+            z-index: 11;
+            min-width: 320px;
+            max-width: 320px;
+            text-align: left;
+            padding-left: 20px;
+            word-wrap: break-word;
+            white-space: normal;
+        }
+
+        td {
+            padding: 12px 10px;
+            text-align: center;
+            border-bottom: 1px solid #e9ecef;
+            border-right: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        td:first-child {
+            position: sticky;
+            left: 0;
+            background: white;
+            text-align: left;
+            padding-left: 20px;
+            font-weight: 500;
+            color: #2c3e50;
+            border-right: 2px solid #e9ecef;
+            z-index: 5;
+            word-wrap: break-word;
+            word-break: break-word;
+            white-space: normal;
+            line-height: 1.4;
+            max-width: 300px;
+            overflow: hidden;
+        }
+
+        .data-cell {
+            cursor: pointer;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        .data-cell:hover {
+            background: #f8f9fa;
+            transform: scale(1.05);
+        }
+
+        .zero-value {
+            background: #e74c3c !important;
+            color: white;
+            font-weight: bold;
+        }
+
+        .zero-value:hover {
+            background: #c0392b !important;
+        }
+
+        .average-cell {
+            background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+            color: white;
+            font-weight: bold;
+        }
+
+        .average-cell:hover {
+            background: linear-gradient(135deg, #229954 0%, #27ae60 100%);
+        }
+
+        .tooltip {
+            position: absolute;
+            background: #2c3e50;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            white-space: nowrap;
+            z-index: 1000;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border: 5px solid transparent;
+            border-top-color: #2c3e50;
+        }
+
+        tr:nth-child(even) td {
+            background: #f8f9fa;
+        }
+
+        tr:nth-child(even) td:first-child {
+            background: #f8f9fa;
+            word-wrap: break-word;
+            word-break: break-word;
+            white-space: normal;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #667eea;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 50px;
+            color: #6c757d;
+            font-size: 1.1rem;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .controls {
+                padding: 15px 20px;
+            }
+            
+            .search-box {
+                min-width: 250px;
+            }
+            
+            th, td {
+                padding: 8px 6px;
+                font-size: 0.8rem;
+            }
+            
+            th:first-child {
+                min-width: 280px;
+                max-width: 280px;
+                padding-left: 15px;
+            }
+            
+            td:first-child {
+                min-width: 280px;
+                max-width: 280px;
+                padding-left: 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header {
+                padding: 20px;
+            }
+            
+            .header h1 {
+                font-size: 1.5rem;
+            }
+            
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .search-box {
+                min-width: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Dashboard Corporativo</h1>
+            <p>Análisis de Datos Organizacionales por Período</p>
+        </div>
+        
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Buscar organismo...">
+            </div>
+            <div class="info-panel">
+                <span id="recordCount">Cargando registros...</span>
+            </div>
+        </div>
+
+        <div class="table-container">
+            <div id="loadingMessage" class="loading">
+                Cargando datos...
+            </div>
+            <table id="dataTable" style="display: none;">
+                <thead>
+                    <tr id="tableHeader"></tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+            <div id="noResults" class="no-results" style="display: none;">
+                No se encontraron resultados para la búsqueda actual.
+            </div>
+        </div>
+    </div>
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script>
+        // Datos de ejemplo (reemplaza con tu JSON)
+        const jsonData = '[{"organismo_nombre":"Administradora de los Tribunales Tributarios y Aduaneros y del Tribunal de Contratación Pública","Enero_2024":49,"Febrero_2024":49,"Marzo_2024":49,"Abril_2024":49,"Mayo_2024":49,"Junio_2024":49,"Julio_2024":49,"Agosto_2024":49,"Septiembre_2024":48,"Octubre_2024":49,"Noviembre_2024":49,"Diciembre_2024":49,"Enero_2025":49,"Febrero_2025":49,"Marzo_2025":50,"Abril_2025":50,"Mayo_2025":50},{"organismo_nombre":"Agencia Chilena de Cooperación Internacional para el Desarrollo (AGCID)","Enero_2024":110,"Febrero_2024":120,"Marzo_2024":120,"Abril_2024":119,"Mayo_2024":120,"Junio_2024":121,"Julio_2024":114,"Agosto_2024":113,"Septiembre_2024":142,"Octubre_2024":107,"Noviembre_2024":112,"Diciembre_2024":115,"Enero_2025":130,"Febrero_2025":110,"Marzo_2025":133,"Abril_2025":135,"Mayo_2025":140}]';
+
+        let data = [];
+        let filteredData = [];
+        let allColumns = [];
+
+        function parseData() {
+            try {
+                data = JSON.parse(jsonData);
+                if (data.length > 0) {
+                    // Obtener todas las columnas (excluyendo organismo_nombre)
+                    allColumns = Object.keys(data[0]).filter(key => key !== 'organismo_nombre');
+                }
+                filteredData = [...data];
+                document.getElementById('recordCount').textContent = `${data.length} registros`;
+            } catch (error) {
+                console.error('Error parsing JSON:', error);
+                document.getElementById('loadingMessage').textContent = 'Error al cargar los datos';
+            }
+        }
+
+        function calculateAverage(row) {
+            const values = allColumns.map(col => row[col]).filter(val => val > 0);
+            return values.length > 0 ? Math.round(values.reduce((a, b) => a + b, 0) / values.length) : 0;
+        }
+
+        function calculatePercentageDifference(value, average) {
+            if (average === 0) return 0;
+            return Math.round(((value - average) / average) * 100);
+        }
+
+        function createTable() {
+            const table = document.getElementById('dataTable');
+            const header = document.getElementById('tableHeader');
+            const body = document.getElementById('tableBody');
+
+            // Crear encabezados
+            header.innerHTML = '';
+            const headerRow = document.createElement('tr');
+            
+            // Encabezado para organismo
+            const orgHeader = document.createElement('th');
+            orgHeader.textContent = 'Organismo';
+            headerRow.appendChild(orgHeader);
+
+            // Encabezados para cada mes
+            allColumns.forEach(col => {
+                const th = document.createElement('th');
+                th.textContent = col.replace('_', ' ');
+                headerRow.appendChild(th);
+            });
+
+            // Encabezado para promedio
+            const avgHeader = document.createElement('th');
+            avgHeader.textContent = 'Promedio';
+            headerRow.appendChild(avgHeader);
+
+            header.appendChild(headerRow);
+
+            // Crear filas de datos
+            body.innerHTML = '';
+            filteredData.forEach(row => {
+                const tr = document.createElement('tr');
+                
+                // Celda del organismo
+                const orgCell = document.createElement('td');
+                // Truncar texto muy largo y agregar tooltip
+                const orgName = row.organismo_nombre;
+                if (orgName.length > 80) {
+                    orgCell.textContent = orgName.substring(0, 77) + '...';
+                    orgCell.title = orgName; // Tooltip nativo del navegador
+                } else {
+                    orgCell.textContent = orgName;
+                }
+                tr.appendChild(orgCell);
+
+                const average = calculateAverage(row);
+
+                // Celdas de datos
+                allColumns.forEach(col => {
+                    const td = document.createElement('td');
+                    const value = row[col];
+                    
+                    if (value === 0) {
+                        td.textContent = 'Sin registros ese mes';
+                        td.className = 'data-cell zero-value';
+                    } else {
+                        td.textContent = value;
+                        td.className = 'data-cell';
+                        
+                        // Agregar tooltip con porcentaje de diferencia
+                        const percentage = calculatePercentageDifference(value, average);
+                        td.dataset.tooltip = `Diferencia del promedio: ${percentage > 0 ? '+' : ''}${percentage}%`;
+                    }
+                    
+                    tr.appendChild(td);
+                });
+
+                // Celda del promedio
+                const avgCell = document.createElement('td');
+                avgCell.textContent = average;
+                avgCell.className = 'data-cell average-cell';
+                avgCell.dataset.tooltip = 'Promedio calculado (excluyendo valores 0)';
+                tr.appendChild(avgCell);
+
+                body.appendChild(tr);
+            });
+
+            // Agregar event listeners para tooltips
+            addTooltipListeners();
+
+            document.getElementById('loadingMessage').style.display = 'none';
+            table.style.display = 'table';
+        }
+
+        function addTooltipListeners() {
+            const tooltip = document.getElementById('tooltip');
+            const dataCells = document.querySelectorAll('.data-cell');
+
+            dataCells.forEach(cell => {
+                if (cell.dataset.tooltip) {
+                    cell.addEventListener('mouseenter', (e) => {
+                        tooltip.textContent = cell.dataset.tooltip;
+                        tooltip.style.opacity = '1';
+                        
+                        const rect = e.target.getBoundingClientRect();
+                        tooltip.style.left = (rect.left + rect.width / 2 - tooltip.offsetWidth / 2) + 'px';
+                        tooltip.style.top = (rect.top - tooltip.offsetHeight - 10) + 'px';
+                    });
+
+                    cell.addEventListener('mouseleave', () => {
+                        tooltip.style.opacity = '0';
+                    });
+                }
+            });
+        }
+
+        function filterData(searchTerm) {
+            const term = searchTerm.toLowerCase().trim();
+            if (term === '') {
+                filteredData = [...data];
+            } else {
+                filteredData = data.filter(row => 
+                    row.organismo_nombre.toLowerCase().includes(term)
+                );
+            }
+
+            const noResults = document.getElementById('noResults');
+            const table = document.getElementById('dataTable');
+
+            if (filteredData.length === 0) {
+                table.style.display = 'none';
+                noResults.style.display = 'block';
+            } else {
+                noResults.style.display = 'none';
+                createTable();
+            }
+
+            document.getElementById('recordCount').textContent = `${filteredData.length} de ${data.length} registros`;
+        }
+
+        // Event listener para el buscador
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            filterData(e.target.value);
+        });
+
+        // Inicializar la aplicación
+        parseData();
+        createTable();
+    </script>
+</body>
+</html>

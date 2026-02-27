@@ -1,0 +1,10 @@
+en /index/registro/registro1.html
+
+sacaste la logica del modal Detalles de Registros
+
+revisa 
+
+/index/registro/sexo1.html
+
+
+Revisa si hay otra funcionalidad que eliminaste
