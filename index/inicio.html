@@ -837,6 +837,15 @@
     <section class="filter-bar">
 
 
+      <div id="municipal-filter-group" class="filter-group" style="display: none;">
+        <i data-lucide="building" class="filter-icon" style="width: 16px;"></i>
+        <select id="tipo-filter" class="filter-input">
+          <option value="">Todos los tipos</option>
+          <option value="1">Sólo Municipales</option>
+          <option value="0">Otros Organismos</option>
+        </select>
+      </div>
+
       <div class="filter-group">
         <i data-lucide="calendar" class="filter-icon" style="width: 16px;"></i>
         <select id="year-filter" class="filter-input">
@@ -958,6 +967,7 @@
   </main>
 
   <!-- External Data -->
+  <script src="config/municipal.js"></script>
   <script src="organismos.js"></script>
   <script src="organismoMunicipal.js"></script>
   <script src="organismosCodigo.js"></script>
@@ -995,8 +1005,16 @@
         const response = await fetch(DATA_URL);
         if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
         rawData = await response.json();
-        // Solo organismos municipales (municipal = 1)
-        data = rawData.filter(r => organismoMunicipal[r.organismo_nombre] === 1);
+
+        // Aplicar filtrado basado en filtroMuni (de config/municipal.js)
+        if (typeof filtroMuni !== 'undefined' && filtroMuni === false) {
+          // Solo municipales
+          data = rawData.filter(r => organismoMunicipal[r.organismo_nombre] === 1);
+        } else {
+          // Todos
+          data = rawData;
+        }
+
         filteredData = [...data];
 
         // Extraer todos los meses y años disponibles inicialmente
@@ -1030,6 +1048,12 @@
         updateStats();
         renderTable();
         setupEventListeners();
+
+        // Mostrar u ocultar el filtro municipal según la configuración
+        const MUNI_FILTER_GROUP = document.getElementById("municipal-filter-group");
+        if (typeof filtroMuni !== 'undefined' && filtroMuni === true) {
+          MUNI_FILTER_GROUP.style.display = "flex";
+        }
 
         LOADING_EL.style.display = "none";
         TABLE_EL.style.display = "table";
@@ -1351,6 +1375,7 @@
         const search = SEARCH_INPUT.value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
         const padre = PADRE_FILTER.value;
         const year = YEAR_FILTER.value;
+        const tipo = document.getElementById("tipo-filter").value;
 
         updateFilterOptions();
 
@@ -1359,7 +1384,9 @@
           const name = r.organismo_nombre.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
           const p = organismoPadres[r.organismo_nombre] || "";
 
-
+          // Filtro Tipo Organismo
+          const isMuni = organismoMunicipal[r.organismo_nombre] === 1 ? "1" : "0";
+          if (tipo !== "" && isMuni !== tipo) return false;
 
           return name.includes(search) && (padre === "" || p === padre);
         });
@@ -1370,6 +1397,7 @@
 
       SEARCH_INPUT.addEventListener("input", applyFilters);
       PADRE_FILTER.addEventListener("change", applyFilters);
+      document.getElementById("tipo-filter").addEventListener("change", applyFilters);
 
       YEAR_FILTER.addEventListener("change", applyFilters);
       document.getElementById("clear-filters").addEventListener("click", () => {

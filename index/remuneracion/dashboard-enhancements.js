@@ -626,16 +626,24 @@
       const td = document.createElement('td');
       let total = 0;
       let count = 0;
+      const isRemuneration = window.location.pathname.includes('remuneracion');
+
       filteredData.forEach(row => {
         const val = row[month];
+        // Si hay metadatos de conteo real (desde el archivo de registro), los usamos para promediar correctamente
+        const peopleCount = (row._monthCounts && row._monthCounts[month]) ? row._monthCounts[month] : 1;
+
         if (val && val > 0) {
-          total += val;
-          count++;
+          if (isRemuneration) {
+            total += (val * peopleCount);
+            count += peopleCount;
+          } else {
+            total += val;
+            count++;
+          }
         }
       });
 
-      // Usar promedio para remuneraciones, suma para otros (registros)
-      const isRemuneration = window.location.pathname.includes('remuneracion');
       const resultValue = (isRemuneration && count > 0) ? total / count : total;
 
       if (typeof formatter !== 'undefined') {
