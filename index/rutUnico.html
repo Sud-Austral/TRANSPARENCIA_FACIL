@@ -718,6 +718,28 @@
         data = rawData.filter(r => organismoMunicipal[r.organismo_nombre] === 1);
         filteredData = [...data];
 
+        // Extraer todos los meses y años disponibles inicialmente
+        const allKeys = new Set();
+        data.forEach(row => {
+          Object.keys(row).forEach(k => { if (k !== "organismo_nombre") allKeys.add(k); });
+        });
+        allMonths = Array.from(allKeys);
+        allMonths.sort((a, b) => {
+          const [mA, yA] = a.split('_');
+          const [mB, yB] = b.split('_');
+          const yearDiff = parseInt(yB, 10) - parseInt(yA, 10);
+          if (yearDiff !== 0) return yearDiff;
+          return (monthOrder[mA.toUpperCase()] || 0) - (monthOrder[mB.toUpperCase()] || 0);
+        });
+
+        const yearsSet = new Set();
+        allMonths.forEach(m => {
+          const y = parseInt(m.split('_')[1], 10);
+          if (!isNaN(y)) yearsSet.add(y);
+        });
+        allYears = Array.from(yearsSet).sort((a, b) => b - a);
+        maxYear = allYears[0];
+
         // Poblar filtros inicialmente
         updateFilterOptions(true);
 

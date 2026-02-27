@@ -1176,23 +1176,42 @@
       });
     }
 
-    function groupAndSumData(dataToProcess) {
+    function groupAndAverageData(dataToProcess) {
       const groupedData = new Map();
       dataToProcess.forEach(row => {
         const key = `${row.organismo_nombre}_${row.sexo}`;
         if (!groupedData.has(key)) {
-          groupedData.set(key, { organismo_nombre: row.organismo_nombre, sexo: row.sexo });
+          const initial = {
+            organismo_nombre: row.organismo_nombre,
+            sexo: row.sexo,
+            _sums: {},
+            _counts: {}
+          };
+          allMonths.forEach(m => { initial._sums[m] = 0; initial._counts[m] = 0; });
+          groupedData.set(key, initial);
         }
         const group = groupedData.get(key);
         allMonths.forEach(month => {
-          group[month] = (group[month] || 0) + (row[month] || 0);
+          const v = row[month];
+          if (v && v > 0) {
+            group._sums[month] += v;
+            group._counts[month]++;
+          }
         });
       });
-      return Array.from(groupedData.values());
+
+      const results = Array.from(groupedData.values()).map(group => {
+        const result = { organismo_nombre: group.organismo_nombre, sexo: group.sexo };
+        allMonths.forEach(m => {
+          result[m] = group._counts[m] > 0 ? group._sums[m] / group._counts[m] : 0;
+        });
+        return result;
+      });
+      return results;
     }
 
     function processAndDisplayData(dataToProcess) {
-      filteredData = groupAndSumData(dataToProcess);
+      filteredData = groupAndAverageData(dataToProcess);
       updateStats();
       renderTable();
     }
@@ -1211,7 +1230,7 @@
         });
       });
       document.getElementById("promedio-general").textContent =
-        totalCount > 0 ? (totalSum / totalCount).toFixed(0) : "-";
+        totalCount > 0 ? formatter.format(Math.round(totalSum / totalCount)) : "-";
     }
 
     function renderTable() {
@@ -1292,7 +1311,7 @@
               tooltip.textContent = `Valor absoluto: ${formatter.format(val)}`;
               td.appendChild(tooltip);
             } else {
-              td.textContent = formatter.format(val);
+              td.textContent = formatter.format(Math.round(val));
               sum += val; count++; values.push(val);
             }
           } else {
