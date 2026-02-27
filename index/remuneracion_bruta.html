@@ -615,14 +615,7 @@
 
     <!-- Filters -->
     <section class="filter-bar">
-      <div class="filter-group">
-        <i data-lucide="landmark" class="filter-icon" style="width: 16px;"></i>
-        <select id="tipo-filter" class="filter-input">
-          <option value="">Todos los tipos</option>
-          <option value="0">Central</option>
-          <option value="1">Municipal</option>
-        </select>
-      </div>
+
 
       <div class="filter-group">
         <i data-lucide="calendar" class="filter-icon" style="width: 16px;"></i>
@@ -696,7 +689,7 @@
     const TABLE_EL = document.getElementById("data-table");
     const YEAR_FILTER = document.getElementById("year-filter");
     const PADRE_FILTER = document.getElementById("padre-filter");
-    const TIPO_FILTER = document.getElementById("tipo-filter");
+
     const SEARCH_INPUT = document.getElementById("search-input");
 
     let rawData = [];
@@ -721,10 +714,12 @@
         const response = await fetch(DATA_URL);
         if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
         rawData = await response.json();
-        data = rawData;
+        // Solo organismos municipales (municipal = 1)
+        data = rawData.filter(r => organismoMunicipal[r.organismo_nombre] === 1);
         filteredData = [...data];
 
-        const padresUnicos = [...new Set(Object.values(organismoPadres))].sort();
+        // Populate Parent Filter (only for municipal organisms)
+        const padresUnicos = [...new Set(data.map(r => organismoPadres[r.organismo_nombre]).filter(Boolean))].sort();
         padresUnicos.forEach(p => {
           const opt = document.createElement("option");
           opt.value = p; opt.textContent = p;
@@ -907,19 +902,13 @@
         const search = SEARCH_INPUT.value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
         const padre = PADRE_FILTER.value;
         const year = YEAR_FILTER.value;
-        const tipo = TIPO_FILTER.value;
 
         filterMonthsByYear(year);
         filteredData = data.filter(r => {
           const name = r.organismo_nombre.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
           const p = organismoPadres[r.organismo_nombre] || "";
 
-          // Filtro Municipal/Central
-          if (tipo !== "") {
-            const tipoVal = organismoMunicipal[r.organismo_nombre];
-            if (tipoVal === undefined) return false;
-            if (String(tipoVal) !== tipo) return false;
-          }
+
 
           return name.includes(search) && (padre === "" || p === padre);
         });
@@ -930,7 +919,7 @@
 
       SEARCH_INPUT.addEventListener("input", applyFilters);
       PADRE_FILTER.addEventListener("change", applyFilters);
-      TIPO_FILTER.addEventListener("change", applyFilters);
+
       YEAR_FILTER.addEventListener("change", applyFilters);
       document.getElementById("clear-filters").addEventListener("click", () => {
         const url = new URL(window.location.href);
