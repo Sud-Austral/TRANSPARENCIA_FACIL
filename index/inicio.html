@@ -1005,7 +1005,7 @@
         const response = await fetch(DATA_URL);
         if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
         rawData = await response.json();
-
+        rawData.filter(r => r.organismo_nombre == "Municipalidad de Algarrobo")
         // Aplicar filtrado basado en filtroMuni (de config/municipal.js)
         if (typeof filtroMuni !== 'undefined' && filtroMuni === false) {
           // Solo municipales
